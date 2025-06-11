@@ -1,0 +1,60 @@
+/*
+Theme Name:  DentalMed Child
+Theme URI: https://clientica.org/portfolio/dentalmed
+Author: Clientica
+Author URI: https://clientica.org/
+Description: Dental Clinic WordPress Theme, Business WordPress Theme
+Text Domain: dentalmed
+Template: dentalmed
+
+Version: 1.0
+License: Commercial
+License URI: http://themeforest.net/licenses/terms/regular
+
+
+*/
+
+.page:not(.elementor-page) main {
+    padding: 10px 0 20px;
+}
+.single main {
+    width: 100%;
+    padding: 80px 0;
+}
+
+
+/* YOU CAN PUT YOUR OWN CSS HERE */
+
+.mega-promo a {
+    color: #fb0c0c !important;
+    font-weight: 600!important;
+}
+
+#reed-block {
+    max-height: 100px; /* Висота прихованого тексту */
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+#toggleButton {
+    font-size: 14px; /* Розмір шрифту */
+    padding: 5px 10px; /* Внутрішні відступи */
+    color: #333; /* Колір тексту */
+    background-color: #f8f8f8; /* Колір фону */
+    border: 1px solid #ddd; /* Колір та товщина межі */
+    border-radius: 4px; /* Радіус закруглення країв */
+    cursor: pointer; /* Вид курсору при наведенні */
+    transition: all 0.3s ease; /* Плавний перехід для ефектів наведення */
+}
+
+#toggleButton:hover {
+    background-color: #e7e7e7; /* Колір фону при наведенні */
+}
+
+.my-container *::after {
+    display: none!important;
+}
+.flatpickr-months .flatpickr-month{
+
+height: 71px !important;
+
+}

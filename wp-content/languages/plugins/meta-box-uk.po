@@ -1,0 +1,759 @@
+# Translation of Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-27 18:16:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release)\n"
+
+#: inc/fields/icon.php:221
+msgid "Select an icon"
+msgstr "Вибрати іконку"
+
+#: inc/fields/user.php:189
+msgid "Add New User"
+msgstr "Додати нового користувача"
+
+#: inc/about/sections/getting-started-pro.php:16
+msgid "Build front-end templates for WordPress without touching theme files. Support Twig and all field types."
+msgstr "Створюйте інтерфейсні шаблони для WordPress, не торкаючись файлів тем. Підтримка Twig та всіх типів полів."
+
+#: inc/about/sections/getting-started-pro.php:16
+msgid "MB Views"
+msgstr "МБ переглядів"
+
+#: inc/about/sections/getting-started-pro.php:15
+msgid "Tutorials on combining Meta Box and other builders or tools for real case studies."
+msgstr "Навчальні посібники з поєднання Meta Box та інших конструкторів або інструментів для реальних кейсів."
+
+#: inc/about/sections/getting-started-pro.php:15
+msgid "Page Builders"
+msgstr "Конструктори сторінок"
+
+#: inc/about/sections/getting-started-pro.php:14
+msgid "Learn about Meta Box extensions, what features they offer and how to use them."
+msgstr "Дізнайтеся про розширення Meta Box, які функції вони пропонують і як ними користуватися."
+
+#: inc/about/sections/getting-started-pro.php:13
+msgid "See how to use Meta box in common tasks."
+msgstr "Подивіться, як використовувати мета-бокс у звичайних завданнях."
+
+#: inc/about/sections/getting-started-pro.php:13
+msgid "General Guide"
+msgstr "Загальний посібник"
+
+#: inc/about/sections/getting-started-pro.php:12
+msgid "See how to use Meta Box in the real case studies with comprehensive tutorials."
+msgstr "Подивіться, як використовувати Meta Box у реальних прикладах із вичерпними посібниками."
+
+#: inc/about/sections/getting-started-pro.php:12
+msgid "Case Studies"
+msgstr "Тематичні дослідження"
+
+#: inc/about/sections/getting-started-pro.php:11
+msgid "Let’s start with some basic practices with Meta Box."
+msgstr "Давайте почнемо з деяких базових практик роботи з Meta Box."
+
+#: inc/about/sections/getting-started-pro.php:11
+msgid "Beginners"
+msgstr "Початківці"
+
+#: inc/about/sections/getting-started-pro.php:9
+msgid "We've made bunches of tutorials that come with videos, let's take a look to have detailed guides to create custom fields and apply them in real cases."
+msgstr "Ми створили безліч навчальних посібників з відео, давайте подивимось, щоб отримати детальні інструкції зі створення кастомних полів і застосування їх у реальних ситуаціях."
+
+#: inc/about/sections/getting-started-pro.php:8
+msgid "Tutorials"
+msgstr "Підручники"
+
+#: inc/about/sections/review.php:9
+msgid "Write a review"
+msgstr "Написати відгук"
+
+#: inc/about/sections/review.php:8
+msgid "If you like Meta Box, please write a review on WordPress.org to help us spread the word. We really appreciate that!"
+msgstr "Якщо вам подобається Meta Box, напишіть відгук на WordPress.org, щоб допомогти нам поширити видомості про плагін. Ми це дуже цінуємо!"
+
+#: inc/about/sections/review.php:5
+msgid "Write a review for Meta Box"
+msgstr "Написати відгук про Meta Box"
+
+#: inc/about/sections/products.php:11
+msgid "Simple, elegant and clean WordPress themes"
+msgstr "Прості, елегантні та чисті теми WordPress"
+
+#: inc/about/sections/products.php:10
+msgid "The best schema plugin for WordPress"
+msgstr "Найкращий SEO Schema плагін для WordPress"
+
+#: src/Updater/Settings.php:79
+msgid "Your license key is <b style=\"color: #00a32a\">active</b>."
+msgstr "Ваш ліцензійний ключ <b style=\"color: #00a32a\">діючий</b>."
+
+#: src/Updater/Settings.php:78
+msgid "Your license key is <b style=\"color: #d63638\">expired</b>."
+msgstr "Термін дії вашого ліцензійного ключа <b style=\"color: #d63638\">закінчився</b>."
+
+#: src/Updater/Settings.php:76 src/Updater/Settings.php:77
+msgid "Your license key is <b style=\"color: #d63638\">invalid</b>."
+msgstr "Ваш ліцензійний ключ <b style=\"color: #d63638\">невірний</b>."
+
+#: inc/about/sections/welcome.php:17
+msgid "Youtube Channel"
+msgstr "Youtube канал"
+
+#: inc/about/sections/welcome.php:16
+msgid "Facebook Group"
+msgstr "Група Facebook"
+
+#: inc/about/sections/getting-started-pro.php:4
+msgid "Please follow this video tutorial to get started with Meta Box and extensions:"
+msgstr "Будь ласка, дотримуйтеся цього відеоуроку, щоб почати роботу з Meta Box і розширеннями:"
+
+#: inc/fields/post.php:140 inc/fields/taxonomy.php:134 inc/fields/user.php:135
+msgid "(No title)"
+msgstr "(Без назви)"
+
+#: inc/meta-box.php:281
+msgid "Meta Box Title"
+msgstr "Заголовок Meta Box"
+
+#: inc/about/sections/getting-started.php:7
+msgid "Online Generator is a free tool to help you create and set up custom fields using a simple, friendly user interface. With it, you can add fields, set options and generate needed code that's ready to copy and paste."
+msgstr "Онлайн генератор — це безкоштовний інструмент, який допоможе вам створювати та налаштовувати власні поля за допомогою зручного інтерфейсу користувача. За допомогою нього ви можете додавати поля, установлювати параметри та генерувати необхідний код, який можна копіювати та вставляти."
+
+#: inc/about/sections/products.php:9
+msgid "Automated & fast SEO plugin for WordPress"
+msgstr "автоматичний і швидкий SEO плагін для WordPress"
+
+#: inc/about/sections/products.php:8
+msgid "Like this plugin? Check out our other WordPress products:"
+msgstr "Подобається цей плагін? Перегляньте наші інші продукти для WordPress:"
+
+#: inc/about/sections/products.php:5
+msgid "Our WordPress Products"
+msgstr "Наші WordPress продукти"
+
+#: inc/fields/background.php:123
+msgid "-- Size --"
+msgstr "-- Розмір --"
+
+#: inc/fields/background.php:109
+msgid "-- Attachment --"
+msgstr "-- Додаток --"
+
+#: inc/fields/background.php:89
+msgid "-- Position --"
+msgstr "-- Позиція --"
+
+#: inc/fields/background.php:73
+msgid "-- Repeat --"
+msgstr "-- Повтори --"
+
+#: inc/about/sections/getting-started.php:21
+msgid "Create settings pages/Customizer options."
+msgstr "створюйте сторінки налаштувань/параметри налаштувань."
+
+#: inc/about/sections/getting-started.php:20
+msgid "Control the visibility of fields."
+msgstr "контролюйте видимість полів."
+
+#: inc/about/sections/getting-started.php:19
+msgid "Organize fields into repeatable groups."
+msgstr "організуйте поля в повторювані групи."
+
+#: inc/about/sections/getting-started.php:18
+msgid "Build meta boxes and fields with UI."
+msgstr "створюйте метаблоки та поля за допомогою інтерфейсу користувача."
+
+#: inc/about/sections/getting-started.php:18
+msgid "Meta Box Builder"
+msgstr "Конструктор Meta Box"
+
+#: inc/about/about.php:40
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: inc/core.php:20
+msgid "Docs"
+msgstr "Документація"
+
+#: src/Updater/Notification.php:111
+msgid "Update License"
+msgstr "Оновлення ліцензії"
+
+#: src/Updater/Notification.php:111
+msgid "Activate License"
+msgstr "Активувати ліцензію"
+
+#. Translators: %3$s - URL to the My Account page.
+#: src/Updater/Notification.php:95
+msgid "Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank\">renew your license</a>."
+msgstr "Термін дії вашого ліцензійного ключа <b>минув</b>. Будь ласка, <a href=\"%3$s\" target=\"_blank\">поновіть ліцензію</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:91 src/Updater/Notification.php:93
+msgid "Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Ваш ліцензійний ключ <b>недійсний</b>. Будь ласка, <a href=\"%1$s\">оновіть ліцензійний ключ</a> або <a href=\"%2$s\" target=\"_blank\">отримайте новий</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:89
+msgid "Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Будь ласка, <a href=\"%1$s\">введіть свій ліцензійний ключ</a> або <a href=\"%2$s\" target=\"_blank\">отримайте новий</a>."
+
+#. Translators: %3$s - URL to the My Account page.
+#: src/Updater/Notification.php:65
+msgid "Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank\">renew your license</a> to get automatic updates and premium support."
+msgstr "Термін дії вашого ліцензійного ключа для Meta Box <b>закінчився</b>. Будь ласка, <a href=\"%3$s\" target=\"_blank\">поновіть ліцензію</a>, щоб отримати автоматичні оновлення та преміум-підтримку."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:61 src/Updater/Notification.php:63
+msgid "Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one</a> to enable automatic updates."
+msgstr "Ваш ліцензійний ключ для Meta Box <b>недійсний</b>. Щоб увімкнути автоматичне оновлення, <a href=\"%1$s\">оновіть свій ліцензійний ключ</a> або <a href=\"%2$s\" target=\"_blank\">отримайте новий</a>."
+
+#: src/Updater/Checker.php:104
+msgid "UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic updates."
+msgstr "ОНОВЛЕННЯ НЕДОСТУПНЕ! Будь ласка, введіть дійсний ліцензійний ключ, щоб увімкнути автоматичні оновлення."
+
+#. Translators: %1$s - URL to the My Account page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Settings.php:134
+msgid "Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr "Недійсна ліцензія. Будь ласка, <a href=\"%1$s\" target=\"_blank\">перевірте ще раз</a> або <a href=\"%2$s\" target=\"_blank\">отримайте нову ліцензію</a>."
+
+#. Translators: %s - URL to the My Account page.
+#: src/Updater/Settings.php:128
+msgid "License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My Account</a> page on metabox.io website."
+msgstr "Термін дії ліцензії закінчився. Будь ласка, поновіть підписку на сторінці <a href=\"%s\" target=\"_blank\">Мій обліковий запис</a> сайту metabox.io."
+
+#: src/Updater/Settings.php:125
+msgid "Your license is activated."
+msgstr "Ваша ліцензія активована."
+
+#: src/Updater/Settings.php:123
+msgid "Something wrong with the connection to metabox.io. Please try again later."
+msgstr "Щось не так із підключенням до metabox.io. Будь ласка, спробуйте пізніше."
+
+#. Translators: %1$s - URL to the My Account page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Settings.php:60
+msgid "To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My Account</a> page on metabox.io website. If you have not purchased any extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr "Щоб отримати ліцензійний ключ, відвідайте сторінку <a href=\"%1$s\" target=\"_blank\">Мій обліковий запис</a> на сайті metabox.io. Якщо ви ще не придбали жодного розширення, будь ласка, <a href=\"%2$s\" target=\"_blank\">отримайте нову ліцензію</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:59
+msgid "You have not set your Meta Box license key yet, which means you are missing out on automatic updates and support! Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Ви ще не встановили ліцензійний ключ Meta Box, а це означає, що ви втрачаєте автоматичні оновлення та підтримку! Будь ласка, <a href=\"%1$s\">введіть свій ліцензійний ключ</a> або <a href=\"%2$s\" target=\"_blank\">отримайте новий</a>."
+
+#: src/Updater/Settings.php:92
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: src/Updater/Settings.php:72
+msgid "License Key"
+msgstr "Ліцензійний ключ"
+
+#: src/Updater/Settings.php:55
+msgid "Please enter your license key to enable automatic updates for Meta Box extensions."
+msgstr "Будь ласка, введіть ліцензійний ключ, щоб увімкнути автоматичне оновлення для розширень Meta Box."
+
+#: src/Updater/Settings.php:39 src/Updater/Settings.php:54
+msgid "Meta Box License"
+msgstr "Ліцензія Meta Box"
+
+#: src/Updater/Settings.php:39
+msgid "License"
+msgstr "Ліцензія"
+
+#: inc/fields/input-list.php:83
+msgid "Toggle All"
+msgstr "Перемкнути всі"
+
+#: inc/about/sections/extensions.php:118
+msgid "View all extensions"
+msgstr "Переглянути усі розширення"
+
+#: inc/about/sections/extensions.php:110
+msgid "Create many-to-many relationships between posts, terms and users."
+msgstr "Створення зв’язків багато-до-багатьох між записами, значеннями та користувачами."
+
+#: inc/about/sections/extensions.php:98
+msgid "Save custom fields data to custom table. Reduce database size and increase performance."
+msgstr "Збережуння даних власних полів у власній таблиці. Зменшіть розмір бази даних та підвищте продуктивність."
+
+#: inc/fields/file.php:48
+msgid "Error: Invalid file"
+msgstr "Помилка: недійсний файл"
+
+#. Translators: %s - link to documentation.
+#: inc/about/sections/support.php:12
+msgid "Still need help with Meta Box? We offer excellent support for you. But don't forget to check our <a href=\"%s\">documentation</a> first."
+msgstr "Все ще потрібна допомога з Meta Box? Ми пропонуємо вам чудову підтримку. Але не забудьте спочатку переглянути нашу <a href=\"%s\">документацію</a>."
+
+#: inc/fields/map.php:29 inc/fields/osm.php:16
+msgid "No results found"
+msgstr "Результатів не знайдено"
+
+#. Translators: %s - Plugin name.
+#: inc/about/sections/welcome.php:8
+msgid "Welcome to %s"
+msgstr "Вітаємо у %s"
+
+#: inc/about/sections/extensions.php:74
+msgid "Create register, login and edit user profile forms in the frontend. Embed everywhere with shortcodes."
+msgstr "Створення форм реєстрації, входу, редагування профілю для зовнішньої частини сайту. Вставляйте всюди за допомогою короткого кода."
+
+#: inc/about/about.php:64
+msgid "Dashboard"
+msgstr "Майстерня"
+
+#: inc/about/sections/upgrade.php:14
+msgid "Get Meta Box PRO now"
+msgstr "Отримати Meta Box PRO зараз"
+
+#: inc/about/sections/upgrade.php:12
+msgid "And much more!"
+msgstr "Та навіть більше!"
+
+#: inc/about/sections/upgrade.php:11
+msgid "Save custom fields in custom tables."
+msgstr "Збереження власних полів у власній таблиці."
+
+#: inc/about/sections/upgrade.php:10
+msgid "Create frontend submission forms."
+msgstr "Створення форм зворотнього зв'язку."
+
+#: inc/about/sections/upgrade.php:9
+msgid "Create custom settings pages."
+msgstr "Створення власних сторінок налаштувань."
+
+#: inc/about/sections/upgrade.php:8
+msgid "Add custom fields to taxonomies or user profile."
+msgstr "Додання власних полів до таксономій або профілю користувача."
+
+#: inc/about/sections/upgrade.php:7
+msgid "Create custom fields with drag-n-drop interface - no coding knowledge required!"
+msgstr "Створення власних полів перетягуванням - знання програмування не потрібні!"
+
+#: inc/about/sections/upgrade.php:5
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr "Будь ласка, оновіться до версії PRO, щоб розблокувати більше чудових можливостей."
+
+#: inc/about/sections/upgrade.php:4
+msgid "Upgrade to Meta Box PRO"
+msgstr "Оновіть до Meta Box PRO"
+
+#: inc/about/sections/extensions.php:18 inc/about/sections/extensions.php:114
+msgid "Free Download"
+msgstr "Безкоштовне завантаження"
+
+#: inc/about/sections/welcome.php:11
+msgid "Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields plugin and framework that makes quick work of customizing a website with—you guessed it—meta boxes and custom fields in WordPress. Follow the instruction below to get started!"
+msgstr "Meta Box — це плагін і фреймворк сумісний із Gutenberg і GDPR, який дозволяє швидко налаштувати сайт за допомогою метаблоків та власних полів WordPress. Дотримуйтеся наведених нижче інструкцій, щоб розпочати!"
+
+#: inc/about/sections/tabs.php:7 inc/about/sections/welcome.php:15
+msgid "Support"
+msgstr "Підтримка"
+
+#: inc/about/sections/support.php:26
+msgid "Go to support forum"
+msgstr "Перейдіть на форум підтримки"
+
+#: inc/about/sections/support.php:25
+msgid "For users that have bought premium extensions, the support is provided in the Meta Box Support forum. Any question will be answered with technical details within 24 hours."
+msgstr "Для користувачів, які придбали преміальні розширення, підтримка надається на форумі підтримки Meta Box. На будь-яке запитання ми надамо відповідь із технічними деталями протягом 24 годин."
+
+#: inc/about/sections/support.php:24
+msgid "Premium Support"
+msgstr "Преміальна підтримка"
+
+#: inc/about/sections/support.php:20
+msgid "Go to WordPress.org"
+msgstr "Перейти на WordPress.org"
+
+#: inc/about/sections/support.php:19
+msgid "Go to Github"
+msgstr "Перейти на Github"
+
+#: inc/about/sections/support.php:18
+msgid "If you have any question about how to use the plugin, please open a new topic on WordPress.org support forum or open a new issue on Github (preferable). We will try to answer as soon as we can."
+msgstr "Якщо у вас виникли запитання щодо використання плагіна, створіть нову тему на форумі підтримки WordPress.org, або на Github (краще). Ми постараємося відповісти якомога швидше."
+
+#: inc/about/sections/support.php:17
+msgid "Free Support"
+msgstr "Безкоштовна підтримка"
+
+#: inc/about/sections/extensions.php:86
+msgid "Create frontend forms for users to submit custom content. Embed everywhere with shortcode."
+msgstr "Створення зовнішніх форм, щоб користувачі мали можливість надсилати власні записи. Вставляйте всюди за допомогою короткого коду."
+
+#: inc/about/sections/extensions.php:62
+msgid "Control the visibility of meta boxes and fields or even HTML elements with ease."
+msgstr "Легке керування видимістю метаблоків і полів або навіть елементів HTML."
+
+#: inc/about/sections/extensions.php:50
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr "Створення потужної сторінки налаштувань для власної теми, плагіна або сайту."
+
+#: inc/about/sections/extensions.php:38
+msgid "Create repeatable groups of custom fields for better appearance and structure."
+msgstr "Створення повторюванних груп власних полів для кращого вигляду та структури."
+
+#: inc/about/sections/extensions.php:14
+msgid "Create and manage custom post types easily in WordPress with an easy-to-use interface."
+msgstr "Створення та керування власним типами записів у WordPress за допомогою простого у використанні інтерфейсу."
+
+#: inc/about/sections/extensions.php:26
+msgid "Drag and drop your custom fields into place without a single line of code."
+msgstr "Перетягнення власних полів у потрібне місце без жодного рядка коду."
+
+#: inc/about/sections/extensions.php:6
+msgid "View Bundles"
+msgstr "Перегляд пакетів"
+
+#: inc/about/sections/extensions.php:6
+msgid "Save over 80% with our extensions bundles."
+msgstr "Заощаджуйте понад 80% завдяки нашим пакетам розширень."
+
+#: inc/about/sections/extensions.php:5
+msgid "Extend custom fields in WordPress well beyond what others would ever consider ordinary!"
+msgstr "Розширюйте власні поля в WordPress набагато більше, ніж звичайно, як ви вважали раніше!"
+
+#: inc/fields/switch.php:85
+msgid "Off"
+msgstr "Вимк."
+
+#: inc/fields/switch.php:84
+msgid "On"
+msgstr "Увімк."
+
+#: inc/fields/background.php:127
+msgid "Contain"
+msgstr "Містити"
+
+#: inc/fields/background.php:126
+msgid "Cover"
+msgstr "Накривати"
+
+#: inc/fields/background.php:112
+msgid "Scroll"
+msgstr "Прокручувати"
+
+#: inc/fields/background.php:111
+msgid "Fixed"
+msgstr "Фіксоване"
+
+#: inc/fields/background.php:99
+msgid "Bottom Right"
+msgstr "Внизу праворуч"
+
+#: inc/fields/background.php:98
+msgid "Bottom Center"
+msgstr "Знизу по центру"
+
+#: inc/fields/background.php:97
+msgid "Bottom Left"
+msgstr "Внизу ліворуч"
+
+#: inc/fields/background.php:96
+msgid "Center Right"
+msgstr "По центру праворуч"
+
+#: inc/fields/background.php:95
+msgid "Center Center"
+msgstr "По центру в центрі"
+
+#: inc/fields/background.php:94
+msgid "Center Left"
+msgstr "По центру ліворуч"
+
+#: inc/fields/background.php:93
+msgid "Top Right"
+msgstr "Вгорі праворуч"
+
+#: inc/fields/background.php:92
+msgid "Top Center"
+msgstr "Зверху по центру"
+
+#: inc/fields/background.php:91
+msgid "Top Left"
+msgstr "Вгорі ліворуч"
+
+#: inc/fields/background.php:79 inc/fields/background.php:113
+#: inc/fields/background.php:125
+msgid "Inherit"
+msgstr "Успадковано"
+
+#: inc/fields/background.php:78
+msgid "Repeat Vertically"
+msgstr "Повторювати вертикально"
+
+#: inc/fields/background.php:77
+msgid "Repeat Horizontally"
+msgstr "Повторювати горизонтально"
+
+#: inc/fields/background.php:76
+msgid "Repeat All"
+msgstr "Повторювати все"
+
+#: inc/fields/background.php:75
+msgid "No Repeat"
+msgstr "Не повторювати"
+
+#: inc/fields/background.php:61
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: inc/fields/sidebar.php:10
+msgid "Select a sidebar"
+msgstr "Оберіть бічну колонку"
+
+#: inc/about/sections/tabs.php:4
+msgid "Getting Started"
+msgstr "Почати"
+
+#: inc/about/sections/getting-started.php:27
+msgid "More Extensions"
+msgstr "Більше розширень"
+
+#: inc/about/sections/getting-started.php:21
+msgid "MB Settings Page"
+msgstr "Meta Box сторінка налаштувань"
+
+#: inc/about/sections/getting-started.php:20
+msgid "Meta Box Conditional Logic"
+msgstr "Meta Box умовна логіка"
+
+#: inc/about/sections/getting-started.php:19
+msgid "Meta Box Group"
+msgstr "Meta Box група"
+
+#: inc/about/sections/getting-started.php:16
+msgid "Wanna see more features that transform your WordPress website into a powerful CMS? Check out some extensions below:"
+msgstr "Хочете побачити більше функцій, які перетворюють ваш сайт WordPress на потужну CMS? Перегляньте деякі розширення нижче:"
+
+#: inc/about/sections/extensions.php:30 inc/about/sections/extensions.php:42
+#: inc/about/sections/extensions.php:54 inc/about/sections/extensions.php:66
+#: inc/about/sections/extensions.php:78 inc/about/sections/extensions.php:90
+#: inc/about/sections/extensions.php:102
+msgid "Learn More"
+msgstr "Дізнатись більше"
+
+#: inc/about/sections/getting-started.php:11
+msgid "Go to Online Generator"
+msgstr "Перейти до мережевого генератора"
+
+#: inc/about/sections/getting-started.php:9
+msgid "online generator"
+msgstr "мережевий генератор"
+
+#: inc/about/sections/getting-started.php:6
+msgid "Getting Started With Online Generator"
+msgstr "Почніть з мережевим генератором"
+
+#: inc/about/about.php:63
+msgid "Welcome to Meta Box"
+msgstr "Вітаємо у Meta Box"
+
+#: inc/about/about.php:38
+msgid "About"
+msgstr "Деталі"
+
+#. Author of the plugin
+#: meta-box.php
+msgid "MetaBox.io"
+msgstr "MetaBox.io"
+
+#. Description of the plugin
+#: meta-box.php
+msgid "Create custom meta boxes and custom fields in WordPress."
+msgstr "Створення власних метаблоків та власних полів у WordPress."
+
+#: inc/fields/media.php:30
+msgctxt "media"
+msgid "or"
+msgstr "або"
+
+#: inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr "Оберіть елемент"
+
+#: inc/fields/media.php:31
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Перетягніть файл сюди, для завантаження"
+
+#: inc/fields/media.php:29
+msgctxt "media"
+msgid "Select Files"
+msgstr "Обрати файли"
+
+#: inc/fields/taxonomy.php:84
+msgid "Select a term"
+msgstr "Оберіть таксономію"
+
+#: inc/fields/media.php:26
+msgctxt "media"
+msgid "No Title"
+msgstr "Без заголовка"
+
+#: inc/fields/media.php:22
+msgctxt "media"
+msgid " files"
+msgstr " файли"
+
+#: inc/fields/media.php:21
+msgctxt "media"
+msgid " file"
+msgstr " файл"
+
+#: inc/fields/media.php:25
+msgctxt "media"
+msgid "View"
+msgstr "Переглянути"
+
+#: inc/fields/media.php:24
+msgctxt "media"
+msgid "Edit"
+msgstr "Редагувати"
+
+#: inc/fields/media.php:23
+msgctxt "media"
+msgid "Remove"
+msgstr "Видалити"
+
+#: inc/fields/media.php:20
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Додати медіа"
+
+#: inc/field.php:309
+msgid "+ Add more"
+msgstr "+ Додати більше"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: meta-box.php
+msgid "https://metabox.io"
+msgstr "https://metabox.io"
+
+#. Plugin Name of the plugin
+#: meta-box.php inc/about/about.php:50 inc/about/about.php:51
+#: src/Integrations/Block.php:12 src/Integrations/Bricks.php:10
+#: src/Integrations/Elementor.php:13 src/Integrations/Oxygen.php:14
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/validation.php:66
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Бідь ласка, виправте підсвічені нижче помилки та спробуйте ще раз."
+
+#: inc/fields/user.php:75
+msgid "Select a user"
+msgstr "Оберіть користувача"
+
+#: inc/fields/select.php:80
+msgid "None"
+msgstr "Немає"
+
+#: inc/fields/select.php:80
+msgid "All"
+msgstr "Всі"
+
+#. Translators: %s is the post singular label.
+#. Translators: %s is the taxonomy singular label.
+#: inc/fields/post.php:75 inc/fields/taxonomy.php:88
+msgid "Select a %s"
+msgstr "Оберіть %s"
+
+#: inc/fields/post.php:69
+msgid "Select a post"
+msgstr "Оберіть запис"
+
+#: inc/fields/oembed.php:18
+msgid "Embed HTML not available."
+msgstr "HTML вставка недоступна."
+
+#: inc/fields/key-value.php:95
+msgid "Value"
+msgstr "Значення"
+
+#: inc/fields/key-value.php:94
+msgid "Key"
+msgstr "Ключ"
+
+#: inc/fields/file.php:86
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Додайте новий файл"
+
+#: inc/fields/file.php:61
+msgid "Error: Cannot delete file"
+msgstr "Помилка: Неможливо видалити файл"
+
+#. Translators: %d is the number of files in plural form.
+#: inc/fields/file.php:17
+msgid "You may only upload maximum %d files"
+msgstr "Ви можете завантажувати максимум %d файлів"
+
+#. Translators: %d is the number of files in singular form.
+#: inc/fields/file.php:15
+msgid "You may only upload maximum %d file"
+msgstr "Ви можете завантажувати максимум %d файл"
+
+#: inc/fields/file-input.php:48
+msgid "Remove"
+msgstr "Видалити"
+
+#: inc/fields/file-input.php:46 inc/fields/select.php:80
+msgid "Select"
+msgstr "Вибір"
+
+#: inc/fields/file-input.php:17
+msgid "Select File"
+msgstr "Вибрати файл"
+
+#: inc/fields/file.php:167
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Редагувати"
+
+#: inc/fields/file.php:166
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Видалити"
+
+#: inc/fields/checkbox.php:43
+msgid "No"
+msgstr "Ні"
+
+#: inc/fields/checkbox.php:43
+msgid "Yes"
+msgstr "Так"
+
+#: inc/fields/button.php:28
+msgid "Click me"
+msgstr "Натисни мене"
+
+#: inc/fields/autocomplete.php:14 inc/fields/autocomplete.php:79
+#: inc/fields/autocomplete.php:91
+msgid "Delete"
+msgstr "Видалити"
+
+#: inc/about/sections/getting-started-pro.php:14
+#: inc/about/sections/getting-started.php:15 inc/about/sections/tabs.php:6
+msgid "Extensions"
+msgstr "Розширення"
+
+#: inc/about/sections/welcome.php:14
+msgid "Documentation"
+msgstr "Документація"

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ModalWindow Matches snapshot 1`] = `
+<div>
+   
+  |
+  <button
+    class="components-button cf-converter-modal-action is-tertiary"
+    type="button"
+  >
+    Convert to Ninja Forms
+  </button>
+</div>
+`;

@@ -1,0 +1,50 @@
+.slayout3 .rblock > .thumb a{display: block; position: absolute; z-index: 3; width: 100%; height: 100%}
+.slayout3 .entry-meta > span {margin: 0 10px 10px 0;border-right: 0;}
+.slayout3 {}
+.slayout3 blockquote {margin: 0 0 30px 0;padding: 40px 10% 40px 55px;font-size: 16px;color: #222222;border-width: 1px 1px 1px 5px;border-color: #e4e6e9;border-style: solid;font-style: italic; font-weight: 700}
+.slayout3 blockquote:before, .slayout3 .author_info .author_link {display: none}
+.single .slayout3 .tags-links {margin: 25px 0 25px 0;padding: 0 0 20px 0;line-height: 26px;clear: both;border-bottom: 1px solid #ddd; }
+.single .slayout3 .tags-links a {padding: 0;border: 0; margin: 0; font-size: 15px; }
+.single .slayout3 .tags-links a:before {content: none;}
+.single .slayout3 .tags-links a:after {content: ',';}
+.single .slayout3 .tags-links a:last-child:after, .slayout3 .author_info .author_links a:after {content: none;}
+.single .slayout3 .tags-links b {font-weight: 400}
+.slayout3 span.sharing {width: 100%;margin: 0 0 30px 0;font-weight: 400; float: none;display: block;}
+.slayout3 span.sharing > svg {width: 17px; height: 17px; display: inline-block; fill:#222222; margin: 0 5px -3px 0;}
+.slayout3 span.sharing a svg {margin: 0 0 -2px 0; }
+.slayout3 span.sharing a:hover svg {margin: 0 0 -2px 0;}
+.slayout3 span.sharing a {text-decoration: none;width: 32px;height: 32px;display: inline-block;text-align: center;border: 1px solid #ddd;padding-top: 2px;margin: 0 0 5px 5px;}
+
+.slayout3 .author_info {border: 1px solid #f0f2f5; background-color: #f0f2f5;padding: 50px;}
+.slayout3 .author_info .author_links a { padding-right: 15px;}
+
+.single .slayout3 .nav-links {margin: 0 0 70px 0;}
+.slayout3 .postoddy .nav-links {    border-top: 0;padding-top: 30px;}
+.slayout3 .related h2, .slayout3 #reply-title, .slayout3 #respond, .slayout3 #commentform p.logged-in-as, .slayout3 #commentform > p {text-align: left}
+.slayout3 .widget_recent_comments ul li {background-color: transparent}
+.slayout3 .related .rblock {width: calc(50% - 20px);margin-right: 40px;}
+.slayout3 .related .rblock .entry-meta .date {width: auto}
+.slayout3 .related .rblock .thumb {margin-bottom: 30px}
+.slayout3 .related .rblock .wr {border: 0;padding: 0;}
+.slayout3 .related .rblock .entry-meta {margin: 0 0 5px 0;}
+.slayout3 .related .rblock h5 {margin: 15px 0 10px 0;}
+.slayout3 .rblock .wr .descr {padding: 0}
+.slayout3 .rblock .thumb > div {transform: scale(1); background-color: transparent;}
+.slayout3 #respond input.submit {margin: 0}
+.slayout3 .comment-list li > div {padding: 25px 0;}
+.single .slayout3 .entry-thumbnail {margin-bottom: 30px !important;}
+.slayout3 .entry-meta a {text-decoration: none}
+.slayout3 .custblog .entry-meta {display: none}
+.slayout3 .entry-header {padding: 0 15% 0 15%;}
+.slayout3 .entry-meta i, .slayout3 .comment-metadata .date i {height: 15px;width: 13px;background-repeat: no-repeat;}
+
+@media screen and (max-width: 999px) {
+    .slayout3 .entry-header {padding: 0 ;}
+}
+@media screen and (max-width: 768px) {
+    .slayout3 .author_info {padding: 35px;}
+    body.single .slayout3 .entry-thumbnail {margin-bottom: 40px;}
+}
+@media screen and (max-width: 600px) {
+    .slayout3 .related .rblock {width: 100%;margin-right: 0;}
+}

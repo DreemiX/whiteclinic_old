@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Medicenter Features\n"
+"POT-Creation-Date: 2019-02-13 13:24+0100\n"
+"PO-Revision-Date: 2019-03-02 12:42+0000\n"
+"Last-Translator: seosmart <info@seosmart.com.ua>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: admin/admin-page-permalink.php:2
+msgid "Permalink settings"
+msgstr ""
+
+#: admin/admin-page-permalink.php:23
+msgid "Slug (permalink)"
+msgstr ""
+
+#: admin/admin-page-permalink.php:33
+msgid "Feature label singular"
+msgstr ""
+
+#: admin/admin-page-permalink.php:43
+msgid "Features label plural"
+msgstr ""
+
+#: admin/admin-page-permalink.php:52
+msgid "Save Options"
+msgstr ""
+
+#: medicenter_features.php:23
+msgid "Permalink"
+msgstr ""
+
+#: medicenter_features.php:31
+msgid "Options saved!"
+msgstr ""
+
+#: medicenter_features.php:34 medicenter_features.php:46
+#: medicenter_features.php:55
+msgid "Feature"
+msgstr ""
+
+#: medicenter_features.php:35 medicenter_features.php:47
+#: medicenter_features.php:56
+msgid "Features"
+msgstr ""
+
+#: medicenter_features.php:68
+msgid "Add New"
+msgstr ""
+
+#: medicenter_features.php:69
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: medicenter_features.php:70
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: medicenter_features.php:71
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: medicenter_features.php:72
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: medicenter_features.php:73
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: medicenter_features.php:74
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: medicenter_features.php:75
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: medicenter_features.php:76
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: medicenter_features.php:92 medicenter_features.php:272
+msgid "Categories"
+msgstr ""
+
+#: medicenter_features.php:92
+msgid "Category"
+msgstr ""
+
+#: medicenter_features.php:101
+msgid "Options"
+msgstr ""
+
+#: medicenter_features.php:229 medicenter_features.php:273
+msgid "Icon"
+msgstr ""
+
+#: medicenter_features.php:233 medicenter_features.php:490
+msgid "none"
+msgstr ""
+
+#: medicenter_features.php:271
+msgid "Title"
+msgstr ""
+
+#: medicenter_features.php:274 medicenter_features.php:439
+msgid "Date"
+msgstr ""
+
+#: medicenter_features.php:360
+msgid "Read more"
+msgstr "Подробнее"
+
+#: medicenter_features.php:386 medicenter_features.php:393
+msgid "All"
+msgstr ""
+
+#: medicenter_features.php:398
+msgid "Features list"
+msgstr ""
+
+#: medicenter_features.php:404
+msgid "MediCenter"
+msgstr ""
+
+#: medicenter_features.php:409
+msgid "Display selected"
+msgstr ""
+
+#: medicenter_features.php:416
+msgid "Display from Category"
+msgstr ""
+
+#: medicenter_features.php:423
+msgid "Type"
+msgstr ""
+
+#: medicenter_features.php:425 medicenter_features.php:468
+msgid "Large"
+msgstr ""
+
+#: medicenter_features.php:425 medicenter_features.php:468
+msgid "Small"
+msgstr ""
+
+#: medicenter_features.php:430
+msgid "Style"
+msgstr ""
+
+#: medicenter_features.php:432
+msgid "Default"
+msgstr ""
+
+#: medicenter_features.php:432
+msgid "Light"
+msgstr ""
+
+#: medicenter_features.php:437
+msgid "Order by"
+msgstr ""
+
+#: medicenter_features.php:439
+msgid "Title, menu order"
+msgstr ""
+
+#: medicenter_features.php:439
+msgid "Menu order"
+msgstr ""
+
+#: medicenter_features.php:444
+msgid "Order"
+msgstr ""
+
+#: medicenter_features.php:446
+msgid "ascending"
+msgstr ""
+
+#: medicenter_features.php:446
+msgid "descending"
+msgstr ""
+
+#: medicenter_features.php:451
+msgid "Headers"
+msgstr ""
+
+#: medicenter_features.php:453 medicenter_features.php:460
+#: medicenter_features.php:476 medicenter_features.php:483
+msgid "No"
+msgstr ""
+
+#: medicenter_features.php:453 medicenter_features.php:460
+#: medicenter_features.php:476 medicenter_features.php:483
+msgid "Yes"
+msgstr ""
+
+#: medicenter_features.php:458
+msgid "Headers links"
+msgstr ""
+
+#: medicenter_features.php:466
+msgid "Headers size"
+msgstr ""
+
+#: medicenter_features.php:474
+msgid "Read more button"
+msgstr ""
+
+#: medicenter_features.php:481
+msgid "Icon links"
+msgstr ""
+
+#: medicenter_features.php:487
+msgid "Icon animation"
+msgstr ""
+
+#: medicenter_features.php:491
+msgid "fade in"
+msgstr ""
+
+#: medicenter_features.php:492
+msgid "scale"
+msgstr ""
+
+#: medicenter_features.php:493
+msgid "slide right"
+msgstr ""
+
+#: medicenter_features.php:494
+msgid "slide right 200%"
+msgstr ""
+
+#: medicenter_features.php:495
+msgid "slide left"
+msgstr ""
+
+#: medicenter_features.php:496
+msgid "slide left 50%"
+msgstr ""
+
+#: medicenter_features.php:497
+msgid "slide down"
+msgstr ""
+
+#: medicenter_features.php:498
+msgid "slide down 200%"
+msgstr ""
+
+#: medicenter_features.php:499
+msgid "slide up"
+msgstr ""
+
+#: medicenter_features.php:505
+msgid "Icon animation duration"
+msgstr ""
+
+#: medicenter_features.php:512
+msgid "Icon animation delay"
+msgstr ""
+
+#: medicenter_features.php:519
+msgid "Top margin"
+msgstr ""
+
+#: medicenter_features.php:521
+msgid "None"
+msgstr ""
+
+#: medicenter_features.php:521
+msgid "Page (small)"
+msgstr ""
+
+#: medicenter_features.php:521
+msgid "Section (large)"
+msgstr ""
+
+#: medicenter_features.php:525
+msgid "Extra class name"
+msgstr ""
+
+#: medicenter_features.php:527
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""

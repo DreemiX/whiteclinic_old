@@ -1,0 +1,46 @@
+/* Single Layout #5 */
+.single .slayout5 .entry-content {padding: 0 0 20px 0}
+.single .slayout5 .wp-block-image {margin: 0;}
+.slayout5 a.author_link  {margin-top: 15px;display: inline-block;}
+.slayout5 a.author_link span {opacity: 0;transition: all 200ms ease-in-out; font-weight: bold;}
+.slayout5 a.author_link i {width: 36px; height: 36px;display: inline-block;text-align: center;padding-top: 7px;background-color: #fff;border-radius: 20px; transition: all 200ms ease-in-out;}
+.slayout5 a.author_link:hover i { margin-right: -5px}
+
+.slayout5 a.author_link:hover i svg {fill:#fff}
+.slayout5 a.author_link:hover span {opacity: 1;}
+.slayout5 a.author_link:hover i { margin-right: 15px}
+.slayout5 h1 {text-align: left}
+.single .slayout5 article blockquote {color: #fff; border: 0; padding: 50px 50px 40px 50px;}
+.single .slayout5 article blockquote p:first-child {margin-top: 0}
+.single .slayout5 article blockquote p:last-child {margin-bottom: 0}
+.single .slayout5 article blockquote p, .single .slayout5 article blockquote cite {color: #fff; font-style: normal}
+.single .slayout5 article blockquote cite {margin-top: 35px}
+.single .slayout5 .entry-content > p:first-child:first-letter {font-size:60px; color: #fff; float:left;line-height:0.8;margin:5px 25px 0 0; padding: 15px 13px 15px 13px }
+.single .slayout5 .entry-content > p:first-child:after {content: '';display: block;width: 100%;clear: both;}
+.slayout5 article .author_info {max-width: 100%; margin: 0 0 100px 0; border:0; background-color: #f8f8f8}
+.slayout5 .related .rblock .thumb {overflow: hidden}
+.single .slayout5 .nav-links {margin: 0 0 70px 0}
+.slayout5 .related .rblock {transition: all 300ms;width: calc(50% - 30px);margin-right: 60px;}
+.slayout5 .related .rblock:last-child {margin-right: 0;}
+body [class*="layout5"] article .related .rblock .thumb {margin-bottom: 40px !important;}
+.slayout5 .related .rblock .entry-meta {margin: 0 0 0 0;}
+.slayout5 .related .rblock .wr {border:0}
+.slayout5 .related .rblock .entry-meta .date {width: auto}
+.slayout5 .related .rblock h5 {margin: 10px 0 0 0;}
+.slayout5 .rblock .wr .descr {margin: 0 0 20px 0;padding: 10px 0 0 0;}
+.slayout5 .comment-list li > div {padding: 1.7em 2em;border: 1px solid #ddd;margin-bottom: 15px;}
+.slayout5 .comment-metadata > span.fn {width: auto; }
+.slayout5 .comment-metadata {margin: 0 0 10px 0;}
+.slayout5 .comment-metadata > span {margin: 0;}
+.slayout5 .comment-metadata > span.date {margin-bottom: 0;line-height: 20px;}
+.slayout5 span.sharing {margin-bottom: 10px}
+
+
+
+@media screen and (max-width: 600px) {
+    .slayout5 .nav-links.skin2 > div > span a {display: none}
+}
+@media screen and (max-width: 400px) {
+    .slayout5 .comment-list li .reply {top: 0;}
+    .slayout5 .comment-meta {width: 100%;float: none;}
+}

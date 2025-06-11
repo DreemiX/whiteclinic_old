@@ -1,0 +1,57 @@
+.single .slayout7 .nav-links .nav-previous > a, .single .slayout7 .nav-links .nav-next > a{position: absolute; width: 100%; height: 100%; top: 0;left: 0; display: block}
+.slayout7 .related .rblock {position: relative; overflow: hidden;border-radius: 0px}
+.slayout7 .related .rblock .thumb {border-radius: 0; margin-bottom: 0; width: 100%; display: block; max-width: 100%; float: none;height: 450px;}
+.slayout7 .related .rblock .thumb img {height: auto;max-width: 100%; width: auto}
+.slayout7 .related .rblock .conte {padding: 40px 40px 40px 40px;background: linear-gradient(180deg, rgba(51, 61, 82, 0) 0%, #333D52 100%); position: absolute; top:0; left:0; width: 100%; height: 100%;display: flex;justify-content: flex-end;flex-direction: column;}
+.single .slayout7 .rblock .scat {position: absolute;top: 40px;right: 40px;z-index: 3;padding: 0; display: inline-block; border-right: 0; width: auto}
+.single .slayout7 .rblock .scat a {margin: 0;color: #fff; padding: 0 15px 0 15px; line-height: 30px; font-size: 16px; font-weight: bold; display: inline-block; text-decoration: none; transition: all 200ms ease-in;}
+.single .slayout7 .rblock .scat:hover {background-color: #232323}
+.slayout7 a.rmore {line-height: 24px;border: 0;padding: 0; opacity: 0; text-decoration: none; text-transform: uppercase; font-size: 14px; font-weight: bold; transition: all 300ms ease-in;}
+.slayout7 a.rmore:hover {background-color: transparent; color:#232323; }
+.slayout7 .rblock:hover a.rmore {opacity: 1;}
+.slayout7 .rblock .wrap {margin-bottom: -50px;transition: all 300ms ease-in;}
+.slayout7 .rblock:hover .wrap {margin-bottom: 0;}
+body .slayout7 .rblock .conte .descr {display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 2;overflow: hidden; margin-bottom: 25px}
+
+.single .slayout7 .entry-content > p:first-child:first-letter {font-size:72px;  float:left;line-height:0.8;margin:10px 25px 0 0; padding: 0 }
+.single .slayout7 .entry-content > p:first-child:after {content: '';display: block;width: 100%;clear: both;}
+.single .slayout7 .entry-thumbnail {margin-bottom: 40px;}
+.single .slayout7 .entry-content  {padding-left: 0; padding-right: 0}
+.single .slayout7 .postbody .entry-meta {margin-bottom: 25px}
+.single .slayout7 .postbody .entry-header, .single .slayout7 .postbody .entry-header h1  {margin-bottom: 0}
+.single .slayout7 .entry-thumbnail .scat {position: absolute; top:0; left: 0}
+.single .slayout7 .entry-thumbnail .data {position: absolute; top:0; right: 0}
+.single .slayout7 .entry-thumbnail .scat, .single .slayout7 .entry-thumbnail .data, .single .slayout7 .rblock .thumb .data { padding: 3px 6px; color:#fff;}
+.single .slayout7 .entry-thumbnail .scat a {color:#fff; text-decoration: none}
+.single .slayout7 .nav-links {margin-left: 0; margin-right: 0;    display: table;width: 100%;}
+.single .slayout7 a.author_link i {}
+.single .slayout7 .author_info {margin: 0 0 50px 0}
+.slayout7 .nav-previous > span > a, .slayout7 .nav-next > span > a {position: absolute;top: calc(50% - 32px);margin: 0;}
+.slayout7 .nav-previous > span > a{left: 0}
+.slayout7 .nav-next > span > a {right: 0}
+.single .slayout7 .nav-links .nav-previous {padding-left: 100px}
+.single .slayout7 .nav-links .nav-next {padding-right: 100px}
+.single .slayout7 .author_info .entry-meta svg {height: 18px; width: 18px}
+.single .slayout7 .author_info .author_link {padding-top: 15px; display: inline-block}
+.single .slayout7 .author_info .author_links a::after {width: 0}
+.slayout7 .related .rblock {width: calc(50% - 30px);margin-right: 60px;}
+.slayout7 .related .rblock:last-child {margin-right: 0;}
+.slayout7 .related .rblock .entry-meta {margin: 0 0 0 0;}
+.slayout7 .related .rblock .entry-meta .date {width: auto}
+.slayout7 .related .rblock h5 {margin: 10px 0 15px 0;}
+.slayout7 .related .rblock h5 a,.slayout7 .related .rblock .entry-meta,.slayout7 .related .rblock .entry-meta a,.slayout7 .related .rblock .descr,.slayout7 .related .rblock .rmore {color:#fff}
+body .slayout7 article.post .rblock .thumb {overflow: hidden}
+body .slayout7 .wp-block-image {margin: 0;}
+body .slayout7 blockquote {border: 2px solid #ddd;padding: 35px 45px;border-radius: 5px;position: relative;}
+.slayout7 blockquote p, .slayout7 blockquote cite {font-style: normal}
+.slayout7 blockquote:before {position: absolute;bottom: -25px;right: 15%;width: 50px;border: 5px solid #fff;background-color: #fff;}
+.slayout7 span.sharing {clear: none; margin: 0}
+.slayout7 .postbody .tags-links {clear: none;  width: 50%;float: right;margin: 12px 0; text-align: right}
+
+@media screen and (max-width: 768px) {
+    .slayout7 span.sharing, .slayout7 .postbody .tags-links {width: 100%; text-align: left;}
+    .slayout7 .nav-next > span > a {top: 15px;}
+}
+@media screen and (max-width: 480px) {
+    .slayout7 .related .rblock .conte {padding: 40px 20px;}
+}

@@ -1,0 +1,522 @@
+{
+  "settings": {
+    "objectType": "Form Setting",
+    "editActive": "1",
+    "title": "Ninja Conditions - Simple",
+    "show_title": "1",
+    "allow_public_link": "0",
+    "embed_form": "",
+    "clear_complete": "1",
+    "hide_complete": "1",
+    "default_label_pos": "above",
+    "wrapper_class": "",
+    "element_class": "",
+    "key": "",
+    "add_submit": "0",
+    "currency": "",
+    "repeatable_fieldsets": "",
+    "unique_field_error": "A form with this value has already been submitted.",
+    "logged_in": "",
+    "not_logged_in_msg": "",
+    "sub_limit_msg": "The form has reached its submission limit.",
+    "calculations": [],
+    "container_styles_show_advanced_css": "0",
+    "title_styles_show_advanced_css": "0",
+    "row_styles_show_advanced_css": "0",
+    "row-odd_styles_show_advanced_css": "0",
+    "success-msg_styles_show_advanced_css": "0",
+    "error_msg_styles_show_advanced_css": "0",
+    "conditions": [
+      {
+        "collapsed": "",
+        "process": "1",
+        "connector": "all",
+        "when": [
+          {
+            "connector": "AND",
+            "key": "show_1621269177857",
+            "comparator": "equal",
+            "value": "yes",
+            "type": "field",
+            "modelType": "when"
+          }
+        ],
+        "then": [
+          {
+            "key": "am_i_shown_1621269225040",
+            "trigger": "show_field",
+            "value": "",
+            "type": "field",
+            "modelType": "then"
+          }
+        ],
+        "else": []
+      },
+      {
+        "collapsed": "",
+        "process": "1",
+        "connector": "all",
+        "when": [
+          {
+            "connector": "AND",
+            "key": "show_1621269177857",
+            "comparator": "equal",
+            "value": "no",
+            "type": "field",
+            "modelType": "when"
+          }
+        ],
+        "then": [
+          {
+            "key": "am_i_shown_1621269225040",
+            "trigger": "hide_field",
+            "value": "",
+            "type": "field",
+            "modelType": "then"
+          }
+        ],
+        "else": []
+      }
+    ],
+    "mp_breadcrumb": "1",
+    "mp_progress_bar": "1",
+    "mp_display_titles": "0",
+    "breadcrumb_container_styles_show_advanced_css": "0",
+    "breadcrumb_buttons_styles_show_advanced_css": "0",
+    "breadcrumb_button_hover_styles_show_advanced_css": "0",
+    "breadcrumb_active_button_styles_show_advanced_css": "0",
+    "progress_bar_container_styles_show_advanced_css": "0",
+    "progress_bar_fill_styles_show_advanced_css": "0",
+    "part_titles_styles_show_advanced_css": "0",
+    "navigation_container_styles_show_advanced_css": "0",
+    "previous_button_styles_show_advanced_css": "0",
+    "next_button_styles_show_advanced_css": "0",
+    "navigation_hover_styles_show_advanced_css": "0",
+    "formContentData": [
+      {
+        "formContentData": [
+          {
+            "order": "1",
+            "cells": [
+              { "order": "0", "fields": ["show_1621269177857"], "width": "100" }
+            ]
+          },
+          {
+            "order": "2",
+            "cells": [
+              {
+                "order": "0",
+                "fields": ["am_i_shown_1621269225040"],
+                "width": "100"
+              }
+            ]
+          },
+          {
+            "order": "3",
+            "cells": [
+              {
+                "order": "0",
+                "fields": ["submit_1621269231596"],
+                "width": "100"
+              }
+            ]
+          }
+        ],
+        "order": "0",
+        "type": "part",
+        "clean": "1",
+        "title": "Part Title",
+        "key": "scwjajtz"
+      }
+    ],
+    "drawerDisabled": ""
+  },
+  "fields": [
+    {
+      "objectType": "Field",
+      "objectDomain": "fields",
+      "editActive": "",
+      "order": "999",
+      "idAttribute": "id",
+      "type": "listradio",
+      "label": "Show",
+      "key": "show_1621269177857",
+      "label_pos": "default",
+      "required": "",
+      "options": [
+        {
+          "errors": [],
+          "max_options": "0",
+          "label": "Yes",
+          "value": "yes",
+          "calc": "",
+          "selected": "0",
+          "order": "0",
+          "settingModel": {
+            "settings": "",
+            "hide_merge_tags": "",
+            "error": "",
+            "name": "options",
+            "type": "option-repeater",
+            "label": "Options <a href=\"#\" class=\"nf-add-new\">Add New</a> <a href=\"#\" class=\"extra nf-open-import-tooltip\"><i class=\"fa fa-sign-in\" aria-hidden=\"true\"></i> Import</a>",
+            "width": "full",
+            "group": "",
+            "value": [
+              {
+                "label": "One",
+                "value": "one",
+                "calc": "",
+                "selected": "0",
+                "order": "0"
+              },
+              {
+                "label": "Two",
+                "value": "two",
+                "calc": "",
+                "selected": "0",
+                "order": "1"
+              },
+              {
+                "label": "Three",
+                "value": "three",
+                "calc": "",
+                "selected": "0",
+                "order": "2"
+              }
+            ],
+            "columns": {
+              "label": { "header": "Label", "default": "" },
+              "value": { "header": "Value", "default": "" },
+              "calc": { "header": "Calc Value", "default": "" },
+              "selected": {
+                "header": "<span class=\"dashicons dashicons-yes\"></span>",
+                "default": "0"
+              }
+            }
+          },
+          "manual_value": "1"
+        },
+        {
+          "errors": [],
+          "max_options": "0",
+          "label": "No",
+          "value": "no",
+          "calc": "",
+          "selected": "0",
+          "order": "1",
+          "settingModel": {
+            "settings": "",
+            "hide_merge_tags": "",
+            "error": "",
+            "name": "options",
+            "type": "option-repeater",
+            "label": "Options <a href=\"#\" class=\"nf-add-new\">Add New</a> <a href=\"#\" class=\"extra nf-open-import-tooltip\"><i class=\"fa fa-sign-in\" aria-hidden=\"true\"></i> Import</a>",
+            "width": "full",
+            "group": "",
+            "value": [
+              {
+                "label": "One",
+                "value": "one",
+                "calc": "",
+                "selected": "0",
+                "order": "0"
+              },
+              {
+                "label": "Two",
+                "value": "two",
+                "calc": "",
+                "selected": "0",
+                "order": "1"
+              },
+              {
+                "label": "Three",
+                "value": "three",
+                "calc": "",
+                "selected": "0",
+                "order": "2"
+              }
+            ],
+            "columns": {
+              "label": { "header": "Label", "default": "" },
+              "value": { "header": "Value", "default": "" },
+              "calc": { "header": "Calc Value", "default": "" },
+              "selected": {
+                "header": "<span class=\"dashicons dashicons-yes\"></span>",
+                "default": "0"
+              }
+            }
+          },
+          "manual_value": "1"
+        }
+      ],
+      "container_class": "",
+      "element_class": "",
+      "admin_label": "",
+      "help_text": "",
+      "wrap_styles_border": "",
+      "wrap_styles_width": "",
+      "wrap_styles_margin": "",
+      "wrap_styles_padding": "",
+      "wrap_styles_float": "",
+      "wrap_styles_show_advanced_css": "0",
+      "label_styles_border": "",
+      "label_styles_width": "",
+      "label_styles_font-size": "",
+      "label_styles_margin": "",
+      "label_styles_padding": "",
+      "label_styles_float": "",
+      "label_styles_show_advanced_css": "0",
+      "element_styles_border": "",
+      "element_styles_width": "",
+      "element_styles_font-size": "",
+      "element_styles_margin": "",
+      "element_styles_padding": "",
+      "element_styles_float": "",
+      "element_styles_show_advanced_css": "0",
+      "list_item_row_styles_border": "",
+      "list_item_row_styles_height": "",
+      "list_item_row_styles_width": "",
+      "list_item_row_styles_font-size": "",
+      "list_item_row_styles_margin": "",
+      "list_item_row_styles_padding": "",
+      "list_item_row_styles_float": "",
+      "list_item_row_styles_show_advanced_css": "0",
+      "list_item_label_styles_border": "",
+      "list_item_label_styles_height": "",
+      "list_item_label_styles_width": "",
+      "list_item_label_styles_font-size": "",
+      "list_item_label_styles_margin": "",
+      "list_item_label_styles_padding": "",
+      "list_item_label_styles_float": "",
+      "list_item_label_styles_show_advanced_css": "0",
+      "list_item_element_styles_border": "",
+      "list_item_element_styles_height": "",
+      "list_item_element_styles_width": "",
+      "list_item_element_styles_font-size": "",
+      "list_item_element_styles_margin": "",
+      "list_item_element_styles_padding": "",
+      "list_item_element_styles_float": "",
+      "list_item_element_styles_show_advanced_css": "0",
+      "cellcid": "c4261",
+      "drawerDisabled": ""
+    },
+    {
+      "objectType": "Field",
+      "objectDomain": "fields",
+      "editActive": "",
+      "order": "999",
+      "idAttribute": "id",
+      "type": "textbox",
+      "label": "Am I shown?",
+      "key": "am_i_shown_1621269225040",
+      "label_pos": "default",
+      "required": "",
+      "default": "",
+      "placeholder": "",
+      "container_class": "",
+      "element_class": "",
+      "input_limit": "",
+      "input_limit_type": "characters",
+      "input_limit_msg": "Character(s) left",
+      "manual_key": "",
+      "admin_label": "",
+      "help_text": "",
+      "mask": "",
+      "custom_mask": "",
+      "custom_name_attribute": "",
+      "personally_identifiable": "",
+      "wrap_styles_border": "",
+      "wrap_styles_width": "",
+      "wrap_styles_margin": "",
+      "wrap_styles_padding": "",
+      "wrap_styles_float": "",
+      "wrap_styles_show_advanced_css": "0",
+      "label_styles_border": "",
+      "label_styles_width": "",
+      "label_styles_font-size": "",
+      "label_styles_margin": "",
+      "label_styles_padding": "",
+      "label_styles_float": "",
+      "label_styles_show_advanced_css": "0",
+      "element_styles_border": "",
+      "element_styles_width": "",
+      "element_styles_font-size": "",
+      "element_styles_margin": "",
+      "element_styles_padding": "",
+      "element_styles_float": "",
+      "element_styles_show_advanced_css": "0",
+      "cellcid": "c4788",
+      "value": "",
+      "drawerDisabled": ""
+    },
+    {
+      "objectType": "Field",
+      "objectDomain": "fields",
+      "editActive": "",
+      "order": "999",
+      "idAttribute": "id",
+      "type": "submit",
+      "label": "Submit",
+      "processing_label": "Processing",
+      "container_class": "",
+      "element_class": "",
+      "key": "submit_1621269231596",
+      "wrap_styles_show_advanced_css": "0",
+      "element_styles_show_advanced_css": "0",
+      "submit_element_hover_styles_show_advanced_css": "0",
+      "cellcid": "c5251"
+    }
+  ],
+  "actions": [
+    {
+      "title": "",
+      "key": "",
+      "type": "save",
+      "active": "1",
+      "created_at": "2021-05-17 16:35:20",
+      "label": "Store Submission",
+      "objectType": "Action",
+      "objectDomain": "actions",
+      "editActive": "",
+      "order": "3",
+      "conditions": {
+        "collapsed": "",
+        "process": "1",
+        "connector": "all",
+        "when": [
+          {
+            "connector": "AND",
+            "key": "",
+            "comparator": "",
+            "value": "",
+            "type": "field",
+            "modelType": "when"
+          }
+        ],
+        "then": [
+          {
+            "key": "",
+            "trigger": "",
+            "value": "",
+            "type": "field",
+            "modelType": "then"
+          }
+        ],
+        "else": []
+      },
+      "to": "{wp:admin_email}",
+      "reply_to": "",
+      "email_subject": "Ninja Forms Submission",
+      "email_message": "{fields_table}",
+      "email_message_plain": "",
+      "from_name": "",
+      "from_address": "",
+      "email_format": "html",
+      "cc": "",
+      "bcc": "",
+      "success_msg": "Your form has been successfully submitted.",
+      "redirect_url": "",
+      "submitter_email": "",
+      "fields-save-toggle": "save_all",
+      "exception_fields": [],
+      "set_subs_to_expire": "0",
+      "subs_expire_time": "90"
+    },
+    {
+      "title": "",
+      "key": "",
+      "type": "successmessage",
+      "active": "1",
+      "created_at": "2021-05-17 16:35:19",
+      "label": "Success Message",
+      "objectType": "Action",
+      "objectDomain": "actions",
+      "editActive": "",
+      "message": "Your form has been successfully submitted.",
+      "order": "1",
+      "conditions": {
+        "collapsed": "",
+        "process": "1",
+        "connector": "all",
+        "when": [
+          {
+            "connector": "AND",
+            "key": "",
+            "comparator": "",
+            "value": "",
+            "type": "field",
+            "modelType": "when"
+          }
+        ],
+        "then": [
+          {
+            "key": "",
+            "trigger": "",
+            "value": "",
+            "type": "field",
+            "modelType": "then"
+          }
+        ],
+        "else": []
+      },
+      "to": "{wp:admin_email}",
+      "reply_to": "",
+      "email_subject": "Ninja Forms Submission",
+      "email_message": "{fields_table}",
+      "email_message_plain": "",
+      "from_name": "",
+      "from_address": "",
+      "email_format": "html",
+      "cc": "",
+      "bcc": "",
+      "success_msg": "Your form has been successfully submitted."
+    },
+    {
+      "title": "",
+      "key": "",
+      "type": "email",
+      "active": "1",
+      "created_at": "2021-05-17 16:35:19",
+      "label": "Admin Email",
+      "objectType": "Action",
+      "objectDomain": "actions",
+      "editActive": "",
+      "order": "2",
+      "conditions": {
+        "collapsed": "",
+        "process": "1",
+        "connector": "all",
+        "when": [
+          {
+            "connector": "AND",
+            "key": "",
+            "comparator": "",
+            "value": "",
+            "type": "field",
+            "modelType": "when"
+          }
+        ],
+        "then": [
+          {
+            "key": "",
+            "trigger": "",
+            "value": "",
+            "type": "field",
+            "modelType": "then"
+          }
+        ],
+        "else": []
+      },
+      "to": "{wp:admin_email}",
+      "reply_to": "",
+      "email_subject": "Ninja Forms Submission",
+      "email_message": "{fields_table}",
+      "email_message_plain": "",
+      "from_name": "",
+      "from_address": "",
+      "email_format": "html",
+      "cc": "",
+      "bcc": ""
+    }
+  ]
+}

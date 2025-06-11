@@ -1,0 +1,48 @@
+@import "icons.css";
+
+
+.teligro-login-message {
+    line-height: 2em;
+}
+
+.teligro-login-message .dashicons-teligro-telegram {
+    float: right;
+    padding: 5px;
+    border-radius: 50%;
+    color: #0088cc;
+    border: 2px solid #0088cc;
+}
+
+.teligro-login-message .title {
+    text-transform: uppercase;
+}
+
+#teligro-login-process, #teligro-dynamic_code {
+    display: none;
+    margin-bottom: 1em !important;
+}
+
+.teligro-err {
+    color: #ff1744;
+}
+
+.teligro-success {
+    color: #0088cc;
+}
+
+#teligro-process {
+    color: rgba(27, 136, 185, 0.8);
+    padding-bottom: 10px;
+}
+
+.teligro-spinner {
+    display: inline-block;
+    width: 43px;
+    height: 11px;
+    background-repeat: no-repeat;
+    background-image: url('data:image/gif;base64,R0lGODlhKwALAPEAAP///wCIzILE5QCIzCH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAKwALAAACMoSOCMuW2diD88UKG95W88uF4DaGWFmhZid93pq+pwxnLUnXh8ou+sSz+T64oCAyTBUAACH5BAkKAAAALAAAAAArAAsAAAI9xI4IyyAPYWOxmoTHrHzzmGHe94xkmJifyqFKQ0pwLLgHa82xrekkDrIBZRQab1jyfY7KTtPimixiUsevAAAh+QQJCgAAACwAAAAAKwALAAACPYSOCMswD2FjqZpqW9xv4g8KE7d54XmMpNSgqLoOpgvC60xjNonnyc7p+VKamKw1zDCMR8rp8pksYlKorgAAIfkECQoAAAAsAAAAACsACwAAAkCEjgjLltnYmJS6Bxt+sfq5ZUyoNJ9HHlEqdCfFrqn7DrE2m7Wdj/2y45FkQ13t5itKdshFExC8YCLOEBX6AhQAADsAAAAAAAAAAAA=');
+}
+
+body.rtl .teligro-login-message .dashicons-teligro-telegram {
+    float: left;
+}

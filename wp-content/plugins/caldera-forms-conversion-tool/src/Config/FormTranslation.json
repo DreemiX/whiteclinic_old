@@ -1,0 +1,42 @@
+{
+  "formSettings": {
+    "title": "BobTheFormTitle"
+  },
+  "fieldTranslationCollection": [
+    {
+      "originId": "1",
+      "ninjaFieldDefinition": {
+        "type": "textbox",
+        "label": "Text this",
+        "id": "text"
+      }
+    },
+    {
+      "originId": "2",
+      "ninjaFieldDefinition": {
+        "type": "submit",
+        "label": "Submit this",
+        "id": "submit"
+      }
+    }
+  ],
+  "actionTranslationCollection": [
+    {
+      "originId": "1",
+      "ninjaActionDefinition": {
+        "type": "save",
+        "label": "Store Submission",
+        "active": "1"
+      }
+    },
+    {
+      "originId": "2",
+      "ninjaActionDefinition": {
+        "type": "successmessage",
+        "label": "Success Message",
+        "success_msg:": "<p>Your form has been successfully submitted.</p><p><br></p>:",
+        "active": "0"
+      }
+    }
+  ]
+}

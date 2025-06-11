@@ -1,0 +1,205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Atiframe\n"
+"POT-Creation-Date: 2020-11-14 12:15+0200\n"
+"PO-Revision-Date: 2016-02-06 10:39+0700\n"
+"Last-Translator: SecretLab <support@clientica.pw>\n"
+"Language-Team: SecretLab <support@clientica.pw>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: inc/class-tgm-plugin-activation.php\n"
+
+#: clientica-elementor-widgets.php:95
+#: clientica-elementor-widgets.php:100
+msgid "Something went wrong."
+msgstr ""
+
+#: clientica-elementor-widgets.php:132
+msgid "Clientica"
+msgstr ""
+
+#: widgets/autoloader.php:82
+#, php-format
+msgid "The file attempting to be loaded at %s does not exist."
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:18
+msgid "Breadcrumbs"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:95
+msgid "General"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:102
+msgid "Homepage Title"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:104 widgets/inc/class-breadcrumbs.php:278
+#: widgets/inc/class-breadcrumbs.php:290 widgets/inc/class-breadcrumbs.php:437
+#: widgets/inc/class-breadcrumbs.php:449 widgets/inc/class-breadcrumbs.php:524
+msgid "Home"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:111 widgets/inc/class-breadcrumbs.php:340
+#: widgets/inc/class-breadcrumbs.php:352 widgets/inc/class-breadcrumbs.php:361
+#: widgets/inc/class-breadcrumbs.php:373 widgets/inc/class-breadcrumbs.php:499
+#: widgets/inc/class-breadcrumbs.php:511
+msgid "Divider"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:120
+msgid "Show the current page title?"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:122 widgets/inc/class-breadcrumbs.php:134
+msgid "Show"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:123 widgets/inc/class-breadcrumbs.php:135
+msgid "Hide"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:132
+msgid "Show breadcrumbs on the Home page?"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:146 widgets/inc/class-breadcrumbs.php:388
+#: widgets/inc/class-page-title.php:33 widgets/inc/class-page-title.php:143
+msgid "Styles"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:166 widgets/inc/class-page-title.php:52
+msgid "Text Alignment"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:172 widgets/inc/class-page-title.php:58
+msgid "Left"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:176 widgets/inc/class-page-title.php:62
+msgid "Center"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:180 widgets/inc/class-page-title.php:66
+msgid "Right"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:215 widgets/inc/class-breadcrumbs.php:396
+#: widgets/inc/class-page-title.php:78 widgets/inc/class-page-title.php:172
+msgid "Opacity (%)"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:243 widgets/inc/class-page-title.php:127
+msgid "Z-Index"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:245 widgets/inc/class-page-title.php:129
+msgid "If you need mouse activity, you can fix z-index."
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:257 widgets/inc/class-breadcrumbs.php:278
+#: widgets/inc/class-breadcrumbs.php:299 widgets/inc/class-breadcrumbs.php:320
+#: widgets/inc/class-breadcrumbs.php:340 widgets/inc/class-breadcrumbs.php:416
+#: widgets/inc/class-breadcrumbs.php:437 widgets/inc/class-breadcrumbs.php:458
+#: widgets/inc/class-breadcrumbs.php:479 widgets/inc/class-breadcrumbs.php:499
+#: widgets/inc/class-page-title.php:98 widgets/inc/class-page-title.php:151
+msgid "Color"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:269 widgets/inc/class-breadcrumbs.php:290
+#: widgets/inc/class-breadcrumbs.php:311 widgets/inc/class-breadcrumbs.php:332
+#: widgets/inc/class-breadcrumbs.php:352 widgets/inc/class-breadcrumbs.php:416
+#: widgets/inc/class-breadcrumbs.php:428 widgets/inc/class-breadcrumbs.php:449
+#: widgets/inc/class-breadcrumbs.php:470 widgets/inc/class-breadcrumbs.php:491
+#: widgets/inc/class-breadcrumbs.php:511 widgets/inc/class-page-title.php:110
+#: widgets/inc/class-page-title.php:151 widgets/inc/class-page-title.php:163
+msgid "Typography"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:299 widgets/inc/class-breadcrumbs.php:311
+#: widgets/inc/class-breadcrumbs.php:458 widgets/inc/class-breadcrumbs.php:470
+msgid "Links"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:320 widgets/inc/class-breadcrumbs.php:332
+#: widgets/inc/class-breadcrumbs.php:479 widgets/inc/class-breadcrumbs.php:491
+#: widgets/inc/class-page-title.php:18
+msgid "Page Title"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:361
+msgid "Margin"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:373
+msgid "Padding"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:388 widgets/inc/class-page-title.php:143
+msgid "Hover"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:551
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:552
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:553
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:554
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:555
+msgid "Error 404"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:579
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:602 widgets/inc/class-breadcrumbs.php:603
+#: widgets/inc/class-breadcrumbs.php:606 widgets/inc/class-breadcrumbs.php:609
+msgid "Y"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:603 widgets/inc/class-breadcrumbs.php:607
+msgid "F"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:604
+msgid "d"
+msgstr ""
+
+#: widgets/inc/class-breadcrumbs.php:637
+msgid "Live Editor"
+msgstr ""
+
+#: widgets/inc/class-page-title.php:229
+msgid "Page not found"
+msgstr ""
+
+#: widgets/inc/class-page-title.php:234
+msgid "Search Results for"
+msgstr ""

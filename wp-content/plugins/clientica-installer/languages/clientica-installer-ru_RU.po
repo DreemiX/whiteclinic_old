@@ -1,0 +1,543 @@
+# Copyright (C) 2011 WordPress Importer
+# This file is distributed under the same license as the WordPress Importer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clientica Installer\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-importer\n"
+"POT-Creation-Date: 2018-02-23 11:55+0300\n"
+"PO-Revision-Date: 2018-02-23 12:04+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ClienticaInstaller.php:110
+msgid "Plugins Installed"
+msgstr "Плагины установлены"
+
+#: ClienticaInstaller.php:116
+msgid "Plugins Activated"
+msgstr "Плагины активированы"
+
+#: ClienticaInstaller.php:137
+msgid "No plugins data found"
+msgstr "Плагины не найдены"
+
+#: ClienticaInstaller.php:240
+msgid "Theme Options updated"
+msgstr "Опции темы обновлены"
+
+#: ClienticaInstaller.php:240
+msgid ""
+"Error occured while Theme Options importing or you are trying to save the "
+"same data"
+msgstr ""
+"Произошла ошибка при импорте опций темы или вы пытаетесь сохранить одни и те "
+"же данные"
+
+#: ClienticaInstaller.php:244
+msgid "There isn't file for import"
+msgstr "Нет файла для импорта"
+
+#: ClienticaInstaller.php:261
+msgid "Widgets imported"
+msgstr "Виджеты импортированы"
+
+#: ClienticaInstaller.php:266
+msgid "Theme setup completed"
+msgstr "Установка темы завершена"
+
+#: ClienticaInstaller.php:293
+msgid "Types Plugin Settings imported"
+msgstr "Параметры плагина Types импортированы"
+
+#: ClienticaInstaller.php:362
+msgid "Sample data imported"
+msgstr "Примеры импортированы"
+
+#: ClienticaInstaller.php:365
+msgid ""
+"There are problems with WP_Import classes, check if \"wordpress-importer\" "
+"plugin is activated"
+msgstr ""
+"Существуют проблемы с классами WP_Import, проверьте, активирован ли плагин "
+"«wordpress-importer»"
+
+#: ClienticaInstaller.php:461
+#, php-format
+msgid "%1$s was not uploaded. (<strong>%2$s</strong>: %3$s)"
+msgstr "%1$s не был загружен. (<strong>%2$s</strong>: %3$s)"
+
+#: ClienticaInstaller.php:475 ClienticaInstaller.php:487
+#, php-format
+msgid ""
+"%1$s could not be uploaded because of an error. (<strong>%2$s</strong>: %3$s)"
+msgstr ""
+"%1$s не загрузился, потому что была получена ошибка. (<strong>%2$s</strong>: "
+"%3$s)"
+
+#: ClienticaInstaller.php:481
+#: modules/wordpress-importer/secretlab-importer.php:876
+#: modules/wordpress-importer/wordpress-importer.php:888
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+#: ClienticaInstaller.php:522
+#, php-format
+msgid "%s was uploaded successfully"
+msgstr "%s был успешно загружен"
+
+#: ClienticaInstaller.php:548
+msgid "File already exists"
+msgstr "Файл уже существует"
+
+#: ClienticaInstaller.php:573
+#: modules/wordpress-importer/secretlab-importer.php:920
+#: modules/wordpress-importer/wordpress-importer.php:932
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#: ClienticaInstaller.php:579
+#: modules/wordpress-importer/secretlab-importer.php:926
+#: modules/wordpress-importer/wordpress-importer.php:938
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер вернул ошибку %1$d %2$s"
+
+#: ClienticaInstaller.php:586
+#: modules/wordpress-importer/secretlab-importer.php:933
+#: modules/wordpress-importer/wordpress-importer.php:945
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет некорректный размер"
+
+#: ClienticaInstaller.php:591
+#: modules/wordpress-importer/secretlab-importer.php:938
+#: modules/wordpress-importer/wordpress-importer.php:950
+msgid "Zero size file downloaded"
+msgstr "Загружен файл с нулевым размером"
+
+#: ClienticaInstaller.php:646
+msgid "parameter on your hosting/server is ### seconds, 30 seconds recommended"
+msgstr ""
+"параметр на вашем хостинге/сервере составляет ### секунд, рекомендуется 30 "
+"секунд"
+
+#: ClienticaInstaller.php:647
+msgid "parameter on your hosting/server is ### Mb, 256Mb recommended"
+msgstr ""
+"параметр на вашем хостинге/сервере составляет ### Mb, рекомендуется 256Mb"
+
+#: ClienticaInstaller.php:648 ClienticaInstaller.php:649
+msgid "parameter on your hosting/server is ### Mb, 32Mb recommended"
+msgstr ""
+"параметр на вашем хостинге/сервере составляет ### Mb, рекомендуется 32Mb"
+
+#: ClienticaInstaller.php:666
+msgid "Server Requirements"
+msgstr "Требования к серверу"
+
+#: ClienticaInstaller.php:679
+msgid "Fail of installation"
+msgstr "Ошибка установки"
+
+#: ClienticaInstaller.php:680
+msgid ""
+"If you got fail of the installation ask your hosting to check error logs"
+msgstr ""
+"Если у вас возникла ошибка при установке, попросите своего хостинг-провейде "
+"проверить журналы ошибок php-сервера"
+
+#: ClienticaInstaller.php:722
+msgid "Post and Menu Screen Settings saved"
+msgstr "Записи и и настройки меню сохранены"
+
+#: modules/widget-importer-exporter/includes/admin.php:38
+#: modules/widget-importer-exporter/includes/admin.php:70
+msgid "Import/Export"
+msgstr "Импорт/экспорт"
+
+#: modules/widget-importer-exporter/includes/import.php:39
+msgid "You must upload a <b>.wie</b> file generated by this plugin."
+msgstr ""
+"Вы должны загрузить файл в формате <b>.wie</b>, сгенерированный плагином "
+"Widget Exporter. "
+
+#: modules/widget-importer-exporter/includes/import.php:86
+msgid "Import file could not be found. Please try again."
+msgstr "Файл импорта не найден. Пожалуйста, попробуйте еще раз."
+
+#: modules/widget-importer-exporter/includes/import.php:121
+msgid "Import data could not be read. Please try a different file."
+msgstr "Импорт данных не может быть прочитан. Попробуйте другой файл."
+
+#: modules/widget-importer-exporter/includes/import.php:163
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr "Область виджета не существует в этом шаблоне"
+
+#: modules/widget-importer-exporter/includes/import.php:185
+msgid "Site does not support widget"
+msgstr "Сайт не поддерживает виджет"
+
+#: modules/widget-importer-exporter/includes/import.php:221
+msgid "Widget already exists"
+msgstr "Виджет уже существует"
+
+#: modules/widget-importer-exporter/includes/import.php:290
+msgid "Imported"
+msgstr "Импортировано"
+
+#: modules/widget-importer-exporter/includes/import.php:293
+msgid "Imported to Inactive"
+msgstr "Импортировано в неактивные"
+
+#: modules/widget-importer-exporter/includes/import.php:300
+msgid "No Title"
+msgstr "Нет заголовка"
+
+#: modules/widget-importer-exporter/includes/page.php:27
+#: modules/widget-importer-exporter/includes/page.php:28
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/page.php:83
+msgid "Please select a <b>.wie</b> file generated by this plugin."
+msgstr ""
+"Выберите файл <b>.wie</b>, созданный плагином Widget Importer & Exporter."
+
+#: modules/widget-importer-exporter/includes/page.php:113
+msgid "Click below to generate a <b>.wie</b> file for all active widgets."
+msgstr ""
+"Нажмите ниже, чтобы сгенерировать файл <b>.wie</b> для всех активных "
+"виджетов."
+
+#: modules/widget-importer-exporter/includes/page.php:172
+#, php-format
+msgid ""
+"You can manage your <a href=\"%s\">Widgets</a> or <a href=\"%s\">Go Back</a>."
+msgstr ""
+"Вы можете управлять своими <a href=\"%s\"> Виджетами</a> или <a href=\"%s"
+"\">Вернуться</a>."
+
+#: modules/widget-importer-exporter/includes/page.php:248
+#, php-format
+msgid ""
+"<b>Need Help?</b> Post your question in the plugin's <a href=\"%1$s\" target="
+"\"_blank\">Support Forum</a>."
+msgstr ""
+"<b>Нужна помощь?</b> Отправьте свой вопрос в разделе <a href=\"%1$s\" target="
+"\"_blank\">форума поддержки плагина</a>."
+
+#: modules/widget-importer-exporter/includes/page.php:272
+msgid ""
+"Please be one of the special few to support this plugin with a gift or "
+"review. There are costs to cover with more than 1,000,000 free downloads and "
+"free support. <b>Thank you!</b>"
+msgstr ""
+"Пожалуйста, будьте одним из немногих, кто поддерживает этот плагин подарком "
+"или обзором. Существуют затраты на покрытие более 1 000 000 бесплатных "
+"загрузок и бесплатную поддержку. <b>Спасибо!</ b>"
+
+#: modules/widget-importer-exporter/includes/page.php:296
+#, php-format
+msgid ""
+"Visit <a href=\"%1$s\" target=\"_blank\">churchthemes.com</a> and follow us "
+"on <a href=\"%2$s\" target=\"_blank\">Twitter</a> and <a href=\"%3$s\" "
+"target=\"_blank\">Facebook</a>"
+msgstr ""
+"Посетите <a href=\"%1$s\" target=\"_blank\">churchthemes.com</a> и следуйте "
+"за нами на <a href=\"%2$s\" target=\"_blank\">Twitter</a> и <a href=\"%3$s\" "
+"target=\"_blank\">Facebook</a>"
+
+#: modules/wordpress-importer/parsers.php:42
+#: modules/wordpress-importer/parsers.php:72
+#: modules/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "При чтении этого WXR файла произошла ошибка"
+
+#: modules/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробности показаны выше. Импортер теперь попытается снова с другим "
+"парсером ..."
+
+#: modules/wordpress-importer/parsers.php:84
+#: modules/wordpress-importer/parsers.php:89
+#: modules/wordpress-importer/parsers.php:279
+#: modules/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Это не WXR файл, отсутствует / недействительный номер версии WXR"
+
+#: modules/wordpress-importer/secretlab-importer.php:124
+#: modules/wordpress-importer/secretlab-importer.php:133
+#: modules/wordpress-importer/secretlab-importer.php:184
+#: modules/wordpress-importer/secretlab-importer.php:188
+#: modules/wordpress-importer/secretlab-importer.php:197
+#: modules/wordpress-importer/wordpress-importer.php:134
+#: modules/wordpress-importer/wordpress-importer.php:143
+#: modules/wordpress-importer/wordpress-importer.php:194
+#: modules/wordpress-importer/wordpress-importer.php:198
+#: modules/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "Извините, произошла ошибка."
+
+#: modules/wordpress-importer/secretlab-importer.php:125
+#: modules/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, повторите попытку."
+
+#: modules/wordpress-importer/secretlab-importer.php:168
+#: modules/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "Все сделано."
+
+#: modules/wordpress-importer/secretlab-importer.php:168
+#: modules/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "Веселитесь!"
+
+#: modules/wordpress-importer/secretlab-importer.php:169
+#: modules/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забудьте обновить пароли и роли импортированных пользователей."
+
+#: modules/wordpress-importer/secretlab-importer.php:189
+#: modules/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Файл экспорта не найден в <code>%s</code>. Вероятно, это вызвано проблемой с "
+"правами на запись."
+
+#: modules/wordpress-importer/secretlab-importer.php:205
+#: modules/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Этот WXR файл (версия% s) может не поддерживаться этой версией импортера. "
+"Пожалуйста, подумайте об обновлении."
+
+#: modules/wordpress-importer/secretlab-importer.php:230
+#: modules/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Не удалось импортировать автора% s. Их публикации будут отнесены к текущему "
+"пользователю."
+
+#: modules/wordpress-importer/secretlab-importer.php:256
+#: modules/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "Назначить авторов"
+
+#: modules/wordpress-importer/secretlab-importer.php:257
+#: modules/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Чтобы упростить редактирование и сохранение импортированного содержимого, "
+"вам может потребоваться переназначить автора импортированного элемента "
+"существующему пользователю этого сайта. Например, вы можете импортировать "
+"все записи в качестве записей <code> Администратора </code>."
+
+#: modules/wordpress-importer/secretlab-importer.php:259
+#: modules/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Если новый пользователь создан WordPress, новый пароль будет генерироваться "
+"случайным образом, а роль нового пользователя будет установлена как% s. "
+"Вручную потребуется изменить данные нового пользователя."
+
+#: modules/wordpress-importer/secretlab-importer.php:269
+#: modules/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "Импорт вложений"
+
+#: modules/wordpress-importer/secretlab-importer.php:272
+#: modules/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "Загрузка и импорт вложений"
+
+#: modules/wordpress-importer/secretlab-importer.php:289
+#: modules/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "Автор импорта:"
+
+#: modules/wordpress-importer/secretlab-importer.php:300
+#: modules/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "или создать нового пользователя с именем пользователя:"
+
+#: modules/wordpress-importer/secretlab-importer.php:303
+#: modules/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "как новый пользователь:"
+
+#: modules/wordpress-importer/secretlab-importer.php:311
+#: modules/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "привязать публикации существующим пользователям:"
+
+#: modules/wordpress-importer/secretlab-importer.php:313
+#: modules/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "или привязать публикации существующему пользователю:"
+
+#: modules/wordpress-importer/secretlab-importer.php:314
+#: modules/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "-Выбрать-"
+
+#: modules/wordpress-importer/secretlab-importer.php:364
+#: modules/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Не удалось создать нового пользователя для %s. Публикации будут отнесены к "
+"текущему пользователю."
+
+#: modules/wordpress-importer/secretlab-importer.php:415
+#: modules/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Не удалось импортировать рубрику %s"
+
+#: modules/wordpress-importer/secretlab-importer.php:455
+#: modules/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Не удалось импортировать тег %s"
+
+#: modules/wordpress-importer/secretlab-importer.php:501
+#: modules/wordpress-importer/secretlab-importer.php:642
+#: modules/wordpress-importer/wordpress-importer.php:511
+#: modules/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: modules/wordpress-importer/secretlab-importer.php:527
+#: modules/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+"Не удалось импортировать &#8220;%s&#8221;: Недопустимый тип публикации %s"
+
+#: modules/wordpress-importer/secretlab-importer.php:549
+#: modules/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже создан."
+
+#: modules/wordpress-importer/secretlab-importer.php:608
+#: modules/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
+
+#: modules/wordpress-importer/secretlab-importer.php:773
+#: modules/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Элемент меню пропущен из-за отсутствия url меню"
+
+#: modules/wordpress-importer/secretlab-importer.php:780
+#: modules/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Элемент меню пропущен из-за недействительного url меню: %s"
+
+#: modules/wordpress-importer/secretlab-importer.php:863
+#: modules/wordpress-importer/wordpress-importer.php:875
+msgid "Fetching attachments is not enabled"
+msgstr "Захват вложений невозможен"
+
+#: modules/wordpress-importer/secretlab-importer.php:944
+#: modules/wordpress-importer/wordpress-importer.php:956
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком большой, ограничение - %s"
+
+#: modules/wordpress-importer/secretlab-importer.php:1042
+#: modules/wordpress-importer/wordpress-importer.php:1054
+msgid "Import WordPress"
+msgstr "WordPress импорт"
+
+#: modules/wordpress-importer/secretlab-importer.php:1049
+#: modules/wordpress-importer/wordpress-importer.php:1061
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Доступна новая версия этого импортера. Обновите версию %s, чтобы обеспечить "
+"совместимость с более новыми файлами экспорта."
+
+#: modules/wordpress-importer/secretlab-importer.php:1064
+#: modules/wordpress-importer/wordpress-importer.php:1076
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Привет! Загрузите файл WordPress eXtended RSS (WXR), и мы импортируем "
+"сообщения, страницы, комментарии, настраиваемые поля, категории и теги на "
+"этот сайт."
+
+#: modules/wordpress-importer/secretlab-importer.php:1065
+#: modules/wordpress-importer/wordpress-importer.php:1077
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Выберите файл WXR (.xml) для загрузки, затем нажмите «Загрузить файл и "
+"импортировать»."
+
+#: modules/wordpress-importer/wordpress-importer.php:1152
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Импортируйте <strong> статьи, страницы, комментарии, пользовательские поля, "
+"категории и теги </strong> из файла экспорта WordPress."
+
+#~ msgid "Submit"
+#~ msgstr "Отправить"
+
+#~ msgid "WordPress Importer"
+#~ msgstr "WordPress Importer"
+
+#~ msgid "http://wordpress.org/extend/plugins/wordpress-importer/"
+#~ msgstr "http://wordpress.org/extend/plugins/wordpress-importer/"
+
+#~ msgid ""
+#~ "Import posts, pages, comments, custom fields, categories, tags and more "
+#~ "from a WordPress export file."
+#~ msgstr ""
+#~ "Импортируйте статьи, страницы, комментарии, пользовательские поля, "
+#~ "категории, теги и многое другое из файла экспорта WordPress."
+
+#~ msgid "wordpressdotorg"
+#~ msgstr "wordpressdotorg"
+
+#~ msgid "http://wordpress.org/"
+#~ msgstr "http://wordpress.org/"

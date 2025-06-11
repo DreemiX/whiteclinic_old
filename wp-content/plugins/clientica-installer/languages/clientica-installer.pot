@@ -1,0 +1,849 @@
+# Copyright (C) 2011 WordPress Importer
+# This file is distributed under the same license as the WordPress Importer package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clientica Installer\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-importer\n"
+"POT-Creation-Date: 2021-04-07 18:06+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Clientica <admin@atiframe.ru>\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: clientica-installer.php:44
+msgid "Wrong request"
+msgstr ""
+
+#: clientica-installer.php:92
+msgid "Plugins Installed"
+msgstr ""
+
+#: clientica-installer.php:97
+msgid "Plugins Activated"
+msgstr ""
+
+#: clientica-installer.php:117
+msgid "No plugins data found"
+msgstr ""
+
+#: clientica-installer.php:195 clientica-installer.php:423
+msgid "There is no such demo"
+msgstr ""
+
+#: clientica-installer.php:302
+msgid "Widgets imported"
+msgstr ""
+
+#: clientica-installer.php:382
+msgid "Sample data imported"
+msgstr ""
+
+#: clientica-installer.php:384
+msgid ""
+"There are problems with WP_Import classes, check if \"wordpress-importer\" "
+"plugin is activated"
+msgstr ""
+
+#: clientica-installer.php:493
+#, php-format
+msgid "%1$s was not uploaded. (<strong>%2$s</strong>: %3$s)"
+msgstr ""
+
+#: clientica-installer.php:512 clientica-installer.php:530
+#, php-format
+msgid ""
+"%1$s could not be uploaded because of an error. (<strong>%2$s</strong>: %3$s)"
+msgstr ""
+
+#: clientica-installer.php:523
+#: modules/wordpress-importer/wordpress-importer.php:991
+msgid "Invalid file type"
+msgstr ""
+
+#: clientica-installer.php:570
+#, php-format
+msgid "%s was uploaded successfully"
+msgstr ""
+
+#: clientica-installer.php:596
+msgid "File already exists"
+msgstr ""
+
+#: clientica-installer.php:658
+#: modules/wordpress-importer/wordpress-importer.php:1077
+msgid "Remote server did not respond"
+msgstr ""
+
+#: clientica-installer.php:668
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: clientica-installer.php:678
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: clientica-installer.php:684
+#: modules/wordpress-importer/wordpress-importer.php:1084
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: clientica-installer.php:697
+msgid ""
+"parameter on your hosting/server is ### seconds, 120 seconds recommended"
+msgstr ""
+
+#: clientica-installer.php:703
+msgid "parameter on your hosting/server is ### Mb, 184Mb recommended"
+msgstr ""
+
+#: clientica-installer.php:709 clientica-installer.php:715
+msgid "parameter on your hosting/server is ### Mb, 12Mb recommended"
+msgstr ""
+
+#: clientica-installer.php:737
+msgid "Server Requirements"
+msgstr ""
+
+#: clientica-installer.php:749
+msgid "Fail of installation"
+msgstr ""
+
+#: clientica-installer.php:751
+msgid ""
+"If you got fail of the installation ask your hosting to check error logs"
+msgstr ""
+
+#: clientica-installer.php:801
+msgid "There isn't files for import"
+msgstr ""
+
+#: clientica-installer.php:844 clientica-installer.php:887
+msgid "Remote server did not respond for file:"
+msgstr ""
+
+#: clientica-installer.php:860 clientica-installer.php:901
+#, php-format
+msgid "Remote server returned error response %1$d %2$s demo: %3$s"
+msgstr ""
+
+#: clientica-installer.php:1020
+msgid "Elementor's site settings were set"
+msgstr ""
+
+#: clientica-installer.php:1029
+msgid "Elementor's site settings were changed"
+msgstr ""
+
+#: clientica-installer.php:1044
+msgid "Saving the same data"
+msgstr ""
+
+#: clientica-installer.php:1052
+msgid "CSS generated"
+msgstr ""
+
+#: clientica-installer.php:1054
+msgid "CSS didn't generate"
+msgstr ""
+
+#: clientica-installer.php:1060 clientica-installer.php:1061
+msgid "Clientica"
+msgstr ""
+
+#: clientica-installer.php:1069 clientica-installer.php:1070
+#: pages/class-welcome-docs.php:45 pages/class-welcome-docs.php:86
+#: pages/class-welcome-page.php:200
+msgid "Documentation"
+msgstr ""
+
+#: modules/clientica-importer/clientica-importer.php:38
+#: modules/wordpress-importer/wordpress-importer.php:908
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: modules/clientica-importer/clientica-importer.php:45
+#: modules/wordpress-importer/wordpress-importer.php:915
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: modules/clientica-importer/clientica-importer.php:128
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: modules/secl-customizer-importer/secl-customizer-importer.php:68
+#: modules/secl-customizer-importer/secl-customizer-importer.php:69
+msgid "Customize Export"
+msgstr ""
+
+#: modules/secl-customizer-importer/secl-customizer-importer.php:81
+#: modules/secl-customizer-importer/secl-customizer-importer.php:82
+msgid "Customize Import"
+msgstr ""
+
+#: modules/secl-customizer-importer/secl-customizer-importer.php:94
+msgid "Export"
+msgstr ""
+
+#: modules/secl-customizer-importer/secl-customizer-importer.php:98
+msgid "Copy data from textarea to file"
+msgstr ""
+
+#: modules/secl-customizer-importer/secl-customizer-importer.php:124
+#: modules/secl-customizer-importer/secl-customizer-importer.php:136
+msgid "Import"
+msgstr ""
+
+#: modules/secl-customizer-importer/secl-customizer-importer.php:130
+msgid "Choose json import file"
+msgstr ""
+
+#: modules/secl-customizer-importer/secl-customizer-importer.php:178
+msgid "Wrong Import File data"
+msgstr ""
+
+#: modules/secl-customizer-importer/secl-customizer-importer.php:194
+msgid "Wrong File Type"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/admin.php:79
+#: modules/widget-importer-exporter/includes/admin.php:111
+msgid "Import/Export"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:47
+#: modules/widget-importer-exporter/secl-includes/import.php:47
+msgid "You must choose a <b>.wie</b> file to upload or paste its contents."
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:123
+#: modules/widget-importer-exporter/secl-includes/import.php:123
+#, php-format
+msgid ""
+"You must upload a <b>.wie</b> file generated by this plugin (<a href=\"%1$s"
+"\" target=\"_blank\">help</a>)."
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:178
+#: modules/widget-importer-exporter/secl-includes/import.php:178
+msgid "Import file could not be found. Please try again."
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:214
+#: modules/widget-importer-exporter/secl-includes/import.php:214
+msgid "Import data is invalid."
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:256
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:278
+#: modules/widget-importer-exporter/secl-includes/import.php:283
+msgid "Site does not support widget"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:313
+#: modules/widget-importer-exporter/secl-includes/import.php:318
+msgid "Widget already exists"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:387
+#: modules/widget-importer-exporter/secl-includes/import.php:392
+msgid "Imported"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:390
+#: modules/widget-importer-exporter/secl-includes/import.php:395
+msgid "Imported to Inactive"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/import.php:396
+#: modules/widget-importer-exporter/secl-includes/import.php:401
+msgid "No Title"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/page.php:24
+#: modules/widget-importer-exporter/includes/page.php:25
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/page.php:74
+msgid "Please select a <b>.wie</b> file generated by this plugin."
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/page.php:91
+msgid ""
+"Or, <a href=\"#\" id=\"wie-content-toggle\">copy and paste</a> the contents "
+"of your <b>.wie</b> file."
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/page.php:123
+msgid "Click below to generate a <b>.wie</b> file for all active widgets."
+msgstr ""
+
+#: modules/widget-importer-exporter/includes/page.php:185
+#, php-format
+msgid ""
+"You can manage your <a href=\"%1$s\">Widgets</a> or <a href=\"%2$s\">Go "
+"Back</a>."
+msgstr ""
+
+#: modules/wordpress-importer/parsers.php:42
+#: modules/wordpress-importer/parsers.php:72
+#: modules/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: modules/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: modules/wordpress-importer/parsers.php:84
+#: modules/wordpress-importer/parsers.php:89
+#: modules/wordpress-importer/parsers.php:315
+#: modules/wordpress-importer/parsers.php:533
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:136
+#: modules/wordpress-importer/wordpress-importer.php:145
+#: modules/wordpress-importer/wordpress-importer.php:196
+#: modules/wordpress-importer/wordpress-importer.php:200
+#: modules/wordpress-importer/wordpress-importer.php:209
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:137
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:180
+msgid "All done."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:180
+msgid "Have fun!"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:181
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:201
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:217
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:242
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:268
+msgid "Assign Authors"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:269
+msgid ""
+"To make it simpler for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site, such as your primary administrator account."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:271
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:281
+msgid "Import Attachments"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:284
+msgid "Download and import file attachments"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:301
+msgid "Import author:"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:313
+msgid "or create new user with login name:"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:316
+msgid "as a new user:"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:326
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:328
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:336
+msgid "- Select -"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:390
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:442
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:487
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:542
+#: modules/wordpress-importer/wordpress-importer.php:768
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:635
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:672
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:734
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:978
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1030
+msgid "Could not create temporary file."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1049
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1065
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1089
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1095
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1127
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1142
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1254
+msgid "Import WordPress"
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1261
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1276
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: modules/wordpress-importer/wordpress-importer.php:1277
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: pages/class-welcome-docs.php:44 pages/class-welcome-page.php:199
+msgid "Installation"
+msgstr ""
+
+#: pages/class-welcome-docs.php:53 pages/class-welcome-page.php:223
+msgid "Welcome to"
+msgstr ""
+
+#: pages/class-welcome-docs.php:53 pages/class-welcome-page.php:223
+msgid "Theme"
+msgstr ""
+
+#: pages/class-welcome-docs.php:54 pages/class-welcome-page.php:224
+msgid "Fully Customizable and Easy-to-use"
+msgstr ""
+
+#: pages/class-welcome-docs.php:62
+msgid "Settings"
+msgstr ""
+
+#: pages/class-welcome-docs.php:65
+msgid "Edit Sliders"
+msgstr ""
+
+#: pages/class-welcome-docs.php:66 pages/class-welcome-page.php:346
+msgid "Customizer"
+msgstr ""
+
+#: pages/class-welcome-docs.php:67
+msgid "(choose colors, design, pageloader, type of footer and header)"
+msgstr ""
+
+#: pages/class-welcome-docs.php:69 pages/class-welcome-page.php:348
+msgid "Menu"
+msgstr ""
+
+#: pages/class-welcome-docs.php:70 pages/class-welcome-page.php:349
+msgid "(configure your menu items)"
+msgstr ""
+
+#: pages/class-welcome-docs.php:71
+msgid "Edit Headers"
+msgstr ""
+
+#: pages/class-welcome-docs.php:72 pages/class-welcome-page.php:351
+msgid "(change design of header)"
+msgstr ""
+
+#: pages/class-welcome-docs.php:73
+msgid "Edit Footers"
+msgstr ""
+
+#: pages/class-welcome-docs.php:74
+msgid "(if you choose it at Theme Options -> Design -> Footer)"
+msgstr ""
+
+#: pages/class-welcome-docs.php:76 pages/class-welcome-page.php:355
+msgid "Widgets"
+msgstr ""
+
+#: pages/class-welcome-docs.php:77 pages/class-welcome-page.php:356
+msgid "(choose custom footer to display)"
+msgstr ""
+
+#: pages/class-welcome-docs.php:78
+msgid "Contact Forms in Caldera Forms Plugin"
+msgstr ""
+
+#: pages/class-welcome-docs.php:79 pages/class-welcome-page.php:358
+msgid "(setup your email data to receive requests)"
+msgstr ""
+
+#: pages/class-welcome-docs.php:88
+msgid "Online knowledge base"
+msgstr ""
+
+#: pages/class-welcome-docs.php:89
+msgid "Auto Installation"
+msgstr ""
+
+#: pages/class-welcome-docs.php:101 pages/class-welcome-page.php:376
+#: pages/class-welcome-page.php:392
+msgid "Support"
+msgstr ""
+
+#: pages/class-welcome-docs.php:103 pages/class-welcome-page.php:394
+msgid "Rate the theme"
+msgstr ""
+
+#: pages/class-welcome-docs.php:105 pages/class-welcome-page.php:396
+msgid ""
+"Send us feedback and criticism. Your feedback and experience is valuable for "
+"us! It will help to improve the theme."
+msgstr ""
+
+#: pages/class-welcome-page.php:73
+msgid "Start of attachments import - reading appropriate XML file"
+msgstr ""
+
+#: pages/class-welcome-page.php:75
+msgid "XML file reading error occurred - check its existence"
+msgstr ""
+
+#: pages/class-welcome-page.php:77
+msgid "Please select a file."
+msgstr ""
+
+#: pages/class-welcome-page.php:78
+msgid "There were no attachment files found in the import file."
+msgstr ""
+
+#: pages/class-welcome-page.php:80
+msgid "Parsing the file."
+msgstr ""
+
+#: pages/class-welcome-page.php:81
+msgid "Importing file "
+msgstr ""
+
+#: pages/class-welcome-page.php:82
+msgid "Overall progress: "
+msgstr ""
+
+#: pages/class-welcome-page.php:83
+msgid "An error occurred. In 5 seconds, retrying file "
+msgstr ""
+
+#: pages/class-welcome-page.php:85
+msgid "All done!"
+msgstr ""
+
+#: pages/class-welcome-page.php:86
+msgid "There was an error connecting to the server."
+msgstr ""
+
+#: pages/class-welcome-page.php:88
+msgid ""
+"The program could not run. Check the error log below or your JavaScript "
+"console for more information"
+msgstr ""
+
+#: pages/class-welcome-page.php:90
+msgid "There was a fatal error. Check the last entry in the error log below."
+msgstr ""
+
+#: pages/class-welcome-page.php:226
+msgid "Auto Install"
+msgstr ""
+
+#: pages/class-welcome-page.php:228
+msgid "Manual Install"
+msgstr ""
+
+#: pages/class-welcome-page.php:240
+msgid "Automatic installation can take 2-8 min"
+msgstr ""
+
+#: pages/class-welcome-page.php:249 pages/class-welcome-page.php:422
+msgid "Select Theme version"
+msgstr ""
+
+#: pages/class-welcome-page.php:262
+msgid "Install Plugins"
+msgstr ""
+
+#: pages/class-welcome-page.php:267
+msgid "Install plugins"
+msgstr ""
+
+#: pages/class-welcome-page.php:271
+msgid "Activate plugins"
+msgstr ""
+
+#: pages/class-welcome-page.php:275
+msgid "Do Page Technical Refresh"
+msgstr ""
+
+#: pages/class-welcome-page.php:285
+msgid "Import Data"
+msgstr ""
+
+#: pages/class-welcome-page.php:290
+msgid "Import attachments"
+msgstr ""
+
+#: pages/class-welcome-page.php:295
+msgid "Attribute uploaded images to:"
+msgstr ""
+
+#: pages/class-welcome-page.php:296
+msgid "Current User"
+msgstr ""
+
+#: pages/class-welcome-page.php:298
+msgid "User in the import file"
+msgstr ""
+
+#: pages/class-welcome-page.php:300
+msgid "Select User:"
+msgstr ""
+
+#: pages/class-welcome-page.php:303
+msgid "Delay file requests by at least five seconds."
+msgstr ""
+
+#: pages/class-welcome-page.php:304
+msgid ""
+"This delay can be useful to mitigate hosts that throttle traffic when too "
+"many requests are detected from an IP address and mistaken for a DDOS attack."
+msgstr ""
+
+#: pages/class-welcome-page.php:308
+msgid "Import Demo Data"
+msgstr ""
+
+#: pages/class-welcome-page.php:312 pages/class-welcome-page.php:456
+msgid "Set Elementor's site settings"
+msgstr ""
+
+#: pages/class-welcome-page.php:316 pages/class-welcome-page.php:460
+msgid "Generate CSS"
+msgstr ""
+
+#: pages/class-welcome-page.php:320 pages/class-welcome-page.php:464
+msgid "Import Caldera Forms"
+msgstr ""
+
+#: pages/class-welcome-page.php:324 pages/class-welcome-page.php:468
+msgid "Import Widgets"
+msgstr ""
+
+#: pages/class-welcome-page.php:331
+msgid "Start installation"
+msgstr ""
+
+#: pages/class-welcome-page.php:335 pages/class-welcome-page.php:475
+msgid "Log of installation"
+msgstr ""
+
+#: pages/class-welcome-page.php:343
+msgid "2. Setup your theme"
+msgstr ""
+
+#: pages/class-welcome-page.php:350
+msgid "Edit Header"
+msgstr ""
+
+#: pages/class-welcome-page.php:352
+msgid "Edit Footer"
+msgstr ""
+
+#: pages/class-welcome-page.php:353
+msgid "(if you choose it at Customizer -> General Settings -> Footer)"
+msgstr ""
+
+#: pages/class-welcome-page.php:357
+msgid "Contact Forms"
+msgstr ""
+
+#: pages/class-welcome-page.php:379
+msgid "Online documentation"
+msgstr ""
+
+#: pages/class-welcome-page.php:381
+msgid "Send a Ticket"
+msgstr ""
+
+#: pages/class-welcome-page.php:383
+msgid "Response time is 24 hours"
+msgstr ""
+
+#: pages/class-welcome-page.php:384
+msgid ""
+"Send your site, admin login and password please. It is increase time of "
+"solving your problem"
+msgstr ""
+
+#: pages/class-welcome-page.php:416
+msgid ""
+"You can use it if you got any error and dont want to wait a solution from "
+"your hosting company."
+msgstr ""
+
+#: pages/class-welcome-page.php:418
+msgid "Details about manual installations process: "
+msgstr ""
+
+#: pages/class-welcome-page.php:435
+msgid "Begin installing plugins"
+msgstr ""
+
+#: pages/class-welcome-page.php:436 pages/class-welcome-page.php:440
+#: pages/class-welcome-page.php:448 pages/class-welcome-page.php:453
+#: pages/class-welcome-page.php:457 pages/class-welcome-page.php:461
+#: pages/class-welcome-page.php:465 pages/class-welcome-page.php:469
+msgid "Do It"
+msgstr ""
+
+#: pages/class-welcome-page.php:439
+msgid "Begin activating plugins"
+msgstr ""
+
+#: pages/class-welcome-page.php:443
+msgid "Refresh the page"
+msgstr ""
+
+#: pages/class-welcome-page.php:446
+msgid "Import Dummy Data Attachments, It can take 5-15 min"
+msgstr ""
+
+#: pages/class-welcome-page.php:451
+msgid "Import Dummy Data (Skip it, if you dont need demo-data)"
+msgstr ""
+
+#: pages/class-welcome-page.php:452
+msgid ""
+" If it got error, you can run it again 2-6 times (at slow webhosting) until "
+"you get a success message"
+msgstr ""
+
+#: pages/class-welcome-page.php:488
+msgid ""
+"It seems you have started Clientica Theme Install already, now you are "
+"trying to change Theme Type to another one. Are you sure?"
+msgstr ""
+
+#: pages/class-welcome-page.php:490
+msgid "Continue"
+msgstr ""
+
+#: pages/class-welcome-page.php:492
+msgid "Stop"
+msgstr ""
+
+#: pages/class-welcome-page.php:499
+msgid "Install Clientica Installer plugin to install the theme"
+msgstr ""

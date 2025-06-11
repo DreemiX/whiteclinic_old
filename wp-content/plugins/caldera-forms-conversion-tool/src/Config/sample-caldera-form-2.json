@@ -1,0 +1,3307 @@
+{
+    "_last_updated": "Wed, 24 Mar 2021 11:52:00 +0000",
+    "ID": "CF5ff5cb66a3cc5",
+    "cf_version": "1.8.11",
+    "name": "Sample 2",
+    "scroll_top": 1,
+    "success": "Form has been successfully submitted. Thank you.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "db_support": 1,
+    "pinned": 0,
+    "hide_form": 1,
+    "check_honey": 1,
+    "avatar_field": "",
+    "form_ajax": 1,
+    "custom_callback": "",
+    "form_visibility": "all",
+    "layout_grid": {
+      "fields": {
+        "first_name": "1:1",
+        "last_name": "1:2",
+        "street_address": "2:1",
+        "supplemental_address": "2:2",
+        "fld_5030008": "2:3",
+        "city": "3:1",
+        "fld_242170": "3:1",
+        "country": "3:2",
+        "state": "3:3",
+        "fld_7370759": "3:4",
+        "contact_email": "4:1",
+        "fld_5463819": "4:1",
+        "fld_8828469": "5:1",
+        "fld_5943112": "5:1",
+        "fld_2427411": "5:1",
+        "fld_8166305": "5:1",
+        "fld_2097454": "5:1",
+        "fld_9345951": "6:1",
+        "fld_7281435": "6:1",
+        "fld_2548038": "6:1",
+        "fld_1978925": "6:1",
+        "fld_8796299": "6:1",
+        "fld_4563073": "6:1",
+        "fld_4314805": "6:1",
+        "fld_8618935": "6:1",
+        "fld_1482389": "6:1",
+        "fld_636653": "6:1",
+        "fld_9719603": "6:1",
+        "fld_4706113": "6:1",
+        "fld_2678066": "7:1",
+        "fld_5721943": "7:1",
+        "fld_3521251": "7:1",
+        "fld_8677965": "7:1",
+        "fld_6249570": "7:1",
+        "fld_8520828": "8:1",
+        "fld_661847": "8:1",
+        "fld_8123251": "8:1",
+        "fld_6470724": "8:1",
+        "fld_7124883": "8:1",
+        "fld_4703537": "8:1",
+        "fld_8835472": "8:1",
+        "fld_9147639": "9:1",
+        "fld_2583423": "9:1",
+        "fld_1458403": "9:1",
+        "fld_6289660": "9:1",
+        "fld_5053041": "9:1",
+        "fld_7419551": "10:1",
+        "fld_1206070": "10:2",
+        "fld_1929772": "10:3",
+        "fld_4871163": "11:1",
+        "fld_7959376": "11:1",
+        "fld_6792725": "11:1",
+        "fld_2269674": "12:1",
+        "fld_9451745": "12:2",
+        "fld_805145": "12:3",
+        "fld_5602002": "12:4",
+        "submit": "13:1"
+      },
+      "structure": "6:6|4:4:4|3:3:3:3|12|12|12|12|12|12|4:4:4|12|3:3:3:3|12"
+    },
+    "fields": {
+      "first_name": {
+        "ID": "first_name",
+        "type": "text",
+        "label": "First Name",
+        "slug": "first_name",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "entry_list": 1,
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "visibility_role": {
+            "administrator": 1,
+            "editor": 1,
+            "author": 1,
+            "contributor": 1,
+            "regular": 1,
+            "student": 1,
+            "free_student": 1,
+            "transitional": 1,
+            "developing_country": 1,
+            "emeritus": 1,
+            "affiliate": 1,
+            "life": 1,
+            "elife": 1,
+            "honorary": 1,
+            "corporate": 1,
+            "free": 1,
+            "roster": 1,
+            "ssa_staff_admin": 1,
+            "civicrm_admin": 1
+          },
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "last_name": {
+        "ID": "last_name",
+        "type": "text",
+        "label": "Last Name",
+        "slug": "last_name",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "entry_list": 1,
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "street_address": {
+        "ID": "street_address",
+        "type": "text",
+        "label": "Street Address",
+        "slug": "street_address",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "supplemental_address": {
+        "ID": "supplemental_address",
+        "type": "text",
+        "label": "Supplemental Address",
+        "slug": "supplemental_address",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_5030008": {
+        "ID": "fld_5030008",
+        "type": "text",
+        "label": "Supplemental Address 2",
+        "slug": "supplemental_address_2",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "city": {
+        "ID": "city",
+        "type": "text",
+        "label": "City",
+        "slug": "city",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_242170": {
+        "ID": "fld_242170",
+        "type": "hidden",
+        "label": "Is Primary",
+        "slug": "is_primary",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default": 1,
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "country": {
+        "ID": "country",
+        "type": "civicrm_country",
+        "label": "Country/Region",
+        "slug": "country",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "Select a Country",
+          "default": 1228,
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "state": {
+        "ID": "state",
+        "type": "civicrm_state",
+        "label": "State",
+        "slug": "state",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "Select a State/Province",
+          "default": "",
+          "civicrm_country": "country",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_7370759": {
+        "ID": "fld_7370759",
+        "type": "text",
+        "label": "Zipcode",
+        "slug": "zipcode",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "contact_email": {
+        "ID": "contact_email",
+        "type": "email",
+        "label": "Email",
+        "slug": "contact_email",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_5463819": {
+        "ID": "fld_5463819",
+        "type": "phone_better",
+        "label": "Mobile Phone. Please select the country flag that represents the country code for your mobile phone",
+        "slug": "mobile_phone",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_8828469": {
+        "ID": "fld_8828469",
+        "type": "html",
+        "label": "html__fld_8828469",
+        "slug": "html_fld_8828469",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default": "<h3>Demographic Questions</h3>\n\n<p>We are collecting demographic data on our participants this year. Your answers will be shared only in the aggregate and will be kept confidential on the individual level. </p>\n\n<p>Answering the demographic questions is <strong>not required</strong> for registration.</p>"
+        }
+      },
+      "fld_5943112": {
+        "ID": "fld_5943112",
+        "type": "radio",
+        "label": "Age",
+        "slug": "age_range",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "custom_156",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1": { "value": "1", "label": "Under 25" },
+            "2": { "value": "2", "label": "26-30" },
+            "3": { "value": "3", "label": "31-40" },
+            "4": { "value": "4", "label": "41-50" },
+            "5": { "value": "5", "label": "51-60" },
+            "6": { "value": "6", "label": "Over sixty" },
+            "7": { "value": "7", "label": "Prefer not to answer" }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_2427411": {
+        "ID": "fld_2427411",
+        "type": "radio",
+        "label": "Gender",
+        "slug": "gender",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "gender_id",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_8166305": {
+        "ID": "fld_8166305",
+        "type": "checkbox",
+        "label": "Ethnicity",
+        "slug": "ethnicity",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "custom_159",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1": { "value": "1", "label": "Asian" },
+            "2": { "value": "2", "label": "Black/African American" },
+            "3": { "value": "3", "label": "Hispanic/Latino" },
+            "4": { "value": "4", "label": "Native American/Indigenous American" },
+            "5": { "value": "5", "label": "Pacific Islander" },
+            "6": { "value": "6", "label": "White/Caucasian" },
+            "7": { "value": "7", "label": "Biracial" },
+            "8": { "value": "8", "label": "Multi-racial" },
+            "9": { "value": "9", "label": "Prefer not to say" },
+            "10": { "value": "10", "label": "Self-describe" }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_2097454": {
+        "ID": "fld_2097454",
+        "type": "text",
+        "label": "Self-describe",
+        "slug": "self_describe_ethnicity",
+        "conditions": { "type": "con_2609381799807668" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_9345951": {
+        "ID": "fld_9345951",
+        "type": "section_break",
+        "label": "section_break__fld_9345951",
+        "slug": "section_break_fld_9345951",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": { "custom_class": "", "visibility": "all", "width": "" }
+      },
+      "fld_7281435": {
+        "ID": "fld_7281435",
+        "type": "html",
+        "label": "html__fld_7281435",
+        "slug": "html_fld_7281435",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "administrator": 1,
+            "editor": 1,
+            "author": 1,
+            "contributor": 1,
+            "regular": 1,
+            "student": 1,
+            "free_student": 1,
+            "transitional": 1,
+            "developing_country": 1,
+            "emeritus": 1,
+            "affiliate": 1,
+            "life": 1,
+            "elife": 1,
+            "honorary": 1,
+            "corporate": 1,
+            "free": 1,
+            "roster": 1,
+            "ssa_staff_admin": 1,
+            "civicrm_admin": 1,
+            "employer": 1
+          },
+          "default": "<h3> Meeting Pricing</h3>\n\n<p>SSA members attend the Annual Meeting at a discounted rate. <a href=\"https://www.seismosoc.org/annual-meeting/annual-meeting-registration/\" target=\"_blank\">See the registration fee chart </a> on our website for more information.</p>\n<p>Residents of a country with a low or low-middle income economy as determined by <a href=\"https://datahelpdesk.worldbank.org/knowledgebase/articles/906519#Lower_middle_income\" target=_blank>The World Bank</a> receive discounted registration. Let us know if you qualify for this reduced registration under the \u201cRegistration Fee\u201d section below.</p>\n<p> If you have any questions about your registration, please email us at info@seismosoc.org. </p>\n\n"
+        }
+      },
+      "fld_2548038": {
+        "ID": "fld_2548038",
+        "type": "html",
+        "label": "html__fld_2548038",
+        "slug": "html_fld_2548038",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "subscriber": 1,
+            "anonymous_user": 1,
+            "lapsed": 1,
+            "lapsed_emeritus": 1,
+            "lapsed_transitional": 1
+          },
+          "default": "<h3> Meeting Pricing</h3>\n\n<p>Our records indicate you are not an SSA member. If you believe this is incorrect, please email us at<a href=\"mailto:info@seismosoc.org\"> info@seismosoc.org</a>. SSA members attend the Annual Meeting at a discounted rate. See the registration fee chart <a href=\"https://www.seismosoc.org/annual-meeting/annual-meeting-registration/\" target=\"_blank\">on our website</a> for more information.</p>\n\n<p>If you register as a non-member, you will receive full benefits of SSA membership for one year. <a href=\"https://www.seismosoc.org/membership/\" target=\"_blank\">Learn more here</a>.</p>\n\n<p><em>Members of the Latin American and Caribbean Seismological Commission (LACSC) or the Seismological Society of China (SSC) may register for the SSA Annual Meeting at the SSA member rate and will not receive an SSA membership with registration. Let us know if you are an SSC or LACSC member by using the button below.</em></p>\n\n<p>Residents of a country with a low or low-middle income economy as determined by <a href=\"https://datahelpdesk.worldbank.org/knowledgebase/articles/906519#Lower_middle_income\" target=_blank>The World Bank</a> receive discounted registration. Let us know if you qualify for this reduced registration under the \u201cRegistration Fee\u201d section below.</p>\n\n<p><em>Affiliate</em> members do not receive a discounted registration to the Annual Meeting. If you would like to become an SSA Regular Member, contact info@seismosoc.org. </p>\n\n<p>If you have any questions, please email <a href=\"mailto:info@seismosoc.org\"> info@seismosoc.org</a>.</p>"
+        }
+      },
+      "fld_1978925": {
+        "ID": "fld_1978925",
+        "type": "civicrm_discount",
+        "label": "Discount Code",
+        "hide_label": 1,
+        "slug": "discount_code",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "Discount Code",
+          "button_text": "Apply Discount",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_8796299": {
+        "ID": "fld_8796299",
+        "type": "html",
+        "label": "html__fld_8796299",
+        "slug": "html_fld_8796299",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default": "<strong>Registration Fee</strong> <span aria-hidden=\"true\" role=\"presentation\" class=\"field_required\" style=\"color:#ee0000;\">*</span>\n\n<p>The below registration price reflects the discount for your member type.</p>\n"
+        }
+      },
+      "fld_4563073": {
+        "ID": "fld_4563073",
+        "type": "checkbox",
+        "label": "Are you a resident of a country with a low or low-middle income economy as determined by The World Bank?",
+        "slug": "subscribers_from_low_or_middle_income_economy",
+        "conditions": { "type": "con_5293917584295402" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "administrator": 1,
+            "editor": 1,
+            "author": 1,
+            "contributor": 1,
+            "regular": 1,
+            "student": 1,
+            "free_student": 1,
+            "transitional": 1,
+            "developing_country": 1,
+            "emeritus": 1,
+            "life": 1,
+            "elife": 1,
+            "honorary": 1,
+            "corporate": 1,
+            "roster": 1,
+            "ssa_staff_admin": 1,
+            "civicrm_admin": 1,
+            "employer": 1
+          },
+          "default_option": "",
+          "auto_type": "",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "opt1516117": { "calc_value": "Yes", "value": "Yes", "label": "Yes" }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_4314805": {
+        "ID": "fld_4314805",
+        "type": "radio",
+        "label": "Are you a Member of LACSC or SSC?",
+        "slug": "if_you_are_an_ssc_or_lacsc_member_click_here",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "subscriber": 1,
+            "anonymous_user": 1,
+            "lapsed": 1,
+            "affiliate": 1,
+            "free": 1,
+            "lapsed_emeritus": 1,
+            "lapsed_transitional": 1
+          },
+          "default_option": "",
+          "auto_type": "",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "option": {
+            "opt1449974": {
+              "calc_value": "SSC Member",
+              "value": "SSC Member",
+              "label": "SSC Member"
+            },
+            "opt1382095": {
+              "calc_value": "LACSC Member",
+              "value": "LACSC Member",
+              "label": "LACSC Member"
+            },
+            "opt2005453": {
+              "calc_value": "Neither",
+              "value": "Neither",
+              "label": "Neither"
+            }
+          },
+          "default": "opt2005453",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_8618935": {
+        "ID": "fld_8618935",
+        "type": "checkbox",
+        "label": "LMIC Registration -2021",
+        "hide_label": 1,
+        "slug": "lmic_registration_2021",
+        "conditions": { "type": "con_7279411512389258" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "regular": 1,
+            "student": 1,
+            "free_student": 1,
+            "transitional": 1,
+            "developing_country": 1,
+            "emeritus": 1,
+            "life": 1,
+            "elife": 1,
+            "honorary": 1,
+            "corporate": 1,
+            "roster": 1
+          },
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_692",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1447": {
+              "value": "1447",
+              "label": "Low and Low-Middle Income Economies Registration - 285.000000000",
+              "calc_value": "285.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_1482389": {
+        "ID": "fld_1482389",
+        "type": "checkbox",
+        "label": "LMIC Full Registration -2021",
+        "hide_label": 1,
+        "slug": "lmic_full_registration_2021",
+        "conditions": { "type": "con_7279411512389258" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "regular": 1,
+            "student": 1,
+            "free_student": 1,
+            "transitional": 1,
+            "developing_country": 1,
+            "emeritus": 1,
+            "life": 1,
+            "elife": 1,
+            "honorary": 1,
+            "corporate": 1,
+            "roster": 1
+          },
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_691",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1446": {
+              "value": "1446",
+              "label": "Low and Low-Middle Income Economies Full Registration - 235.000000000",
+              "calc_value": "235.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_636653": {
+        "ID": "fld_636653",
+        "type": "checkbox",
+        "label": "LMIC Pre-Registration -2021",
+        "hide_label": 1,
+        "slug": "lmic_pre_registration_2021",
+        "conditions": { "type": "con_7279411512389258" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "administrator": 1,
+            "regular": 1,
+            "student": 1,
+            "free_student": 1,
+            "transitional": 1,
+            "developing_country": 1,
+            "emeritus": 1,
+            "life": 1,
+            "elife": 1,
+            "honorary": 1,
+            "corporate": 1,
+            "roster": 1,
+            "ssa_staff_admin": 1
+          },
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_690",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1445": {
+              "value": "1445",
+              "label": "Low and Low-Middle Income Economies Pre-Registration - 199.000000000",
+              "calc_value": "199.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_9719603": {
+        "ID": "fld_9719603",
+        "type": "dropdown",
+        "label": "Registration Type",
+        "slug": "registration_type",
+        "conditions": { "type": "con_6864344121677213" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "subscriber": 1,
+            "anonymous_user": 1,
+            "lapsed": 1,
+            "affiliate": 1,
+            "free": 1,
+            "lapsed_emeritus": 1,
+            "lapsed_transitional": 1
+          },
+          "placeholder": "",
+          "default_option": "",
+          "auto_type": "",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "show_values": 1,
+          "option": {
+            "opt1000921": {
+              "calc_value": 620,
+              "value": 1440,
+              "label": "Non-Member Registration - 620.00"
+            },
+            "opt2255313": {
+              "calc_value": 285,
+              "value": 1442,
+              "label": "Non-Member Student Registration - 285.00"
+            },
+            "opt3234421": {
+              "calc_value": 235,
+              "value": 1446,
+              "label": "Low and Low-Middle Income Economies Registration - 235.00"
+            },
+            "opt4342554": {
+              "calc_value": 25,
+              "value": 1444,
+              "label": "K-12 Registration - 25.00"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_4706113": {
+        "ID": "fld_4706113",
+        "type": "dropdown",
+        "label": "SSC and LACSC Registration Type",
+        "slug": "lasc_reg_type",
+        "conditions": { "type": "con_5210241287567442" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "subscriber": 1,
+            "anonymous_user": 1,
+            "lapsed": 1,
+            "affiliate": 1,
+            "free": 1,
+            "lapsed_emeritus": 1,
+            "lapsed_transitional": 1
+          },
+          "placeholder": "",
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_702",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "show_values": 1,
+          "option": {
+            "1520": {
+              "value": "1520",
+              "label": "SSC or LACSC Member Registration - 2021 - 470.000000000",
+              "calc_value": "470.000000000"
+            },
+            "1521": {
+              "value": "1521",
+              "label": "SSC or LACSC Student Member Registration - 2021 - 235.000000000",
+              "calc_value": "235.000000000"
+            },
+            "1522": {
+              "value": "1522",
+              "label": "SSC or LACSC Early Career Member Registration - 2021 - 282.000000000",
+              "calc_value": "282.000000000"
+            },
+            "1523": {
+              "value": "1523",
+              "label": "SSC or LACSC Developing Country Member Registration - 2021 - 282.000000000",
+              "calc_value": "282.000000000"
+            },
+            "1524": {
+              "value": "1524",
+              "label": "SSC or LACSC Emeritus Member Registration - 2021 - 282.000000000",
+              "calc_value": "282.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_2678066": {
+        "ID": "fld_2678066",
+        "type": "checkbox",
+        "label": "Registration Regular Member",
+        "hide_label": 1,
+        "slug": "registration_regular_member",
+        "conditions": { "type": "con_1842255043853980" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": {
+            "administrator": 1,
+            "editor": 1,
+            "author": 1,
+            "contributor": 1,
+            "regular": 1,
+            "life": 1,
+            "elife": 1,
+            "honorary": 1,
+            "corporate": 1,
+            "roster": 1,
+            "ssa_staff_admin": 1,
+            "civicrm_admin": 1
+          },
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_674",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1429": {
+              "value": "1429",
+              "label": "Member Registration Fees - 2021 - 520.000000000",
+              "calc_value": "520.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_5721943": {
+        "ID": "fld_5721943",
+        "type": "checkbox",
+        "label": "Registration Developing Country Member",
+        "hide_label": 1,
+        "slug": "registration_developing_country_member",
+        "conditions": { "type": "con_1842255043853980" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": { "developing_country": 1 },
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_675",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1430": {
+              "value": "1430",
+              "label": "Developing Country - 332.000000000",
+              "calc_value": "332.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_3521251": {
+        "ID": "fld_3521251",
+        "type": "checkbox",
+        "label": "Registration Student Member",
+        "hide_label": 1,
+        "slug": "registration_student_member",
+        "conditions": { "type": "con_1842255043853980" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": { "student": 1, "free_student": 1 },
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_676",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1431": {
+              "value": "1431",
+              "label": "Student Member Registration Fees - 2021 - 285.000000000",
+              "calc_value": "285.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_8677965": {
+        "ID": "fld_8677965",
+        "type": "checkbox",
+        "label": "Registration Early-Career Member",
+        "hide_label": 1,
+        "slug": "registration_early_career_member",
+        "conditions": { "type": "con_1842255043853980" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": { "transitional": 1 },
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_677",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1432": {
+              "value": "1432",
+              "label": "Early-Career Member Registration Fees - 2021 - 332.000000000",
+              "calc_value": "332.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_6249570": {
+        "ID": "fld_6249570",
+        "type": "checkbox",
+        "label": "Registration Emeritus Member",
+        "hide_label": 1,
+        "slug": "registration_emeritus_member",
+        "conditions": { "type": "con_1842255043853980" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "user",
+          "visibility_role": { "emeritus": 1 },
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "cfc_price_field_678",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1433": {
+              "value": "1433",
+              "label": "Emeritus Member Registration Fees - 2021 - 332.000000000",
+              "calc_value": "332.000000000"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_8520828": {
+        "ID": "fld_8520828",
+        "type": "html",
+        "label": "html__fld_8520828",
+        "slug": "html_fld_8520828",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default": "<strong>If you would like to make a donation to SSA, please complete the following</strong>"
+        }
+      },
+      "fld_661847": {
+        "ID": "fld_661847",
+        "type": "text",
+        "label": "General Fund",
+        "slug": "general_fund",
+        "conditions": { "type": "" },
+        "caption": "Help SSA broaden the reach of scientific content by supporting new and ongoing programs. Contributions to the SSA General Fund make it possible to expand and serve the community.",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "off",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "[9{*}]",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_8123251": {
+        "ID": "fld_8123251",
+        "type": "section_break",
+        "label": "section_break__fld_8123251",
+        "slug": "section_break_fld_8123251",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": { "custom_class": "", "visibility": "all", "width": "" }
+      },
+      "fld_6470724": {
+        "ID": "fld_6470724",
+        "type": "checkbox",
+        "label": "Code of Conduct",
+        "slug": "code_of_conduct",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "SSA is committed to fostering the exchange of scientific ideas by providing a safe, productive and welcoming environment for all SSA sponsored meeting participants, including attendees, staff, volunteers and vendors. SSA has established a Code of Conduct to provide a respectful setting at SSA events. Please review the <a href=\"https://www.seismosoc.org/meetings/code-of-conduct/\" target=\"_blank\">SSA Code of Conduct here</a>.",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "custom_129",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1": {
+              "value": "1",
+              "label": "By checking here you are confirming that you have read the SSA Code of Conduct and will adhere to its guidelines:"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_7124883": {
+        "ID": "fld_7124883",
+        "type": "checkbox",
+        "label": "Ethics Policy",
+        "slug": "ethics_policy",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "Go here to read the <a href=\"https://www.seismosoc.org/inside/professional-ethics-policy/\" target=\"_blank\">SSA Ethics Policy here</a>.",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "custom_149",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1": {
+              "value": "1",
+              "label": "By checking here you are confirming that you have read the SSA Professional Ethics Policy and will adhere to its guidelines"
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_4703537": {
+        "ID": "fld_4703537",
+        "type": "checkbox",
+        "label": "Photography Waiver",
+        "slug": "photography_waiver",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "By attending the SSA Meeting, you grant SSA the right to use your name, photograph and biography in SSA educational, news or promotional material, whether in print, electronic or other media, including the SSA website. These events will be recorded and made available to registrants and SSA members. No individual may record or broadcast any of the sessions without prior written consent of SSA.",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "custom_75",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1": {
+              "value": "1",
+              "label": "Check here to indicate that you have read and agree to the statement below."
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_8835472": {
+        "ID": "fld_8835472",
+        "type": "checkbox",
+        "label": "Refund Policy",
+        "slug": "refund_policy",
+        "conditions": { "type": "" },
+        "required": 1,
+        "caption": "Meeting registration fees are 100% refundable if the cancellation is received on or before 12 April. Cancellations made after 12 April cannot be refunded. Abstract fees are not refundable.",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default_option": "",
+          "auto": 1,
+          "auto_type": "custom_76",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "option": {
+            "1": {
+              "value": "1",
+              "label": "Check here to indicate that you have read and agree to the policy below."
+            }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_9147639": {
+        "ID": "fld_9147639",
+        "type": "section_break",
+        "label": "section_break__fld_9147639",
+        "slug": "section_break_fld_9147639",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": { "custom_class": "", "visibility": "all", "width": "" }
+      },
+      "fld_2583423": {
+        "ID": "fld_2583423",
+        "type": "calculation",
+        "label": "Total",
+        "hide_label": 1,
+        "slug": "total",
+        "conditions": { "type": "" },
+        "caption": "",
+        "entry_list": 1,
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "element": "h3",
+          "classes": "total-line",
+          "before": "Total: $",
+          "after": "",
+          "fixed": 1,
+          "thousand_separator": ",",
+          "decimal_separator": ".",
+          "formular": " ( fld_2678066+fld_5721943+fld_3521251+fld_8677965+fld_6249570+fld_661847+fld_8618935+fld_1482389+fld_636653+fld_9719603+fld_4706113 ) ",
+          "config": {
+            "group": [
+              {
+                "lines": [
+                  { "operator": "+", "field": "fld_2678066" },
+                  { "operator": "+", "field": "fld_5721943" },
+                  { "operator": "+", "field": "fld_3521251" },
+                  { "operator": "+", "field": "fld_8677965" },
+                  { "operator": "+", "field": "fld_6249570" },
+                  { "operator": "+", "field": "fld_661847" },
+                  { "operator": "+", "field": "fld_8618935" },
+                  { "operator": "+", "field": "fld_1482389" },
+                  { "operator": "+", "field": "fld_636653" },
+                  { "operator": "+", "field": "fld_9719603" },
+                  { "operator": "+", "field": "fld_4706113" }
+                ]
+              }
+            ]
+          },
+          "manual_formula": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_1458403": {
+        "ID": "fld_1458403",
+        "type": "radio",
+        "label": "My billing address is same as above",
+        "slug": "my_billing_address_is_same_as_above",
+        "conditions": { "type": "con_5235536774867240" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default_option": "",
+          "auto_type": "",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "option": {
+            "opt1275194": { "calc_value": "Yes", "value": "Yes", "label": "Yes" },
+            "opt1290337": { "calc_value": "No", "value": "No", "label": "No" }
+          },
+          "default": "opt1290337",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_6289660": {
+        "ID": "fld_6289660",
+        "type": "credit_card_number",
+        "label": "Credit Card Number",
+        "slug": "credit_card_number",
+        "conditions": { "type": "con_5235536774867240" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "",
+          "default": "",
+          "exp": null,
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_5053041": {
+        "ID": "fld_5053041",
+        "type": "hidden",
+        "label": "stripe",
+        "slug": "stripe",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default": 1,
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_7419551": {
+        "ID": "fld_7419551",
+        "type": "dropdown",
+        "label": "Expiration Month",
+        "slug": "expiration_month",
+        "conditions": { "type": "con_5235536774867240" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "",
+          "default_option": "",
+          "auto_type": "",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "show_values": 1,
+          "option": {
+            "opt707060": { "calc_value": 1, "value": "01", "label": "01" },
+            "opt1888506": { "calc_value": 2, "value": "02", "label": "02" },
+            "opt2100471": { "calc_value": 3, "value": "03", "label": "03" },
+            "opt3595972": { "calc_value": 4, "value": "04", "label": "04" },
+            "opt4885581": { "calc_value": 5, "value": "05", "label": "05" },
+            "opt5974885": { "calc_value": 6, "value": "06", "label": "06" },
+            "opt6304194": { "calc_value": 7, "value": "07", "label": "07" },
+            "opt7457530": { "calc_value": 8, "value": "08", "label": "08" },
+            "opt9431283": { "calc_value": 9, "value": "09", "label": "09" },
+            "opt9971285": { "calc_value": 10, "value": 10, "label": 10 },
+            "opt10559618": { "calc_value": 11, "value": 11, "label": 11 },
+            "opt12053455": { "calc_value": 12, "value": 12, "label": 12 }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_1206070": {
+        "ID": "fld_1206070",
+        "type": "dropdown",
+        "label": "Expiration Year",
+        "slug": "expiration_year",
+        "conditions": { "type": "con_5235536774867240" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "",
+          "default_option": "",
+          "auto_type": "",
+          "taxonomy": "category",
+          "post_type": "post",
+          "value_field": "name",
+          "orderby_tax": "name",
+          "orderby_post": "name",
+          "order": "ASC",
+          "default": "",
+          "show_values": 1,
+          "option": {
+            "opt1449875": { "calc_value": 21, "value": 21, "label": 21 },
+            "opt2934694": { "calc_value": 22, "value": 22, "label": 22 },
+            "opt3287902": { "calc_value": 23, "value": 23, "label": 23 },
+            "opt4413375": { "calc_value": 24, "value": 24, "label": 24 },
+            "opt5784585": { "calc_value": 25, "value": 25, "label": 25 },
+            "opt7310858": { "calc_value": 26, "value": 26, "label": 26 },
+            "opt7502579": { "calc_value": 27, "value": 27, "label": 27 },
+            "opt9238441": { "calc_value": 28, "value": 28, "label": 28 },
+            "opt9464082": { "calc_value": 29, "value": 29, "label": 29 }
+          },
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_1929772": {
+        "ID": "fld_1929772",
+        "type": "credit_card_cvc",
+        "label": "CVC",
+        "slug": "cvc",
+        "conditions": { "type": "con_5235536774867240" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "",
+          "default": "",
+          "credit_card_field": null,
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_4871163": {
+        "ID": "fld_4871163",
+        "type": "text",
+        "label": "Billing Name on Card",
+        "slug": "billing_name",
+        "conditions": { "type": "con_7139965815613301" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_7959376": {
+        "ID": "fld_7959376",
+        "type": "text",
+        "label": "Street Address",
+        "slug": "billing_street_address",
+        "conditions": { "type": "con_7139965815613301" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_6792725": {
+        "ID": "fld_6792725",
+        "type": "hidden",
+        "label": "Is Billing",
+        "slug": "is_billing",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "default": 1,
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_2269674": {
+        "ID": "fld_2269674",
+        "type": "text",
+        "label": "City",
+        "slug": "billing_city",
+        "conditions": { "type": "con_7139965815613301" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_9451745": {
+        "ID": "fld_9451745",
+        "type": "civicrm_country",
+        "label": "Country",
+        "slug": "billing_country",
+        "conditions": { "type": "con_7139965815613301" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "Select a Country",
+          "default": 1228,
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_805145": {
+        "ID": "fld_805145",
+        "type": "civicrm_state",
+        "label": "State",
+        "slug": "billing_state",
+        "conditions": { "type": "con_7139965815613301" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "placeholder": "Select a State/Province",
+          "default": "",
+          "civicrm_country": "billing_country",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "fld_5602002": {
+        "ID": "fld_5602002",
+        "type": "text",
+        "label": "Zipcode",
+        "slug": "billing_zipcode",
+        "conditions": { "type": "con_7139965815613301" },
+        "required": 1,
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "autocomplete": "",
+          "placeholder": "",
+          "default": "",
+          "type_override": "text",
+          "mask": "",
+          "email_identifier": 0,
+          "personally_identifying": 0
+        }
+      },
+      "submit": {
+        "ID": "submit",
+        "type": "button",
+        "label": "Submit",
+        "slug": "submit",
+        "conditions": { "type": "" },
+        "caption": "",
+        "config": {
+          "custom_class": "",
+          "visibility": "all",
+          "type": "submit",
+          "class": "button",
+          "target": ""
+        }
+      }
+    },
+    "page_names": ["Page 1"],
+    "mailer": {
+      "sender_name": "SSA",
+      "sender_email": "info@seismosoc.org",
+      "reply_to": "info@seismosoc.org",
+      "email_type": "html",
+      "recipients": "%contact_email%",
+      "bcc_to": "",
+      "email_subject": "Virtual Tomography Registration",
+      "email_message": "Dear %first_name%,\n\nThank you for registering for the SSA's Tomography Virtual Sessions! This email confirms we have received your registration. We are looking forward to you joining us.\n\nIf you have any questions, please write to us at <a href=\"mailto:info@seismosoc.org\">info@seismosoc.org</a>. We look forward to you joining us.\n\nBest,\nSeismological Society of America"
+    },
+    "processors": {
+      "fp_67800236": {
+        "ID": "fp_67800236",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_contact",
+        "config": {
+          "auto_pop": 1,
+          "enabled_entities": {
+            "process_address": 1,
+            "process_phone": 1,
+            "process_email": 1
+          },
+          "contact_link": 1,
+          "civicrm_contact": {
+            "contact_type": "Individual",
+            "contact_sub_type": "",
+            "dedupe_rule": 1,
+            "do_not_email": "",
+            "do_not_phone": "",
+            "do_not_mail": "",
+            "do_not_sms": "",
+            "do_not_trade": "",
+            "is_opt_out": "",
+            "legal_identifier": "",
+            "nick_name": "",
+            "legal_name": "",
+            "image_URL": "",
+            "preferred_communication_method": "",
+            "preferred_language": "",
+            "preferred_mail_format": "",
+            "source": "",
+            "first_name": "%first_name%",
+            "middle_name": "",
+            "last_name": "%last_name%",
+            "prefix_id": "",
+            "suffix_id": "",
+            "formal_title": "",
+            "communication_style_id": "",
+            "job_title": "",
+            "gender_id": "%gender%",
+            "birth_date": "",
+            "household_name": "",
+            "organization_name": "",
+            "sic_code": "",
+            "current_employer": "",
+            "email": "%contact_email%",
+            "custom_86": "",
+            "custom_87": "",
+            "custom_88": "",
+            "custom_90": "",
+            "custom_92": "",
+            "custom_94": "",
+            "custom_95": "",
+            "custom_96": "",
+            "custom_97": "",
+            "custom_98": "",
+            "custom_99": "",
+            "custom_103": "",
+            "custom_104": "",
+            "custom_1": "",
+            "custom_2": "",
+            "custom_3": "",
+            "custom_4": "",
+            "custom_5": "",
+            "custom_7": "",
+            "custom_8": "",
+            "custom_9": "",
+            "custom_10": "",
+            "custom_11": "",
+            "custom_40": "",
+            "custom_41": "",
+            "custom_42": "",
+            "custom_122": "",
+            "custom_123": "",
+            "custom_124": "",
+            "custom_127": "",
+            "custom_131": "",
+            "custom_132": "",
+            "custom_155": "",
+            "custom_13": "",
+            "custom_14": "",
+            "custom_17": "",
+            "custom_18": "",
+            "custom_19": "",
+            "custom_20": "",
+            "custom_21": "",
+            "custom_22": "",
+            "custom_23": "",
+            "custom_24": "",
+            "custom_25": "",
+            "custom_26": "",
+            "custom_27": "",
+            "custom_28": "",
+            "custom_29": "",
+            "custom_30": "",
+            "custom_31": "",
+            "custom_32": "",
+            "custom_33": "",
+            "custom_35": "",
+            "custom_54": "",
+            "custom_121": "",
+            "custom_15": "",
+            "custom_16": "",
+            "custom_34": "",
+            "custom_46": "",
+            "custom_47": "",
+            "custom_48": "",
+            "custom_49": "",
+            "custom_112": "",
+            "custom_113": "",
+            "custom_114": "",
+            "custom_115": "",
+            "custom_116": "",
+            "custom_125": "",
+            "custom_130": "",
+            "custom_154": "",
+            "custom_156": "%age_range%",
+            "custom_158": "",
+            "custom_159": "%ethnicity%",
+            "custom_160": "%self_describe_ethnicity%"
+          },
+          "civicrm_address": {
+            "location_type_id": 3,
+            "is_primary": "%is_primary%",
+            "is_billing": "",
+            "street_address": "%street_address%",
+            "supplemental_address_1": "%supplemental_address%",
+            "supplemental_address_2": "%supplemental_address_2%",
+            "city": "%city%",
+            "state_province_id": "%state%",
+            "postal_code": "%zipcode%",
+            "country_id": "%country%",
+            "geo_code_1": "",
+            "geo_code_2": "",
+            "name": ""
+          },
+          "civicrm_phone": {
+            "location_type_id": 3,
+            "phone_type_id": 2,
+            "is_primary": "",
+            "is_billing": "",
+            "phone": "%mobile_phone%",
+            "phone_numeric": ""
+          },
+          "civicrm_note": { "note": "", "subject": "" },
+          "civicrm_email": {
+            "location_type_id": 3,
+            "email": "%contact_email%",
+            "is_primary": "",
+            "is_billing": "",
+            "on_hold": "",
+            "is_bulkmail": ""
+          },
+          "civicrm_website": { "website_type_id": "", "url": "" },
+          "civicrm_im": {
+            "location_type_id": "",
+            "name": "",
+            "provider_id": "",
+            "is_primary": "",
+            "is_billing": ""
+          },
+          "civicrm_group": { "contact_group": "" }
+        },
+        "conditions": { "type": "" }
+      },
+      "fp_29434970": {
+        "ID": "fp_29434970",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_address",
+        "config": {
+          "contact_link": 1,
+          "location_type_id": 5,
+          "is_primary": "",
+          "is_billing": "fld_6792725",
+          "street_address": "street_address",
+          "supplemental_address_1": "supplemental_address",
+          "supplemental_address_2": "",
+          "city": "city",
+          "state_province_id": "state",
+          "postal_code": "fld_7370759",
+          "country_id": "country",
+          "geo_code_1": "",
+          "geo_code_2": "",
+          "name": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw43697957543": {
+              "cl13104381608": {
+                "field": "fld_1458403",
+                "compare": "is",
+                "value": "opt1275194"
+              }
+            }
+          }
+        }
+      },
+      "fp_78633170": {
+        "ID": "fp_78633170",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_address",
+        "config": {
+          "contact_link": 1,
+          "location_type_id": 5,
+          "is_primary": "",
+          "is_billing": "fld_6792725",
+          "street_address": "fld_7959376",
+          "supplemental_address_1": "",
+          "supplemental_address_2": "",
+          "city": "fld_2269674",
+          "state_province_id": "fld_805145",
+          "postal_code": "fld_5602002",
+          "country_id": "fld_9451745",
+          "geo_code_1": "",
+          "geo_code_2": "",
+          "name": "fld_4871163"
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw32334329359": {
+              "cl3744728643": {
+                "field": "fld_1458403",
+                "compare": "is",
+                "value": "opt1290337"
+              }
+            }
+          }
+        }
+      },
+      "fp_46867283": {
+        "ID": "fp_46867283",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": "contact_1",
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw88864643499": {
+              "cl6727011977": {
+                "field": "fld_9719603",
+                "compare": "is",
+                "value": "opt1000921"
+              }
+            }
+          }
+        }
+      },
+      "fp_67042011": {
+        "ID": "fp_67042011",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw81988513095": {
+              "cl2346404547": {
+                "field": "fld_9719603",
+                "compare": "is",
+                "value": "opt2255313"
+              }
+            }
+          }
+        }
+      },
+      "fp_31479161": {
+        "ID": "fp_31479161",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw32938866566": {
+              "cl6358983893": {
+                "field": "fld_9719603",
+                "compare": "is",
+                "value": "opt4342554"
+              }
+            }
+          }
+        }
+      },
+      "fp_72209082": {
+        "ID": "fp_72209082",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw81698606196": {
+              "cl12522576196": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1520
+              }
+            },
+            "rw82595214441": {
+              "cl1415056779": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1521
+              }
+            },
+            "rw80487011597": {
+              "cl9124489493": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1522
+              }
+            },
+            "rw28323368072": {
+              "cl6875022308": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1523
+              }
+            },
+            "rw67793629708": {
+              "cl1213644659": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1524
+              }
+            }
+          }
+        }
+      },
+      "fp_1551348": {
+        "ID": "fp_1551348",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw77868826537": {
+              "cl16016166631": {
+                "field": "fld_2678066",
+                "compare": "is",
+                "value": 1429
+              }
+            }
+          }
+        }
+      },
+      "fp_63679464": {
+        "ID": "fp_63679464",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw91830672032": {
+              "cl1793204548": {
+                "field": "fld_5721943",
+                "compare": "is",
+                "value": 1430
+              }
+            }
+          }
+        }
+      },
+      "fp_9612576": {
+        "ID": "fp_9612576",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw48160226936": {
+              "cl5343763465": {
+                "field": "fld_3521251",
+                "compare": "is",
+                "value": 1431
+              }
+            }
+          }
+        }
+      },
+      "fp_61744927": {
+        "ID": "fp_61744927",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw90177560264": {
+              "cl7534942242": {
+                "field": "fld_8677965",
+                "compare": "is",
+                "value": 1432
+              }
+            }
+          }
+        }
+      },
+      "fp_99893312": {
+        "ID": "fp_99893312",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw76350820188": {
+              "cl7886263480": {
+                "field": "fld_8618935",
+                "compare": "is",
+                "value": 1447
+              }
+            },
+            "rw35437258161": {
+              "cl15035691220": {
+                "field": "fld_1482389",
+                "compare": "is",
+                "value": 1446
+              }
+            },
+            "rw42553938220": {
+              "cl6122355484": {
+                "field": "fld_636653",
+                "compare": "is",
+                "value": 1445
+              }
+            },
+            "rw37445766555": {
+              "cl2226148713": {
+                "field": "fld_9719603",
+                "compare": "is",
+                "value": "opt3234421"
+              }
+            }
+          }
+        }
+      },
+      "fp_49337286": {
+        "ID": "fp_49337286",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_participant",
+        "config": {
+          "is_monetary": 1,
+          "is_email_receipt": 1,
+          "disable_all_fields": 1,
+          "contact_link": 1,
+          "id": 48,
+          "role_id": "default_role_id",
+          "status_id": "default_status_id",
+          "campaign_id": "",
+          "source": "{embed_post:post_title}",
+          "registered_by_id": null,
+          "custom_62": "",
+          "custom_64": "",
+          "custom_65": "",
+          "custom_66": "",
+          "custom_67": "",
+          "custom_73": "",
+          "custom_74": "",
+          "custom_75": "fld_4703537",
+          "custom_76": "fld_8835472",
+          "custom_81": "",
+          "custom_117": "",
+          "custom_118": "",
+          "custom_126": "",
+          "custom_128": "",
+          "custom_129": "fld_6470724",
+          "custom_133": "",
+          "custom_134": "",
+          "custom_135": "",
+          "custom_136": "",
+          "custom_137": "",
+          "custom_139": "",
+          "custom_140": "",
+          "custom_141": "",
+          "custom_143": "",
+          "custom_144": "",
+          "custom_145": "",
+          "custom_146": "",
+          "custom_147": "",
+          "custom_148": "",
+          "custom_149": "fld_7124883",
+          "custom_150": "",
+          "custom_151": "",
+          "custom_152": "",
+          "custom_153": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw21115175640": {
+              "cl18471876704": {
+                "field": "fld_6249570",
+                "compare": "is",
+                "value": 1433
+              }
+            }
+          }
+        }
+      },
+      "fp_66662003": {
+        "ID": "fp_66662003",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_46867283}",
+          "price_field_value": "%registration_type%",
+          "fixed_price_field_value": 26,
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw66732182005": {
+              "cl2821901502": {
+                "field": "fld_9719603",
+                "compare": "is",
+                "value": "opt1000921"
+              }
+            }
+          }
+        }
+      },
+      "fp_50469": {
+        "ID": "fp_50469",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_67042011}",
+          "price_field_value": "%registration_type%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw8358898753": {
+              "cl19105903": {
+                "field": "fld_9719603",
+                "compare": "is",
+                "value": "opt2255313"
+              }
+            }
+          }
+        }
+      },
+      "fp_41786267": {
+        "ID": "fp_41786267",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_31479161}",
+          "price_field_value": "%registration_type%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw16799803541": {
+              "cl15191258286": {
+                "field": "fld_9719603",
+                "compare": "is",
+                "value": "opt4342554"
+              }
+            }
+          }
+        }
+      },
+      "fp_1773003": {
+        "ID": "fp_1773003",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_72209082}",
+          "price_field_value": "%lasc_reg_type%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw44568919815": {
+              "cl13378132407": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1520
+              }
+            },
+            "rw35078692290": {
+              "cl10088474920": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1521
+              }
+            },
+            "rw85283255499": {
+              "cl9894330191": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1522
+              }
+            },
+            "rw33231580863": {
+              "cl11365454819": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1523
+              }
+            },
+            "rw10001528483": {
+              "cl16577095178": {
+                "field": "fld_4706113",
+                "compare": "is",
+                "value": 1524
+              }
+            }
+          }
+        }
+      },
+      "fp_11981806": {
+        "ID": "fp_11981806",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_1551348}",
+          "price_field_value": "%registration_regular_member%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw22016320996": {
+              "cl11467517831": {
+                "field": "fld_2678066",
+                "compare": "is",
+                "value": 1429
+              }
+            }
+          }
+        }
+      },
+      "fp_90918479": {
+        "ID": "fp_90918479",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_63679464}",
+          "price_field_value": "%registration_developing_country_member%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw25096696326": {
+              "cl1816412430": {
+                "field": "fld_5721943",
+                "compare": "is",
+                "value": 1430
+              }
+            }
+          }
+        }
+      },
+      "fp_20478482": {
+        "ID": "fp_20478482",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_9612576}",
+          "price_field_value": "%registration_student_member%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw41912330607": {
+              "cl5443396106": {
+                "field": "fld_3521251",
+                "compare": "is",
+                "value": 1431
+              }
+            }
+          }
+        }
+      },
+      "fp_33289310": {
+        "ID": "fp_33289310",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_61744927}",
+          "price_field_value": "%registration_early_career_member%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw94640221139": {
+              "cl2831487780": {
+                "field": "fld_8677965",
+                "compare": "is",
+                "value": 1432
+              }
+            }
+          }
+        }
+      },
+      "fp_76312576": {
+        "ID": "fp_76312576",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_49337286}",
+          "price_field_value": "%registration_emeritus_member%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw75552564048": {
+              "cl17703709319": {
+                "field": "fld_6249570",
+                "compare": "is",
+                "value": 1433
+              }
+            }
+          }
+        }
+      },
+      "fp_52544286": {
+        "ID": "fp_52544286",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_participant",
+          "entity_params": "{civicrm_participant:processor_id:fp_99893312}",
+          "price_field_value": "%lmic_registration_2021%%lmic_full_registration_2021%%lmic_pre_registration_2021%%registration_type%",
+          "fixed_price_field_value": "",
+          "qty": "",
+          "amount": ""
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw63000818472": {
+              "cl8371500931": {
+                "field": "fld_8618935",
+                "compare": "is",
+                "value": 1447
+              }
+            },
+            "rw67946345648": {
+              "cl9802863994": {
+                "field": "fld_1482389",
+                "compare": "is",
+                "value": 1446
+              }
+            },
+            "rw39173412888": {
+              "cl18240058167": {
+                "field": "fld_636653",
+                "compare": "is",
+                "value": 1445
+              }
+            },
+            "rw17305502403": {
+              "cl15252155329": {
+                "field": "fld_9719603",
+                "compare": "is",
+                "value": "opt3234421"
+              }
+            }
+          }
+        }
+      },
+      "fp_94821826": {
+        "ID": "fp_94821826",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_line_item",
+        "config": {
+          "entity_table": "civicrm_contribution",
+          "entity_params": "",
+          "price_field_value": "",
+          "is_fixed_price_field": 1,
+          "fixed_price_field_value": 35,
+          "qty": "",
+          "is_other_amount": 1,
+          "amount": "%general_fund%"
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw69845479195": {
+              "cl1847507438": {
+                "field": "fld_661847",
+                "compare": ">",
+                "value": 0.01
+              }
+            }
+          }
+        }
+      },
+      "fp_83554312": {
+        "ID": "fp_83554312",
+        "runtimes": { "insert": 1 },
+        "type": "auth-net-single",
+        "config": {
+          "auth-net-single-api_login": "8Ea35kw6PX",
+          "auth-net-single-transaction_key": "2Fg29fME24m782CQ",
+          "auth-net-single-first_name": "%first_name%",
+          "auth-net-single-last_name": "%last_name%",
+          "auth-net-single-card_number": "%credit_card_number%",
+          "auth-net-single-card_cvc": "%cvc%",
+          "auth-net-single-card_exp_month": "%expiration_month%",
+          "auth-net-single-card_exp_year": "%expiration_year%",
+          "auth-net-single-user_email": "contact_email",
+          "_required_bounds": ["auth-net-single-user_email"],
+          "auth-net-single-card_address": "%street_address%",
+          "auth-net-single-card_address_2": "%supplemental_address%",
+          "auth-net-single-card_city": "%city%",
+          "auth-net-single-card_state": "%state%",
+          "auth-net-single-card_country": "%country%",
+          "auth-net-single-card_zip": "%zipcode%",
+          "auth-net-single-company": "",
+          "auth-net-single-phone": "",
+          "auth-net-single-invoice_num": "",
+          "auth-net-single-customer_id": "",
+          "auth-net-single-price": "%total%",
+          "auth-net-single-description": "{embed_post:post_title}"
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw15958856814": {
+              "cl10835181561": {
+                "field": "fld_1458403",
+                "compare": "is",
+                "value": "opt1275194"
+              },
+              "cl14651529641": {
+                "field": "fld_2583423",
+                "compare": ">",
+                "value": 0.01
+              }
+            }
+          }
+        }
+      },
+      "fp_63880675": {
+        "ID": "fp_63880675",
+        "runtimes": { "insert": 1 },
+        "type": "auth-net-single",
+        "config": {
+          "auth-net-single-api_login": "8Ea35kw6PX",
+          "auth-net-single-transaction_key": "2Fg29fME24m782CQ",
+          "auth-net-single-first_name": "%billing_name%",
+          "auth-net-single-last_name": "",
+          "auth-net-single-card_number": "%credit_card_number%",
+          "auth-net-single-card_cvc": "%cvc%",
+          "auth-net-single-card_exp_month": "%expiration_month%",
+          "auth-net-single-card_exp_year": "%expiration_year%",
+          "auth-net-single-user_email": "contact_email",
+          "_required_bounds": [null, "auth-net-single-user_email"],
+          "auth-net-single-card_address": "%billing_street_address%",
+          "auth-net-single-card_address_2": "",
+          "auth-net-single-card_city": "%billing_city%",
+          "auth-net-single-card_state": "%billing_state%",
+          "auth-net-single-card_country": "%billing_country%",
+          "auth-net-single-card_zip": "%billing_zipcode%",
+          "auth-net-single-company": "",
+          "auth-net-single-phone": "",
+          "auth-net-single-invoice_num": "",
+          "auth-net-single-customer_id": "",
+          "auth-net-single-price": "%total%",
+          "auth-net-single-description": "{embed_post:post_title}"
+        },
+        "conditions": {
+          "type": "use",
+          "group": {
+            "rw17295935054": {
+              "cl12727446618": {
+                "field": "fld_1458403",
+                "compare": "is",
+                "value": "opt1290337"
+              },
+              "cl15619962181": {
+                "field": "fld_2583423",
+                "compare": ">",
+                "value": 0.01
+              }
+            }
+          }
+        }
+      },
+      "fp_84210737": {
+        "ID": "fp_84210737",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_order",
+        "config": {
+          "contribution_page_id": "",
+          "payment_processor": "",
+          "contact_link": 1,
+          "financial_type_id": 50,
+          "campaign_id": "",
+          "contribution_status_id": "default_status_id",
+          "payment_instrument_id": 1,
+          "mapped_payment_instrument_id": "%payment_method%",
+          "is_pay_later": 4,
+          "trxn_id": "",
+          "currency": "USD",
+          "check_number": "",
+          "product_id": "",
+          "total_amount": "fld_2583423",
+          "line_items": {
+            "line_item_1": "{civicrm_line_item:processor_id:fp_66662003}",
+            "line_item_line_item_2": "{civicrm_line_item:processor_id:fp_50469}",
+            "line_item_line_item_3": "{civicrm_line_item:processor_id:fp_41786267}",
+            "line_item_line_item_4": "{civicrm_line_item:processor_id:fp_1773003}",
+            "line_item_line_item_5": "{civicrm_line_item:processor_id:fp_11981806}",
+            "line_item_line_item_6": "{civicrm_line_item:processor_id:fp_90918479}",
+            "line_item_line_item_7": "{civicrm_line_item:processor_id:fp_20478482}",
+            "line_item_line_item_8": "{civicrm_line_item:processor_id:fp_33289310}",
+            "line_item_line_item_9": "{civicrm_line_item:processor_id:fp_76312576}",
+            "line_item_line_item_10": "{civicrm_line_item:processor_id:fp_52544286}",
+            "line_item_line_item_11": "{civicrm_line_item:processor_id:fp_94821826}"
+          },
+          "custom_78": null,
+          "custom_80": null
+        },
+        "conditions": { "type": "" }
+      },
+      "fp_6873582": {
+        "ID": "fp_6873582",
+        "runtimes": { "insert": 1 },
+        "type": "civicrm_group",
+        "config": { "contact_link": 1, "contact_group": 471 },
+        "conditions": { "type": "" }
+      },
+      "fp_65922048": {
+        "ID": "fp_65922048",
+        "runtimes": { "insert": 1 },
+        "type": "form_redirect",
+        "config": {
+          "url": "/annual-meeting/",
+          "message": "Form submitted successfully. Redirecting to the Annual Meeting Home Page"
+        },
+        "conditions": { "type": "" }
+      }
+    },
+    "conditional_groups": {
+      "conditions": {
+        "con_7139965815613301": {
+          "id": "con_7139965815613301",
+          "name": "Different Billing",
+          "type": "show",
+          "fields": { "cl7271105122875466": "fld_1458403" },
+          "group": {
+            "rw1253865975940130": {
+              "cl7271105122875466": {
+                "parent": "rw1253865975940130",
+                "field": "fld_1458403",
+                "compare": "is",
+                "value": "opt1290337"
+              }
+            }
+          }
+        },
+        "con_8260517846396837": {
+          "id": "con_8260517846396837",
+          "name": "Pay by Credit Card",
+          "type": "show",
+          "fields": { "cl8030811195974329": "fld_2583423" },
+          "group": {
+            "rw750942992150314": {
+              "cl8030811195974329": {
+                "parent": "rw750942992150314",
+                "field": "fld_2583423",
+                "compare": "greater",
+                "value": "0.01"
+              }
+            }
+          }
+        },
+        "con_5235536774867240": {
+          "id": "con_5235536774867240",
+          "name": "Payment Required",
+          "type": "show",
+          "fields": { "cl215144798379143": "fld_2583423" },
+          "group": {
+            "rw4419784937844615": {
+              "cl215144798379143": {
+                "parent": "rw4419784937844615",
+                "field": "fld_2583423",
+                "compare": "greater",
+                "value": "0.01"
+              }
+            }
+          }
+        },
+        "con_5210241287567442": {
+          "id": "con_5210241287567442",
+          "name": "SSC and LACSC Pricing",
+          "type": "show",
+          "fields": {
+            "cl8979440567039370": "fld_4314805",
+            "cl7014727196965885": "fld_4314805"
+          },
+          "group": {
+            "rw2410457494402808": {
+              "cl8979440567039370": {
+                "parent": "rw2410457494402808",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1449974"
+              }
+            },
+            "rw7677740521515441": {
+              "cl7014727196965885": {
+                "parent": "rw7677740521515441",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1382095"
+              }
+            }
+          }
+        },
+        "con_6469950547018450": {
+          "id": "con_6469950547018450",
+          "name": "Student Non-Member Pricing",
+          "type": "show"
+        },
+        "con_8419602441302432": {
+          "id": "con_8419602441302432",
+          "name": "Hide Non-Member Pricing",
+          "type": "hide",
+          "fields": {
+            "cl8398576665699900": "fld_4314805",
+            "cl9380624138890126": "fld_4314805",
+            "cl5838199280126703": "fld_4563073"
+          },
+          "group": {
+            "rw9410795589899685": {
+              "cl8398576665699900": {
+                "parent": "rw9410795589899685",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1449974"
+              }
+            },
+            "rw7922549925339531": {
+              "cl9380624138890126": {
+                "parent": "rw7922549925339531",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1382095"
+              }
+            },
+            "rw645526365228210": {
+              "cl5838199280126703": {
+                "parent": "rw645526365228210",
+                "field": "fld_4563073",
+                "compare": "is",
+                "value": "opt1516117"
+              }
+            }
+          }
+        },
+        "con_3339907063299544": {
+          "id": "con_3339907063299544",
+          "name": "K-12 Pricing",
+          "type": "show"
+        },
+        "con_8361264148447362": {
+          "id": "con_8361264148447362",
+          "name": "Hide SSC and LACSC question",
+          "type": "hide",
+          "fields": { "cl3724324633247997": "fld_4563073" },
+          "group": {
+            "rw5407452490943869": {
+              "cl3724324633247997": {
+                "parent": "rw5407452490943869",
+                "field": "fld_4563073",
+                "compare": "is",
+                "value": "opt1516117"
+              }
+            }
+          }
+        },
+        "con_6283835192326700": {
+          "id": "con_6283835192326700",
+          "name": "Hide Student Non-Member question",
+          "type": "hide",
+          "fields": {
+            "cl2270407918672986": "fld_4314805",
+            "cl1863118020745351": "fld_4314805",
+            "cl4828559632905488": "fld_4563073"
+          },
+          "group": {
+            "rw5788884450751055": {
+              "cl2270407918672986": {
+                "parent": "rw5788884450751055",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1449974"
+              }
+            },
+            "rw290776657845999": {
+              "cl1863118020745351": {
+                "parent": "rw290776657845999",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1382095"
+              }
+            },
+            "rw2065054580852925": {
+              "cl4828559632905488": {
+                "parent": "rw2065054580852925",
+                "field": "fld_4563073",
+                "compare": "is",
+                "value": "opt1516117"
+              }
+            }
+          }
+        },
+        "con_4101285168111165": {
+          "id": "con_4101285168111165",
+          "name": "Hide K-12 question",
+          "type": "hide",
+          "fields": {
+            "cl355326414358746": "fld_4314805",
+            "cl2634319597402845": "fld_4314805",
+            "cl76694248744548": "fld_4563073"
+          },
+          "group": {
+            "rw2118365747386367": {
+              "cl355326414358746": {
+                "parent": "rw2118365747386367",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1449974"
+              }
+            },
+            "rw8015658775192401": {
+              "cl2634319597402845": {
+                "parent": "rw8015658775192401",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1382095"
+              }
+            },
+            "rw9851849359640561": {
+              "cl76694248744548": {
+                "parent": "rw9851849359640561",
+                "field": "fld_4563073",
+                "compare": "is",
+                "value": "opt1516117"
+              }
+            }
+          }
+        },
+        "con_2609381799807668": {
+          "id": "con_2609381799807668",
+          "name": "Self-describe ethnicity",
+          "type": "show",
+          "fields": { "cl8260612025982530": "fld_8166305" },
+          "group": {
+            "rw315512067875928": {
+              "cl8260612025982530": {
+                "parent": "rw315512067875928",
+                "field": "fld_8166305",
+                "compare": "is",
+                "value": "10"
+              }
+            }
+          }
+        },
+        "con_7279411512389258": {
+          "id": "con_7279411512389258",
+          "name": "Show if LMIC Pricing",
+          "type": "show",
+          "fields": { "cl1701683837557119": "fld_4563073" },
+          "group": {
+            "rw7242622218619536": {
+              "cl1701683837557119": {
+                "parent": "rw7242622218619536",
+                "field": "fld_4563073",
+                "compare": "is",
+                "value": "opt1516117"
+              }
+            }
+          }
+        },
+        "con_5293917584295402": {
+          "id": "con_5293917584295402",
+          "name": "Hide if LMIC Pricing",
+          "type": "hide",
+          "fields": {
+            "cl6402290816464130": "fld_4314805",
+            "cl8650574276772635": "fld_4314805"
+          },
+          "group": {
+            "rw1892203566302358": {
+              "cl6402290816464130": {
+                "parent": "rw1892203566302358",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1449974"
+              }
+            },
+            "rw4449719654038706": {
+              "cl8650574276772635": {
+                "parent": "rw4449719654038706",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt1382095"
+              }
+            }
+          }
+        },
+        "con_1842255043853980": {
+          "id": "con_1842255043853980",
+          "name": "Hide Member Pricing for LMIC",
+          "type": "hide",
+          "fields": { "cl544050387874165": "fld_4563073" },
+          "group": {
+            "rw6281298140520097": {
+              "cl544050387874165": {
+                "parent": "rw6281298140520097",
+                "field": "fld_4563073",
+                "compare": "is",
+                "value": "opt1516117"
+              }
+            }
+          }
+        },
+        "con_6864344121677213": {
+          "id": "con_6864344121677213",
+          "name": "Non Member Pricing",
+          "type": "show",
+          "fields": { "cl4005330760836840": "fld_4314805" },
+          "group": {
+            "rw6991229597727502": {
+              "cl4005330760836840": {
+                "parent": "rw6991229597727502",
+                "field": "fld_4314805",
+                "compare": "is",
+                "value": "opt2005453"
+              }
+            }
+          }
+        }
+      }
+    },
+    "settings": { "responsive": { "break_point": "sm" } },
+    "privacy_exporter_enabled": false,
+    "version": "1.8.11",
+    "db_id": "2877",
+    "type": "primary"
+  }
+  

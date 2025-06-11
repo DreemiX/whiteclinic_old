@@ -1,0 +1,597 @@
+# Translation of Plugins - Advanced noCaptcha &amp; invisible Captcha (v2 &amp; v3) - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Advanced noCaptcha &amp; invisible Captcha (v2 &amp; v3) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-13 08:39:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Advanced noCaptcha &amp; invisible Captcha (v2 &amp; v3) - Stable (latest release)\n"
+
+#: admin/settings.php:246
+msgid "Higher means more sensitive"
+msgstr "Вищий означає більш чутливий"
+
+#: admin/settings.php:240
+msgid "Captcha Score"
+msgstr "Оцінка Captcha"
+
+#: admin/settings.php:237
+msgid "Loading in All Pages help google for analytics"
+msgstr "Завантаження на Усіх сторінках допомагає google для аналітики"
+
+#: admin/settings.php:235
+msgid "Form Pages"
+msgstr "Cторінки форми"
+
+#: admin/settings.php:234
+msgid "All Pages"
+msgstr "Усі сторінки"
+
+#: admin/settings.php:228
+msgid "v3 Script Load"
+msgstr "v3 Завантаження скрипту"
+
+#: admin/settings.php:94
+msgid "Select your reCaptcha version. Make sure to use site key and secret key for your selected version."
+msgstr "Виберіть свою версію reCaptcha. Обов’язково використовуйте ключ сайту та секретний ключ для вибраної версії."
+
+#: admin/settings.php:92
+msgid "V3"
+msgstr "V3"
+
+#: admin/settings.php:91
+msgid "V2 Invisible"
+msgstr "V2 Невидимий"
+
+#: admin/settings.php:90
+msgid "V2 \"I'm not a robot\""
+msgstr "V2 \"Я не робот\""
+
+#: admin/settings.php:84
+msgid "Version"
+msgstr "Версія"
+
+#: admin/settings.php:64
+msgid "Get reCaptcha keys from <a href=\"%s\">Google</a>. Make sure to get keys for your selected captcha version."
+msgstr "Отримайте ключі reCaptcha у <a href=\"%s\">Google</a>. Не забудьте отримати ключі для вибраної версії качпи."
+
+#: admin/settings.php:475
+msgid "Support Development"
+msgstr "Підтримайте розробку"
+
+#: anr-captcha-class.php:605
+msgid "Comment Submission Failure"
+msgstr "Невдале відправлення коментаря"
+
+#. Description of the plugin
+msgid "Show noCaptcha or invisible captcha in Comment Form, bbPress, BuddyPress, WooCommerce, CF7, Login, Register, Lost Password, Reset Password. Also can implement in any other form easily."
+msgstr "Показує noCaptcha or invisible captcha у формі коментаря, bbPress, BuddyPress, WooCommerce, CF7, Увійти, Зареєструватися, Забули пароль, Скинути пароль. Також легко реалізувати в будь-якій іншій формі."
+
+#: admin/settings.php:516
+msgid "Back to Settings"
+msgstr " Повернутися до налаштувань"
+
+#: admin/settings.php:513
+msgid "For paid support pleasse visit <a href=\"%s\" target=\"_blank\">Advanced noCaptcha reCaptcha</a>"
+msgstr "Для платної підтримки, будь ласка, відвідайте <a href=\"%s\" target=\"_blank\">Advanced noCaptcha reCaptcha</a>"
+
+#: admin/settings.php:512
+msgid "To verify use %s. It will return true on success otherwise false."
+msgstr "Для перевірки використовуйте %s. Він поверне true при успіху інакше false."
+
+#: admin/settings.php:511
+msgid "To show noCaptcha in a form use %1$s OR %2$s"
+msgstr "Щоб показати noCaptcha у формі, використовуйте %1$s АБО %2$s"
+
+#: admin/settings.php:505
+msgid "To show noCaptcha use %s"
+msgstr "Для показу використання noCaptcha %s"
+
+#: admin/settings.php:502
+msgid "Goto %s page of this plugin and set up as you need. and ENJOY..."
+msgstr "Перейдіть на сторінку %s цього плагіна та налаштуйте, як вам потрібно. І насолоджуйтесь..."
+
+#: admin/settings.php:501
+msgid "Get your site key and secret key from <a href=\"%s\" target=\"_blank\">GOOGLE</a> if you do not have already."
+msgstr "Отримайте свій ключ сайту та секретний ключ від <a href=\"%s\" target=\"_blank\">GOOGLE</a> якщо ви цього ще не зробили."
+
+#: admin/settings.php:383
+msgid "No hook defined for %s"
+msgstr "Не визначено хуку для %s"
+
+#: admin/settings.php:264
+msgid "No JS Captcha"
+msgstr "Немає JS Captcha"
+
+#: admin/settings.php:256
+msgid "Remove CSS"
+msgstr "Видалити CSS"
+
+#: admin/settings.php:249
+msgid "Logged in Hide"
+msgstr "Сховати залогіненим"
+
+#: admin/settings.php:225
+msgid "Show login Captcha after how many failed attempts? 0 = show always"
+msgstr "Показати Captcha для входу після цієї кількості невдалих спроб? 0 = показувати завжди"
+
+#: admin/settings.php:219
+msgid "Failed login Captcha"
+msgstr "Captcha помилки входу"
+
+#: admin/settings.php:129
+msgid "Captcha Language"
+msgstr "Мова Captcha"
+
+#: admin/settings.php:126
+msgid "Please solve Captcha correctly"
+msgstr "Будь ласка, вирішіть Captcha правильно"
+
+#: admin/settings.php:121
+msgid "For other forms see <a href=\"%s\">Instruction</a>"
+msgstr "Для інших форм див. <a href=\"%s\">Інструкцію</a>"
+
+#: admin/settings.php:118
+msgid "BuddyPress register"
+msgstr "BuddyPress реєстрація"
+
+#: admin/settings.php:105
+msgid "Enabled Forms"
+msgstr "Увімкнені форми"
+
+#: admin/settings.php:101
+msgid "Secret Key"
+msgstr "Секретний ключ"
+
+#: admin/settings.php:71
+msgid "Other Settings"
+msgstr "Інші налаштування"
+
+#: admin/settings.php:68
+msgid "Forms"
+msgstr "Форми"
+
+#: admin/settings.php:62
+msgid "Google Keys"
+msgstr "Ключі Google"
+
+#: anr-captcha-class.php:112
+msgid "ERROR"
+msgstr "Помилка"
+
+#. Author of the plugin
+msgid "Shamim Hasan"
+msgstr "Шамім Хасан"
+
+#: admin/anr-admin-class.php:186
+msgid "Show login Captcha after how many failed attempts"
+msgstr "Показати Captcha для входу після кількості невдалих спроб"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.shamimsplugins.com/contact-us/"
+msgstr "https://www.shamimsplugins.com/contact-us/"
+
+#. Plugin Name of the plugin
+msgid "Advanced noCaptcha & invisible Captcha"
+msgstr "Advanced noCaptcha & invisible Captcha"
+
+#: admin/settings.php:216 admin/anr-admin-class.php:182
+msgid "Badge shows for invisible captcha"
+msgstr "Емблема показує невидиму капчу"
+
+#: admin/settings.php:214 admin/anr-admin-class.php:179
+msgid "Inline"
+msgstr "Вкладений"
+
+#: admin/settings.php:213 admin/anr-admin-class.php:178
+msgid "Bottom Left"
+msgstr "Унизу праворуч"
+
+#: admin/settings.php:212 admin/anr-admin-class.php:177
+msgid "Bottom Right"
+msgstr "Унизу праворуч"
+
+#: admin/settings.php:206 admin/anr-admin-class.php:175
+msgid "Badge"
+msgstr "Емблема"
+
+#: admin/anr-admin-class.php:172
+msgid "For invisible captcha set this as Invisible. Make sure to use site key and secret key for invisible captcha"
+msgstr "Для невидимої капчи встановіть це як невидиме. Обов'язково використовуйте ключ сайту та секретний ключ для невидимої captcha"
+
+#: admin/anr-admin-class.php:169
+msgid "Invisible"
+msgstr "Невидимий"
+
+#: admin/settings.php:202 admin/anr-admin-class.php:168
+msgid "Compact"
+msgstr "Компактна"
+
+#: admin/settings.php:201 admin/anr-admin-class.php:167
+msgid "Normal"
+msgstr "Звичайна"
+
+#: admin/settings.php:191 admin/anr-admin-class.php:162
+msgid "Dark"
+msgstr "Темна"
+
+#: admin/settings.php:190 admin/anr-admin-class.php:161
+msgid "Light"
+msgstr "Світла"
+
+#: admin/settings.php:406 admin/anr-admin-class.php:45
+msgid "Advanced noCaptcha & invisible captcha"
+msgstr "Advanced noCaptcha & invisible captcha"
+
+#: admin/settings.php:406 admin/settings.php:431 admin/anr-admin-class.php:45
+msgid "Advanced noCaptcha & invisible captcha Settings"
+msgstr "Розширені налаштування noCaptcha & invisible captcha"
+
+#: functions.php:31
+msgid "<strong>ERROR</strong>: "
+msgstr "<strong>ПОМИЛКА</strong>:"
+
+#: admin/anr-admin-class.php:302
+msgid "To verify use "
+msgstr "Для перевірки використання"
+
+#: admin/anr-admin-class.php:301
+msgid "To show form field use "
+msgstr "Для показу використання поля форми"
+
+#: admin/settings.php:510 admin/anr-admin-class.php:300
+msgid "If you want to implement noCaptcha in any other custom form"
+msgstr "Якщо ви хочете реалізувати noCaptcha в будь-якій іншій користувацькій формі"
+
+#: admin/settings.php:508 admin/anr-admin-class.php:298
+msgid "If Login Form, Registration Form, Lost Password Form, Reset Password Form is selected in SETTINGS page of this plugin they will show and verify Captcha in WooCommerce respective forms also."
+msgstr "Якщо на сторінці налаштувань цього плагіна вибрано форму входу, реєстраційну форму, форму втраченого пароля, форму скидання пароля, вони також відображатимуться і підтвердять Captcha у відповідних формах WooCommerce."
+
+#: admin/settings.php:507 admin/anr-admin-class.php:297
+msgid "Implement noCaptcha in WooCommerce"
+msgstr "Впровадити noCaptcha в WooCommerce"
+
+#: admin/anr-admin-class.php:295
+msgid "To show noCaptcha use "
+msgstr "Показати використання noCaptcha"
+
+#: admin/settings.php:504 admin/anr-admin-class.php:294
+msgid "Implement noCaptcha in Contact Form 7"
+msgstr "Запровадити noCaptcha у Contact Form 7"
+
+#: admin/anr-admin-class.php:292
+msgid "Goto SETTINGS page of this plugin and set up as you need. and ENJOY..."
+msgstr "Перейдіть на сторінку НАЛАШТУВАННЯ цього плагіна та налаштуйте, як вам потрібно. І насолоджуйтесь ..."
+
+#: admin/anr-admin-class.php:291
+msgid "Get your site key and secret key from <a href='%s' target='_blank'>GOOGLE</a> if you do not have already."
+msgstr "Отримайте свій ключ сайту та секретний ключ від <a href='%s' target='_blank'> GOOGLE </a>, якщо ви цього ще не зробили."
+
+#: admin/settings.php:496 admin/anr-admin-class.php:289
+msgid "Advanced noCaptcha reCaptcha Setup Instruction"
+msgstr "Розширена інструкція по налаштуванню noCaptcha reCaptcha"
+
+#: admin/anr-admin-class.php:255
+msgid "Sorry, your nonce did not verify!"
+msgstr "Вибачте, ваш ідентифікатор не підтверджено!"
+
+#: admin/anr-admin-class.php:251
+msgid "No Permission!"
+msgstr "Немає дозволу!"
+
+#: admin/settings.php:459 admin/anr-admin-class.php:226
+msgid "Plugin Author"
+msgstr "Автор плагіна"
+
+#: admin/anr-admin-class.php:213 admin/anr-admin-class.php:303
+msgid "For paid support pleasse visit <a href='%s' target='_blank'>Advanced noCaptcha reCaptcha</a>"
+msgstr "Для платної підтримки, будь ласка, відвідайте <a href='%s' target='_blank'>Advanced noCaptcha reCaptcha</a>"
+
+#: admin/anr-admin-class.php:210
+msgid "Save Options"
+msgstr "Зберегти параметри"
+
+#: admin/settings.php:269 admin/anr-admin-class.php:209
+msgid "If JavaScript is a requirement for your site, we advise that you do NOT check this."
+msgstr "Якщо JavaScript є необхідною для вашого сайту, радимо НЕ відмічати це."
+
+#: admin/settings.php:268 admin/anr-admin-class.php:209
+msgid "Show captcha if javascript disabled?"
+msgstr "Показати капчу, якщо JavaScript відключений?"
+
+#: admin/settings.php:261 admin/anr-admin-class.php:208
+msgid "This css increase login page width to adjust with Captcha width."
+msgstr "Цей CSS збільшує ширину сторінки для входу, щоб налаштувати ширину Captcha."
+
+#: admin/settings.php:260 admin/anr-admin-class.php:208
+msgid "Remove this plugin's css from login page?"
+msgstr "Видалити CSS цього плагіна зі сторінки входу?"
+
+#: admin/settings.php:253 admin/anr-admin-class.php:207
+msgid "Hide Captcha for logged in users?"
+msgstr "Сховати Captcha для залогінених користувачів?"
+
+#: admin/anr-admin-class.php:188
+msgid "Show Captcha on"
+msgstr "Показати Captcha на"
+
+#: admin/settings.php:124 admin/anr-admin-class.php:185
+msgid "Error Message"
+msgstr "Повідомлення про помилку"
+
+#: admin/settings.php:195 admin/anr-admin-class.php:165
+msgid "Size"
+msgstr "Розмір"
+
+#: admin/settings.php:184 admin/anr-admin-class.php:159
+msgid "Theme"
+msgstr "Тема"
+
+#: admin/anr-admin-class.php:150
+msgid "Language"
+msgstr "Мова"
+
+#: admin/anr-admin-class.php:148
+msgid "Secret key"
+msgstr "Секретний ключ"
+
+#: admin/settings.php:97 admin/anr-admin-class.php:147
+msgid "Site Key"
+msgstr "Ключ сайту"
+
+#: admin/anr-admin-class.php:145
+msgid "Value"
+msgstr "Значення"
+
+#: admin/anr-admin-class.php:145
+msgid "Setting"
+msgstr "Налаштування"
+
+#: admin/anr-admin-class.php:141
+msgid "If you like this plugin please <a href='%s' target='_blank'>Review in Wordpress.org</a> and give 5 star"
+msgstr "Якщо вам подобається цей плагін, будь ласка, відвідайте <a href='%s' target='_blank'>Відгуки на WordPress.org</a> та поставте 5 зірок"
+
+#: admin/anr-admin-class.php:140
+msgid "Advanced noCaptcha reCaptcha Settings"
+msgstr "Налаштування Advanced noCaptcha reCaptcha"
+
+#: admin/anr-admin-class.php:130
+msgid "Options successfully saved."
+msgstr "Параметри успішно збережено."
+
+#: admin/settings.php:119 admin/anr-admin-class.php:120
+msgid "WooCommerce Checkout"
+msgstr "Оформлення замовлення на WooCommerce"
+
+#: admin/settings.php:117 admin/anr-admin-class.php:119
+msgid "bbPress reply to topic"
+msgstr "bbPress відповідь на тему"
+
+#: admin/settings.php:116 admin/anr-admin-class.php:118
+msgid "bbPress New topic"
+msgstr "Нова тема bbPress"
+
+#: admin/settings.php:115 admin/anr-admin-class.php:117
+msgid "Comment Form"
+msgstr "Форма коментаря"
+
+#: admin/settings.php:114 admin/anr-admin-class.php:116
+msgid "Reset Password Form"
+msgstr "Форма скидання пароля"
+
+#: admin/settings.php:113 admin/anr-admin-class.php:115
+msgid "Lost Password Form"
+msgstr "Форма відновлення паролю"
+
+#: admin/settings.php:112 admin/anr-admin-class.php:114
+msgid "Multisite User Signup Form"
+msgstr "Форма реєстрації користувача мультисайту"
+
+#: admin/settings.php:111 admin/anr-admin-class.php:113
+msgid "Registration Form"
+msgstr "Реєстраційна форма"
+
+#: admin/settings.php:110 admin/anr-admin-class.php:112
+msgid "Login Form"
+msgstr "Форма входу"
+
+#: admin/settings.php:180 admin/anr-admin-class.php:107
+msgid "Vietnamese"
+msgstr "В'єтнамська"
+
+#: admin/settings.php:179 admin/anr-admin-class.php:106
+msgid "Ukrainian"
+msgstr "Українська"
+
+#: admin/settings.php:178 admin/anr-admin-class.php:105
+msgid "Turkish"
+msgstr "Турецька"
+
+#: admin/settings.php:177 admin/anr-admin-class.php:104
+msgid "Thai"
+msgstr "Тайська"
+
+#: admin/settings.php:176 admin/anr-admin-class.php:103
+msgid "Swedish"
+msgstr "Шведська"
+
+#: admin/settings.php:175 admin/anr-admin-class.php:102
+msgid "Spanish (Latin America)"
+msgstr "Іспанська (Латинська Америка)"
+
+#: admin/settings.php:174 admin/anr-admin-class.php:101
+msgid "Spanish"
+msgstr "Іспанська"
+
+#: admin/settings.php:173 admin/anr-admin-class.php:100
+msgid "Slovenian"
+msgstr "Словенська"
+
+#: admin/settings.php:172 admin/anr-admin-class.php:99
+msgid "Slovak"
+msgstr "Словацька"
+
+#: admin/settings.php:171 admin/anr-admin-class.php:98
+msgid "Serbian"
+msgstr "Сербська"
+
+#: admin/settings.php:170 admin/anr-admin-class.php:97
+msgid "Russian"
+msgstr "Російська"
+
+#: admin/settings.php:169 admin/anr-admin-class.php:96
+msgid "Romanian"
+msgstr "Румунська"
+
+#: admin/settings.php:168 admin/anr-admin-class.php:95
+msgid "Portuguese (Portugal)"
+msgstr "Португальська (Португалія)"
+
+#: admin/settings.php:167 admin/anr-admin-class.php:94
+msgid "Portuguese (Brazil)"
+msgstr "Португальська (Бразилія)"
+
+#: admin/settings.php:166 admin/anr-admin-class.php:93
+msgid "Portuguese"
+msgstr "Португальська"
+
+#: admin/settings.php:165 admin/anr-admin-class.php:92
+msgid "Polish"
+msgstr "Польська"
+
+#: admin/settings.php:164 admin/anr-admin-class.php:91
+msgid "Persian"
+msgstr "Персидська"
+
+#: admin/settings.php:163 admin/anr-admin-class.php:90
+msgid "Norwegian"
+msgstr "Норвезька"
+
+#: admin/settings.php:162 admin/anr-admin-class.php:89
+msgid "Lithuanian"
+msgstr "Литовська"
+
+#: admin/settings.php:161 admin/anr-admin-class.php:88
+msgid "Latvian"
+msgstr "Латвійська"
+
+#: admin/settings.php:160 admin/anr-admin-class.php:87
+msgid "Korean"
+msgstr "Корейська"
+
+#: admin/settings.php:159 admin/anr-admin-class.php:86
+msgid "Japanese"
+msgstr "Японська"
+
+#: admin/settings.php:158 admin/anr-admin-class.php:85
+msgid "Italian"
+msgstr "Італійська"
+
+#: admin/settings.php:157 admin/anr-admin-class.php:84
+msgid "Indonesian"
+msgstr "Індонезійська"
+
+#: admin/settings.php:156 admin/anr-admin-class.php:83
+msgid "Hungarain"
+msgstr "Угорська"
+
+#: admin/settings.php:155 admin/anr-admin-class.php:82
+msgid "Hindi"
+msgstr "Хінді"
+
+#: admin/settings.php:154 admin/anr-admin-class.php:81
+msgid "Hebrew"
+msgstr "Іврит"
+
+#: admin/settings.php:153 admin/anr-admin-class.php:80
+msgid "Greek"
+msgstr "Грецька"
+
+#: admin/settings.php:152 admin/anr-admin-class.php:79
+msgid "German (Switzerland)"
+msgstr "Німецька (Швейцарія)"
+
+#: admin/settings.php:151 admin/anr-admin-class.php:78
+msgid "German (Austria)"
+msgstr "Німецька (Австрія)"
+
+#: admin/settings.php:150 admin/anr-admin-class.php:77
+msgid "German"
+msgstr "Німецька"
+
+#: admin/settings.php:149 admin/anr-admin-class.php:76
+msgid "French (Canadian)"
+msgstr "Французька (Бельгія)"
+
+#: admin/settings.php:148 admin/anr-admin-class.php:75
+msgid "French"
+msgstr "Французька"
+
+#: admin/settings.php:147 admin/anr-admin-class.php:74
+msgid "Finnish"
+msgstr "Фінська"
+
+#: admin/settings.php:146 admin/anr-admin-class.php:73
+msgid "Filipino"
+msgstr "Філіппінська"
+
+#: admin/settings.php:145 admin/anr-admin-class.php:72
+msgid "English (US)"
+msgstr "Англійська (США)"
+
+#: admin/settings.php:144 admin/anr-admin-class.php:71
+msgid "English (UK)"
+msgstr "Англійська (Великобританія)"
+
+#: admin/settings.php:143 admin/anr-admin-class.php:70
+msgid "Dutch"
+msgstr "Голландська"
+
+#: admin/settings.php:142 admin/anr-admin-class.php:69
+msgid "Danish"
+msgstr "Данська"
+
+#: admin/settings.php:141 admin/anr-admin-class.php:68
+msgid "Czech"
+msgstr "Чеська"
+
+#: admin/settings.php:140 admin/anr-admin-class.php:67
+msgid "Croatian"
+msgstr "Хорватська"
+
+#: admin/settings.php:139 admin/anr-admin-class.php:66
+msgid "Chinese (Traditional)"
+msgstr "Китайська (традиційне письмо)"
+
+#: admin/settings.php:138 admin/anr-admin-class.php:65
+msgid "Chinese (Simplified)"
+msgstr "Китайська (спрощене письмо)"
+
+#: admin/settings.php:137 admin/anr-admin-class.php:64
+msgid "Catalan"
+msgstr "Каталонська"
+
+#: admin/settings.php:136 admin/anr-admin-class.php:63
+msgid "Bulgarian"
+msgstr "Болгарська"
+
+#: admin/settings.php:135 admin/anr-admin-class.php:62
+msgid "Arabic"
+msgstr "Арабська"
+
+#: admin/settings.php:134 admin/anr-admin-class.php:61
+msgid "Auto Detect"
+msgstr "Автовизначення"
+
+#: admin/settings.php:407
+msgid "Instruction"
+msgstr "Інструкція"
+
+#: admin/settings.php:502 admin/settings.php:531 admin/anr-admin-class.php:314
+msgid "Settings"
+msgstr "Налаштування"

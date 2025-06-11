@@ -1,0 +1,448 @@
+{
+  "ID": "CF60a297d7431ea",
+  "_last_updated": "Tue, 25 May 2021 14:54:17 +0000",
+  "cf_version": "1.9.4",
+  "name": "bob",
+  "scroll_top": 0,
+  "success": "Form has been successfully submitted. Thank you.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+  "db_support": 1,
+  "pinned": 0,
+  "hide_form": 1,
+  "check_honey": 1,
+  "avatar_field": "",
+  "form_ajax": 1,
+  "custom_callback": "",
+  "layout_grid": {
+    "fields": {
+      "fld_6115919": "1:1",
+      "fld_7887738": "1:1",
+      "fld_2496652": "1:1",
+      "fld_4078506": "1:1"
+    },
+    "structure": "12"
+  },
+  "fields": {
+    "fld_6115919": {
+      "ID": "fld_6115919",
+      "type": "radio",
+      "label": "Show",
+      "slug": "show",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "option": {
+          "opt1118982": { "calc_value": "Yes", "value": "Yes", "label": "Yes" },
+          "opt1124766": { "calc_value": "No", "value": "No", "label": "No" }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7887738": {
+      "ID": "fld_7887738",
+      "type": "text",
+      "label": "Am I shown?",
+      "slug": "am_i_shown",
+      "conditions": { "type": "con_yujsh" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2496652": {
+      "ID": "fld_2496652",
+      "type": "button",
+      "label": "Submit",
+      "slug": "submit",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "type": "submit",
+        "class": "btn btn-default",
+        "target": ""
+      }
+    },
+    "fld_4078506": {
+      "ID": "fld_4078506",
+      "type": "email",
+      "label": "myEmailField",
+      "slug": "myemailfield",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "placeholder": "",
+        "default": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    }
+  },
+  "page_names": ["Page 1"],
+  "mailer": {
+    "on_insert": 1,
+    "sender_name": "Caldera Forms Notification",
+    "sender_email": "dev-email@flywheel.local",
+    "reply_to": "",
+    "email_type": "html",
+    "recipients": "%myemailfield%",
+    "bcc_to": "",
+    "email_subject": "Caldera Conditionals - Simple",
+    "email_message": "{summary}"
+  },
+  "processors": {
+    "fp_5997277": {
+      "ID": "fp_5997277",
+      "runtimes": { "insert": 1 },
+      "type": "form_redirect",
+      "config": {
+        "url": "https://kretch.com",
+        "message": "I am redirecting you"
+      },
+      "conditions": { "type": "", "group": [] }
+    },
+    "fp_40196652": {
+      "ID": "fp_40196652",
+      "runtimes": { "insert": 1 },
+      "type": "auto_responder",
+      "config": {
+        "sender_name": "bob",
+        "sender_email": "testlarid@gmail.com",
+        "reply_to": "",
+        "cc": "",
+        "bcc": "",
+        "subject": "test",
+        "recipient_name": "bob",
+        "recipient_email": "%myemailfield%",
+        "message": "Hi %recipient_name%.\nThanks for your email.\nWe'll get back to you as soon as possible!\n"
+      },
+      "conditions": { "type": "", "group": [] }
+    },
+    "fp_24938347": {
+      "ID": "fp_24938347",
+      "runtimes": { "insert": 1 },
+      "type": "cf-mailchimp-2",
+      "config": {
+        "status": "subscribed",
+        "email_address": "fld_4078506",
+        "mergeFields": {
+          "FNAME": "fld_7887738",
+          "LNAME": "",
+          "MMERGE10": "",
+          "MMERGE11": "",
+          "MMERGE12": "",
+          "MMERGE13": "",
+          "MMERGE4": "",
+          "MMERGE5": "",
+          "MMERGE6": "",
+          "MMERGE7": "",
+          "MMERGE8": "",
+          "MMERGE9": "",
+          "NFUSERNAME": "MyDefaultUserName"
+        },
+        "interests": {
+          "53778e0afb": { "interests": ["7400c078bd", "8de19165fd"] },
+          "546c7924ac": { "interests": ["8471f58eef"] }
+        },
+        "segments": ["462505", "462509", "462517", "462521"],
+        "apiKey": "6370da0ad26d36846d1877b8c005c398-us2",
+        "listId": "e9c7cb32ad"
+      },
+      "conditions": { "type": "", "group": [] },
+      "audience": {
+        "name": "",
+        "mergeFields": {
+          "mergeVars": {
+            "FNAME": {
+              "mergeId": "1",
+              "tag": "FNAME",
+              "name": "First Name",
+              "type": "text",
+              "options": { "size": 25 },
+              "value": null,
+              "required": true,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "LNAME": {
+              "mergeId": "2",
+              "tag": "LNAME",
+              "name": "Last Name",
+              "type": "text",
+              "options": { "size": 25 },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE10": {
+              "mergeId": "10",
+              "tag": "MMERGE10",
+              "name": "myImage",
+              "type": "imageurl",
+              "options": [],
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE11": {
+              "mergeId": "11",
+              "tag": "MMERGE11",
+              "name": "MergeText11",
+              "type": "text",
+              "options": { "size": 42 },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE12": {
+              "mergeId": "12",
+              "tag": "MMERGE12",
+              "name": "MergeText12",
+              "type": "text",
+              "options": { "size": 25 },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE13": {
+              "mergeId": "13",
+              "tag": "MMERGE13",
+              "name": "MergeText13",
+              "type": "text",
+              "options": { "size": 25 },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE4": {
+              "mergeId": "4",
+              "tag": "MMERGE4",
+              "name": "AnotherMergeField",
+              "type": "text",
+              "options": { "size": 25 },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE5": {
+              "mergeId": "5",
+              "tag": "MMERGE5",
+              "name": "myBirthdayField",
+              "type": "birthday",
+              "options": { "date_format": "MM/DD" },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE6": {
+              "mergeId": "6",
+              "tag": "MMERGE6",
+              "name": "myAddressField",
+              "type": "address",
+              "options": { "default_country": 164 },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE7": {
+              "mergeId": "7",
+              "tag": "MMERGE7",
+              "name": "myRadioButtons",
+              "type": "radio",
+              "options": {
+                "choices": ["First Choice", "Second Choice", "Third Choice"]
+              },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE8": {
+              "mergeId": "8",
+              "tag": "MMERGE8",
+              "name": "myDropDown",
+              "type": "dropdown",
+              "options": {
+                "choices": ["Fourth Choice", "Fifth Choice", "Sixth Choice"]
+              },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "MMERGE9": {
+              "mergeId": "9",
+              "tag": "MMERGE9",
+              "name": "myDate",
+              "type": "date",
+              "options": { "date_format": "MM/DD/YYYY" },
+              "value": null,
+              "required": false,
+              "defaultValue": "",
+              "listId": "e9c7cb32ad"
+            },
+            "NFUSERNAME": {
+              "mergeId": "3",
+              "tag": "NFUSERNAME",
+              "name": "NFUSERNAME",
+              "type": "text",
+              "options": { "size": 25 },
+              "value": null,
+              "required": false,
+              "defaultValue": "MyDefaultUserName",
+              "listId": "e9c7cb32ad"
+            }
+          },
+          "listId": null
+        },
+        "interestCategories": {
+          "interestCategories": {
+            "53778e0afb": {
+              "id": "53778e0afb",
+              "title": "Group 2",
+              "display_order": 0,
+              "type": "radio",
+              "listId": "e9c7cb32ad"
+            },
+            "546c7924ac": {
+              "id": "546c7924ac",
+              "title": "TestingCheckbox",
+              "display_order": 0,
+              "type": "checkboxes",
+              "listId": "e9c7cb32ad"
+            }
+          },
+          "listId": "e9c7cb32ad"
+        },
+        "interests": {
+          "interests": {
+            "7400c078bd": {
+              "category_id": "53778e0afb",
+              "id": "7400c078bd",
+              "name": "E",
+              "subscriber_count": "40",
+              "display_order": 5,
+              "listId": "e9c7cb32ad"
+            },
+            "8de19165fd": {
+              "category_id": "53778e0afb",
+              "id": "8de19165fd",
+              "name": "K",
+              "subscriber_count": "42",
+              "display_order": 8,
+              "listId": "e9c7cb32ad"
+            },
+            "8471f58eef": {
+              "category_id": "546c7924ac",
+              "id": "8471f58eef",
+              "name": "G",
+              "subscriber_count": "45",
+              "display_order": 7,
+              "listId": "e9c7cb32ad"
+            }
+          },
+          "listId": "e9c7cb32ad"
+        },
+        "tags": {
+          "segments": {
+            "myFirstTag": {
+              "id": "462509",
+              "name": "myFirstTag",
+              "member_count": 7,
+              "type": "static",
+              "listId": "e9c7cb32ad"
+            },
+            "my Second Tag": {
+              "id": "462513",
+              "name": "my Second Tag",
+              "member_count": 8,
+              "type": "static",
+              "listId": "e9c7cb32ad"
+            },
+            "My APIAdded Tag": {
+              "id": "462517",
+              "name": "My APIAdded Tag",
+              "member_count": 8,
+              "type": "static",
+              "listId": "e9c7cb32ad"
+            },
+            "Kretch": {
+              "id": "462521",
+              "name": "Kretch",
+              "member_count": 2,
+              "type": "static",
+              "listId": "e9c7cb32ad"
+            },
+            "myAwesomeTag": {
+              "id": "462529",
+              "name": "myAwesomeTag",
+              "member_count": 6,
+              "type": "static",
+              "listId": "e9c7cb32ad"
+            },
+            "ASixthTag": {
+              "id": "462593",
+              "name": "ASixthTag",
+              "member_count": 1,
+              "type": "static",
+              "listId": "e9c7cb32ad"
+            }
+          },
+          "listId": "e9c7cb32ad"
+        },
+        "listId": "e9c7cb32ad"
+      }
+    }
+  },
+  "settings": { "responsive": { "break_point": "sm" } },
+  "conditional_groups": {
+    "conditions": {
+      "con_yujsh": {
+        "id": "con_yujsh",
+        "type": "show",
+        "name": "Show",
+        "fields": { "cl_wgzeiwnqe": "fld_6115919" },
+        "group": {
+          "rw_auvdpla": {
+            "cl_wgzeiwnqe": {
+              "id": "cl_wgzeiwnqe",
+              "field": "fld_6115919",
+              "value": "opt1118982",
+              "compare": "is",
+              "parent": "rw_auvdpla"
+            }
+          }
+        }
+      }
+    }
+  },
+  "privacy_exporter_enabled": false,
+  "version": "1.9.4",
+  "db_id": "12",
+  "type": "primary"
+}

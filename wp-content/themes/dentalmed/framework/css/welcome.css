@@ -1,0 +1,141 @@
+.increase {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    color: #5f7278;
+    line-height: 28px;
+    min-height: 800px;
+    max-width: 1170px;
+}
+
+.increase a {
+    color: #00939a;
+    text-decoration: underline;
+    outline: none;
+    font-size: 16px;
+}
+
+.increase a:hover {
+    color: #86af49;
+    text-decoration: underline;
+}
+
+.descr {
+    font-weight: 700;
+    color: #8a9a9a;
+    margin-top: 0;
+}
+
+.container .meta_btn {
+    color: #fff !important;
+    font-size: 15px;
+    border-radius: 0;
+    background-color: #86af49;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-weight: 700;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.35);
+    text-decoration: none !important;
+    outline: none;
+    padding: 10px 30px;
+    border: 0;
+    cursor: pointer;
+}
+
+.container .meta_btn:hover {
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.35);
+    text-decoration: none;
+}
+
+.container .meta_btn:focus {
+    background-color: #5f7278;
+    text-decoration: none;
+}
+
+.container .meta_btn:active {
+    outline: none;
+}
+
+.container .meta_btn.selected {
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.35);
+}
+
+.container .meta_btn.unselected {
+    box-shadow: none;
+}
+
+.container .meta_btn.on {
+    background-color: #86af49;
+}
+
+.manual_btn {
+    color: #fff !important;
+    border-radius: 0;
+    background-color: #86af49;
+    display: inline-block;
+    font-weight: 700;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.35);
+    text-decoration: none !important;
+    margin: 0 0 0 10px;
+    padding: 3px 30px;
+}
+
+.manual_btn:hover {
+    color: #fff;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.35);
+}
+
+.manual_btn:focus {
+    color: #fff;
+    background-color: #5f7278;
+}
+
+.increase h1 {
+    color: #00939a;
+    font-size: 32px;
+    margin: 40px 0 8px;
+}
+
+.noinstaller, #init_msg {
+    border: 1px red solid;
+    background-color: rgba(255, 0, 0, 0.22);
+    display: inline-block;
+    border-left-width: 3px;
+    font-weight: 700;
+    margin-top: 10px;
+    padding: 10px 30px;
+}
+
+.clienticabuilder-link-help {
+    cursor: auto;
+    display: block;
+    position: absolute;
+    bottom: 150%;
+    left: calc(100% + 5px);
+    color: #fff;
+    background-color: #86af49;
+    padding: 20px;
+    width: 100px;
+    text-align: center;
+}
+.clienticabuilder-link-help .pointer {
+    position: absolute;
+    top: 90%;
+    left: -25px;
+    width: 40px;
+    height: 40px;
+}
+.clienticabuilder-link-help .pointer svg {
+    width: 40px;
+    height: 40px;
+}
+.clienticabuilder-link-help .close {
+    cursor: pointer;
+    position: absolute;
+    bottom: 85%;
+    left: 105%;
+}
+.clienticabuilder-link-help .close svg {
+    width: 16px;
+    height: 16px;
+}

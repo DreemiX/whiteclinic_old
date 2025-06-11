@@ -1,0 +1,596 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: BdThemes Testimonials\n"
+"POT-Creation-Date: 2020-04-11 23:57+0600\n"
+"PO-Revision-Date: 2020-04-11 23:57+0600\n"
+"Last-Translator: Selim Rana <selim@bdthemes.com>\n"
+"Language-Team: Selim Rana <selim@bdthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bdthemes-testimonials.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: bdthemes-testimonials.php:32
+msgid "Testimonials"
+msgstr ""
+
+#: bdthemes-testimonials.php:33
+msgid "Testimonial"
+msgstr ""
+
+#: bdthemes-testimonials.php:34
+msgid "Add New"
+msgstr ""
+
+#: bdthemes-testimonials.php:35 bdthemes-testimonials.php:38
+msgid "Add New Testimonial"
+msgstr ""
+
+#: bdthemes-testimonials.php:36
+msgid "All Testimonials"
+msgstr ""
+
+#: bdthemes-testimonials.php:37
+msgid "Edit Testimonial"
+msgstr ""
+
+#: bdthemes-testimonials.php:39
+msgid "View Item"
+msgstr ""
+
+#: bdthemes-testimonials.php:40
+msgid "Search Testimonial"
+msgstr ""
+
+#: bdthemes-testimonials.php:41
+msgid "No testimonial(s) found"
+msgstr ""
+
+#: bdthemes-testimonials.php:42
+msgid "No testimonial(s) found in trash"
+msgstr ""
+
+#: bdthemes-testimonials.php:81
+msgid "Tags"
+msgstr ""
+
+#: bdthemes-testimonials.php:82
+msgid "Tag"
+msgstr ""
+
+#: bdthemes-testimonials.php:96
+msgid "Enter the customer's name here"
+msgstr ""
+
+#: bdthemes-testimonials.php:105
+msgid "Title"
+msgstr ""
+
+#: bdthemes-testimonials.php:106
+msgid "Thumbnail"
+msgstr ""
+
+#: bdthemes-testimonials.php:107
+msgid "Categories"
+msgstr ""
+
+#: bdthemes-testimonials.php:108
+msgid "Date"
+msgstr ""
+
+#: bdthemes-testimonials.php:131 bdthemes-testimonials.php:141
+msgid "None"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:348
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:354
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:360
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:366
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:372
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:378
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3295
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:3088
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:606
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:607
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:722
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1029
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1029 class-tgm-plugin-activation.php:1039
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1039
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1228 class-tgm-plugin-activation.php:3084
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:2097
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2406
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2409
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2425
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2428
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2431
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2448
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2452
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2454
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2460
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2463
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2466
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2475
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2521
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2525
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2529
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2533
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2615
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2631
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2643
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2666
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2680
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2681
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2682
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2686
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2687
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2736
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2741
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2747
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2819
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2852
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2858
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2861
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2892
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2894
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2935
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2937
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3044
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3070
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3294
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3638
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3641
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3643
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3647
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3649
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3650
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3652
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3655
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3657
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3658
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3660
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3665
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3665
+msgid "Hide Details"
+msgstr ""
+
+#: meta-box.php:16
+msgctxt "backend"
+msgid "Additional Information"
+msgstr ""
+
+#: meta-box.php:20
+msgctxt "backend"
+msgid "Company Name/Address"
+msgstr ""
+
+#: meta-box.php:22
+msgctxt "backend"
+msgid "Please type client company name for example: BdThemes Limited."
+msgstr ""
+
+#: meta-box.php:26
+msgctxt "backend"
+msgid "BdThemes Limited"
+msgstr ""
+
+#: meta-box.php:33
+msgctxt "backend"
+msgid "1 Star"
+msgstr ""
+
+#: meta-box.php:34
+msgctxt "backend"
+msgid "2 Stars"
+msgstr ""
+
+#: meta-box.php:35
+msgctxt "backend"
+msgid "3 Stars"
+msgstr ""
+
+#: meta-box.php:36
+msgctxt "backend"
+msgid "4 Stars"
+msgstr ""
+
+#: meta-box.php:37
+msgctxt "backend"
+msgid "5 Stars"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BdThemes Testimonials"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://bdthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will create a testimonial custom post type for bdthemes "
+"wordpress theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BdThemes"
+msgstr ""

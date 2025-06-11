@@ -1,0 +1,40 @@
+.alayout4 article {display: block;margin-bottom: 75px ;}
+.alayout4 article .thumb, .alayout4 article .c_block {display: block ; width: 100% !important; max-width:unset !important; float: none;    border: 0;padding: 0;max-height: 500px;}
+.alayout4 article .thumb {margin-bottom: 30px;}
+.alayout4 article .thumb > div.thhov span {width: 94px;height: 94px;border: 0;line-height: 94px;top: calc(50% - 47px);left: calc(50% - 47px);position: absolute;background-color: #fff;text-align: center;}
+.alayout4 .entry-meta {padding: 0 0 5px 0;}
+.alayout4 .entry-meta a {text-decoration: none;}
+.alayout4 .entry-meta > span {margin: 0 10px 10px 0;border-right: 0;}
+.alayout4 .more svg {margin: 0 0 0 5px}
+.alayout4 .more:hover svg {fill:#fff}
+.alayout4 .more:after {}
+.alayout4 .entry-header {margin-bottom: 5px;}
+.alayout4 .format-quote {color:#fff; margin-top: 0}
+.alayout4 article.format-quote .c_block {border:0; }
+.alayout4 .format-quote a {text-decoration: none}
+.alayout4 .format-quote .entry-meta > span, .alayout4 .format-quote .entry-meta a, .alayout4 .format-quote h3.entry-title a, .alayout4 .format-quote h3.entry-title a:hover, .alayout4 .format-quote a.more {color:#fff}
+.alayout4 .format-quote .entry-header {display: none;}
+.alayout4 .format-quote blockquote { margin: 0;font-size: 32px;border-left: 0;font-weight: 700;color: #fff; display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 5;overflow: hidden;padding: 60px 70px;}
+.alayout4.column1 .format-quote blockquote {}
+.alayout4 .format-quote blockquote:before {content: none}
+.alayout4 .format-quote blockquote p {line-height: 1.25em;font-style: normal}
+.alayout4 .format-quote blockquote p:first-child {display: inline}
+.alayout4 blockquote cite {font-size: 16px;font-style: normal;font-weight: 100;color: #fff;display: block; padding-top: 8px}
+.alayout4 blockquote cite:before {content: '--- ';}
+.alayout4 .format-quote blockquote a {color:#fff}
+.alayout4.column2 .format-quote .c_block .entry-content p:first-child, .alayout4.column3 .format-quote .c_block .entry-content p:first-child {-webkit-line-clamp: 8;}
+.alayout4 .format-quote .thumb .scat {top: 10px;bottom: auto;left: 0;right: auto;}
+.alayout4.column2 .post.format-quote .thumb, .alayout4.column3 .post.format-quote .thumb {height: 40px;}
+.alayout4.column2 .post.format-quote .c_block, .alayout4.column3 .post.format-quote .c_block {position: unset;}
+.alayout4 .c_block .entry-content p:first-child, .alayout4 .related .entry-content p:first-child {-webkit-line-clamp: 3;display: -webkit-box;}
+.alayout4 .format-quote .entry-meta, .alayout4 .format-quote a.more {display: none}
+.alayout4 article .thumb > div.thhov img {padding-top: 34px;}
+.alayout4 .entry-meta i {height: 15px;width: 13px;background-repeat: no-repeat;}
+.alayout4 .widget_recent_comments ul li {background-color: transparent}
+
+@media screen and (max-width: 768px) {
+    .alayout4.column1 article .c_block {padding: 0;}
+    .alayout4.column1 .comments-link, .alayout4 .blogsidebarspage .comments-link {width: auto;}
+    .alayout4.column1 .format-quote blockquote {padding: 35px;}
+    .alayout4.column1.sb .comments-link, .alayout4.blogsidebarspage .comments-link {width: auto;}
+}

@@ -1,0 +1,31 @@
+### WordPress ###
+wp-config.php
+.htaccess
+*.log
+debug.log
+
+# Папки з медіафайлами, кешем та бекапами
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/cache/
+/wp-content/backups/
+
+# Папки ядра WordPress (якщо не в репозиторії)
+/wp-admin/
+/wp-includes/
+
+# Файли ОС та IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Залежності
+/node_modules/
+/vendor/
+
+# Папки хостингу та сервера
+/.quarantine/
+/.tmb/
+/conf/
+/webstat/

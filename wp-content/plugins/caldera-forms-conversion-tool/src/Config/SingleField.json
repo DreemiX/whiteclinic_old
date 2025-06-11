@@ -1,0 +1,10 @@
+{
+    "title":"BobTheFormTitle",
+    "formFields":[
+        {
+            "type":"submit",
+            "label":"Submit this",
+            "id":"submit"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "ID": "CF60aa794070055",
+  "_last_updated": "Sun, 23 May 2021 15:48:42 +0000",
+  "cf_version": "1.9.4",
+  "name": "Kretch",
+  "scroll_top": 0,
+  "success": "Form has been successfully submitted. Thank you.\t\t\t",
+  "db_support": 1,
+  "pinned": 0,
+  "hide_form": 1,
+  "check_honey": 1,
+  "avatar_field": "",
+  "form_ajax": 1,
+  "custom_callback": "",
+  "layout_grid": { "structure": "12" },
+  "page_names": ["Page 1"],
+  "mailer": {
+    "sender_name": "Caldera Forms Notification",
+    "sender_email": "stubie97205@gmail.com",
+    "reply_to": "",
+    "email_type": "html",
+    "recipients": "",
+    "bcc_to": "",
+    "email_subject": "Kretch",
+    "email_message": "{summary}"
+  },
+  "settings": { "responsive": { "break_point": "sm" } },
+  "conditional_groups": { "conditions": [] },
+  "processors": [],
+  "version": "1.9.4",
+  "db_id": "10",
+  "type": "primary"
+}

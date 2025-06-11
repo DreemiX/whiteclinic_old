@@ -1,0 +1,4593 @@
+{
+  "_last_updated": "Wed, 06 Jan 2021 01:01:32 +0000",
+  "ID": "CF5e0e1a1798e6f",
+  "cf_version": "1.8.11",
+  "name": "Regular Membership Registration Form",
+  "scroll_top": 1,
+  "success": "<strong>Thank you for becoming a member of the Seismological Society of America!</strong> A confirmation email has been sent and should arrive to your shortly.\n<br/>\n<hr/>\n{summary}\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+  "db_support": 1,
+  "pinned": 0,
+  "hide_form": 1,
+  "check_honey": 1,
+  "avatar_field": "",
+  "form_ajax": 1,
+  "custom_callback": "",
+  "form_visibility": "all",
+  "layout_grid": {
+    "fields": {
+      "fld_895005": "1:1",
+      "fld_7090466": "1:1",
+      "fld_1921151": "1:1",
+      "fld_3105376": "1:1",
+      "fld_2242770": "2:1",
+      "fld_2870253": "2:1",
+      "fld_1897106": "3:1",
+      "fld_144971": "3:1",
+      "fld_9600169": "3:1",
+      "fld_399376": "3:1",
+      "fld_2247953": "3:1",
+      "fld_4157506": "3:1",
+      "fld_1698829": "3:1",
+      "fld_6066942": "3:1",
+      "fld_9588": "3:1",
+      "fld_6333809": "3:1",
+      "fld_3020338": "3:1",
+      "fld_8377416": "4:1",
+      "fld_3346329": "4:1",
+      "fld_4504587": "4:1",
+      "fld_5686495": "4:1",
+      "fld_8774552": "4:1",
+      "fld_8450379": "4:1",
+      "fld_9494972": "4:1",
+      "fld_8789749": "4:1",
+      "fld_1827384": "4:1",
+      "fld_7834317": "4:1",
+      "fld_9519174": "4:1",
+      "fld_3500073": "5:1",
+      "fld_6282664": "5:1",
+      "fld_346590": "5:1",
+      "fld_1605620": "6:1",
+      "fld_1967448": "6:1",
+      "fld_1737292": "6:1",
+      "fld_7899643": "7:1",
+      "fld_3437159": "7:1",
+      "fld_4839579": "7:1",
+      "fld_9165499": "7:1",
+      "fld_1563169": "7:1",
+      "fld_736280": "7:1",
+      "fld_2853423": "8:1",
+      "fld_7183177": "8:1",
+      "fld_4064378": "9:1",
+      "fld_7183961": "9:2",
+      "fld_8946239": "9:3",
+      "fld_7936604": "10:1",
+      "fld_3236363": "10:2",
+      "fld_4137954": "10:3",
+      "fld_9255571": "11:1",
+      "fld_2696719": "11:2",
+      "fld_6480965": "11:3",
+      "fld_9358286": "11:4",
+      "fld_4946707": "12:1",
+      "fld_8953594": "12:2",
+      "fld_8554991": "13:1",
+      "fld_4683203": "13:2",
+      "fld_3995572": "14:1",
+      "fld_7715638": "14:1",
+      "fld_9734918": "15:1",
+      "fld_8479356": "15:1",
+      "fld_6712026": "15:2",
+      "fld_3939172": "15:2",
+      "fld_8706087": "15:3",
+      "fld_5897639": "16:1",
+      "fld_2632654": "16:2",
+      "fld_7705992": "17:1",
+      "fld_2819603": "17:1",
+      "fld_7686928": "17:1",
+      "fld_1085956": "18:1",
+      "fld_9796630": "18:2",
+      "fld_2684790": "19:1",
+      "fld_7841483": "19:2",
+      "fld_6184122": "19:3",
+      "fld_2179689": "19:4",
+      "fld_2428144": "20:1",
+      "fld_1717755": "20:1",
+      "fld_4931731": "20:1",
+      "fld_862654": "21:1",
+      "fld_2307320": "22:1",
+      "fld_6239608": "22:2",
+      "fld_8440597": "22:4",
+      "fld_3919286": "23:1",
+      "fld_7513766": "23:1",
+      "fld_2409840": "24:1",
+      "fld_8786445": "24:2",
+      "fld_2230656": "25:1",
+      "fld_165550": "25:2",
+      "fld_8434828": "25:3",
+      "fld_3152477": "25:4",
+      "fld_4081145": "26:1",
+      "fld_2792307": "26:1",
+      "fld_2800053": "26:1",
+      "fld_8922670": "26:1"
+    },
+    "structure": "12|12|12|12|12|12|12|12|4:4:4|4:4:4|3:3:3:3|6:6|6:6|12|4:4:4|6:6|12|6:6|3:3:3:3|12|12|3:3:3:3|12|6:6|3:3:3:3|12"
+  },
+  "fields": {
+    "fld_895005": {
+      "ID": "fld_895005",
+      "type": "html",
+      "label": "html__fld_895005",
+      "slug": "html_fld_895005",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "public",
+        "default": "<p>Please enter a Username to create an account. If you already have an account <a href=\"/member-login/\">please login</a> before completing this form.</p>"
+      }
+    },
+    "fld_7090466": {
+      "ID": "fld_7090466",
+      "type": "html",
+      "label": "register_heading",
+      "slug": "register_heading",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "public",
+        "default": "<h4>Register</h4>"
+      }
+    },
+    "fld_1921151": {
+      "ID": "fld_1921151",
+      "type": "text",
+      "label": "Username",
+      "slug": "username_register",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "Punctuation is not allowed in a username with the exception of periods, hyphens and underscores.",
+      "config": {
+        "custom_class": "",
+        "visibility": "public",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_3105376": {
+      "ID": "fld_3105376",
+      "type": "password",
+      "label": "Password",
+      "slug": "password_register",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "We recommend including a combination of letters, numbers, and special characters.",
+      "config": {
+        "custom_class": "",
+        "visibility": "public",
+        "confirm_pass": 1,
+        "confirm_description": "",
+        "pass_strength": 0
+      }
+    },
+    "fld_2242770": {
+      "ID": "fld_2242770",
+      "type": "radio",
+      "label": "Member Dues",
+      "slug": "member_dues",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "cfc_price_field_18",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt688052": {
+            "calc_value": 125,
+            "value": 1049,
+            "label": "One-Year Regular Membership - $125.00"
+          },
+          "opt1508741": {
+            "calc_value": 225,
+            "value": 1050,
+            "label": " Two-Year Regular Membership - $225.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2870253": {
+      "ID": "fld_2870253",
+      "type": "hidden",
+      "label": "Membership start date for this payment",
+      "slug": "membership_start_date_this_payment",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "01/01/2021",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_1897106": {
+      "ID": "fld_1897106",
+      "type": "html",
+      "label": "subscription_options",
+      "slug": "subscription_options",
+      "conditions": { "type": "con_8537326265203571" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "<h4> Subscription Options </h4>"
+      }
+    },
+    "fld_144971": {
+      "ID": "fld_144971",
+      "type": "radio",
+      "label": "BSSA Options (One-Year)",
+      "slug": "bssa_options_1_year",
+      "conditions": { "type": "con_8173370496406861" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt53361": {
+            "calc_value": 0,
+            "value": 1059,
+            "label": "BSSA Online Only - $ 0.00"
+          },
+          "opt2081356": {
+            "calc_value": 75,
+            "value": 1060,
+            "label": "BSSA Print & Online US  $ 75.00"
+          },
+          "opt2894280": {
+            "calc_value": 105,
+            "value": 1061,
+            "label": "BSSA Print & Online Outside US $ 105.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9600169": {
+      "ID": "fld_9600169",
+      "type": "radio",
+      "label": "BSSA Options (Two-Year)",
+      "slug": "bssa_options_2_year",
+      "conditions": { "type": "con_641574758733608" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt29842": {
+            "calc_value": 0,
+            "value": 1062,
+            "label": "BSSA Online Only - $ 0.00"
+          },
+          "opt1485000": {
+            "calc_value": 150,
+            "value": 1063,
+            "label": "BSSA Print & Online US - $ 150.00"
+          },
+          "opt2714732": {
+            "calc_value": 210,
+            "value": 1064,
+            "label": "BSSA Print & Online Outside US - $ 210.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_399376": {
+      "ID": "fld_399376",
+      "type": "hidden",
+      "label": "BSSA Number of Copies",
+      "slug": "bssa_number_of_copies",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": 1,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2247953": {
+      "ID": "fld_2247953",
+      "type": "radio",
+      "label": "BSSA Shipping (One-Year)",
+      "slug": "bssa_shipping_1_year_us",
+      "conditions": { "type": "con_2119903958001001" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt1041299": {
+            "calc_value": 95,
+            "value": 1065,
+            "label": "Priority Inside US - $ 95.00"
+          },
+          "opt1949745": {
+            "calc_value": 0,
+            "value": 1067,
+            "label": "Standard - $ 0.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4157506": {
+      "ID": "fld_4157506",
+      "type": "radio",
+      "label": "BSSA Shipping (One-Year)",
+      "slug": "bssa_shipping_1_year_intl",
+      "conditions": { "type": "con_4337321759079802" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt316952": {
+            "calc_value": 145,
+            "value": 1066,
+            "label": "Priority Outside US - $ 145.00"
+          },
+          "opt1134215": {
+            "calc_value": 0,
+            "value": 1067,
+            "label": "Standard - $ 0.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_1698829": {
+      "ID": "fld_1698829",
+      "type": "radio",
+      "label": "BSSA Shipping (Two-Year)",
+      "slug": "bssa_shipping_2_year_us",
+      "conditions": { "type": "con_1839813629814655" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt468662": {
+            "calc_value": 190,
+            "value": 1068,
+            "label": "Priority Inside US - $ 190.00"
+          },
+          "opt1299376": {
+            "calc_value": 0,
+            "value": 1070,
+            "label": "Standard - $ 0.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_6066942": {
+      "ID": "fld_6066942",
+      "type": "radio",
+      "label": "BSSA Shipping (Two-Year)",
+      "slug": "bssa_shipping_2_year_intl",
+      "conditions": { "type": "con_280273511741381" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt45843": {
+            "calc_value": 290,
+            "value": 1069,
+            "label": "Priority Outside US - $ 290.00"
+          },
+          "opt1500207": {
+            "calc_value": 0,
+            "value": 1070,
+            "label": "Standard - $ 0.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9588": {
+      "ID": "fld_9588",
+      "type": "hidden",
+      "label": "BSSA Shipping Priority",
+      "slug": "bssa_shipping_priority",
+      "conditions": { "type": "con_1999229794228466" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "Priority",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_6333809": {
+      "ID": "fld_6333809",
+      "type": "hidden",
+      "label": "BSSA Shipping Standard",
+      "slug": "bssa_shipping_standard",
+      "conditions": { "type": "con_214269941792553" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "Standard",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_3020338": {
+      "ID": "fld_3020338",
+      "type": "hidden",
+      "label": "BSSA Shipping Sync",
+      "slug": "bssa_shipping_sync",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "%bssa_shipping_priority%%bssa_shipping_standard%",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8377416": {
+      "ID": "fld_8377416",
+      "type": "section_break",
+      "label": "section_break__fld_3500073",
+      "slug": "section_break_fld_3500073",
+      "conditions": { "type": "con_8537326265203571" },
+      "caption": "",
+      "config": { "custom_class": "", "visibility": "all", "width": "" }
+    },
+    "fld_3346329": {
+      "ID": "fld_3346329",
+      "type": "radio",
+      "label": "SRL Options (One-Year)",
+      "slug": "srl_options_1_year",
+      "conditions": { "type": "con_8173370496406861" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt989035": {
+            "calc_value": 0,
+            "value": 1071,
+            "label": "SRL Online Only - $ 0.00"
+          },
+          "opt2022967": {
+            "calc_value": 40,
+            "value": 1072,
+            "label": "SRL Print & Online US - $ 40.00"
+          },
+          "opt2734528": {
+            "calc_value": 60,
+            "value": 1073,
+            "label": "SRL Print & Online Outside US -  $ 60.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4504587": {
+      "ID": "fld_4504587",
+      "type": "radio",
+      "label": "SRL Options (Two-Year)",
+      "slug": "srl_options_2_year",
+      "conditions": { "type": "con_641574758733608" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt379947": {
+            "calc_value": 0,
+            "value": 1074,
+            "label": "SRL Online Only - $ 0.00"
+          },
+          "opt2047960": {
+            "calc_value": 80,
+            "value": 1075,
+            "label": "SRL Print & Online US - $ 80.00"
+          },
+          "opt2858299": {
+            "calc_value": 120,
+            "value": 1076,
+            "label": "SRL Print & Online Outside US - $ 120.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_5686495": {
+      "ID": "fld_5686495",
+      "type": "hidden",
+      "label": "SRL Number of Copies",
+      "slug": "srl_number_of_copies",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": 1,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8774552": {
+      "ID": "fld_8774552",
+      "type": "radio",
+      "label": "SRL Shipping (One-Year)",
+      "slug": "srl_shipping_1_year_us",
+      "conditions": { "type": "con_5314027242535217" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt846922": {
+            "calc_value": 95,
+            "value": 1077,
+            "label": "Priority Inside US - $ 95.00"
+          },
+          "opt1379248": {
+            "calc_value": 0,
+            "value": 1079,
+            "label": "Standard - $ 0.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8450379": {
+      "ID": "fld_8450379",
+      "type": "radio",
+      "label": "SRL Shipping (One-Year)",
+      "slug": "srl_shipping_1_year_intl",
+      "conditions": { "type": "con_5560296275271579" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt344495": {
+            "calc_value": 145,
+            "value": 1078,
+            "label": "Priority Outside US - $ 145.00"
+          },
+          "opt1398199": {
+            "calc_value": 0,
+            "value": 1079,
+            "label": "Standard - $ 0.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9494972": {
+      "ID": "fld_9494972",
+      "type": "radio",
+      "label": "SRL Shipping (Two-Year)",
+      "slug": "srl_shipping_2_year_us",
+      "conditions": { "type": "con_30662414006485" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt1009417": {
+            "calc_value": 190,
+            "value": 1080,
+            "label": "Priority Inside US - $ 190.00"
+          },
+          "opt1357502": {
+            "calc_value": 0,
+            "value": 1082,
+            "label": "Standard - $ 0.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8789749": {
+      "ID": "fld_8789749",
+      "type": "radio",
+      "label": "SRL Shipping (Two-Year)",
+      "slug": "srl_shipping_2_year_intl",
+      "conditions": { "type": "con_5600524248886478" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt901401": {
+            "calc_value": 290,
+            "value": 1081,
+            "label": "Priority Outside US - $ 290.00"
+          },
+          "opt1326946": {
+            "calc_value": 0,
+            "value": 1082,
+            "label": "Standard - $ 0.00"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_1827384": {
+      "ID": "fld_1827384",
+      "type": "hidden",
+      "label": "SRL Shipping Priority",
+      "slug": "srl_shipping_priority",
+      "conditions": { "type": "con_2494533018894022" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "Priority",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7834317": {
+      "ID": "fld_7834317",
+      "type": "hidden",
+      "label": "SRL Shipping Standard",
+      "slug": "srl_shipping_standard",
+      "conditions": { "type": "con_487532465563707" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "Standard",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9519174": {
+      "ID": "fld_9519174",
+      "type": "hidden",
+      "label": "SRL Shipping Sync",
+      "slug": "srl_shipping_sync",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "%srl_shipping_priority%%srl_shipping_standard%",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_3500073": {
+      "ID": "fld_3500073",
+      "type": "section_break",
+      "label": "section_break__fld_3500075",
+      "slug": "section_break_fld_3500075",
+      "conditions": { "type": "con_8537326265203571" },
+      "caption": "",
+      "config": { "custom_class": "", "visibility": "all", "width": "" }
+    },
+    "fld_6282664": {
+      "ID": "fld_6282664",
+      "type": "radio",
+      "label": "Eastern Section (One-Year)",
+      "slug": "eastern_section_1_year",
+      "conditions": { "type": "con_8173370496406861" },
+      "required": 1,
+      "caption": "Select this option if you would like to affiliate with the Eastern Section of SSA. For more information on the Eastern Section, please visit: <a href=\"https://www.seismosoc.org/inside-eastern-section/\" target=_blank\">www.seismosoc.org/inside-eastern-section/</a>",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt172403": {
+            "calc_value": 20,
+            "value": 1083,
+            "label": "Eastern Section - $20.00"
+          },
+          "opt2031627": {
+            "calc_value": 0,
+            "value": 1086,
+            "label": "Do Not Join"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_346590": {
+      "ID": "fld_346590",
+      "type": "radio",
+      "label": "Eastern Section (Two-Year)",
+      "slug": "eastern_section_2_years",
+      "conditions": { "type": "con_641574758733608" },
+      "required": 1,
+      "caption": "Select this option if you would like to affiliate with the Eastern Section of SSA. For more information on the Eastern Section, please visit: <a href=\"https://www.seismosoc.org/inside-eastern-section/\" target=_blank\">www.seismosoc.org/inside-eastern-section/</a>",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt552206": {
+            "calc_value": 40,
+            "value": 1084,
+            "label": "Eastern Section - $40.00"
+          },
+          "opt1064415": {
+            "calc_value": 0,
+            "value": 1086,
+            "label": "Do Not Join"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_1605620": {
+      "ID": "fld_1605620",
+      "type": "section_break",
+      "label": "section_break__fld_3500076",
+      "slug": "section_break_fld_3500076",
+      "conditions": { "type": "con_8537326265203571" },
+      "caption": "",
+      "config": { "custom_class": "", "visibility": "all", "width": "" }
+    },
+    "fld_1967448": {
+      "ID": "fld_1967448",
+      "type": "radio",
+      "label": "EERI Affiliation (One-Year)",
+      "slug": "eeri_affiliation_1_year",
+      "conditions": { "type": "con_8173370496406861" },
+      "required": 1,
+      "caption": "Please select this option if you would like to affiliate with the Earthquake Engineering Research Institute (EERI). Those that affiliate with EERI will receive EERI's bi-weekly e-newsletter, semi-annual magazine publication, and special member rates for EERI meetings, conferences, publications, and audio-visual materials. Affiliates will be included in and have access to the EERI membership roster. Those members of SSA seeking full benefits of an EERI membership, including access to Earthquake Spectra, should not opt to become an affiliate and instead should join EERI as a regular member. For more information on EERI and becoming a regular member, please visit <a href=\"http://www.EERI.org\" target=\"_blank\">www.EERI.org.</a>",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt763881": {
+            "calc_value": 85,
+            "value": 1087,
+            "label": "EERI Affiliation - $85.00"
+          },
+          "opt1126844": {
+            "calc_value": 0,
+            "value": 1090,
+            "label": "Do Not Join"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_1737292": {
+      "ID": "fld_1737292",
+      "type": "radio",
+      "label": "EERI Affiliation (Two-Year)",
+      "slug": "eeri_affiliation_2_years",
+      "conditions": { "type": "con_641574758733608" },
+      "required": 1,
+      "caption": "Please select this option if you would like to affiliate with the Earthquake Engineering Research Institute (EERI). Those that affiliate with EERI will receive EERI's bi-weekly e-newsletter, semi-annual magazine publication, and special member rates for EERI meetings, conferences, publications, and audio-visual materials. Affiliates will be included in and have access to the EERI membership roster. Those members of SSA seeking full benefits of an EERI membership, including access to Earthquake Spectra, should not opt to become an affiliate and instead should join EERI as a regular member. For more information on EERI and becoming a regular member, please visit <a href=\"http://www.EERI.org\" target=\"_blank\">www.EERI.org.</a>",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt420117": {
+            "calc_value": 170,
+            "value": 1088,
+            "label": "EERI Affiliation - $170.00"
+          },
+          "opt1372578": {
+            "calc_value": 0,
+            "value": 1090,
+            "label": "Do Not Join"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7899643": {
+      "ID": "fld_7899643",
+      "type": "html",
+      "label": "contribute_to_a_fund_heading",
+      "slug": "contribute_to_a_fund_heading",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "<h4>Contribute to the Seismological Society of America</h4>"
+      }
+    },
+    "fld_3437159": {
+      "ID": "fld_3437159",
+      "type": "text",
+      "label": "Student Travel Grant Fund",
+      "slug": "student_travel",
+      "conditions": { "type": "" },
+      "caption": "Support students with travel grants to attend the SSA Annual Meeting. ",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "off",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "masked": 1,
+        "mask": "[9{*}]",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4839579": {
+      "ID": "fld_4839579",
+      "type": "text",
+      "label": "Kanamori Fund",
+      "slug": "kanamori_fund",
+      "conditions": { "type": "" },
+      "caption": "Provide professional development opportunities for students and seismologists of all ages and support SSA's ability to move quickly in pursuit of new program ideas on behalf of the community. Named in honor of Hiroo Kanamori, the Kanamori Fund has made possible special workshops and helped support travel grants to SSA meetings from countries that are members of the European Seismological Commission.",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "off",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "masked": 1,
+        "mask": "[9{*}]",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9165499": {
+      "ID": "fld_9165499",
+      "type": "text",
+      "label": "General Fund",
+      "slug": "general_fund",
+      "conditions": { "type": "" },
+      "caption": "Support new and ongoing programs in publishing, meetings and communications. Help SSA broaden the reach of the scientific content published in SSA's journals and delivered at its annual meeting. Your contributions to the SSA General Fund make it possible to explore new ways to serve the community. ",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "off",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "masked": 1,
+        "mask": "[9{*}]",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_1563169": {
+      "ID": "fld_1563169",
+      "type": "text",
+      "label": "Geosciences Congressional Visits Day Fund",
+      "slug": "geo_cvd_travel_fund",
+      "conditions": { "type": "" },
+      "caption": "Support student participation in Geosciences Congressional Visits Day, held annually to raise awareness about the geosciences among policymakers. Decision-makers need to hear from geoscientists, and students need to learn how to advocate on behalf of our community. Help make this possible with your donation.",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "off",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "masked": 1,
+        "mask": "[9{*}]",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_736280": {
+      "ID": "fld_736280",
+      "type": "text",
+      "label": "Joyner Fund",
+      "slug": "joyner_fund",
+      "conditions": { "type": "" },
+      "caption": "Donate to the William B. Joyner Memorial Fund, which supports a lecture series that fosters the exchange of information at the interface of earthquake science and earthquake engineering. ",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "off",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "masked": 1,
+        "mask": "[9{*}]",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2853423": {
+      "ID": "fld_2853423",
+      "type": "html",
+      "label": "Personal Information heading",
+      "slug": "personal_information_heading",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "<h4>Personal Information</h4>"
+      }
+    },
+    "fld_7183177": {
+      "ID": "fld_7183177",
+      "type": "civicrm_contact_reference",
+      "label": "Affiliated Institution",
+      "slug": "affiliated_institution",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "  Begin typing the name of your institution to locate it within the database. If your institution name does not appear, please type the full institution name to add it to our database.",
+      "entry_list": 1,
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "Search for your Organization",
+        "contact_type": "Organization",
+        "contact_sub_type": "",
+        "civicrm_group": null,
+        "new_organization": 1,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4064378": {
+      "ID": "fld_4064378",
+      "type": "text",
+      "label": "First Name",
+      "slug": "first_name",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "entry_list": 1,
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7183961": {
+      "ID": "fld_7183961",
+      "type": "text",
+      "label": "Middle Name",
+      "slug": "middle_name",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8946239": {
+      "ID": "fld_8946239",
+      "type": "text",
+      "label": "Last Name",
+      "slug": "last_name",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "entry_list": 1,
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7936604": {
+      "ID": "fld_7936604",
+      "type": "text",
+      "label": "Address Line 1",
+      "slug": "address_line_1",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_3236363": {
+      "ID": "fld_3236363",
+      "type": "text",
+      "label": "Address Line 2",
+      "slug": "address_line_2",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4137954": {
+      "ID": "fld_4137954",
+      "type": "text",
+      "label": "Address Line 3",
+      "slug": "address_line_3",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9255571": {
+      "ID": "fld_9255571",
+      "type": "text",
+      "label": "City",
+      "slug": "city",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2696719": {
+      "ID": "fld_2696719",
+      "type": "civicrm_country",
+      "label": "Country",
+      "slug": "country",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "Select a Country",
+        "default": 1228,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_6480965": {
+      "ID": "fld_6480965",
+      "type": "civicrm_state",
+      "label": "State",
+      "slug": "state",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "Select a State/Province",
+        "default": "",
+        "civicrm_country": "%country%",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9358286": {
+      "ID": "fld_9358286",
+      "type": "text",
+      "label": "Postal Code",
+      "slug": "postal_code",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4946707": {
+      "ID": "fld_4946707",
+      "type": "email",
+      "label": "Email",
+      "slug": "contact_email",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8953594": {
+      "ID": "fld_8953594",
+      "type": "text",
+      "label": "Work Phone",
+      "slug": "work_phone",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8554991": {
+      "ID": "fld_8554991",
+      "type": "text",
+      "label": "Home Phone",
+      "slug": "home_phone",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4683203": {
+      "ID": "fld_4683203",
+      "type": "text",
+      "label": "Mobile Phone",
+      "slug": "mobile_phone",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_3995572": {
+      "ID": "fld_3995572",
+      "type": "hidden",
+      "label": "Set main as primary address",
+      "slug": "set_main_as_primary_address",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": 1,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7715638": {
+      "ID": "fld_7715638",
+      "type": "html",
+      "label": "Demographics Header",
+      "slug": "demographics_header",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "<p>SSA collects information about our members in order to provide the appropriate services to meet their needs. SSA does not distribute or display demographic information about our members to anyone outside the home office without explicit permission of the member. For our complete privacy policy, <a href=\"https://www.seismosoc.org/inside/privacy-policy/\" target=\"_blank\">click here</a></p>"
+      }
+    },
+    "fld_9734918": {
+      "ID": "fld_9734918",
+      "type": "dropdown",
+      "label": "Area of Interest 1",
+      "slug": "area_of_interest_1",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt188160": {
+            "calc_value": 1,
+            "value": 1,
+            "label": "Seismic Risk Modeling"
+          },
+          "opt1971016": {
+            "calc_value": 2,
+            "value": 2,
+            "label": "Seismology - Crustal"
+          },
+          "opt2809928": {
+            "calc_value": 3,
+            "value": 3,
+            "label": "Seismology - Earthquake"
+          },
+          "opt3555575": {
+            "calc_value": 4,
+            "value": 4,
+            "label": "Seismology - Engineering"
+          },
+          "opt4798374": {
+            "calc_value": 5,
+            "value": 5,
+            "label": "Seismology - Global"
+          },
+          "opt5689085": {
+            "calc_value": 6,
+            "value": 6,
+            "label": "Seismology - Strong Motion"
+          },
+          "opt6627706": {
+            "calc_value": 7,
+            "value": 7,
+            "label": "Seismology - Theoretical"
+          },
+          "opt7576417": {
+            "calc_value": 8,
+            "value": 8,
+            "label": "Geophysics - Exploration"
+          },
+          "opt8953933": {
+            "calc_value": 9,
+            "value": 9,
+            "label": "Geophysics - Global"
+          },
+          "opt10470067": {
+            "calc_value": 10,
+            "value": 10,
+            "label": "Geodesy - Surveying"
+          },
+          "opt11022073": {
+            "calc_value": 11,
+            "value": 11,
+            "label": "Geodesy - Tectonic"
+          },
+          "opt12048814": {
+            "calc_value": 40,
+            "value": 40,
+            "label": "Hydrogeophysics"
+          },
+          "opt12925586": {
+            "calc_value": 12,
+            "value": 12,
+            "label": "Geology - Earthquake/Paleoseismology"
+          },
+          "opt14165728": {
+            "calc_value": 13,
+            "value": 13,
+            "label": "Geology - Engineering"
+          },
+          "opt15004156": {
+            "calc_value": 14,
+            "value": 14,
+            "label": "Geomorphology"
+          },
+          "opt16244697": {
+            "calc_value": 15,
+            "value": 15,
+            "label": "Engineering - Civil/Structural"
+          },
+          "opt17478695": {
+            "calc_value": 16,
+            "value": 16,
+            "label": "Engineering - Earthquake"
+          },
+          "opt18827565": {
+            "calc_value": 17,
+            "value": 17,
+            "label": "Engineering - Geology"
+          },
+          "opt19826765": {
+            "calc_value": 18,
+            "value": 18,
+            "label": "Engineering - Geotechnical"
+          },
+          "opt20552401": {
+            "calc_value": 19,
+            "value": 19,
+            "label": "Monitoring - Explosions"
+          },
+          "opt21832632": {
+            "calc_value": 20,
+            "value": 20,
+            "label": "Monitoring - Seismic Networks"
+          },
+          "opt22284999": {
+            "calc_value": 21,
+            "value": 21,
+            "label": "Tectonics"
+          },
+          "opt23596939": {
+            "calc_value": 22,
+            "value": 22,
+            "label": "Archeoseismology"
+          },
+          "opt24612529": {
+            "calc_value": 23,
+            "value": 23,
+            "label": "Architecture"
+          },
+          "opt25607872": {
+            "calc_value": 24,
+            "value": 24,
+            "label": "Building Inspector"
+          },
+          "opt26513967": {
+            "calc_value": 25,
+            "value": 25,
+            "label": "Computer Science"
+          },
+          "opt27696994": {
+            "calc_value": 26,
+            "value": 26,
+            "label": "Education and Outreach"
+          },
+          "opt28576263": {
+            "calc_value": 27,
+            "value": 27,
+            "label": "Induced Seismology"
+          },
+          "opt30285237": {
+            "calc_value": 28,
+            "value": 28,
+            "label": "Infrasound"
+          },
+          "opt30839782": {
+            "calc_value": 29,
+            "value": 29,
+            "label": "Instrumentation"
+          },
+          "opt32286703": {
+            "calc_value": 30,
+            "value": 30,
+            "label": "Insurance"
+          },
+          "opt33078990": {
+            "calc_value": 31,
+            "value": 31,
+            "label": "Lifelines"
+          },
+          "opt34541538": {
+            "calc_value": 32,
+            "value": 32,
+            "label": "Microseismology"
+          },
+          "opt35050237": {
+            "calc_value": 33,
+            "value": 33,
+            "label": "Oceanography"
+          },
+          "opt36517157": {
+            "calc_value": 34,
+            "value": 34,
+            "label": "Preparedness/Emergency Response"
+          },
+          "opt37489930": {
+            "calc_value": 35,
+            "value": 35,
+            "label": "Public Policy/Planning"
+          },
+          "opt38486434": {
+            "calc_value": 36,
+            "value": 36,
+            "label": "Statistics"
+          },
+          "opt39046108": {
+            "calc_value": 37,
+            "value": 37,
+            "label": "Volcanology"
+          },
+          "opt40158679": { "calc_value": 38, "value": 38, "label": "Tsunami" },
+          "opt41188547": { "calc_value": 39, "value": 39, "label": "Other" },
+          "opt42636744": {
+            "calc_value": 41,
+            "value": 41,
+            "label": "Planetary Seismology"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8479356": {
+      "ID": "fld_8479356",
+      "type": "text",
+      "label": "Other Area of Interest 1",
+      "slug": "other_area_of_interest_1",
+      "conditions": { "type": "con_696647866461793" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_6712026": {
+      "ID": "fld_6712026",
+      "type": "dropdown",
+      "label": "Area of Interest 2",
+      "slug": "area_of_interest_2",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt615338": {
+            "calc_value": 1,
+            "value": 1,
+            "label": "Seismic Risk Modeling"
+          },
+          "opt1924549": {
+            "calc_value": 2,
+            "value": 2,
+            "label": "Seismology - Crustal"
+          },
+          "opt2398809": {
+            "calc_value": 3,
+            "value": 3,
+            "label": "Seismology - Earthquake"
+          },
+          "opt3284665": {
+            "calc_value": 4,
+            "value": 4,
+            "label": "Seismology - Engineering"
+          },
+          "opt4641337": {
+            "calc_value": 5,
+            "value": 5,
+            "label": "Seismology - Global"
+          },
+          "opt6130343": {
+            "calc_value": 6,
+            "value": 6,
+            "label": "Seismology - Strong Motion"
+          },
+          "opt6498671": {
+            "calc_value": 7,
+            "value": 7,
+            "label": "Seismology - Theoretical"
+          },
+          "opt7597893": {
+            "calc_value": 8,
+            "value": 8,
+            "label": "Geophysics - Exploration"
+          },
+          "opt9083014": {
+            "calc_value": 9,
+            "value": 9,
+            "label": "Geophysics - Global"
+          },
+          "opt9769892": {
+            "calc_value": 10,
+            "value": 10,
+            "label": "Geodesy - Surveying"
+          },
+          "opt10927377": {
+            "calc_value": 11,
+            "value": 11,
+            "label": "Geodesy - Tectonic"
+          },
+          "opt12483040": {
+            "calc_value": 40,
+            "value": 40,
+            "label": "Hydrogeophysics"
+          },
+          "opt13082426": {
+            "calc_value": 12,
+            "value": 12,
+            "label": "Geology - Earthquake/Paleoseismology"
+          },
+          "opt14029817": {
+            "calc_value": 13,
+            "value": 13,
+            "label": "Geology - Engineering"
+          },
+          "opt15014001": {
+            "calc_value": 14,
+            "value": 14,
+            "label": "Geomorphology"
+          },
+          "opt16682564": {
+            "calc_value": 15,
+            "value": 15,
+            "label": "Engineering - Civil/Structural"
+          },
+          "opt17087718": {
+            "calc_value": 16,
+            "value": 16,
+            "label": "Engineering - Earthquake"
+          },
+          "opt18271865": {
+            "calc_value": 17,
+            "value": 17,
+            "label": "Engineering - Geology"
+          },
+          "opt19735812": {
+            "calc_value": 18,
+            "value": 18,
+            "label": "Engineering - Geotechnical"
+          },
+          "opt20558874": {
+            "calc_value": 19,
+            "value": 19,
+            "label": "Monitoring - Explosions"
+          },
+          "opt21206389": {
+            "calc_value": 20,
+            "value": 20,
+            "label": "Monitoring - Seismic Networks"
+          },
+          "opt22212751": {
+            "calc_value": 21,
+            "value": 21,
+            "label": "Tectonics"
+          },
+          "opt23829556": {
+            "calc_value": 22,
+            "value": 22,
+            "label": "Archeoseismology"
+          },
+          "opt24372994": {
+            "calc_value": 23,
+            "value": 23,
+            "label": "Architecture"
+          },
+          "opt25808645": {
+            "calc_value": 24,
+            "value": 24,
+            "label": "Building Inspector"
+          },
+          "opt26752236": {
+            "calc_value": 25,
+            "value": 25,
+            "label": "Computer Science"
+          },
+          "opt27728537": {
+            "calc_value": 26,
+            "value": 26,
+            "label": "Education and Outreach"
+          },
+          "opt29129810": {
+            "calc_value": 27,
+            "value": 27,
+            "label": "Induced Seismology"
+          },
+          "opt30330471": {
+            "calc_value": 28,
+            "value": 28,
+            "label": "Infrasound"
+          },
+          "opt30807543": {
+            "calc_value": 29,
+            "value": 29,
+            "label": "Instrumentation"
+          },
+          "opt32057340": {
+            "calc_value": 30,
+            "value": 30,
+            "label": "Insurance"
+          },
+          "opt33455909": {
+            "calc_value": 31,
+            "value": 31,
+            "label": "Lifelines"
+          },
+          "opt34317020": {
+            "calc_value": 32,
+            "value": 32,
+            "label": "Microseismology"
+          },
+          "opt34771750": {
+            "calc_value": 33,
+            "value": 33,
+            "label": "Oceanography"
+          },
+          "opt35654784": {
+            "calc_value": 34,
+            "value": 34,
+            "label": "Preparedness/Emergency Response"
+          },
+          "opt36828687": {
+            "calc_value": 35,
+            "value": 35,
+            "label": "Public Policy/Planning"
+          },
+          "opt37815971": {
+            "calc_value": 36,
+            "value": 36,
+            "label": "Statistics"
+          },
+          "opt39426955": {
+            "calc_value": 37,
+            "value": 37,
+            "label": "Volcanology"
+          },
+          "opt40879192": { "calc_value": 38, "value": 38, "label": "Tsunami" },
+          "opt41350705": { "calc_value": 39, "value": 39, "label": "Other" },
+          "opt42478694": {
+            "calc_value": 41,
+            "value": 41,
+            "label": "Planetary Seismology"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_3939172": {
+      "ID": "fld_3939172",
+      "type": "text",
+      "label": "Other Area of Interest 2",
+      "slug": "other_area_of_interest_2",
+      "conditions": { "type": "con_6828521572738951" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8706087": {
+      "ID": "fld_8706087",
+      "type": "dropdown",
+      "label": "How did you hear about SSA?",
+      "slug": "how_did_you_hear_about_ssa",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt363450": {
+            "calc_value": 1,
+            "value": 1,
+            "label": "Coworker or instructor"
+          },
+          "opt1182202": {
+            "calc_value": 2,
+            "value": 2,
+            "label": "SSA Annual Meeting"
+          },
+          "opt2421846": {
+            "calc_value": 3,
+            "value": 3,
+            "label": "Read SSA Journals"
+          },
+          "opt3367527": {
+            "calc_value": 4,
+            "value": 4,
+            "label": "Received invitation letter"
+          },
+          "opt4430560": {
+            "calc_value": 5,
+            "value": 5,
+            "label": "EERI Affiliation"
+          },
+          "opt5828279": {
+            "calc_value": 6,
+            "value": 6,
+            "label": "AGU Conference"
+          },
+          "opt6966372": {
+            "calc_value": 7,
+            "value": 7,
+            "label": "IRIS Meeting"
+          },
+          "opt7826773": {
+            "calc_value": 8,
+            "value": 8,
+            "label": "IASPEI Assembly"
+          },
+          "opt8787063": {
+            "calc_value": 9,
+            "value": 9,
+            "label": "SCEC Annual Meeting"
+          },
+          "opt9945782": {
+            "calc_value": 10,
+            "value": 10,
+            "label": "ESC Conference"
+          },
+          "opt10742431": {
+            "calc_value": 11,
+            "value": 11,
+            "label": "GSA Meeting"
+          },
+          "opt11642726": {
+            "calc_value": 12,
+            "value": 12,
+            "label": "LACSC Meeting"
+          },
+          "opt13517514": {
+            "calc_value": 13,
+            "value": 13,
+            "label": "ES-SSA Meeting"
+          },
+          "opt14418416": {
+            "calc_value": 14,
+            "value": 14,
+            "label": "AAPG Meeting"
+          },
+          "opt14949586": {
+            "calc_value": 15,
+            "value": 15,
+            "label": "SEG Meeting"
+          },
+          "opt15822889": {
+            "calc_value": 16,
+            "value": 16,
+            "label": "LLNL CIG Workshop"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_5897639": {
+      "ID": "fld_5897639",
+      "type": "dropdown",
+      "label": "Where are you Employed?",
+      "slug": "where_are_you_employed",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt528630": { "calc_value": 1, "value": 1, "label": "Academia" },
+          "opt1492608": { "calc_value": 2, "value": 2, "label": "Consulting" },
+          "opt2213905": { "calc_value": 3, "value": 3, "label": "Government" },
+          "opt3869255": { "calc_value": 4, "value": 4, "label": "Industry" },
+          "opt5069632": { "calc_value": 5, "value": 5, "label": "Post-Doc" },
+          "opt6250405": { "calc_value": 6, "value": 6, "label": "Non-Profit" },
+          "opt6531711": { "calc_value": 7, "value": 7, "label": "Student" },
+          "opt7844875": { "calc_value": 8, "value": 8, "label": "Retired" },
+          "opt8697557": { "calc_value": 0, "value": "None", "label": "None" }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2632654": {
+      "ID": "fld_2632654",
+      "type": "text",
+      "label": "Birth Date",
+      "slug": "birth_date",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "mm/dd/yyyy",
+        "type_override": "date",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7705992": {
+      "ID": "fld_7705992",
+      "type": "calculation",
+      "label": "Dues Total",
+      "hide_label": 1,
+      "slug": "dues_total",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "element": "h3",
+        "classes": "total-line",
+        "before": "Total Amount: $",
+        "after": "",
+        "fixed": 1,
+        "thousand_separator": ",",
+        "decimal_separator": ".",
+        "formular": " ( fld_2242770+fld_144971+fld_9600169+fld_2247953+fld_4157506+fld_1698829+fld_6066942+fld_3346329+fld_4504587+fld_8774552+fld_8450379+fld_9494972+fld_8789749+fld_6282664+fld_346590+fld_1967448+fld_1737292+fld_3437159+fld_9165499+fld_1563169+fld_736280+fld_4839579 ) ",
+        "config": {
+          "group": [
+            {
+              "lines": [
+                { "operator": "+", "field": "fld_2242770" },
+                { "operator": "+", "field": "fld_144971" },
+                { "operator": "+", "field": "fld_9600169" },
+                { "operator": "+", "field": "fld_2247953" },
+                { "operator": "+", "field": "fld_4157506" },
+                { "operator": "+", "field": "fld_1698829" },
+                { "operator": "+", "field": "fld_6066942" },
+                { "operator": "+", "field": "fld_3346329" },
+                { "operator": "+", "field": "fld_4504587" },
+                { "operator": "+", "field": "fld_8774552" },
+                { "operator": "+", "field": "fld_8450379" },
+                { "operator": "+", "field": "fld_9494972" },
+                { "operator": "+", "field": "fld_8789749" },
+                { "operator": "+", "field": "fld_6282664" },
+                { "operator": "+", "field": "fld_346590" },
+                { "operator": "+", "field": "fld_1967448" },
+                { "operator": "+", "field": "fld_1737292" },
+                { "operator": "+", "field": "fld_3437159" },
+                { "operator": "+", "field": "fld_9165499" },
+                { "operator": "+", "field": "fld_1563169" },
+                { "operator": "+", "field": "fld_736280" },
+                { "operator": "+", "field": "fld_4839579" }
+              ]
+            }
+          ]
+        },
+        "manual_formula": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2819603": {
+      "ID": "fld_2819603",
+      "type": "radio",
+      "label": "My shipping address the same as above",
+      "slug": "my_shipping_address_the_same_as_above",
+      "conditions": { "type": "con_467161584523823" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "option": {
+          "opt1861234": { "calc_value": "Yes", "value": "Yes", "label": "Yes" },
+          "opt1494640": { "calc_value": "No", "value": "No", "label": "No" }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7686928": {
+      "ID": "fld_7686928",
+      "type": "html",
+      "label": "Shipping Heading",
+      "slug": "html_fld_7686928",
+      "conditions": { "type": "con_5709359017381054" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "<strong>Please enter your Ship to address</strong>"
+      }
+    },
+    "fld_1085956": {
+      "ID": "fld_1085956",
+      "type": "text",
+      "label": "Street Address 1",
+      "slug": "street_address_1_shipping",
+      "conditions": { "type": "con_5709359017381054" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9796630": {
+      "ID": "fld_9796630",
+      "type": "text",
+      "label": "Street Address 2",
+      "slug": "street_address_2_shipping",
+      "conditions": { "type": "con_5709359017381054" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2684790": {
+      "ID": "fld_2684790",
+      "type": "text",
+      "label": "City",
+      "slug": "city_shipping",
+      "conditions": { "type": "con_5709359017381054" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7841483": {
+      "ID": "fld_7841483",
+      "type": "civicrm_country",
+      "label": "Country",
+      "slug": "country_shipping",
+      "conditions": { "type": "con_5709359017381054" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "Select a Country",
+        "default": 1228,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_6184122": {
+      "ID": "fld_6184122",
+      "type": "civicrm_state",
+      "label": "State",
+      "slug": "state_shipping",
+      "conditions": { "type": "con_5709359017381054" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "Select a State/Province",
+        "default": "",
+        "civicrm_country": "%country_shipping%",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2179689": {
+      "ID": "fld_2179689",
+      "type": "text",
+      "label": "Postal Code",
+      "slug": "postal_code_shipping",
+      "conditions": { "type": "con_5709359017381054" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2428144": {
+      "ID": "fld_2428144",
+      "type": "radio",
+      "label": "My billing address is the same as above",
+      "slug": "my_billing_address_is_the_same_as_above",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "If paying by Credit/Debit Card, please ensure that the billing address matches the address on the credit card.",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "option": {
+          "opt1815437": { "calc_value": "Yes", "value": "Yes", "label": "Yes" },
+          "opt1125045": { "calc_value": "No", "value": "No", "label": "No" }
+        },
+        "default": "opt1125045",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_1717755": {
+      "ID": "fld_1717755",
+      "type": "radio",
+      "label": "Payment Method",
+      "slug": "payment_method",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "show_values": 1,
+        "default": "opt970310",
+        "option": {
+          "opt970310": {
+            "calc_value": 1,
+            "value": 1,
+            "label": "Credit/Debit Card"
+          },
+          "opt4019180": {
+            "calc_value": 1,
+            "value": 4,
+            "label": "I will send payment by check"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4931731": {
+      "ID": "fld_4931731",
+      "type": "hidden",
+      "label": "authorize flag",
+      "slug": "authorize_flag",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": 1,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_862654": {
+      "ID": "fld_862654",
+      "type": "credit_card_number",
+      "label": "Credit Card Number",
+      "slug": "credit_card_number",
+      "conditions": { "type": "con_4297186618936201" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "",
+        "default": "",
+        "exp": null,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2307320": {
+      "ID": "fld_2307320",
+      "type": "dropdown",
+      "label": "Expiration Month",
+      "slug": "expiration_month",
+      "conditions": { "type": "con_4297186618936201" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "MM",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt592400": { "calc_value": 1, "value": "01", "label": "01" },
+          "opt1288629": { "calc_value": 1, "value": "02", "label": "02" },
+          "opt2907094": { "calc_value": 1, "value": "03", "label": "03" },
+          "opt3836320": { "calc_value": 1, "value": "04", "label": "04" },
+          "opt5104067": { "calc_value": 1, "value": "05", "label": "05" },
+          "opt6042542": { "calc_value": 1, "value": "06", "label": "06" },
+          "opt6827015": { "calc_value": 1, "value": "07", "label": "07" },
+          "opt7688716": { "calc_value": 1, "value": "08", "label": "08" },
+          "opt9144767": { "calc_value": 1, "value": "09", "label": "09" },
+          "opt9744938": { "calc_value": 1, "value": 10, "label": 10 },
+          "opt11276076": { "calc_value": 1, "value": 11, "label": 11 },
+          "opt12368489": { "calc_value": 1, "value": 12, "label": 12 }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_6239608": {
+      "ID": "fld_6239608",
+      "type": "dropdown",
+      "label": "Expiration Year",
+      "slug": "expiration_year",
+      "conditions": { "type": "con_4297186618936201" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "YY",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt3115058": { "calc_value": 1, "value": 20, "label": 20 },
+          "opt3454985": { "calc_value": 1, "value": 21, "label": 21 },
+          "opt4451575": { "calc_value": 1, "value": 22, "label": 22 },
+          "opt5488959": { "calc_value": 1, "value": 23, "label": 23 },
+          "opt6524866": { "calc_value": 1, "value": 24, "label": 24 },
+          "opt8086242": { "calc_value": 1, "value": 25, "label": 25 },
+          "opt8807212": { "calc_value": 1, "value": 26, "label": 26 },
+          "opt10230683": { "calc_value": 1, "value": 27, "label": 27 },
+          "opt11071083": { "calc_value": 1, "value": 28, "label": 28 }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8440597": {
+      "ID": "fld_8440597",
+      "type": "credit_card_cvc",
+      "label": "CVC",
+      "slug": "cvc",
+      "conditions": { "type": "con_4297186618936201" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "",
+        "default": "",
+        "credit_card_field": null,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_3919286": {
+      "ID": "fld_3919286",
+      "type": "text",
+      "label": "Billing Name",
+      "slug": "billing_name",
+      "conditions": { "type": "con_7288585722038381" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_7513766": {
+      "ID": "fld_7513766",
+      "type": "email",
+      "label": "Billing Email",
+      "slug": "billing_contact_email",
+      "conditions": { "type": "con_7288585722038381" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "%contact_email%",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2409840": {
+      "ID": "fld_2409840",
+      "type": "text",
+      "label": "Street Address 1",
+      "slug": "street_address_1_billing",
+      "conditions": { "type": "con_7288585722038381" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8786445": {
+      "ID": "fld_8786445",
+      "type": "text",
+      "label": "Street Address 2",
+      "slug": "street_address_2_billing",
+      "conditions": { "type": "con_7288585722038381" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2230656": {
+      "ID": "fld_2230656",
+      "type": "text",
+      "label": "City",
+      "slug": "city_billing",
+      "conditions": { "type": "con_7288585722038381" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_165550": {
+      "ID": "fld_165550",
+      "type": "civicrm_country",
+      "label": "Country",
+      "slug": "country_billing",
+      "conditions": { "type": "con_7288585722038381" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "Select a Country",
+        "default": 1228,
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_8434828": {
+      "ID": "fld_8434828",
+      "type": "civicrm_state",
+      "label": "State",
+      "slug": "state_billing",
+      "conditions": { "type": "con_7288585722038381" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "placeholder": "Select a State/Province",
+        "default": "",
+        "civicrm_country": "%country_billing%",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_3152477": {
+      "ID": "fld_3152477",
+      "type": "text",
+      "label": "Postal Code",
+      "slug": "postal_code_billing",
+      "conditions": { "type": "con_7288585722038381" },
+      "required": 1,
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "autocomplete": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4081145": {
+      "ID": "fld_4081145",
+      "type": "hidden",
+      "label": "Billing Name Concateneted",
+      "slug": "billing_name_concateneted",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default": "%billing_first_name% %billing_middle_name% %billing_last_name%",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2792307": {
+      "ID": "fld_2792307",
+      "type": "checkbox",
+      "label": "Required: check box to signal agreement",
+      "slug": "consent",
+      "conditions": { "type": "" },
+      "required": 1,
+      "caption": "I agree to abide by the SSA Professional Ethics Policy.    <a href=\"https://www.seismosoc.org/inside/professional-ethics-policy/\" target=\"_blank\">https://www.seismosoc.org/inside/professional-ethics-policy/ </a>",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "name",
+        "orderby_post": "name",
+        "order": "ASC",
+        "default": "",
+        "show_values": 1,
+        "option": {
+          "opt1994603": {
+            "calc_value": 0,
+            "value": "I Agree",
+            "label": "I Agree"
+          }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_2800053": {
+      "ID": "fld_2800053",
+      "type": "button",
+      "label": "Submit",
+      "slug": "submit",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "all",
+        "type": "submit",
+        "class": "button",
+        "target": ""
+      }
+    },
+    "fld_8922670": {
+      "ID": "fld_8922670",
+      "type": "recaptcha",
+      "label": "recaptcha",
+      "hide_label": 1,
+      "slug": "recaptcha",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "visibility": "user",
+        "visibility_role": { "administrator": 1 },
+        "public_key": "6LeCLiwUAAAAAOsSNuYg0gbdw0VIGwuI5RW4wD0Z",
+        "private_key": "6LeCLiwUAAAAACwGtVFGZkcTNPe-4zzforofGHrX",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      },
+      "required": 1
+    }
+  },
+  "page_names": ["Page 1"],
+  "mailer": {
+    "sender_name": "Caldera Forms Notification",
+    "sender_email": "membership@seismosoc.org",
+    "reply_to": "",
+    "email_type": "html",
+    "recipients": "",
+    "bcc_to": "",
+    "email_subject": "Membership Dues",
+    "email_message": "{summary}"
+  },
+  "processors": {
+    "fp_7974494": {
+      "ID": "fp_7974494",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_contact",
+      "config": {
+        "auto_pop": 1,
+        "enabled_entities": { "process_address": 1, "process_phone": 1 },
+        "contact_link": 1,
+        "civicrm_contact": {
+          "contact_type": "Individual",
+          "contact_sub_type": "",
+          "dedupe_rule": 4,
+          "do_not_email": "",
+          "do_not_phone": "",
+          "do_not_mail": "",
+          "do_not_sms": "",
+          "do_not_trade": "",
+          "is_opt_out": "",
+          "legal_identifier": "",
+          "nick_name": "",
+          "legal_name": "",
+          "image_URL": "",
+          "preferred_communication_method": "",
+          "preferred_language": "",
+          "preferred_mail_format": "",
+          "source": "",
+          "first_name": "%first_name%",
+          "middle_name": "%middle_name%",
+          "last_name": "%last_name%",
+          "prefix_id": "",
+          "suffix_id": "",
+          "formal_title": "",
+          "communication_style_id": "",
+          "job_title": "",
+          "gender_id": "",
+          "birth_date": "%birth_date%",
+          "household_name": "",
+          "organization_name": "",
+          "sic_code": "",
+          "current_employer": "%affiliated_institution%",
+          "email": "%contact_email%",
+          "custom_86": "",
+          "custom_87": "",
+          "custom_88": "",
+          "custom_90": "",
+          "custom_92": "",
+          "custom_94": "",
+          "custom_95": "",
+          "custom_96": "",
+          "custom_97": "",
+          "custom_98": "",
+          "custom_99": "",
+          "custom_103": "",
+          "custom_104": "",
+          "custom_1": "%area_of_interest_1%",
+          "custom_2": "%area_of_interest_2%",
+          "custom_3": "",
+          "custom_4": "",
+          "custom_5": "%where_are_you_employed%",
+          "custom_7": "%how_did_you_hear_about_ssa%",
+          "custom_8": "%other_area_of_interest_1%",
+          "custom_9": "%other_area_of_interest_2%",
+          "custom_10": "",
+          "custom_11": "",
+          "custom_40": "",
+          "custom_41": "",
+          "custom_42": "",
+          "custom_122": "",
+          "custom_123": "",
+          "custom_124": "",
+          "custom_127": "",
+          "custom_131": "",
+          "custom_132": "",
+          "custom_155": "",
+          "custom_13": "",
+          "custom_14": "",
+          "custom_17": "",
+          "custom_18": "",
+          "custom_19": "",
+          "custom_20": "",
+          "custom_21": "",
+          "custom_22": "",
+          "custom_23": "",
+          "custom_24": "",
+          "custom_25": "",
+          "custom_26": "",
+          "custom_27": "",
+          "custom_28": "",
+          "custom_29": "",
+          "custom_30": "",
+          "custom_31": "",
+          "custom_32": "",
+          "custom_33": "",
+          "custom_35": "",
+          "custom_54": "",
+          "custom_121": "",
+          "custom_15": "",
+          "custom_16": "",
+          "custom_34": "",
+          "custom_46": "",
+          "custom_47": "",
+          "custom_48": "",
+          "custom_49": "",
+          "custom_112": "",
+          "custom_113": "",
+          "custom_114": "",
+          "custom_115": "",
+          "custom_116": "",
+          "custom_125": "",
+          "custom_130": "",
+          "custom_154": ""
+        },
+        "civicrm_address": {
+          "location_type_id": 3,
+          "is_primary": "%set_main_as_primary_address%",
+          "is_billing": "",
+          "street_address": "%address_line_1%",
+          "supplemental_address_1": "%address_line_2%",
+          "supplemental_address_2": "%address_line_3%",
+          "city": "%city%",
+          "state_province_id": "%state%",
+          "postal_code": "%postal_code%",
+          "country_id": "%country%",
+          "name": ""
+        },
+        "civicrm_phone": {
+          "location_type_id": 2,
+          "phone_type_id": 1,
+          "is_primary": "",
+          "is_billing": "",
+          "phone": "%work_phone%",
+          "phone_numeric": ""
+        },
+        "civicrm_note": { "note": "", "subject": "" },
+        "civicrm_email": {
+          "location_type_id": 5,
+          "email": "%contact_email%",
+          "is_primary": "",
+          "is_billing": "",
+          "on_hold": "",
+          "is_bulkmail": ""
+        },
+        "civicrm_website": { "website_type_id": "", "url": "" },
+        "civicrm_im": {
+          "location_type_id": "",
+          "name": "",
+          "provider_id": "",
+          "is_primary": "",
+          "is_billing": ""
+        },
+        "civicrm_group": { "contact_group": "" }
+      },
+      "conditions": { "type": "" }
+    },
+    "fp_15571568": {
+      "ID": "fp_15571568",
+      "runtimes": { "insert": 1 },
+      "type": "user_register",
+      "config": {
+        "user_login": "fld_1921151",
+        "_required_bounds": ["user_login"],
+        "user_pass": "fld_3105376",
+        "user_email": "fld_4946707",
+        "do_login": 1,
+        "role": "subscriber",
+        "first_name": "fld_4064378",
+        "last_name": "fld_8946239",
+        "nickname": "",
+        "display_name": "",
+        "description": "",
+        "user_url": ""
+      },
+      "conditions": {
+        "type": "not",
+        "group": {
+          "rw53430656179": {
+            "cl12251297302": {
+              "field": "{user:id}",
+              "compare": "is",
+              "value": true
+            }
+          }
+        }
+      }
+    },
+    "fp_39156450": {
+      "ID": "fp_39156450",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_phone",
+      "config": {
+        "contact_link": 1,
+        "location_type_id": 3,
+        "phone_type_id": 1,
+        "is_primary": "",
+        "is_billing": "",
+        "phone": "fld_8554991",
+        "phone_numeric": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw23277613599": {
+            "cl6013866955": {
+              "field": "fld_8554991",
+              "compare": "is",
+              "value": "%home_phone%"
+            }
+          }
+        }
+      }
+    },
+    "fp_90143385": {
+      "ID": "fp_90143385",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_phone",
+      "config": {
+        "contact_link": 1,
+        "location_type_id": 3,
+        "phone_type_id": 2,
+        "is_primary": "",
+        "is_billing": "",
+        "phone": "fld_4683203",
+        "phone_numeric": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw3080213085": {
+            "cl3627449409": {
+              "field": "fld_4683203",
+              "compare": "is",
+              "value": "%mobile_phone%"
+            }
+          }
+        }
+      }
+    },
+    "fp_1604591": {
+      "ID": "fp_1604591",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_address",
+      "config": {
+        "contact_link": 1,
+        "location_type_id": 6,
+        "is_primary": "",
+        "is_billing": "",
+        "street_address": "fld_7936604",
+        "supplemental_address_1": "fld_3236363",
+        "supplemental_address_2": "fld_4137954",
+        "city": "fld_9255571",
+        "state_province_id": "fld_6480965",
+        "postal_code": "fld_9358286",
+        "country_id": "fld_2696719",
+        "name": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw95607360172": {
+            "cl10975448587": {
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1861234"
+            }
+          }
+        }
+      }
+    },
+    "fp_98816058": {
+      "ID": "fp_98816058",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_address",
+      "config": {
+        "contact_link": 1,
+        "location_type_id": 6,
+        "is_primary": "",
+        "is_billing": "",
+        "street_address": "fld_1085956",
+        "supplemental_address_1": "fld_9796630",
+        "supplemental_address_2": "",
+        "city": "fld_2684790",
+        "state_province_id": "fld_6184122",
+        "postal_code": "fld_2179689",
+        "country_id": "fld_7841483",
+        "name": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw112833689": {
+            "cl17003537567": {
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            }
+          }
+        }
+      }
+    },
+    "fp_28002094": {
+      "ID": "fp_28002094",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_address",
+      "config": {
+        "contact_link": 1,
+        "location_type_id": 5,
+        "is_primary": "",
+        "is_billing": "",
+        "street_address": "fld_7936604",
+        "supplemental_address_1": "fld_3236363",
+        "supplemental_address_2": "fld_4137954",
+        "city": "fld_9255571",
+        "state_province_id": "fld_6480965",
+        "postal_code": "fld_9358286",
+        "country_id": "fld_2696719",
+        "name": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw19628749292": {
+            "cl7109836519": {
+              "field": "fld_2428144",
+              "compare": "is",
+              "value": "opt1815437"
+            }
+          }
+        }
+      }
+    },
+    "fp_86319985": {
+      "ID": "fp_86319985",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_address",
+      "config": {
+        "contact_link": 1,
+        "location_type_id": 5,
+        "is_primary": "",
+        "is_billing": "",
+        "street_address": "fld_2409840",
+        "supplemental_address_1": "fld_8786445",
+        "supplemental_address_2": "",
+        "city": "fld_2230656",
+        "state_province_id": "fld_8434828",
+        "postal_code": "fld_3152477",
+        "country_id": "fld_165550",
+        "name": "fld_3919286"
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw3317744133": {
+            "cl5275232688": {
+              "field": "fld_2428144",
+              "compare": "is",
+              "value": "opt1125045"
+            },
+            "cl7682113488": {
+              "field": "fld_1717755",
+              "compare": "is",
+              "value": "opt970310"
+            }
+          }
+        }
+      }
+    },
+    "fp_71306055": {
+      "ID": "fp_71306055",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_membership",
+      "config": {
+        "is_monetary": 1,
+        "preserve_join_date": 1,
+        "member_of_contact_id": 1,
+        "dismiss_membership": 1,
+        "dismiss_membership_for_dates": 1,
+        "renewal_start_date": "1 October [current_year_minus_1]",
+        "renewal_end_date": "14 January",
+        "dismiss_membership_message": "You cannot renew as you already have a current [membership_name] that expires on [end_date] ",
+        "contact_link": 1,
+        "membership_type_id": 1,
+        "is_price_field_based": 1,
+        "price_field_value": "%member_dues%",
+        "campaign_id": "",
+        "join_date": "",
+        "start_date": "fld_2870253",
+        "end_date": "",
+        "source": "",
+        "custom_52": "",
+        "custom_51": "",
+        "custom_120": "",
+        "custom_36": "",
+        "custom_37": "",
+        "custom_38": "",
+        "custom_39": "",
+        "custom_53": "",
+        "custom_56": "",
+        "custom_57": "",
+        "custom_58": "",
+        "custom_59": "",
+        "custom_60": "",
+        "custom_61": "",
+        "num_terms": ""
+      },
+      "conditions": { "type": "" }
+    },
+    "fp_99324355": {
+      "ID": "fp_99324355",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_membership",
+      "config": {
+        "is_monetary": 1,
+        "preserve_join_date": 1,
+        "member_of_contact_id": 1672,
+        "dismiss_membership": 1,
+        "dismiss_membership_for_dates": 1,
+        "renewal_start_date": "1 October [current_year_minus_1]",
+        "renewal_end_date": "14 January",
+        "dismiss_membership_message": "You cannot renew as you already have a current [membership_name] that expires on [end_date] ",
+        "contact_link": 1,
+        "membership_type_id": 16,
+        "is_price_field_based": 1,
+        "price_field_value": "%bssa_options_1_year%%bssa_options_2_year%",
+        "campaign_id": "",
+        "join_date": "",
+        "start_date": "fld_2870253",
+        "end_date": "",
+        "source": "",
+        "custom_52": "",
+        "custom_51": "",
+        "custom_120": "",
+        "custom_36": "",
+        "custom_37": "",
+        "custom_38": "fld_399376",
+        "custom_39": "fld_3020338",
+        "custom_53": "",
+        "custom_56": "",
+        "custom_57": "",
+        "custom_58": "",
+        "custom_59": "",
+        "custom_60": "",
+        "custom_61": "",
+        "num_terms": ""
+      },
+      "conditions": { "type": "" }
+    },
+    "fp_25014376": {
+      "ID": "fp_25014376",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_membership",
+      "config": {
+        "is_monetary": 1,
+        "preserve_join_date": 1,
+        "member_of_contact_id": 1673,
+        "dismiss_membership": 1,
+        "dismiss_membership_for_dates": 1,
+        "renewal_start_date": "1 October [current_year_minus_1]",
+        "renewal_end_date": "14 January",
+        "dismiss_membership_message": "You cannot renew as you already have a current [membership_name] that expires on [end_date] ",
+        "contact_link": 1,
+        "membership_type_id": 16,
+        "is_price_field_based": 1,
+        "price_field_value": "%srl_options_1_year%%srl_options_2_year%",
+        "campaign_id": "",
+        "join_date": "",
+        "start_date": "fld_2870253",
+        "end_date": "",
+        "source": "",
+        "custom_52": "",
+        "custom_51": "",
+        "custom_120": "",
+        "custom_36": "fld_5686495",
+        "custom_37": "fld_9519174",
+        "custom_38": "",
+        "custom_39": "",
+        "custom_53": "",
+        "custom_56": "",
+        "custom_57": "",
+        "custom_58": "",
+        "custom_59": "",
+        "custom_60": "",
+        "custom_61": "",
+        "num_terms": ""
+      },
+      "conditions": { "type": "" }
+    },
+    "fp_76085707": {
+      "ID": "fp_76085707",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_membership",
+      "config": {
+        "is_monetary": 1,
+        "preserve_join_date": 1,
+        "member_of_contact_id": 1674,
+        "dismiss_membership": 1,
+        "dismiss_membership_for_dates": 1,
+        "renewal_start_date": "1 October [current_year_minus_1]",
+        "renewal_end_date": "14 January",
+        "dismiss_membership_message": "You cannot renew as you already have a current [membership_name] that expires on [end_date] ",
+        "contact_link": 1,
+        "membership_type_id": 13,
+        "is_price_field_based": 1,
+        "price_field_value": "%eastern_section_1_year%%eastern_section_2_years%",
+        "campaign_id": "",
+        "join_date": "",
+        "start_date": "fld_2870253",
+        "end_date": "",
+        "source": "",
+        "custom_52": "",
+        "custom_51": "",
+        "custom_120": "",
+        "custom_36": "",
+        "custom_37": "",
+        "custom_38": "",
+        "custom_39": "",
+        "custom_53": "",
+        "custom_56": "",
+        "custom_57": "",
+        "custom_58": "",
+        "custom_59": "",
+        "custom_60": "",
+        "custom_61": "",
+        "num_terms": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw89881365762": {
+            "cl12645432286": {
+              "field": "fld_6282664",
+              "compare": "is",
+              "value": "opt172403"
+            }
+          },
+          "rw92956764632": {
+            "cl2506721036": {
+              "field": "fld_346590",
+              "compare": "is",
+              "value": "opt552206"
+            }
+          }
+        }
+      }
+    },
+    "fp_46014767": {
+      "ID": "fp_46014767",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_membership",
+      "config": {
+        "is_monetary": 1,
+        "preserve_join_date": 1,
+        "member_of_contact_id": 1675,
+        "dismiss_membership": 1,
+        "dismiss_membership_for_dates": 1,
+        "renewal_start_date": "1 October [current_year_minus_1]",
+        "renewal_end_date": "14 January",
+        "dismiss_membership_message": "You cannot renew as you already have a current [membership_name] that expires on [end_date] ",
+        "contact_link": 1,
+        "membership_type_id": 14,
+        "is_price_field_based": 1,
+        "price_field_value": "%eeri_affiliation_1_year%%eeri_affiliation_2_years%",
+        "campaign_id": "",
+        "join_date": "",
+        "start_date": "fld_2870253",
+        "end_date": "",
+        "source": "",
+        "custom_52": "",
+        "custom_51": "",
+        "custom_120": "",
+        "custom_36": "",
+        "custom_37": "",
+        "custom_38": "",
+        "custom_39": "",
+        "custom_53": "",
+        "custom_56": "",
+        "custom_57": "",
+        "custom_58": "",
+        "custom_59": "",
+        "custom_60": "",
+        "custom_61": "",
+        "num_terms": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw95947306521": {
+            "cl9442874784": {
+              "field": "fld_1967448",
+              "compare": "is",
+              "value": "opt763881"
+            }
+          },
+          "rw1804020082": {
+            "cl15405358839": {
+              "field": "fld_1737292",
+              "compare": "is",
+              "value": "opt420117"
+            }
+          }
+        }
+      }
+    },
+    "fp_23467073": {
+      "ID": "fp_23467073",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_membership",
+        "entity_params": "{civicrm_membership:processor_id:fp_71306055}",
+        "price_field_value": "%member_dues%",
+        "fixed_price_field_value": 1043,
+        "qty": "",
+        "amount": ""
+      },
+      "conditions": { "type": "" }
+    },
+    "fp_90411302": {
+      "ID": "fp_90411302",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_membership",
+        "entity_params": "{civicrm_membership:processor_id:fp_99324355}",
+        "price_field_value": "%bssa_options_1_year%%bssa_options_2_year%",
+        "fixed_price_field_value": 1044,
+        "qty": "",
+        "amount": ""
+      },
+      "conditions": { "type": "" }
+    },
+    "fp_53930478": {
+      "ID": "fp_53930478",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_contribution",
+        "entity_params": "",
+        "price_field_value": "%bssa_shipping_1_year_us%%bssa_shipping_1_year_intl%%bssa_shipping_2_year_us%%bssa_shipping_2_year_intl%",
+        "fixed_price_field_value": 1057,
+        "qty": "",
+        "amount": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw46479213572": {
+            "cl6172812640": {
+              "field": "fld_2247953",
+              "compare": "is",
+              "value": "opt1041299"
+            }
+          },
+          "rw33295884590": {
+            "cl4230926684": {
+              "field": "fld_2247953",
+              "compare": "is",
+              "value": "opt1949745"
+            }
+          },
+          "rw59309582230": {
+            "cl5798562315": {
+              "field": "fld_4157506",
+              "compare": "is",
+              "value": "opt316952"
+            }
+          },
+          "rw30744103231": {
+            "cl11692182468": {
+              "field": "fld_4157506",
+              "compare": "is",
+              "value": "opt1134215"
+            }
+          },
+          "rw23918836439": {
+            "cl3850768165": {
+              "field": "fld_1698829",
+              "compare": "is",
+              "value": "opt468662"
+            }
+          },
+          "rw72271596000": {
+            "cl10673176749": {
+              "field": "fld_1698829",
+              "compare": "is",
+              "value": "opt1299376"
+            }
+          },
+          "rw92401319366": {
+            "cl16592387656": {
+              "field": "fld_6066942",
+              "compare": "is",
+              "value": "opt45843"
+            }
+          },
+          "rw57504819692": {
+            "cl16990672668": {
+              "field": "fld_6066942",
+              "compare": "is",
+              "value": "opt1500207"
+            }
+          }
+        }
+      }
+    },
+    "fp_65607166": {
+      "ID": "fp_65607166",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_membership",
+        "entity_params": "{civicrm_membership:processor_id:fp_25014376}",
+        "price_field_value": "%srl_options_1_year%%srl_options_2_year%",
+        "fixed_price_field_value": 1053,
+        "qty": "",
+        "amount": ""
+      },
+      "conditions": { "type": "" }
+    },
+    "fp_99210836": {
+      "ID": "fp_99210836",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_contribution",
+        "entity_params": "",
+        "price_field_value": "%srl_shipping_1_year_us%%srl_shipping_1_year_intl%%srl_shipping_2_year_us%%srl_shipping_2_year_intl%",
+        "fixed_price_field_value": 1059,
+        "qty": "",
+        "amount": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw85199241066": {
+            "cl5303531981": {
+              "field": "fld_8774552",
+              "compare": "is",
+              "value": "opt846922"
+            }
+          },
+          "rw31757408360": {
+            "cl10614239942": {
+              "field": "fld_8774552",
+              "compare": "is",
+              "value": "opt1379248"
+            }
+          },
+          "rw15085467629": {
+            "cl7008516061": {
+              "field": "fld_8450379",
+              "compare": "is",
+              "value": "opt344495"
+            }
+          },
+          "rw13920892868": {
+            "cl8721848284": {
+              "field": "fld_8450379",
+              "compare": "is",
+              "value": "opt1398199"
+            }
+          },
+          "rw39295675124": {
+            "cl6568984145": {
+              "field": "fld_9494972",
+              "compare": "is",
+              "value": "opt1009417"
+            }
+          },
+          "rw11088900568": {
+            "cl4879637184": {
+              "field": "fld_9494972",
+              "compare": "is",
+              "value": "opt1357502"
+            }
+          },
+          "rw30757375204": {
+            "cl3524083981": {
+              "field": "fld_8789749",
+              "compare": "is",
+              "value": "opt901401"
+            }
+          },
+          "rw74897426750": {
+            "cl7294544441": {
+              "field": "fld_8789749",
+              "compare": "is",
+              "value": "opt1326946"
+            }
+          }
+        }
+      }
+    },
+    "fp_6840212": {
+      "ID": "fp_6840212",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_membership",
+        "entity_params": "{civicrm_membership:processor_id:fp_76085707}",
+        "price_field_value": "%eastern_section_1_year%%eastern_section_2_years%",
+        "fixed_price_field_value": 1054,
+        "qty": "",
+        "amount": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw87131572048": {
+            "cl18421467470": {
+              "field": "fld_6282664",
+              "compare": "is",
+              "value": "opt172403"
+            }
+          },
+          "rw47634571144": {
+            "cl9149842048": {
+              "field": "fld_346590",
+              "compare": "is",
+              "value": "opt552206"
+            }
+          }
+        }
+      }
+    },
+    "fp_517625": {
+      "ID": "fp_517625",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_membership",
+        "entity_params": "{civicrm_membership:processor_id:fp_46014767}",
+        "price_field_value": "%eeri_affiliation_1_year%%eeri_affiliation_2_years%",
+        "fixed_price_field_value": 1055,
+        "qty": "",
+        "amount": ""
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw82345609099": {
+            "cl17856894102": {
+              "field": "fld_1967448",
+              "compare": "is",
+              "value": "opt763881"
+            }
+          },
+          "rw80798220518": {
+            "cl10645396702": {
+              "field": "fld_1737292",
+              "compare": "is",
+              "value": "opt420117"
+            }
+          }
+        }
+      }
+    },
+    "fp_91424980": {
+      "ID": "fp_91424980",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_contribution",
+        "entity_params": "",
+        "price_field_value": "%student_travel%",
+        "is_fixed_price_field": 1,
+        "fixed_price_field_value": 36,
+        "qty": "",
+        "is_other_amount": 1,
+        "amount": "%student_travel%"
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw67850107121": {
+            "cl18744146878": {
+              "field": "fld_3437159",
+              "compare": "is",
+              "value": true
+            }
+          }
+        }
+      }
+    },
+    "fp_48810014": {
+      "ID": "fp_48810014",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_contribution",
+        "entity_params": "",
+        "price_field_value": "%kanamori_fund%",
+        "is_fixed_price_field": 1,
+        "fixed_price_field_value": 37,
+        "qty": "",
+        "is_other_amount": 1,
+        "amount": "%kanamori_fund%"
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw84912352423": {
+            "cl10425590406": {
+              "field": "fld_4839579",
+              "compare": "is",
+              "value": true
+            }
+          }
+        }
+      }
+    },
+    "fp_58109156": {
+      "ID": "fp_58109156",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_contribution",
+        "entity_params": "",
+        "price_field_value": "%general_fund%",
+        "is_fixed_price_field": 1,
+        "fixed_price_field_value": 35,
+        "qty": "",
+        "is_other_amount": 1,
+        "amount": "%general_fund%"
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw71172932893": {
+            "cl8664327175": {
+              "field": "fld_9165499",
+              "compare": "is",
+              "value": true
+            }
+          }
+        }
+      }
+    },
+    "fp_67522008": {
+      "ID": "fp_67522008",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_contribution",
+        "entity_params": "",
+        "price_field_value": "%geo_cvd_travel_fund%",
+        "is_fixed_price_field": 1,
+        "fixed_price_field_value": 38,
+        "qty": "",
+        "is_other_amount": 1,
+        "amount": "%geo_cvd_travel_fund%"
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw66655544624": {
+            "cl17844140505": {
+              "field": "fld_1563169",
+              "compare": "is",
+              "value": true
+            }
+          }
+        }
+      }
+    },
+    "fp_70991771": {
+      "ID": "fp_70991771",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_line_item",
+      "config": {
+        "entity_table": "civicrm_contribution",
+        "entity_params": "",
+        "price_field_value": "%joyner_fund%",
+        "is_fixed_price_field": 1,
+        "fixed_price_field_value": 39,
+        "qty": "",
+        "is_other_amount": 1,
+        "amount": "%joyner_fund%"
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw36453277615": {
+            "cl11672348786": {
+              "field": "fld_736280",
+              "compare": "is",
+              "value": true
+            }
+          }
+        }
+      }
+    },
+    "fp_30618141": {
+      "ID": "fp_30618141",
+      "runtimes": { "insert": 1 },
+      "type": "auth-net-single",
+      "config": {
+        "auth-net-single-api_login": "8Ea35kw6PX",
+        "auth-net-single-transaction_key": "2Fg29fME24m782CQ",
+        "auth-net-single-first_name": "%first_name%",
+        "auth-net-single-last_name": "%last_name%",
+        "auth-net-single-card_number": "%credit_card_number%",
+        "auth-net-single-card_cvc": "%cvc%",
+        "auth-net-single-card_exp_month": "%expiration_month%",
+        "auth-net-single-card_exp_year": "%expiration_year%",
+        "auth-net-single-user_email": "fld_4946707",
+        "_required_bounds": [null, "auth-net-single-user_email"],
+        "auth-net-single-card_address": "%address_line_1%",
+        "auth-net-single-card_address_2": "%address_line_2%",
+        "auth-net-single-card_city": "%city%",
+        "auth-net-single-card_state": "%state%",
+        "auth-net-single-card_country": "%country%",
+        "auth-net-single-card_zip": "%postal_code%",
+        "auth-net-single-company": "",
+        "auth-net-single-phone": "",
+        "auth-net-single-invoice_num": "",
+        "auth-net-single-customer_id": "",
+        "auth-net-single-price": "%dues_total%",
+        "auth-net-single-description": "{embed_post:post_title}"
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw13276625882": {
+            "cl9648292236": {
+              "field": "fld_1717755",
+              "compare": "is",
+              "value": "opt970310"
+            },
+            "cl2559689787": {
+              "field": "fld_2428144",
+              "compare": "is",
+              "value": "opt1815437"
+            }
+          }
+        }
+      }
+    },
+    "fp_87261340": {
+      "ID": "fp_87261340",
+      "runtimes": { "insert": 1 },
+      "type": "auth-net-single",
+      "config": {
+        "auth-net-single-api_login": "8Ea35kw6PX",
+        "auth-net-single-transaction_key": "2Fg29fME24m782CQ",
+        "auth-net-single-first_name": "%billing_name%",
+        "auth-net-single-last_name": "",
+        "auth-net-single-card_number": "%credit_card_number%",
+        "auth-net-single-card_cvc": "%cvc%",
+        "auth-net-single-card_exp_month": "%expiration_month%",
+        "auth-net-single-card_exp_year": "%expiration_year%",
+        "auth-net-single-user_email": "fld_7513766",
+        "_required_bounds": [null, null, "auth-net-single-user_email"],
+        "auth-net-single-card_address": "%street_address_1_billing%",
+        "auth-net-single-card_address_2": "%street_address_2_billing%",
+        "auth-net-single-card_city": "%city_billing%",
+        "auth-net-single-card_state": "%state_billing%",
+        "auth-net-single-card_country": "%country_billing%",
+        "auth-net-single-card_zip": "%postal_code_billing%",
+        "auth-net-single-company": "",
+        "auth-net-single-phone": "",
+        "auth-net-single-invoice_num": "",
+        "auth-net-single-customer_id": "",
+        "auth-net-single-price": "%dues_total%",
+        "auth-net-single-description": "{embed_post:post_title}"
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw80446052561": {
+            "cl10588987021": {
+              "field": "fld_1717755",
+              "compare": "is",
+              "value": "opt970310"
+            },
+            "cl8090246052": {
+              "field": "fld_2428144",
+              "compare": "is",
+              "value": "opt1125045"
+            }
+          }
+        }
+      }
+    },
+    "fp_30977055": {
+      "ID": "fp_30977055",
+      "runtimes": { "insert": 1 },
+      "type": "civicrm_order",
+      "config": {
+        "is_email_receipt": 1,
+        "contribution_page_id": 37,
+        "payment_processor": 5,
+        "contact_link": 1,
+        "financial_type_id": 2,
+        "campaign_id": "",
+        "contribution_status_id": "default_status_id",
+        "payment_instrument_id": 1,
+        "is_mapped_field": 1,
+        "mapped_payment_instrument_id": "%payment_method%",
+        "is_pay_later": 4,
+        "trxn_id": "",
+        "currency": "USD",
+        "check_number": "",
+        "product_id": "",
+        "total_amount": "fld_7705992",
+        "line_items": {
+          "line_item_1": "{civicrm_line_item:processor_id:fp_23467073}",
+          "line_item_line_item_2": "{civicrm_line_item:processor_id:fp_90411302}",
+          "line_item_line_item_3": "{civicrm_line_item:processor_id:fp_65607166}",
+          "line_item_line_item_4": "{civicrm_line_item:processor_id:fp_6840212}",
+          "line_item_line_item_5": "{civicrm_line_item:processor_id:fp_517625}",
+          "line_item_line_item_6": "{civicrm_line_item:processor_id:fp_53930478}",
+          "line_item_line_item_7": "{civicrm_line_item:processor_id:fp_99210836}",
+          "line_item_line_item_8": "{civicrm_line_item:processor_id:fp_91424980}",
+          "line_item_line_item_9": "{civicrm_line_item:processor_id:fp_58109156}",
+          "line_item_line_item_10": "{civicrm_line_item:processor_id:fp_67522008}",
+          "line_item_line_item_11": "{civicrm_line_item:processor_id:fp_70991771}",
+          "line_item_line_item_12": "{civicrm_line_item:processor_id:fp_48810014}"
+        }
+      },
+      "conditions": { "type": "" }
+    },
+    "fp_28882054": {
+      "ID": "fp_28882054",
+      "runtimes": { "insert": 1 },
+      "type": "form_redirect",
+      "config": {
+        "url": "/membership/thank-you-credit-card",
+        "message": "Thank you for your membership..."
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw50048084569": {
+            "cl4090158239": {
+              "field": "fld_1717755",
+              "compare": "is",
+              "value": "opt970310"
+            }
+          }
+        }
+      }
+    },
+    "fp_26917681": {
+      "ID": "fp_26917681",
+      "runtimes": { "insert": 1 },
+      "type": "form_redirect",
+      "config": {
+        "url": "/membership/thank-you-pay-by-check",
+        "message": "Thank you for your membership..."
+      },
+      "conditions": {
+        "type": "use",
+        "group": {
+          "rw15101665305": {
+            "cl10776294481": {
+              "field": "fld_1717755",
+              "compare": "is",
+              "value": "opt4019180"
+            }
+          }
+        }
+      }
+    }
+  },
+  "conditional_groups": {
+    "conditions": {
+      "con_8173370496406861": {
+        "id": "con_8173370496406861",
+        "name": "1 year dues",
+        "type": "show",
+        "fields": { "cl980395364424484": "fld_2242770" },
+        "group": {
+          "rw3432076531212255": {
+            "cl980395364424484": {
+              "parent": "rw3432076531212255",
+              "field": "fld_2242770",
+              "compare": "is",
+              "value": "opt688052"
+            }
+          }
+        }
+      },
+      "con_641574758733608": {
+        "id": "con_641574758733608",
+        "name": "2 years dues",
+        "type": "show",
+        "fields": { "cl7606703193554017": "fld_2242770" },
+        "group": {
+          "rw1543175520775742": {
+            "cl7606703193554017": {
+              "parent": "rw1543175520775742",
+              "field": "fld_2242770",
+              "compare": "is",
+              "value": "opt1508741"
+            }
+          }
+        }
+      },
+      "con_8537326265203571": {
+        "id": "con_8537326265203571",
+        "name": "Member Dues option selected",
+        "type": "show",
+        "fields": {
+          "cl215336364611212": "fld_2242770",
+          "cl7140433457446808": "fld_2242770"
+        },
+        "group": {
+          "rw5611804020411207": {
+            "cl215336364611212": {
+              "parent": "rw5611804020411207",
+              "field": "fld_2242770",
+              "compare": "is",
+              "value": "opt688052"
+            }
+          },
+          "rw8958191829005543": {
+            "cl7140433457446808": {
+              "parent": "rw8958191829005543",
+              "field": "fld_2242770",
+              "compare": "is",
+              "value": "opt1508741"
+            }
+          }
+        }
+      },
+      "con_696647866461793": {
+        "id": "con_696647866461793",
+        "name": "Areas of Interest 1 Other",
+        "type": "show",
+        "fields": { "cl3800822121158057": "fld_9734918" },
+        "group": {
+          "rw6880094891726338": {
+            "cl3800822121158057": {
+              "parent": "rw6880094891726338",
+              "field": "fld_9734918",
+              "compare": "is",
+              "value": "opt41188547"
+            }
+          }
+        }
+      },
+      "con_6828521572738951": {
+        "id": "con_6828521572738951",
+        "name": "Areas of Interest 2 Other",
+        "type": "show",
+        "fields": { "cl2461309983440051": "fld_6712026" },
+        "group": {
+          "rw474350271497231": {
+            "cl2461309983440051": {
+              "parent": "rw474350271497231",
+              "field": "fld_6712026",
+              "compare": "is",
+              "value": "opt41350705"
+            }
+          }
+        }
+      },
+      "con_2119903958001001": {
+        "id": "con_2119903958001001",
+        "name": "BSSA Shipping 1 year US",
+        "type": "show",
+        "fields": { "cl1300263327632278": "fld_144971" },
+        "group": {
+          "rw7179959966286089": {
+            "cl1300263327632278": {
+              "parent": "rw7179959966286089",
+              "field": "fld_144971",
+              "compare": "is",
+              "value": "opt2081356"
+            }
+          }
+        }
+      },
+      "con_5314027242535217": {
+        "id": "con_5314027242535217",
+        "name": "SRL Shipping 1 year US",
+        "type": "show",
+        "fields": { "cl9454893311267419": "fld_3346329" },
+        "group": {
+          "rw2711118625771169": {
+            "cl9454893311267419": {
+              "parent": "rw2711118625771169",
+              "field": "fld_3346329",
+              "compare": "is",
+              "value": "opt2022967"
+            }
+          }
+        }
+      },
+      "con_1839813629814655": {
+        "id": "con_1839813629814655",
+        "name": "BSSA Shipping 2 year US",
+        "type": "show",
+        "fields": { "cl555605675149012": "fld_9600169" },
+        "group": {
+          "rw2370200779878741": {
+            "cl555605675149012": {
+              "parent": "rw2370200779878741",
+              "field": "fld_9600169",
+              "compare": "is",
+              "value": "opt1485000"
+            }
+          }
+        }
+      },
+      "con_30662414006485": {
+        "id": "con_30662414006485",
+        "name": "SRL Shipping 2 year US",
+        "type": "show",
+        "fields": { "cl4660332097373554": "fld_4504587" },
+        "group": {
+          "rw2478415684689210": {
+            "cl4660332097373554": {
+              "parent": "rw2478415684689210",
+              "field": "fld_4504587",
+              "compare": "is",
+              "value": "opt2047960"
+            }
+          }
+        }
+      },
+      "con_4337321759079802": {
+        "id": "con_4337321759079802",
+        "name": "BSSA Shipping 1 year Intl",
+        "type": "show",
+        "fields": { "cl3982214935186964": "fld_144971" },
+        "group": {
+          "rw25597005157776": {
+            "cl3982214935186964": {
+              "parent": "rw25597005157776",
+              "field": "fld_144971",
+              "compare": "is",
+              "value": "opt2894280"
+            }
+          }
+        }
+      },
+      "con_280273511741381": {
+        "id": "con_280273511741381",
+        "name": "BSSA Shipping 2 year Intl",
+        "type": "show",
+        "fields": { "cl9721373324331144": "fld_9600169" },
+        "group": {
+          "rw2958822838201110": {
+            "cl9721373324331144": {
+              "parent": "rw2958822838201110",
+              "field": "fld_9600169",
+              "compare": "is",
+              "value": "opt2714732"
+            }
+          }
+        }
+      },
+      "con_5560296275271579": {
+        "id": "con_5560296275271579",
+        "name": "SRL Shipping 1 year Intl",
+        "type": "show",
+        "fields": { "cl7666823675435576": "fld_3346329" },
+        "group": {
+          "rw1780529010164506": {
+            "cl7666823675435576": {
+              "parent": "rw1780529010164506",
+              "field": "fld_3346329",
+              "compare": "is",
+              "value": "opt2734528"
+            }
+          }
+        }
+      },
+      "con_5600524248886478": {
+        "id": "con_5600524248886478",
+        "name": "SRL Shipping 2 year Intl",
+        "type": "show",
+        "fields": { "cl8390987382509437": "fld_4504587" },
+        "group": {
+          "rw985592967161632": {
+            "cl8390987382509437": {
+              "parent": "rw985592967161632",
+              "field": "fld_4504587",
+              "compare": "is",
+              "value": "opt2858299"
+            }
+          }
+        }
+      },
+      "con_4297186618936201": {
+        "id": "con_4297186618936201",
+        "name": "Pay by Credit Card",
+        "type": "show",
+        "fields": { "cl344023761837937": "fld_1717755" },
+        "group": {
+          "rw5111617892413301": {
+            "cl344023761837937": {
+              "parent": "rw5111617892413301",
+              "field": "fld_1717755",
+              "compare": "is",
+              "value": "opt970310"
+            }
+          }
+        }
+      },
+      "con_7288585722038381": {
+        "id": "con_7288585722038381",
+        "name": "Separate Billing Address",
+        "type": "show",
+        "fields": {
+          "cl5015718516528181": "fld_2428144",
+          "cl677925585088820": "fld_1717755"
+        },
+        "group": {
+          "rw6142827117302713": {
+            "cl5015718516528181": {
+              "parent": "rw6142827117302713",
+              "field": "fld_2428144",
+              "compare": "is",
+              "value": "opt1125045"
+            },
+            "cl677925585088820": {
+              "parent": "rw6142827117302713",
+              "field": "fld_1717755",
+              "compare": "is",
+              "value": "opt970310"
+            }
+          }
+        }
+      },
+      "con_5709359017381054": {
+        "id": "con_5709359017381054",
+        "name": "Separate Shipping Address",
+        "type": "show",
+        "fields": {
+          "cl6690174879985143": "fld_2819603",
+          "cl3230483147049767": "fld_144971",
+          "cl2784460890399970": "fld_2819603",
+          "cl7313961535521304": "fld_144971",
+          "cl268005845261146": "fld_2819603",
+          "cl1001042978240668": "fld_9600169",
+          "cl1780466179090903": "fld_2819603",
+          "cl8479033082702807": "fld_9600169",
+          "cl301953044241728": "fld_2819603",
+          "cl278989094502259": "fld_3346329",
+          "cl3605655015579295": "fld_2819603",
+          "cl2751804473521303": "fld_3346329",
+          "cl5991147535392997": "fld_2819603",
+          "cl6416784750391893": "fld_4504587",
+          "cl3570627796008983": "fld_2819603",
+          "cl8200047371939337": "fld_4504587"
+        },
+        "group": {
+          "rw8660253568373929": {
+            "cl6690174879985143": {
+              "parent": "rw8660253568373929",
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            },
+            "cl3230483147049767": {
+              "parent": "rw8660253568373929",
+              "field": "fld_144971",
+              "compare": "is",
+              "value": "opt2081356"
+            }
+          },
+          "rw281515007807591": {
+            "cl2784460890399970": {
+              "parent": "rw281515007807591",
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            },
+            "cl7313961535521304": {
+              "parent": "rw281515007807591",
+              "field": "fld_144971",
+              "compare": "is",
+              "value": "opt2894280"
+            }
+          },
+          "rw6728927439444895": {
+            "cl268005845261146": {
+              "parent": "rw6728927439444895",
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            },
+            "cl1001042978240668": {
+              "parent": "rw6728927439444895",
+              "field": "fld_9600169",
+              "compare": "is",
+              "value": "opt1485000"
+            }
+          },
+          "rw820778386840626": {
+            "cl1780466179090903": {
+              "parent": "rw820778386840626",
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            },
+            "cl8479033082702807": {
+              "parent": "rw820778386840626",
+              "field": "fld_9600169",
+              "compare": "is",
+              "value": "opt2714732"
+            }
+          },
+          "rw4496764152023113": {
+            "cl301953044241728": {
+              "parent": "rw4496764152023113",
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            },
+            "cl278989094502259": {
+              "parent": "rw4496764152023113",
+              "field": "fld_3346329",
+              "compare": "is",
+              "value": "opt2022967"
+            }
+          },
+          "rw3428047657032873": {
+            "cl3605655015579295": {
+              "parent": "rw3428047657032873",
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            },
+            "cl2751804473521303": {
+              "parent": "rw3428047657032873",
+              "field": "fld_3346329",
+              "compare": "is",
+              "value": "opt2734528"
+            }
+          },
+          "rw653982415865966": {
+            "cl5991147535392997": {
+              "parent": "rw653982415865966",
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            },
+            "cl6416784750391893": {
+              "parent": "rw653982415865966",
+              "field": "fld_4504587",
+              "compare": "is",
+              "value": "opt2047960"
+            }
+          },
+          "rw7232281894371755": {
+            "cl3570627796008983": {
+              "parent": "rw7232281894371755",
+              "field": "fld_2819603",
+              "compare": "is",
+              "value": "opt1494640"
+            },
+            "cl8200047371939337": {
+              "parent": "rw7232281894371755",
+              "field": "fld_4504587",
+              "compare": "is",
+              "value": "opt2858299"
+            }
+          }
+        }
+      },
+      "con_467161584523823": {
+        "id": "con_467161584523823",
+        "name": "Confirm Shipping Address",
+        "type": "show",
+        "fields": {
+          "cl3039664692549922": "fld_144971",
+          "cl8981744339633377": "fld_144971",
+          "cl4894905773648500": "fld_9600169",
+          "cl2611688411611308": "fld_9600169",
+          "cl9383736292283303": "fld_3346329",
+          "cl5629118065955099": "fld_3346329",
+          "cl836964174126797": "fld_4504587",
+          "cl886053801967543": "fld_4504587"
+        },
+        "group": {
+          "rw1700711699162232": {
+            "cl3039664692549922": {
+              "parent": "rw1700711699162232",
+              "field": "fld_144971",
+              "compare": "is",
+              "value": "opt2081356"
+            }
+          },
+          "rw2318106938605": {
+            "cl8981744339633377": {
+              "parent": "rw2318106938605",
+              "field": "fld_144971",
+              "compare": "is",
+              "value": "opt2894280"
+            }
+          },
+          "rw4451560413468788": {
+            "cl4894905773648500": {
+              "parent": "rw4451560413468788",
+              "field": "fld_9600169",
+              "compare": "is",
+              "value": "opt1485000"
+            }
+          },
+          "rw9547854853866622": {
+            "cl2611688411611308": {
+              "parent": "rw9547854853866622",
+              "field": "fld_9600169",
+              "compare": "is",
+              "value": "opt2714732"
+            }
+          },
+          "rw1307528520418062": {
+            "cl9383736292283303": {
+              "parent": "rw1307528520418062",
+              "field": "fld_3346329",
+              "compare": "is",
+              "value": "opt2022967"
+            }
+          },
+          "rw1918956961258833": {
+            "cl5629118065955099": {
+              "parent": "rw1918956961258833",
+              "field": "fld_3346329",
+              "compare": "is",
+              "value": "opt2734528"
+            }
+          },
+          "rw990643799595713": {
+            "cl836964174126797": {
+              "parent": "rw990643799595713",
+              "field": "fld_4504587",
+              "compare": "is",
+              "value": "opt2047960"
+            }
+          },
+          "rw2457284567351299": {
+            "cl886053801967543": {
+              "parent": "rw2457284567351299",
+              "field": "fld_4504587",
+              "compare": "is",
+              "value": "opt2858299"
+            }
+          }
+        }
+      },
+      "con_1999229794228466": {
+        "id": "con_1999229794228466",
+        "name": "BSSA Priority",
+        "type": "show",
+        "fields": {
+          "cl1875062724554558": "fld_2247953",
+          "cl9758321931437888": "fld_4157506",
+          "cl2774295932397429": "fld_1698829",
+          "cl1782741826243631": "fld_6066942"
+        },
+        "group": {
+          "rw7102734495638209": {
+            "cl1875062724554558": {
+              "parent": "rw7102734495638209",
+              "field": "fld_2247953",
+              "compare": "is",
+              "value": "opt1041299"
+            }
+          },
+          "rw4631493534842951": {
+            "cl9758321931437888": {
+              "parent": "rw4631493534842951",
+              "field": "fld_4157506",
+              "compare": "is",
+              "value": "opt316952"
+            }
+          },
+          "rw6154765590756308": {
+            "cl2774295932397429": {
+              "parent": "rw6154765590756308",
+              "field": "fld_1698829",
+              "compare": "is",
+              "value": "opt468662"
+            }
+          },
+          "rw4020964811485499": {
+            "cl1782741826243631": {
+              "parent": "rw4020964811485499",
+              "field": "fld_6066942",
+              "compare": "is",
+              "value": "opt45843"
+            }
+          }
+        }
+      },
+      "con_214269941792553": {
+        "id": "con_214269941792553",
+        "name": "BSSA Standard",
+        "type": "show",
+        "fields": {
+          "cl408315823275668": "fld_2247953",
+          "cl3032351327513990": "fld_4157506",
+          "cl4295885310284591": "fld_1698829",
+          "cl8717267330206209": "fld_6066942"
+        },
+        "group": {
+          "rw734283391138538": {
+            "cl408315823275668": {
+              "parent": "rw734283391138538",
+              "field": "fld_2247953",
+              "compare": "is",
+              "value": "opt1949745"
+            }
+          },
+          "rw892160035329175": {
+            "cl3032351327513990": {
+              "parent": "rw892160035329175",
+              "field": "fld_4157506",
+              "compare": "is",
+              "value": "opt1134215"
+            }
+          },
+          "rw7484991779676798": {
+            "cl4295885310284591": {
+              "parent": "rw7484991779676798",
+              "field": "fld_1698829",
+              "compare": "is",
+              "value": "opt1299376"
+            }
+          },
+          "rw937270626630572": {
+            "cl8717267330206209": {
+              "parent": "rw937270626630572",
+              "field": "fld_6066942",
+              "compare": "is",
+              "value": "opt1500207"
+            }
+          }
+        }
+      },
+      "con_2494533018894022": {
+        "id": "con_2494533018894022",
+        "name": "SRL Priority",
+        "type": "show",
+        "fields": {
+          "cl8721010581466619": "fld_8774552",
+          "cl891529586287045": "fld_8450379",
+          "cl9751653958056932": "fld_9494972",
+          "cl6069686371620184": "fld_8789749"
+        },
+        "group": {
+          "rw3245427188983129": {
+            "cl8721010581466619": {
+              "parent": "rw3245427188983129",
+              "field": "fld_8774552",
+              "compare": "is",
+              "value": "opt846922"
+            }
+          },
+          "rw540556462960035": {
+            "cl891529586287045": {
+              "parent": "rw540556462960035",
+              "field": "fld_8450379",
+              "compare": "is",
+              "value": "opt344495"
+            }
+          },
+          "rw5625810883258702": {
+            "cl9751653958056932": {
+              "parent": "rw5625810883258702",
+              "field": "fld_9494972",
+              "compare": "is",
+              "value": "opt1009417"
+            }
+          },
+          "rw617187781554417": {
+            "cl6069686371620184": {
+              "parent": "rw617187781554417",
+              "field": "fld_8789749",
+              "compare": "is",
+              "value": "opt901401"
+            }
+          }
+        }
+      },
+      "con_487532465563707": {
+        "id": "con_487532465563707",
+        "name": "SRL Standard",
+        "type": "show",
+        "fields": {
+          "cl9078065926012488": "fld_8774552",
+          "cl9018409823638952": "fld_8450379",
+          "cl1115510817627056": "fld_9494972",
+          "cl5303887412499916": "fld_8789749"
+        },
+        "group": {
+          "rw800488897889093": {
+            "cl9078065926012488": {
+              "parent": "rw800488897889093",
+              "field": "fld_8774552",
+              "compare": "is",
+              "value": "opt1379248"
+            }
+          },
+          "rw3311249681356671": {
+            "cl9018409823638952": {
+              "parent": "rw3311249681356671",
+              "field": "fld_8450379",
+              "compare": "is",
+              "value": "opt1398199"
+            }
+          },
+          "rw3413154290532796": {
+            "cl1115510817627056": {
+              "parent": "rw3413154290532796",
+              "field": "fld_9494972",
+              "compare": "is",
+              "value": "opt1357502"
+            }
+          },
+          "rw3683288826461492": {
+            "cl5303887412499916": {
+              "parent": "rw3683288826461492",
+              "field": "fld_8789749",
+              "compare": "is",
+              "value": "opt1326946"
+            }
+          }
+        }
+      },
+      "con_eabyx": {
+        "id": "con_eabyx",
+        "name": "Hide CC Block",
+        "type": "hide",
+        "fields": { "cl_ewaqmzid": "fld_4931731" },
+        "group": {
+          "rw_onfgkiqqf": {
+            "cl_ewaqmzid": {
+              "id": "cl_ewaqmzid",
+              "field": "fld_4931731",
+              "value": "1",
+              "compare": "is",
+              "parent": "rw_onfgkiqqf"
+            }
+          }
+        }
+      }
+    }
+  },
+  "settings": { "responsive": { "break_point": "sm" } },
+  "privacy_exporter_enabled": false,
+  "version": "1.8.11",
+  "db_id": "2526",
+  "type": "primary"
+}

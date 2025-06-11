@@ -1,0 +1,245 @@
+{
+  "ID": "CF60a29620a11fe",
+  "_last_updated": "Mon, 17 May 2021 16:20:14 +0000",
+  "cf_version": "1.9.4",
+  "name": "Caldera Conditionals - Complex",
+  "scroll_top": 0,
+  "success": "Form has been successfully submitted. Thank you.\t\t\t",
+  "db_support": 1,
+  "pinned": 0,
+  "hide_form": 1,
+  "check_honey": 1,
+  "avatar_field": "",
+  "form_ajax": 1,
+  "custom_callback": "",
+  "layout_grid": {
+    "fields": {
+      "fld_4429078": "1:1",
+      "fld_6243959": "1:1",
+      "fld_4488337": "1:1",
+      "fld_4368852": "1:1",
+      "fld_9871367": "1:1",
+      "fld_6417547": "1:1"
+    },
+    "structure": "12"
+  },
+  "fields": {
+    "fld_4429078": {
+      "ID": "fld_4429078",
+      "type": "radio",
+      "label": "How Many?",
+      "slug": "how_many",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "default_option": "",
+        "auto_type": "",
+        "taxonomy": "category",
+        "post_type": "post",
+        "value_field": "name",
+        "orderby_tax": "count",
+        "orderby_post": "ID",
+        "order": "ASC",
+        "default": "opt1447713",
+        "option": {
+          "opt1447713": { "calc_value": "", "value": 1, "label": 1 },
+          "opt1960279": { "calc_value": "", "value": 2, "label": 2 },
+          "opt1579301": { "calc_value": "", "value": 3, "label": 3 },
+          "opt1144612": { "calc_value": "", "value": 4, "label": 4 }
+        },
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_6243959": {
+      "ID": "fld_6243959",
+      "type": "text",
+      "label": "Name 1",
+      "slug": "name_1",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4488337": {
+      "ID": "fld_4488337",
+      "type": "text",
+      "label": "Name 2",
+      "slug": "name_2",
+      "conditions": { "type": "con_maxxc" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_4368852": {
+      "ID": "fld_4368852",
+      "type": "text",
+      "label": "Name 3",
+      "slug": "name_3",
+      "conditions": { "type": "con_swkau" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_9871367": {
+      "ID": "fld_9871367",
+      "type": "text",
+      "label": "Name 4",
+      "slug": "name_4",
+      "conditions": { "type": "con_zaqbi" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "placeholder": "",
+        "default": "",
+        "type_override": "text",
+        "mask": "",
+        "email_identifier": 0,
+        "personally_identifying": 0
+      }
+    },
+    "fld_6417547": {
+      "ID": "fld_6417547",
+      "type": "button",
+      "label": "Submit",
+      "slug": "submit",
+      "conditions": { "type": "" },
+      "caption": "",
+      "config": {
+        "custom_class": "",
+        "type": "submit",
+        "class": "btn btn-default",
+        "target": ""
+      }
+    }
+  },
+  "page_names": ["Page 1"],
+  "mailer": {
+    "on_insert": 1,
+    "sender_name": "Caldera Forms Notification",
+    "sender_email": "dev-email@flywheel.local",
+    "reply_to": "",
+    "email_type": "html",
+    "recipients": "",
+    "bcc_to": "",
+    "email_subject": "Caldera Conditionals",
+    "email_message": "{summary}"
+  },
+  "settings": { "responsive": { "break_point": "sm" } },
+  "conditional_groups": {
+    "conditions": {
+      "con_maxxc": {
+        "id": "con_maxxc",
+        "type": "show",
+        "name": "Show 2",
+        "fields": {
+          "cl_hahvjuruyk": "fld_4429078",
+          "cl_ntzafwo": "fld_4429078",
+          "cl_xthplzo": "fld_4429078"
+        },
+        "group": {
+          "rw_mctmfqr": {
+            "cl_hahvjuruyk": {
+              "id": "cl_hahvjuruyk",
+              "field": "fld_4429078",
+              "value": "opt1960279",
+              "compare": "is",
+              "parent": "rw_mctmfqr"
+            }
+          },
+          "rw_dktjacr": {
+            "cl_ntzafwo": {
+              "id": "cl_ntzafwo",
+              "field": "fld_4429078",
+              "value": "opt1579301",
+              "compare": "is",
+              "parent": "rw_dktjacr"
+            }
+          },
+          "rw_sqyymfpcu": {
+            "cl_xthplzo": {
+              "id": "cl_xthplzo",
+              "field": "fld_4429078",
+              "value": "opt1144612",
+              "compare": "is",
+              "parent": "rw_sqyymfpcu"
+            }
+          }
+        }
+      },
+      "con_swkau": {
+        "id": "con_swkau",
+        "type": "show",
+        "name": "Show 3",
+        "fields": {
+          "cl_fgbqxi": "fld_4429078",
+          "cl_eydnbapqokj": "fld_4429078"
+        },
+        "group": {
+          "rw_qfqefym": {
+            "cl_fgbqxi": {
+              "id": "cl_fgbqxi",
+              "field": "fld_4429078",
+              "value": "opt1579301",
+              "compare": "is",
+              "parent": "rw_qfqefym"
+            }
+          },
+          "rw_xpfizrgj": {
+            "cl_eydnbapqokj": {
+              "id": "cl_eydnbapqokj",
+              "field": "fld_4429078",
+              "value": "opt1144612",
+              "compare": "is",
+              "parent": "rw_xpfizrgj"
+            }
+          }
+        }
+      },
+      "con_zaqbi": {
+        "id": "con_zaqbi",
+        "type": "show",
+        "name": "Show 4",
+        "fields": { "cl_prfjprge": "fld_4429078" },
+        "group": {
+          "rw_rlejtndi": {
+            "cl_prfjprge": {
+              "id": "cl_prfjprge",
+              "field": "fld_4429078",
+              "value": "opt1144612",
+              "compare": "is",
+              "parent": "rw_rlejtndi"
+            }
+          }
+        }
+      }
+    }
+  },
+  "processors": [],
+  "privacy_exporter_enabled": false,
+  "version": "1.9.4",
+  "db_id": "27",
+  "type": "primary"
+}

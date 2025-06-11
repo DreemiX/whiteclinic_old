@@ -1,0 +1,3992 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Atiframe\n"
+"POT-Creation-Date: 2019-02-25 11:07+0300\n"
+"PO-Revision-Date: 2019-02-25 11:17+0300\n"
+"Last-Translator: \n"
+"Language-Team: SecretLab <support@clientica.pw>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: inc/class-tgm-plugin-activation.php\n"
+
+#: index.php:115
+msgid "Active KingComposer now"
+msgstr "Активировать KingComposer сейчас"
+
+#: index.php:126
+#, php-format
+msgid "Oops, The KC Pro! requires KingComposer plugin. %s"
+msgstr "Ой, для KC Pro! необходим KingComposer плагин. %s"
+
+#: shortcodes/benefits.php:21
+msgid "Benefits Icon Grid"
+msgstr "Преимущества в виде сетки с иконками"
+
+#: shortcodes/benefits.php:22
+msgid ""
+"It displays block with up to 5 icons and 1 description section to show your "
+"benefits"
+msgstr ""
+"Отображает блок с 5 иконками и 1 описанием, чтобы показать ваши преимущества"
+
+#: shortcodes/benefits.php:28 shortcodes/bgr-label.php:28
+#: shortcodes/breadcrumb.php:25 shortcodes/caldera-forms.php:22
+#: shortcodes/contact.php:25 shortcodes/divider.php:25
+#: shortcodes/icon-box.php:24 shortcodes/layer-slider.php:42
+#: shortcodes/mailchimp.php:53 shortcodes/menu.php:27
+#: shortcodes/multititle.php:25 shortcodes/page-title.php:25
+#: shortcodes/post-grid.php:24 shortcodes/rev-slider.php:45
+#: shortcodes/search.php:25 shortcodes/sidebar.php:40
+#: shortcodes/template.php:24 shortcodes/wpml_selector.php:25
+msgid "General"
+msgstr "Общие"
+
+#: shortcodes/benefits.php:31 shortcodes/icon-box.php:27
+#: shortcodes/post-grid.php:39 shortcodes/template.php:27
+msgid "Select Template"
+msgstr "Выбрать шаблон"
+
+#: shortcodes/benefits.php:42
+msgid "Title for description block"
+msgstr "Заголовок блока описания"
+
+#: shortcodes/benefits.php:45
+msgid "Why Us?"
+msgstr "Почему мы?"
+
+#: shortcodes/benefits.php:49
+msgid "Description text"
+msgstr "Описание"
+
+#: shortcodes/benefits.php:51
+msgid ""
+"We offer synergistic online products, social media marketing and dynamic SEO "
+"strategies"
+msgstr ""
+"Мы предлагаем синергетические онлайн-продукты, маркетинг в социальных сетях "
+"и динамические стратегии SEO"
+
+#: shortcodes/benefits.php:55 shortcodes/breadcrumb.php:28
+#: shortcodes/icon-box.php:242 shortcodes/multititle.php:148
+#: shortcodes/page-title.php:28 shortcodes/post-grid.php:271
+#: shortcodes/template.php:57 shortcodes/wpml_selector.php:28
+msgid "Extra Class Name"
+msgstr "Имя дополнительного класса"
+
+#: shortcodes/benefits.php:57 shortcodes/breadcrumb.php:30
+#: shortcodes/icon-box.php:244 shortcodes/multititle.php:150
+#: shortcodes/page-title.php:30 shortcodes/post-grid.php:273
+#: shortcodes/template.php:59 shortcodes/wpml_selector.php:30
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your CSS file."
+msgstr ""
+"Если хотите настроить отдельные части содержимого, используйте поле для "
+"добавления дополнительного класса, на который можно сослаться в CSS файле."
+
+#: shortcodes/benefits.php:62
+msgid "Benefit 1"
+msgstr "Прем-во 1"
+
+#: shortcodes/benefits.php:65
+msgid "Description of benefit #1"
+msgstr "Описание прем-ва #1"
+
+#: shortcodes/benefits.php:67
+msgid "Global Reach"
+msgstr "Глобальный охват"
+
+#: shortcodes/benefits.php:71 shortcodes/benefits.php:90
+#: shortcodes/benefits.php:110 shortcodes/benefits.php:129
+#: shortcodes/benefits.php:148 shortcodes/icon-box.php:59
+#: shortcodes/icon-box.php:138
+msgid "Select Icon"
+msgstr "Выберите иконку"
+
+#: shortcodes/benefits.php:76 shortcodes/benefits.php:96
+#: shortcodes/benefits.php:115 shortcodes/benefits.php:134
+#: shortcodes/benefits.php:153 shortcodes/menu.php:2449
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: shortcodes/benefits.php:78 shortcodes/benefits.php:98
+#: shortcodes/benefits.php:117 shortcodes/benefits.php:136
+#: shortcodes/benefits.php:155
+msgid "Recommended size is 400 x 350px"
+msgstr "Рекомендуемый размер равен 400 x 350 пикселей"
+
+#: shortcodes/benefits.php:81
+msgid "Benefit 2"
+msgstr "Прем-во 2"
+
+#: shortcodes/benefits.php:84
+msgid "Description of benefit #2"
+msgstr "Описание прем-ва #2"
+
+#: shortcodes/benefits.php:86
+msgid "Best Prices"
+msgstr "Лучшие цены"
+
+#: shortcodes/benefits.php:101
+msgid "Benefit 3"
+msgstr "Прем-во 3"
+
+#: shortcodes/benefits.php:104
+msgid "Description of benefit #3"
+msgstr "Описание прем-ва #3"
+
+#: shortcodes/benefits.php:106
+msgid "Big Experience"
+msgstr "Большой опыт"
+
+#: shortcodes/benefits.php:120
+msgid "Benefit 4"
+msgstr "Прем-во 4"
+
+#: shortcodes/benefits.php:123
+msgid "Description of benefit #4"
+msgstr "Описание прем-ва #4"
+
+#: shortcodes/benefits.php:125
+msgid "Convenience"
+msgstr "Удобства"
+
+#: shortcodes/benefits.php:139
+msgid "Benefit 5"
+msgstr "Прем-во 5"
+
+#: shortcodes/benefits.php:142
+msgid "Description of benefit #5"
+msgstr "Описание прем-ва #5"
+
+#: shortcodes/benefits.php:144
+msgid "Team Strength"
+msgstr "Сила команды"
+
+#: shortcodes/benefits.php:161 shortcodes/bgr-label.php:67
+#: shortcodes/breadcrumb.php:37 shortcodes/caldera-forms.php:46
+#: shortcodes/contact.php:49 shortcodes/divider.php:74
+#: shortcodes/icon-box.php:251 shortcodes/image-carousel.php:212
+#: shortcodes/mailchimp.php:64 shortcodes/menu.php:177
+#: shortcodes/multititle.php:157 shortcodes/page-title.php:37
+#: shortcodes/post-grid.php:281 shortcodes/search.php:73
+#: shortcodes/tables.php:57 shortcodes/template.php:67
+#: shortcodes/wpml_selector.php:35
+msgid "styling"
+msgstr "внешний вид"
+
+#: shortcodes/benefits.php:164 shortcodes/bgr-label.php:70
+#: shortcodes/breadcrumb.php:40 shortcodes/caldera-forms.php:49
+#: shortcodes/contact.php:52 shortcodes/divider.php:77
+#: shortcodes/icon-box.php:254 shortcodes/image-carousel.php:215
+#: shortcodes/mailchimp.php:67 shortcodes/menu.php:180
+#: shortcodes/multititle.php:160 shortcodes/page-title.php:40
+#: shortcodes/post-grid.php:284 shortcodes/search.php:76
+#: shortcodes/tables.php:60 shortcodes/template.php:70
+#: shortcodes/wpml_selector.php:38
+msgid "Styling"
+msgstr "Внешний вид"
+
+#: shortcodes/benefits.php:168 shortcodes/bgr-label.php:74
+#: shortcodes/breadcrumb.php:44 shortcodes/caldera-forms.php:53
+#: shortcodes/contact.php:56 shortcodes/icon-box.php:258
+#: shortcodes/image-carousel.php:218 shortcodes/mailchimp.php:71
+#: shortcodes/menu.php:184 shortcodes/multititle.php:164
+#: shortcodes/page-title.php:44 shortcodes/post-grid.php:288
+#: shortcodes/search.php:80 shortcodes/search.php:324 shortcodes/tables.php:64
+#: shortcodes/template.php:74
+msgid "Styles"
+msgstr "Стили"
+
+#: shortcodes/benefits.php:174 shortcodes/benefits.php:180
+#: shortcodes/benefits.php:235 shortcodes/benefits.php:249
+#: shortcodes/benefits.php:277 shortcodes/benefits.php:283
+#: shortcodes/benefits.php:338 shortcodes/benefits.php:352
+#: shortcodes/benefits.php:394 shortcodes/benefits.php:400
+#: shortcodes/benefits.php:455 shortcodes/benefits.php:469
+#: shortcodes/bgr-label.php:90 shortcodes/bgr-label.php:114
+#: shortcodes/breadcrumb.php:89 shortcodes/breadcrumb.php:126
+#: shortcodes/caldera-forms.php:63 shortcodes/caldera-forms.php:149
+#: shortcodes/caldera-forms.php:171 shortcodes/caldera-forms.php:256
+#: shortcodes/caldera-forms.php:290 shortcodes/caldera-forms.php:396
+#: shortcodes/contact.php:66 shortcodes/contact.php:169
+#: shortcodes/contact.php:191 shortcodes/contact.php:293
+#: shortcodes/contact.php:327 shortcodes/contact.php:450
+#: shortcodes/divider.php:62 shortcodes/icon-box.php:269
+#: shortcodes/icon-box.php:285 shortcodes/icon-box.php:298
+#: shortcodes/icon-box.php:313 shortcodes/icon-box.php:405
+#: shortcodes/icon-box.php:422 shortcodes/icon-box.php:434
+#: shortcodes/icon-box.php:482 shortcodes/icon-box.php:506
+#: shortcodes/icon-box.php:523 shortcodes/icon-box.php:535
+#: shortcodes/icon-box.php:551 shortcodes/icon-box.php:643
+#: shortcodes/image-carousel.php:227 shortcodes/image-carousel.php:238
+#: shortcodes/image-carousel.php:251 shortcodes/image-carousel.php:269
+#: shortcodes/image-carousel.php:275 shortcodes/image-carousel.php:300
+#: shortcodes/image-carousel.php:311 shortcodes/image-carousel.php:324
+#: shortcodes/image-carousel.php:342 shortcodes/image-carousel.php:348
+#: shortcodes/mailchimp.php:81 shortcodes/mailchimp.php:101
+#: shortcodes/mailchimp.php:123 shortcodes/mailchimp.php:148
+#: shortcodes/mailchimp.php:167 shortcodes/mailchimp.php:187
+#: shortcodes/mailchimp.php:209 shortcodes/mailchimp.php:234
+#: shortcodes/mailchimp.php:269 shortcodes/mailchimp.php:306
+#: shortcodes/menu.php:204 shortcodes/menu.php:222 shortcodes/menu.php:348
+#: shortcodes/menu.php:365 shortcodes/menu.php:421 shortcodes/menu.php:437
+#: shortcodes/menu.php:477 shortcodes/menu.php:491 shortcodes/menu.php:509
+#: shortcodes/menu.php:628 shortcodes/menu.php:645 shortcodes/menu.php:698
+#: shortcodes/menu.php:699 shortcodes/menu.php:715 shortcodes/menu.php:753
+#: shortcodes/multititle.php:193 shortcodes/multititle.php:219
+#: shortcodes/multititle.php:245 shortcodes/multititle.php:271
+#: shortcodes/multititle.php:297 shortcodes/multititle.php:323
+#: shortcodes/multititle.php:359 shortcodes/multititle.php:385
+#: shortcodes/multititle.php:411 shortcodes/multititle.php:437
+#: shortcodes/multititle.php:463 shortcodes/multititle.php:489
+#: shortcodes/page-title.php:75 shortcodes/page-title.php:112
+#: shortcodes/post-grid.php:300 shortcodes/post-grid.php:313
+#: shortcodes/post-grid.php:327 shortcodes/post-grid.php:341
+#: shortcodes/post-grid.php:355 shortcodes/post-grid.php:369
+#: shortcodes/post-grid.php:555 shortcodes/post-grid.php:568
+#: shortcodes/post-grid.php:582 shortcodes/post-grid.php:596
+#: shortcodes/post-grid.php:610 shortcodes/post-grid.php:624
+#: shortcodes/post-grid.php:822 shortcodes/post-grid.php:836
+#: shortcodes/post-grid.php:850 shortcodes/post-grid.php:864
+#: shortcodes/post-grid.php:878 shortcodes/post-grid.php:892
+#: shortcodes/post-grid.php:1078 shortcodes/post-grid.php:1092
+#: shortcodes/post-grid.php:1106 shortcodes/post-grid.php:1120
+#: shortcodes/post-grid.php:1134 shortcodes/post-grid.php:1148
+#: shortcodes/search.php:99 shortcodes/search.php:122 shortcodes/search.php:145
+#: shortcodes/search.php:168 shortcodes/search.php:190
+#: shortcodes/search.php:214 shortcodes/search.php:237
+#: shortcodes/search.php:259 shortcodes/search.php:281
+#: shortcodes/search.php:303 shortcodes/search.php:342
+#: shortcodes/search.php:365 shortcodes/search.php:387
+#: shortcodes/search.php:409 shortcodes/search.php:431
+#: shortcodes/search.php:455 shortcodes/search.php:478
+#: shortcodes/search.php:500 shortcodes/search.php:522
+#: shortcodes/search.php:544 shortcodes/tables.php:76 shortcodes/tables.php:100
+#: shortcodes/tables.php:107 shortcodes/tables.php:114
+#: shortcodes/tables.php:148 shortcodes/tables.php:172
+#: shortcodes/tables.php:179 shortcodes/tables.php:186
+#: shortcodes/template.php:83 shortcodes/template.php:117
+#: shortcodes/wpml_selector.php:55 shortcodes/wpml_selector.php:77
+msgid "Height"
+msgstr "Высота"
+
+#: shortcodes/benefits.php:175 shortcodes/benefits.php:183
+#: shortcodes/benefits.php:201 shortcodes/benefits.php:217
+#: shortcodes/benefits.php:238 shortcodes/benefits.php:252
+#: shortcodes/benefits.php:278 shortcodes/benefits.php:286
+#: shortcodes/benefits.php:304 shortcodes/benefits.php:320
+#: shortcodes/benefits.php:341 shortcodes/benefits.php:355
+#: shortcodes/benefits.php:395 shortcodes/benefits.php:403
+#: shortcodes/benefits.php:421 shortcodes/benefits.php:437
+#: shortcodes/benefits.php:458 shortcodes/benefits.php:472
+#: shortcodes/bgr-label.php:93 shortcodes/bgr-label.php:117
+#: shortcodes/breadcrumb.php:85 shortcodes/breadcrumb.php:123
+#: shortcodes/caldera-forms.php:66 shortcodes/caldera-forms.php:80
+#: shortcodes/caldera-forms.php:94 shortcodes/caldera-forms.php:111
+#: shortcodes/caldera-forms.php:127 shortcodes/caldera-forms.php:140
+#: shortcodes/caldera-forms.php:158 shortcodes/caldera-forms.php:174
+#: shortcodes/caldera-forms.php:187 shortcodes/caldera-forms.php:202
+#: shortcodes/caldera-forms.php:218 shortcodes/caldera-forms.php:234
+#: shortcodes/caldera-forms.php:247 shortcodes/caldera-forms.php:265
+#: shortcodes/caldera-forms.php:293 shortcodes/caldera-forms.php:307
+#: shortcodes/caldera-forms.php:321 shortcodes/caldera-forms.php:337
+#: shortcodes/caldera-forms.php:353 shortcodes/caldera-forms.php:366
+#: shortcodes/caldera-forms.php:383 shortcodes/caldera-forms.php:399
+#: shortcodes/caldera-forms.php:413 shortcodes/caldera-forms.php:427
+#: shortcodes/caldera-forms.php:443 shortcodes/caldera-forms.php:459
+#: shortcodes/caldera-forms.php:472 shortcodes/caldera-forms.php:489
+#: shortcodes/caldera-forms.php:523 shortcodes/caldera-forms.php:539
+#: shortcodes/caldera-forms.php:552 shortcodes/caldera-forms.php:568
+#: shortcodes/caldera-forms.php:588 shortcodes/caldera-forms.php:604
+#: shortcodes/caldera-forms.php:617 shortcodes/caldera-forms.php:633
+#: shortcodes/contact.php:69 shortcodes/contact.php:83
+#: shortcodes/contact.php:97 shortcodes/contact.php:114
+#: shortcodes/contact.php:130 shortcodes/contact.php:147
+#: shortcodes/contact.php:160 shortcodes/contact.php:178
+#: shortcodes/contact.php:194 shortcodes/contact.php:207
+#: shortcodes/contact.php:222 shortcodes/contact.php:238
+#: shortcodes/contact.php:254 shortcodes/contact.php:271
+#: shortcodes/contact.php:284 shortcodes/contact.php:302
+#: shortcodes/contact.php:330 shortcodes/contact.php:344
+#: shortcodes/contact.php:358 shortcodes/contact.php:374
+#: shortcodes/contact.php:390 shortcodes/contact.php:407
+#: shortcodes/contact.php:420 shortcodes/contact.php:437
+#: shortcodes/contact.php:453 shortcodes/contact.php:467
+#: shortcodes/contact.php:481 shortcodes/contact.php:497
+#: shortcodes/contact.php:513 shortcodes/contact.php:530
+#: shortcodes/contact.php:543 shortcodes/contact.php:560
+#: shortcodes/contact.php:594 shortcodes/contact.php:610
+#: shortcodes/contact.php:627 shortcodes/contact.php:640
+#: shortcodes/contact.php:656 shortcodes/contact.php:676
+#: shortcodes/contact.php:692 shortcodes/contact.php:709
+#: shortcodes/contact.php:722 shortcodes/contact.php:738
+#: shortcodes/divider.php:96 shortcodes/divider.php:107
+#: shortcodes/icon-box.php:272 shortcodes/icon-box.php:289
+#: shortcodes/icon-box.php:301 shortcodes/icon-box.php:316
+#: shortcodes/icon-box.php:336 shortcodes/icon-box.php:355
+#: shortcodes/icon-box.php:374 shortcodes/icon-box.php:394
+#: shortcodes/icon-box.php:408 shortcodes/icon-box.php:426
+#: shortcodes/icon-box.php:439 shortcodes/icon-box.php:449
+#: shortcodes/icon-box.php:457 shortcodes/icon-box.php:466
+#: shortcodes/icon-box.php:474 shortcodes/icon-box.php:483
+#: shortcodes/icon-box.php:509 shortcodes/icon-box.php:526
+#: shortcodes/icon-box.php:538 shortcodes/icon-box.php:554
+#: shortcodes/icon-box.php:574 shortcodes/icon-box.php:593
+#: shortcodes/icon-box.php:612 shortcodes/icon-box.php:632
+#: shortcodes/icon-box.php:646 shortcodes/image-carousel.php:230
+#: shortcodes/image-carousel.php:241 shortcodes/image-carousel.php:248
+#: shortcodes/image-carousel.php:270 shortcodes/image-carousel.php:290
+#: shortcodes/image-carousel.php:303 shortcodes/image-carousel.php:314
+#: shortcodes/image-carousel.php:321 shortcodes/image-carousel.php:343
+#: shortcodes/image-carousel.php:363 shortcodes/mailchimp.php:84
+#: shortcodes/mailchimp.php:104 shortcodes/mailchimp.php:128
+#: shortcodes/mailchimp.php:153 shortcodes/mailchimp.php:170
+#: shortcodes/mailchimp.php:190 shortcodes/mailchimp.php:214
+#: shortcodes/mailchimp.php:239 shortcodes/mailchimp.php:272
+#: shortcodes/mailchimp.php:288 shortcodes/mailchimp.php:309
+#: shortcodes/menu.php:208 shortcodes/menu.php:227 shortcodes/menu.php:244
+#: shortcodes/menu.php:261 shortcodes/menu.php:275 shortcodes/menu.php:351
+#: shortcodes/menu.php:370 shortcodes/menu.php:387 shortcodes/menu.php:403
+#: shortcodes/menu.php:417 shortcodes/menu.php:423 shortcodes/menu.php:441
+#: shortcodes/menu.php:458 shortcodes/menu.php:474 shortcodes/menu.php:479
+#: shortcodes/menu.php:494 shortcodes/menu.php:514 shortcodes/menu.php:529
+#: shortcodes/menu.php:545 shortcodes/menu.php:559 shortcodes/menu.php:631
+#: shortcodes/menu.php:650 shortcodes/menu.php:665 shortcodes/menu.php:681
+#: shortcodes/menu.php:695 shortcodes/menu.php:701 shortcodes/menu.php:719
+#: shortcodes/menu.php:734 shortcodes/menu.php:750 shortcodes/menu.php:755
+#: shortcodes/menu.php:898 shortcodes/menu.php:1068
+#: shortcodes/multititle.php:189 shortcodes/multititle.php:215
+#: shortcodes/multititle.php:241 shortcodes/multititle.php:267
+#: shortcodes/multititle.php:293 shortcodes/multititle.php:319
+#: shortcodes/multititle.php:355 shortcodes/multititle.php:381
+#: shortcodes/multititle.php:407 shortcodes/multititle.php:433
+#: shortcodes/multititle.php:459 shortcodes/multititle.php:485
+#: shortcodes/page-title.php:71 shortcodes/page-title.php:109
+#: shortcodes/post-grid.php:295 shortcodes/post-grid.php:308
+#: shortcodes/post-grid.php:322 shortcodes/post-grid.php:336
+#: shortcodes/post-grid.php:350 shortcodes/post-grid.php:364
+#: shortcodes/post-grid.php:391 shortcodes/post-grid.php:413
+#: shortcodes/post-grid.php:434 shortcodes/post-grid.php:455
+#: shortcodes/post-grid.php:476 shortcodes/post-grid.php:497
+#: shortcodes/post-grid.php:518 shortcodes/post-grid.php:539
+#: shortcodes/post-grid.php:550 shortcodes/post-grid.php:563
+#: shortcodes/post-grid.php:577 shortcodes/post-grid.php:591
+#: shortcodes/post-grid.php:605 shortcodes/post-grid.php:619
+#: shortcodes/post-grid.php:646 shortcodes/post-grid.php:668
+#: shortcodes/post-grid.php:689 shortcodes/post-grid.php:710
+#: shortcodes/post-grid.php:731 shortcodes/post-grid.php:752
+#: shortcodes/post-grid.php:773 shortcodes/post-grid.php:794
+#: shortcodes/post-grid.php:817 shortcodes/post-grid.php:831
+#: shortcodes/post-grid.php:845 shortcodes/post-grid.php:859
+#: shortcodes/post-grid.php:873 shortcodes/post-grid.php:887
+#: shortcodes/post-grid.php:914 shortcodes/post-grid.php:936
+#: shortcodes/post-grid.php:957 shortcodes/post-grid.php:978
+#: shortcodes/post-grid.php:999 shortcodes/post-grid.php:1020
+#: shortcodes/post-grid.php:1041 shortcodes/post-grid.php:1062
+#: shortcodes/post-grid.php:1073 shortcodes/post-grid.php:1087
+#: shortcodes/post-grid.php:1101 shortcodes/post-grid.php:1115
+#: shortcodes/post-grid.php:1129 shortcodes/post-grid.php:1143
+#: shortcodes/post-grid.php:1170 shortcodes/post-grid.php:1192
+#: shortcodes/post-grid.php:1213 shortcodes/post-grid.php:1234
+#: shortcodes/post-grid.php:1255 shortcodes/post-grid.php:1276
+#: shortcodes/post-grid.php:1297 shortcodes/post-grid.php:1318
+#: shortcodes/search.php:102 shortcodes/search.php:125
+#: shortcodes/search.php:148 shortcodes/search.php:171
+#: shortcodes/search.php:193 shortcodes/search.php:217
+#: shortcodes/search.php:240 shortcodes/search.php:262
+#: shortcodes/search.php:284 shortcodes/search.php:306
+#: shortcodes/search.php:345 shortcodes/search.php:368
+#: shortcodes/search.php:390 shortcodes/search.php:412
+#: shortcodes/search.php:434 shortcodes/search.php:458
+#: shortcodes/search.php:481 shortcodes/search.php:503
+#: shortcodes/search.php:525 shortcodes/search.php:547 shortcodes/tables.php:79
+#: shortcodes/tables.php:134 shortcodes/tables.php:151
+#: shortcodes/tables.php:205 shortcodes/template.php:86
+#: shortcodes/template.php:120 shortcodes/wpml_selector.php:51
+#: shortcodes/wpml_selector.php:74
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: shortcodes/benefits.php:179 shortcodes/benefits.php:234
+#: shortcodes/benefits.php:248 shortcodes/benefits.php:282
+#: shortcodes/benefits.php:337 shortcodes/benefits.php:351
+#: shortcodes/benefits.php:399 shortcodes/benefits.php:454
+#: shortcodes/benefits.php:468 shortcodes/bgr-label.php:89
+#: shortcodes/bgr-label.php:113 shortcodes/breadcrumb.php:88
+#: shortcodes/breadcrumb.php:122 shortcodes/caldera-forms.php:62
+#: shortcodes/caldera-forms.php:148 shortcodes/caldera-forms.php:170
+#: shortcodes/caldera-forms.php:255 shortcodes/caldera-forms.php:289
+#: shortcodes/caldera-forms.php:374 shortcodes/caldera-forms.php:395
+#: shortcodes/caldera-forms.php:480 shortcodes/contact.php:65
+#: shortcodes/contact.php:168 shortcodes/contact.php:190
+#: shortcodes/contact.php:292 shortcodes/contact.php:326
+#: shortcodes/contact.php:428 shortcodes/contact.php:449
+#: shortcodes/contact.php:551 shortcodes/icon-box.php:268
+#: shortcodes/icon-box.php:284 shortcodes/icon-box.php:297
+#: shortcodes/icon-box.php:391 shortcodes/icon-box.php:404
+#: shortcodes/icon-box.php:421 shortcodes/icon-box.php:433
+#: shortcodes/icon-box.php:481 shortcodes/icon-box.php:505
+#: shortcodes/icon-box.php:522 shortcodes/icon-box.php:534
+#: shortcodes/icon-box.php:629 shortcodes/icon-box.php:642
+#: shortcodes/image-carousel.php:226 shortcodes/image-carousel.php:237
+#: shortcodes/image-carousel.php:250 shortcodes/image-carousel.php:268
+#: shortcodes/image-carousel.php:274 shortcodes/image-carousel.php:299
+#: shortcodes/image-carousel.php:310 shortcodes/image-carousel.php:323
+#: shortcodes/image-carousel.php:341 shortcodes/image-carousel.php:347
+#: shortcodes/mailchimp.php:80 shortcodes/mailchimp.php:100
+#: shortcodes/mailchimp.php:122 shortcodes/mailchimp.php:147
+#: shortcodes/mailchimp.php:166 shortcodes/mailchimp.php:186
+#: shortcodes/mailchimp.php:208 shortcodes/mailchimp.php:233
+#: shortcodes/mailchimp.php:268 shortcodes/mailchimp.php:305
+#: shortcodes/menu.php:203 shortcodes/menu.php:223 shortcodes/menu.php:347
+#: shortcodes/menu.php:366 shortcodes/menu.php:420 shortcodes/menu.php:490
+#: shortcodes/menu.php:510 shortcodes/menu.php:627 shortcodes/menu.php:646
+#: shortcodes/multititle.php:192 shortcodes/multititle.php:218
+#: shortcodes/multititle.php:244 shortcodes/multititle.php:270
+#: shortcodes/multititle.php:296 shortcodes/multititle.php:322
+#: shortcodes/multititle.php:358 shortcodes/multititle.php:384
+#: shortcodes/multititle.php:410 shortcodes/multititle.php:436
+#: shortcodes/multititle.php:462 shortcodes/multititle.php:488
+#: shortcodes/page-title.php:74 shortcodes/page-title.php:108
+#: shortcodes/post-grid.php:299 shortcodes/post-grid.php:312
+#: shortcodes/post-grid.php:326 shortcodes/post-grid.php:340
+#: shortcodes/post-grid.php:354 shortcodes/post-grid.php:368
+#: shortcodes/post-grid.php:554 shortcodes/post-grid.php:567
+#: shortcodes/post-grid.php:581 shortcodes/post-grid.php:595
+#: shortcodes/post-grid.php:609 shortcodes/post-grid.php:623
+#: shortcodes/post-grid.php:821 shortcodes/post-grid.php:835
+#: shortcodes/post-grid.php:849 shortcodes/post-grid.php:863
+#: shortcodes/post-grid.php:877 shortcodes/post-grid.php:891
+#: shortcodes/post-grid.php:1077 shortcodes/post-grid.php:1091
+#: shortcodes/post-grid.php:1105 shortcodes/post-grid.php:1119
+#: shortcodes/post-grid.php:1133 shortcodes/post-grid.php:1147
+#: shortcodes/search.php:98 shortcodes/search.php:121 shortcodes/search.php:144
+#: shortcodes/search.php:167 shortcodes/search.php:189
+#: shortcodes/search.php:213 shortcodes/search.php:236
+#: shortcodes/search.php:258 shortcodes/search.php:280
+#: shortcodes/search.php:302 shortcodes/search.php:341
+#: shortcodes/search.php:364 shortcodes/search.php:386
+#: shortcodes/search.php:408 shortcodes/search.php:430
+#: shortcodes/search.php:454 shortcodes/search.php:477
+#: shortcodes/search.php:499 shortcodes/search.php:521
+#: shortcodes/search.php:543 shortcodes/tables.php:75 shortcodes/tables.php:113
+#: shortcodes/tables.php:147 shortcodes/tables.php:185
+#: shortcodes/template.php:82 shortcodes/template.php:116
+#: shortcodes/wpml_selector.php:54 shortcodes/wpml_selector.php:73
+msgid "Width"
+msgstr "Ширина"
+
+#: shortcodes/benefits.php:181 shortcodes/benefits.php:199
+#: shortcodes/benefits.php:236 shortcodes/benefits.php:250
+#: shortcodes/benefits.php:284 shortcodes/benefits.php:302
+#: shortcodes/benefits.php:339 shortcodes/benefits.php:353
+#: shortcodes/benefits.php:401 shortcodes/benefits.php:419
+#: shortcodes/benefits.php:456 shortcodes/benefits.php:470
+#: shortcodes/bgr-label.php:91 shortcodes/bgr-label.php:115
+#: shortcodes/breadcrumb.php:93 shortcodes/caldera-forms.php:64
+#: shortcodes/caldera-forms.php:172 shortcodes/caldera-forms.php:291
+#: shortcodes/caldera-forms.php:397 shortcodes/contact.php:67
+#: shortcodes/contact.php:192 shortcodes/contact.php:328
+#: shortcodes/contact.php:451 shortcodes/icon-box.php:270
+#: shortcodes/icon-box.php:287 shortcodes/icon-box.php:299
+#: shortcodes/icon-box.php:314 shortcodes/icon-box.php:406
+#: shortcodes/icon-box.php:424 shortcodes/icon-box.php:435
+#: shortcodes/icon-box.php:507 shortcodes/icon-box.php:524
+#: shortcodes/icon-box.php:536 shortcodes/icon-box.php:552
+#: shortcodes/icon-box.php:644 shortcodes/image-carousel.php:228
+#: shortcodes/image-carousel.php:239 shortcodes/image-carousel.php:252
+#: shortcodes/image-carousel.php:301 shortcodes/image-carousel.php:312
+#: shortcodes/image-carousel.php:325 shortcodes/mailchimp.php:82
+#: shortcodes/mailchimp.php:102 shortcodes/mailchimp.php:126
+#: shortcodes/mailchimp.php:151 shortcodes/mailchimp.php:168
+#: shortcodes/mailchimp.php:188 shortcodes/mailchimp.php:212
+#: shortcodes/mailchimp.php:237 shortcodes/mailchimp.php:270
+#: shortcodes/mailchimp.php:286 shortcodes/mailchimp.php:307
+#: shortcodes/menu.php:211 shortcodes/menu.php:326 shortcodes/menu.php:354
+#: shortcodes/menu.php:426 shortcodes/menu.php:481 shortcodes/menu.php:497
+#: shortcodes/menu.php:634 shortcodes/menu.php:704 shortcodes/menu.php:757
+#: shortcodes/menu.php:863 shortcodes/menu.php:912 shortcodes/menu.php:1033
+#: shortcodes/menu.php:1082 shortcodes/multititle.php:197
+#: shortcodes/multititle.php:223 shortcodes/multititle.php:249
+#: shortcodes/multititle.php:275 shortcodes/multititle.php:301
+#: shortcodes/multititle.php:327 shortcodes/multititle.php:363
+#: shortcodes/multititle.php:389 shortcodes/multititle.php:415
+#: shortcodes/multititle.php:441 shortcodes/multititle.php:467
+#: shortcodes/multititle.php:493 shortcodes/page-title.php:79
+#: shortcodes/post-grid.php:303 shortcodes/post-grid.php:316
+#: shortcodes/post-grid.php:330 shortcodes/post-grid.php:344
+#: shortcodes/post-grid.php:358 shortcodes/post-grid.php:372
+#: shortcodes/post-grid.php:558 shortcodes/post-grid.php:571
+#: shortcodes/post-grid.php:585 shortcodes/post-grid.php:599
+#: shortcodes/post-grid.php:613 shortcodes/post-grid.php:627
+#: shortcodes/post-grid.php:825 shortcodes/post-grid.php:839
+#: shortcodes/post-grid.php:853 shortcodes/post-grid.php:867
+#: shortcodes/post-grid.php:881 shortcodes/post-grid.php:895
+#: shortcodes/post-grid.php:1081 shortcodes/post-grid.php:1095
+#: shortcodes/post-grid.php:1109 shortcodes/post-grid.php:1123
+#: shortcodes/post-grid.php:1137 shortcodes/post-grid.php:1151
+#: shortcodes/search.php:100 shortcodes/search.php:123
+#: shortcodes/search.php:146 shortcodes/search.php:169
+#: shortcodes/search.php:191 shortcodes/search.php:215
+#: shortcodes/search.php:238 shortcodes/search.php:260
+#: shortcodes/search.php:282 shortcodes/search.php:304
+#: shortcodes/search.php:343 shortcodes/search.php:366
+#: shortcodes/search.php:388 shortcodes/search.php:410
+#: shortcodes/search.php:432 shortcodes/search.php:456
+#: shortcodes/search.php:479 shortcodes/search.php:501
+#: shortcodes/search.php:523 shortcodes/search.php:545 shortcodes/tables.php:77
+#: shortcodes/tables.php:149 shortcodes/template.php:84
+#: shortcodes/template.php:118 shortcodes/wpml_selector.php:59
+msgid "Box Shadow"
+msgstr "Тень блока"
+
+#: shortcodes/benefits.php:182 shortcodes/benefits.php:200
+#: shortcodes/benefits.php:237 shortcodes/benefits.php:251
+#: shortcodes/benefits.php:285 shortcodes/benefits.php:303
+#: shortcodes/benefits.php:340 shortcodes/benefits.php:354
+#: shortcodes/benefits.php:402 shortcodes/benefits.php:420
+#: shortcodes/benefits.php:457 shortcodes/benefits.php:471
+#: shortcodes/bgr-label.php:92 shortcodes/bgr-label.php:116
+#: shortcodes/breadcrumb.php:94 shortcodes/caldera-forms.php:65
+#: shortcodes/caldera-forms.php:173 shortcodes/caldera-forms.php:292
+#: shortcodes/caldera-forms.php:398 shortcodes/contact.php:68
+#: shortcodes/contact.php:193 shortcodes/contact.php:329
+#: shortcodes/contact.php:452 shortcodes/icon-box.php:271
+#: shortcodes/icon-box.php:288 shortcodes/icon-box.php:300
+#: shortcodes/icon-box.php:315 shortcodes/icon-box.php:407
+#: shortcodes/icon-box.php:425 shortcodes/icon-box.php:436
+#: shortcodes/icon-box.php:508 shortcodes/icon-box.php:525
+#: shortcodes/icon-box.php:537 shortcodes/icon-box.php:553
+#: shortcodes/icon-box.php:645 shortcodes/image-carousel.php:229
+#: shortcodes/image-carousel.php:240 shortcodes/image-carousel.php:253
+#: shortcodes/image-carousel.php:267 shortcodes/image-carousel.php:282
+#: shortcodes/image-carousel.php:302 shortcodes/image-carousel.php:313
+#: shortcodes/image-carousel.php:326 shortcodes/image-carousel.php:340
+#: shortcodes/image-carousel.php:355 shortcodes/mailchimp.php:83
+#: shortcodes/mailchimp.php:103 shortcodes/mailchimp.php:127
+#: shortcodes/mailchimp.php:152 shortcodes/mailchimp.php:169
+#: shortcodes/mailchimp.php:189 shortcodes/mailchimp.php:213
+#: shortcodes/mailchimp.php:238 shortcodes/mailchimp.php:271
+#: shortcodes/mailchimp.php:287 shortcodes/mailchimp.php:308
+#: shortcodes/multititle.php:198 shortcodes/multititle.php:224
+#: shortcodes/multititle.php:250 shortcodes/multititle.php:276
+#: shortcodes/multititle.php:302 shortcodes/multititle.php:328
+#: shortcodes/multititle.php:364 shortcodes/multititle.php:390
+#: shortcodes/multititle.php:416 shortcodes/multititle.php:442
+#: shortcodes/multititle.php:468 shortcodes/multititle.php:494
+#: shortcodes/page-title.php:80 shortcodes/post-grid.php:304
+#: shortcodes/post-grid.php:317 shortcodes/post-grid.php:331
+#: shortcodes/post-grid.php:345 shortcodes/post-grid.php:359
+#: shortcodes/post-grid.php:373 shortcodes/post-grid.php:559
+#: shortcodes/post-grid.php:572 shortcodes/post-grid.php:586
+#: shortcodes/post-grid.php:600 shortcodes/post-grid.php:614
+#: shortcodes/post-grid.php:628 shortcodes/post-grid.php:826
+#: shortcodes/post-grid.php:840 shortcodes/post-grid.php:854
+#: shortcodes/post-grid.php:868 shortcodes/post-grid.php:882
+#: shortcodes/post-grid.php:896 shortcodes/post-grid.php:1082
+#: shortcodes/post-grid.php:1096 shortcodes/post-grid.php:1110
+#: shortcodes/post-grid.php:1124 shortcodes/post-grid.php:1138
+#: shortcodes/post-grid.php:1152 shortcodes/search.php:101
+#: shortcodes/search.php:124 shortcodes/search.php:147
+#: shortcodes/search.php:170 shortcodes/search.php:192
+#: shortcodes/search.php:216 shortcodes/search.php:239
+#: shortcodes/search.php:261 shortcodes/search.php:283
+#: shortcodes/search.php:305 shortcodes/search.php:344
+#: shortcodes/search.php:367 shortcodes/search.php:389
+#: shortcodes/search.php:411 shortcodes/search.php:433
+#: shortcodes/search.php:457 shortcodes/search.php:480
+#: shortcodes/search.php:502 shortcodes/search.php:524
+#: shortcodes/search.php:546 shortcodes/tables.php:78 shortcodes/tables.php:150
+#: shortcodes/template.php:85 shortcodes/template.php:119
+#: shortcodes/wpml_selector.php:60
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#: shortcodes/benefits.php:184 shortcodes/benefits.php:202
+#: shortcodes/benefits.php:218 shortcodes/benefits.php:239
+#: shortcodes/benefits.php:253 shortcodes/benefits.php:287
+#: shortcodes/benefits.php:305 shortcodes/benefits.php:321
+#: shortcodes/benefits.php:342 shortcodes/benefits.php:356
+#: shortcodes/benefits.php:404 shortcodes/benefits.php:422
+#: shortcodes/benefits.php:438 shortcodes/benefits.php:459
+#: shortcodes/benefits.php:473 shortcodes/bgr-label.php:94
+#: shortcodes/bgr-label.php:118 shortcodes/breadcrumb.php:86
+#: shortcodes/breadcrumb.php:124 shortcodes/caldera-forms.php:67
+#: shortcodes/caldera-forms.php:81 shortcodes/caldera-forms.php:95
+#: shortcodes/caldera-forms.php:141 shortcodes/caldera-forms.php:159
+#: shortcodes/caldera-forms.php:175 shortcodes/caldera-forms.php:188
+#: shortcodes/caldera-forms.php:203 shortcodes/caldera-forms.php:248
+#: shortcodes/caldera-forms.php:266 shortcodes/caldera-forms.php:294
+#: shortcodes/caldera-forms.php:308 shortcodes/caldera-forms.php:322
+#: shortcodes/caldera-forms.php:367 shortcodes/caldera-forms.php:384
+#: shortcodes/caldera-forms.php:400 shortcodes/caldera-forms.php:414
+#: shortcodes/caldera-forms.php:428 shortcodes/caldera-forms.php:473
+#: shortcodes/caldera-forms.php:490 shortcodes/caldera-forms.php:553
+#: shortcodes/caldera-forms.php:569 shortcodes/caldera-forms.php:618
+#: shortcodes/caldera-forms.php:634 shortcodes/contact.php:70
+#: shortcodes/contact.php:84 shortcodes/contact.php:98
+#: shortcodes/contact.php:161 shortcodes/contact.php:179
+#: shortcodes/contact.php:195 shortcodes/contact.php:208
+#: shortcodes/contact.php:223 shortcodes/contact.php:285
+#: shortcodes/contact.php:303 shortcodes/contact.php:331
+#: shortcodes/contact.php:345 shortcodes/contact.php:359
+#: shortcodes/contact.php:421 shortcodes/contact.php:438
+#: shortcodes/contact.php:454 shortcodes/contact.php:468
+#: shortcodes/contact.php:482 shortcodes/contact.php:544
+#: shortcodes/contact.php:561 shortcodes/contact.php:641
+#: shortcodes/contact.php:657 shortcodes/contact.php:723
+#: shortcodes/contact.php:739 shortcodes/divider.php:97
+#: shortcodes/divider.php:108 shortcodes/icon-box.php:273
+#: shortcodes/icon-box.php:290 shortcodes/icon-box.php:302
+#: shortcodes/icon-box.php:317 shortcodes/icon-box.php:337
+#: shortcodes/icon-box.php:356 shortcodes/icon-box.php:375
+#: shortcodes/icon-box.php:395 shortcodes/icon-box.php:409
+#: shortcodes/icon-box.php:427 shortcodes/icon-box.php:440
+#: shortcodes/icon-box.php:450 shortcodes/icon-box.php:458
+#: shortcodes/icon-box.php:467 shortcodes/icon-box.php:475
+#: shortcodes/icon-box.php:484 shortcodes/icon-box.php:510
+#: shortcodes/icon-box.php:527 shortcodes/icon-box.php:539
+#: shortcodes/icon-box.php:555 shortcodes/icon-box.php:575
+#: shortcodes/icon-box.php:594 shortcodes/icon-box.php:613
+#: shortcodes/icon-box.php:633 shortcodes/icon-box.php:647
+#: shortcodes/image-carousel.php:231 shortcodes/image-carousel.php:242
+#: shortcodes/image-carousel.php:249 shortcodes/image-carousel.php:263
+#: shortcodes/image-carousel.php:289 shortcodes/image-carousel.php:304
+#: shortcodes/image-carousel.php:315 shortcodes/image-carousel.php:322
+#: shortcodes/image-carousel.php:336 shortcodes/image-carousel.php:362
+#: shortcodes/mailchimp.php:85 shortcodes/mailchimp.php:105
+#: shortcodes/mailchimp.php:129 shortcodes/mailchimp.php:154
+#: shortcodes/mailchimp.php:171 shortcodes/mailchimp.php:191
+#: shortcodes/mailchimp.php:215 shortcodes/mailchimp.php:240
+#: shortcodes/mailchimp.php:273 shortcodes/mailchimp.php:289
+#: shortcodes/mailchimp.php:310 shortcodes/menu.php:209 shortcodes/menu.php:226
+#: shortcodes/menu.php:243 shortcodes/menu.php:260 shortcodes/menu.php:274
+#: shortcodes/menu.php:352 shortcodes/menu.php:369 shortcodes/menu.php:386
+#: shortcodes/menu.php:402 shortcodes/menu.php:416 shortcodes/menu.php:424
+#: shortcodes/menu.php:440 shortcodes/menu.php:457 shortcodes/menu.php:473
+#: shortcodes/menu.php:480 shortcodes/menu.php:495 shortcodes/menu.php:513
+#: shortcodes/menu.php:528 shortcodes/menu.php:544 shortcodes/menu.php:558
+#: shortcodes/menu.php:632 shortcodes/menu.php:649 shortcodes/menu.php:664
+#: shortcodes/menu.php:680 shortcodes/menu.php:694 shortcodes/menu.php:702
+#: shortcodes/menu.php:718 shortcodes/menu.php:733 shortcodes/menu.php:749
+#: shortcodes/menu.php:756 shortcodes/menu.php:789 shortcodes/menu.php:802
+#: shortcodes/menu.php:814 shortcodes/menu.php:824 shortcodes/menu.php:872
+#: shortcodes/menu.php:885 shortcodes/menu.php:897 shortcodes/menu.php:908
+#: shortcodes/menu.php:921 shortcodes/menu.php:934 shortcodes/menu.php:946
+#: shortcodes/menu.php:959 shortcodes/menu.php:972 shortcodes/menu.php:984
+#: shortcodes/menu.php:994 shortcodes/menu.php:1042 shortcodes/menu.php:1055
+#: shortcodes/menu.php:1067 shortcodes/menu.php:1078 shortcodes/menu.php:1091
+#: shortcodes/menu.php:1104 shortcodes/menu.php:1116
+#: shortcodes/multititle.php:190 shortcodes/multititle.php:216
+#: shortcodes/multititle.php:242 shortcodes/multititle.php:268
+#: shortcodes/multititle.php:294 shortcodes/multititle.php:320
+#: shortcodes/multititle.php:356 shortcodes/multititle.php:382
+#: shortcodes/multititle.php:408 shortcodes/multititle.php:434
+#: shortcodes/multititle.php:460 shortcodes/multititle.php:486
+#: shortcodes/page-title.php:72 shortcodes/page-title.php:110
+#: shortcodes/post-grid.php:296 shortcodes/post-grid.php:309
+#: shortcodes/post-grid.php:323 shortcodes/post-grid.php:337
+#: shortcodes/post-grid.php:351 shortcodes/post-grid.php:365
+#: shortcodes/post-grid.php:392 shortcodes/post-grid.php:414
+#: shortcodes/post-grid.php:435 shortcodes/post-grid.php:456
+#: shortcodes/post-grid.php:477 shortcodes/post-grid.php:498
+#: shortcodes/post-grid.php:519 shortcodes/post-grid.php:540
+#: shortcodes/post-grid.php:551 shortcodes/post-grid.php:564
+#: shortcodes/post-grid.php:578 shortcodes/post-grid.php:592
+#: shortcodes/post-grid.php:606 shortcodes/post-grid.php:620
+#: shortcodes/post-grid.php:647 shortcodes/post-grid.php:669
+#: shortcodes/post-grid.php:690 shortcodes/post-grid.php:711
+#: shortcodes/post-grid.php:732 shortcodes/post-grid.php:753
+#: shortcodes/post-grid.php:774 shortcodes/post-grid.php:795
+#: shortcodes/post-grid.php:818 shortcodes/post-grid.php:832
+#: shortcodes/post-grid.php:846 shortcodes/post-grid.php:860
+#: shortcodes/post-grid.php:874 shortcodes/post-grid.php:888
+#: shortcodes/post-grid.php:915 shortcodes/post-grid.php:937
+#: shortcodes/post-grid.php:958 shortcodes/post-grid.php:979
+#: shortcodes/post-grid.php:1000 shortcodes/post-grid.php:1021
+#: shortcodes/post-grid.php:1042 shortcodes/post-grid.php:1063
+#: shortcodes/post-grid.php:1074 shortcodes/post-grid.php:1088
+#: shortcodes/post-grid.php:1102 shortcodes/post-grid.php:1116
+#: shortcodes/post-grid.php:1130 shortcodes/post-grid.php:1144
+#: shortcodes/post-grid.php:1171 shortcodes/post-grid.php:1193
+#: shortcodes/post-grid.php:1214 shortcodes/post-grid.php:1235
+#: shortcodes/post-grid.php:1256 shortcodes/post-grid.php:1277
+#: shortcodes/post-grid.php:1298 shortcodes/post-grid.php:1319
+#: shortcodes/search.php:103 shortcodes/search.php:126
+#: shortcodes/search.php:149 shortcodes/search.php:172
+#: shortcodes/search.php:194 shortcodes/search.php:218
+#: shortcodes/search.php:241 shortcodes/search.php:263
+#: shortcodes/search.php:285 shortcodes/search.php:307
+#: shortcodes/search.php:346 shortcodes/search.php:369
+#: shortcodes/search.php:391 shortcodes/search.php:413
+#: shortcodes/search.php:435 shortcodes/search.php:459
+#: shortcodes/search.php:482 shortcodes/search.php:504
+#: shortcodes/search.php:526 shortcodes/search.php:548 shortcodes/tables.php:80
+#: shortcodes/tables.php:93 shortcodes/tables.php:101 shortcodes/tables.php:108
+#: shortcodes/tables.php:117 shortcodes/tables.php:152
+#: shortcodes/tables.php:165 shortcodes/tables.php:173
+#: shortcodes/tables.php:180 shortcodes/tables.php:189
+#: shortcodes/template.php:87 shortcodes/template.php:121
+#: shortcodes/wpml_selector.php:52 shortcodes/wpml_selector.php:75
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: shortcodes/benefits.php:185 shortcodes/benefits.php:203
+#: shortcodes/benefits.php:219 shortcodes/benefits.php:240
+#: shortcodes/benefits.php:254 shortcodes/benefits.php:288
+#: shortcodes/benefits.php:306 shortcodes/benefits.php:322
+#: shortcodes/benefits.php:343 shortcodes/benefits.php:357
+#: shortcodes/benefits.php:405 shortcodes/benefits.php:423
+#: shortcodes/benefits.php:439 shortcodes/benefits.php:460
+#: shortcodes/benefits.php:474 shortcodes/bgr-label.php:95
+#: shortcodes/bgr-label.php:119 shortcodes/breadcrumb.php:87
+#: shortcodes/breadcrumb.php:125 shortcodes/caldera-forms.php:68
+#: shortcodes/caldera-forms.php:156 shortcodes/caldera-forms.php:176
+#: shortcodes/caldera-forms.php:263 shortcodes/caldera-forms.php:295
+#: shortcodes/caldera-forms.php:381 shortcodes/caldera-forms.php:401
+#: shortcodes/caldera-forms.php:487 shortcodes/caldera-forms.php:566
+#: shortcodes/caldera-forms.php:631 shortcodes/contact.php:71
+#: shortcodes/contact.php:176 shortcodes/contact.php:196
+#: shortcodes/contact.php:300 shortcodes/contact.php:332
+#: shortcodes/contact.php:435 shortcodes/contact.php:455
+#: shortcodes/contact.php:558 shortcodes/contact.php:654
+#: shortcodes/contact.php:736 shortcodes/divider.php:98
+#: shortcodes/divider.php:109 shortcodes/icon-box.php:274
+#: shortcodes/icon-box.php:291 shortcodes/icon-box.php:303
+#: shortcodes/icon-box.php:318 shortcodes/icon-box.php:338
+#: shortcodes/icon-box.php:357 shortcodes/icon-box.php:376
+#: shortcodes/icon-box.php:396 shortcodes/icon-box.php:410
+#: shortcodes/icon-box.php:428 shortcodes/icon-box.php:441
+#: shortcodes/icon-box.php:511 shortcodes/icon-box.php:528
+#: shortcodes/icon-box.php:540 shortcodes/icon-box.php:556
+#: shortcodes/icon-box.php:576 shortcodes/icon-box.php:595
+#: shortcodes/icon-box.php:614 shortcodes/icon-box.php:634
+#: shortcodes/icon-box.php:648 shortcodes/image-carousel.php:232
+#: shortcodes/image-carousel.php:243 shortcodes/image-carousel.php:255
+#: shortcodes/image-carousel.php:305 shortcodes/image-carousel.php:316
+#: shortcodes/image-carousel.php:328 shortcodes/mailchimp.php:86
+#: shortcodes/mailchimp.php:106 shortcodes/mailchimp.php:130
+#: shortcodes/mailchimp.php:155 shortcodes/mailchimp.php:172
+#: shortcodes/mailchimp.php:192 shortcodes/mailchimp.php:216
+#: shortcodes/mailchimp.php:241 shortcodes/mailchimp.php:274
+#: shortcodes/mailchimp.php:290 shortcodes/mailchimp.php:311
+#: shortcodes/menu.php:212 shortcodes/menu.php:224 shortcodes/menu.php:241
+#: shortcodes/menu.php:258 shortcodes/menu.php:272 shortcodes/menu.php:355
+#: shortcodes/menu.php:367 shortcodes/menu.php:384 shortcodes/menu.php:400
+#: shortcodes/menu.php:414 shortcodes/menu.php:427 shortcodes/menu.php:438
+#: shortcodes/menu.php:455 shortcodes/menu.php:471 shortcodes/menu.php:482
+#: shortcodes/menu.php:498 shortcodes/menu.php:511 shortcodes/menu.php:526
+#: shortcodes/menu.php:542 shortcodes/menu.php:556 shortcodes/menu.php:635
+#: shortcodes/menu.php:647 shortcodes/menu.php:662 shortcodes/menu.php:678
+#: shortcodes/menu.php:692 shortcodes/menu.php:705 shortcodes/menu.php:716
+#: shortcodes/menu.php:731 shortcodes/menu.php:747 shortcodes/menu.php:758
+#: shortcodes/menu.php:787 shortcodes/menu.php:800 shortcodes/menu.php:812
+#: shortcodes/menu.php:822 shortcodes/menu.php:864 shortcodes/menu.php:870
+#: shortcodes/menu.php:883 shortcodes/menu.php:895 shortcodes/menu.php:906
+#: shortcodes/menu.php:913 shortcodes/menu.php:919 shortcodes/menu.php:932
+#: shortcodes/menu.php:944 shortcodes/menu.php:957 shortcodes/menu.php:970
+#: shortcodes/menu.php:982 shortcodes/menu.php:992 shortcodes/menu.php:1034
+#: shortcodes/menu.php:1040 shortcodes/menu.php:1053 shortcodes/menu.php:1065
+#: shortcodes/menu.php:1076 shortcodes/menu.php:1083 shortcodes/menu.php:1089
+#: shortcodes/menu.php:1102 shortcodes/menu.php:1114
+#: shortcodes/multititle.php:191 shortcodes/multititle.php:217
+#: shortcodes/multititle.php:243 shortcodes/multititle.php:269
+#: shortcodes/multititle.php:295 shortcodes/multititle.php:321
+#: shortcodes/multititle.php:357 shortcodes/multititle.php:383
+#: shortcodes/multititle.php:409 shortcodes/multititle.php:435
+#: shortcodes/multititle.php:461 shortcodes/multititle.php:487
+#: shortcodes/page-title.php:73 shortcodes/page-title.php:111
+#: shortcodes/post-grid.php:297 shortcodes/post-grid.php:310
+#: shortcodes/post-grid.php:324 shortcodes/post-grid.php:338
+#: shortcodes/post-grid.php:352 shortcodes/post-grid.php:366
+#: shortcodes/post-grid.php:393 shortcodes/post-grid.php:415
+#: shortcodes/post-grid.php:436 shortcodes/post-grid.php:457
+#: shortcodes/post-grid.php:478 shortcodes/post-grid.php:499
+#: shortcodes/post-grid.php:520 shortcodes/post-grid.php:541
+#: shortcodes/post-grid.php:552 shortcodes/post-grid.php:565
+#: shortcodes/post-grid.php:579 shortcodes/post-grid.php:593
+#: shortcodes/post-grid.php:607 shortcodes/post-grid.php:621
+#: shortcodes/post-grid.php:648 shortcodes/post-grid.php:670
+#: shortcodes/post-grid.php:691 shortcodes/post-grid.php:712
+#: shortcodes/post-grid.php:733 shortcodes/post-grid.php:754
+#: shortcodes/post-grid.php:775 shortcodes/post-grid.php:796
+#: shortcodes/post-grid.php:819 shortcodes/post-grid.php:833
+#: shortcodes/post-grid.php:847 shortcodes/post-grid.php:861
+#: shortcodes/post-grid.php:875 shortcodes/post-grid.php:889
+#: shortcodes/post-grid.php:916 shortcodes/post-grid.php:938
+#: shortcodes/post-grid.php:959 shortcodes/post-grid.php:980
+#: shortcodes/post-grid.php:1001 shortcodes/post-grid.php:1022
+#: shortcodes/post-grid.php:1043 shortcodes/post-grid.php:1064
+#: shortcodes/post-grid.php:1075 shortcodes/post-grid.php:1089
+#: shortcodes/post-grid.php:1103 shortcodes/post-grid.php:1117
+#: shortcodes/post-grid.php:1131 shortcodes/post-grid.php:1145
+#: shortcodes/post-grid.php:1172 shortcodes/post-grid.php:1194
+#: shortcodes/post-grid.php:1215 shortcodes/post-grid.php:1236
+#: shortcodes/post-grid.php:1257 shortcodes/post-grid.php:1278
+#: shortcodes/post-grid.php:1299 shortcodes/post-grid.php:1320
+#: shortcodes/search.php:104 shortcodes/search.php:127
+#: shortcodes/search.php:150 shortcodes/search.php:173
+#: shortcodes/search.php:195 shortcodes/search.php:219
+#: shortcodes/search.php:242 shortcodes/search.php:264
+#: shortcodes/search.php:286 shortcodes/search.php:308
+#: shortcodes/search.php:347 shortcodes/search.php:370
+#: shortcodes/search.php:392 shortcodes/search.php:414
+#: shortcodes/search.php:436 shortcodes/search.php:460
+#: shortcodes/search.php:483 shortcodes/search.php:505
+#: shortcodes/search.php:527 shortcodes/search.php:549 shortcodes/tables.php:81
+#: shortcodes/tables.php:94 shortcodes/tables.php:102 shortcodes/tables.php:109
+#: shortcodes/tables.php:115 shortcodes/tables.php:153
+#: shortcodes/tables.php:166 shortcodes/tables.php:174
+#: shortcodes/tables.php:181 shortcodes/tables.php:187
+#: shortcodes/template.php:88 shortcodes/template.php:122
+#: shortcodes/wpml_selector.php:53 shortcodes/wpml_selector.php:76
+msgid "Border"
+msgstr "Рамка"
+
+#: shortcodes/benefits.php:186 shortcodes/benefits.php:204
+#: shortcodes/benefits.php:220 shortcodes/benefits.php:241
+#: shortcodes/benefits.php:255 shortcodes/benefits.php:289
+#: shortcodes/benefits.php:307 shortcodes/benefits.php:323
+#: shortcodes/benefits.php:344 shortcodes/benefits.php:358
+#: shortcodes/benefits.php:406 shortcodes/benefits.php:424
+#: shortcodes/benefits.php:440 shortcodes/benefits.php:461
+#: shortcodes/benefits.php:475 shortcodes/bgr-label.php:96
+#: shortcodes/bgr-label.php:120 shortcodes/breadcrumb.php:90
+#: shortcodes/breadcrumb.php:127 shortcodes/caldera-forms.php:69
+#: shortcodes/caldera-forms.php:157 shortcodes/caldera-forms.php:177
+#: shortcodes/caldera-forms.php:264 shortcodes/caldera-forms.php:296
+#: shortcodes/caldera-forms.php:382 shortcodes/caldera-forms.php:402
+#: shortcodes/caldera-forms.php:488 shortcodes/caldera-forms.php:567
+#: shortcodes/caldera-forms.php:632 shortcodes/contact.php:72
+#: shortcodes/contact.php:177 shortcodes/contact.php:197
+#: shortcodes/contact.php:301 shortcodes/contact.php:333
+#: shortcodes/contact.php:436 shortcodes/contact.php:456
+#: shortcodes/contact.php:559 shortcodes/contact.php:655
+#: shortcodes/contact.php:737 shortcodes/divider.php:99
+#: shortcodes/divider.php:110 shortcodes/icon-box.php:275
+#: shortcodes/icon-box.php:292 shortcodes/icon-box.php:304
+#: shortcodes/icon-box.php:319 shortcodes/icon-box.php:339
+#: shortcodes/icon-box.php:358 shortcodes/icon-box.php:377
+#: shortcodes/icon-box.php:397 shortcodes/icon-box.php:411
+#: shortcodes/icon-box.php:429 shortcodes/icon-box.php:442
+#: shortcodes/icon-box.php:512 shortcodes/icon-box.php:529
+#: shortcodes/icon-box.php:541 shortcodes/icon-box.php:557
+#: shortcodes/icon-box.php:577 shortcodes/icon-box.php:596
+#: shortcodes/icon-box.php:615 shortcodes/icon-box.php:635
+#: shortcodes/icon-box.php:649 shortcodes/image-carousel.php:233
+#: shortcodes/image-carousel.php:244 shortcodes/image-carousel.php:256
+#: shortcodes/image-carousel.php:306 shortcodes/image-carousel.php:317
+#: shortcodes/image-carousel.php:329 shortcodes/mailchimp.php:87
+#: shortcodes/mailchimp.php:107 shortcodes/mailchimp.php:131
+#: shortcodes/mailchimp.php:156 shortcodes/mailchimp.php:173
+#: shortcodes/mailchimp.php:193 shortcodes/mailchimp.php:217
+#: shortcodes/mailchimp.php:242 shortcodes/mailchimp.php:275
+#: shortcodes/mailchimp.php:291 shortcodes/mailchimp.php:312
+#: shortcodes/menu.php:213 shortcodes/menu.php:225 shortcodes/menu.php:242
+#: shortcodes/menu.php:259 shortcodes/menu.php:273 shortcodes/menu.php:356
+#: shortcodes/menu.php:368 shortcodes/menu.php:385 shortcodes/menu.php:401
+#: shortcodes/menu.php:415 shortcodes/menu.php:428 shortcodes/menu.php:439
+#: shortcodes/menu.php:456 shortcodes/menu.php:472 shortcodes/menu.php:483
+#: shortcodes/menu.php:499 shortcodes/menu.php:512 shortcodes/menu.php:527
+#: shortcodes/menu.php:543 shortcodes/menu.php:557 shortcodes/menu.php:636
+#: shortcodes/menu.php:648 shortcodes/menu.php:663 shortcodes/menu.php:679
+#: shortcodes/menu.php:693 shortcodes/menu.php:706 shortcodes/menu.php:717
+#: shortcodes/menu.php:732 shortcodes/menu.php:748 shortcodes/menu.php:759
+#: shortcodes/menu.php:788 shortcodes/menu.php:801 shortcodes/menu.php:813
+#: shortcodes/menu.php:823 shortcodes/menu.php:865 shortcodes/menu.php:871
+#: shortcodes/menu.php:884 shortcodes/menu.php:896 shortcodes/menu.php:907
+#: shortcodes/menu.php:914 shortcodes/menu.php:920 shortcodes/menu.php:933
+#: shortcodes/menu.php:945 shortcodes/menu.php:958 shortcodes/menu.php:971
+#: shortcodes/menu.php:983 shortcodes/menu.php:993 shortcodes/menu.php:1035
+#: shortcodes/menu.php:1041 shortcodes/menu.php:1054 shortcodes/menu.php:1066
+#: shortcodes/menu.php:1077 shortcodes/menu.php:1084 shortcodes/menu.php:1090
+#: shortcodes/menu.php:1103 shortcodes/menu.php:1115
+#: shortcodes/multititle.php:194 shortcodes/multititle.php:220
+#: shortcodes/multititle.php:246 shortcodes/multititle.php:272
+#: shortcodes/multititle.php:298 shortcodes/multititle.php:324
+#: shortcodes/multititle.php:360 shortcodes/multititle.php:386
+#: shortcodes/multititle.php:412 shortcodes/multititle.php:438
+#: shortcodes/multititle.php:464 shortcodes/multititle.php:490
+#: shortcodes/page-title.php:76 shortcodes/page-title.php:113
+#: shortcodes/post-grid.php:298 shortcodes/post-grid.php:311
+#: shortcodes/post-grid.php:325 shortcodes/post-grid.php:339
+#: shortcodes/post-grid.php:353 shortcodes/post-grid.php:367
+#: shortcodes/post-grid.php:394 shortcodes/post-grid.php:416
+#: shortcodes/post-grid.php:437 shortcodes/post-grid.php:458
+#: shortcodes/post-grid.php:479 shortcodes/post-grid.php:500
+#: shortcodes/post-grid.php:521 shortcodes/post-grid.php:542
+#: shortcodes/post-grid.php:553 shortcodes/post-grid.php:566
+#: shortcodes/post-grid.php:580 shortcodes/post-grid.php:594
+#: shortcodes/post-grid.php:608 shortcodes/post-grid.php:622
+#: shortcodes/post-grid.php:649 shortcodes/post-grid.php:671
+#: shortcodes/post-grid.php:692 shortcodes/post-grid.php:713
+#: shortcodes/post-grid.php:734 shortcodes/post-grid.php:755
+#: shortcodes/post-grid.php:776 shortcodes/post-grid.php:797
+#: shortcodes/post-grid.php:820 shortcodes/post-grid.php:834
+#: shortcodes/post-grid.php:848 shortcodes/post-grid.php:862
+#: shortcodes/post-grid.php:876 shortcodes/post-grid.php:890
+#: shortcodes/post-grid.php:917 shortcodes/post-grid.php:939
+#: shortcodes/post-grid.php:960 shortcodes/post-grid.php:981
+#: shortcodes/post-grid.php:1002 shortcodes/post-grid.php:1023
+#: shortcodes/post-grid.php:1044 shortcodes/post-grid.php:1065
+#: shortcodes/post-grid.php:1076 shortcodes/post-grid.php:1090
+#: shortcodes/post-grid.php:1104 shortcodes/post-grid.php:1118
+#: shortcodes/post-grid.php:1132 shortcodes/post-grid.php:1146
+#: shortcodes/post-grid.php:1173 shortcodes/post-grid.php:1195
+#: shortcodes/post-grid.php:1216 shortcodes/post-grid.php:1237
+#: shortcodes/post-grid.php:1258 shortcodes/post-grid.php:1279
+#: shortcodes/post-grid.php:1300 shortcodes/post-grid.php:1321
+#: shortcodes/search.php:105 shortcodes/search.php:128
+#: shortcodes/search.php:151 shortcodes/search.php:174
+#: shortcodes/search.php:196 shortcodes/search.php:220
+#: shortcodes/search.php:243 shortcodes/search.php:265
+#: shortcodes/search.php:287 shortcodes/search.php:309
+#: shortcodes/search.php:348 shortcodes/search.php:371
+#: shortcodes/search.php:393 shortcodes/search.php:415
+#: shortcodes/search.php:437 shortcodes/search.php:461
+#: shortcodes/search.php:484 shortcodes/search.php:506
+#: shortcodes/search.php:528 shortcodes/search.php:550 shortcodes/tables.php:82
+#: shortcodes/tables.php:95 shortcodes/tables.php:116 shortcodes/tables.php:154
+#: shortcodes/tables.php:167 shortcodes/tables.php:188
+#: shortcodes/template.php:89 shortcodes/template.php:123
+#: shortcodes/wpml_selector.php:56 shortcodes/wpml_selector.php:78
+msgid "Border Radius"
+msgstr "Радиус углов"
+
+#: shortcodes/benefits.php:189 shortcodes/benefits.php:207
+#: shortcodes/benefits.php:224 shortcodes/benefits.php:292
+#: shortcodes/benefits.php:310 shortcodes/benefits.php:327
+#: shortcodes/benefits.php:409 shortcodes/benefits.php:427
+#: shortcodes/benefits.php:444 shortcodes/bgr-label.php:79
+#: shortcodes/bgr-label.php:103 shortcodes/breadcrumb.php:49
+#: shortcodes/breadcrumb.php:64 shortcodes/breadcrumb.php:102
+#: shortcodes/breadcrumb.php:148 shortcodes/breadcrumb.php:162
+#: shortcodes/caldera-forms.php:72 shortcodes/caldera-forms.php:84
+#: shortcodes/caldera-forms.php:99 shortcodes/caldera-forms.php:115
+#: shortcodes/caldera-forms.php:179 shortcodes/caldera-forms.php:192
+#: shortcodes/caldera-forms.php:206 shortcodes/caldera-forms.php:222
+#: shortcodes/caldera-forms.php:299 shortcodes/caldera-forms.php:311
+#: shortcodes/caldera-forms.php:325 shortcodes/caldera-forms.php:341
+#: shortcodes/caldera-forms.php:405 shortcodes/caldera-forms.php:417
+#: shortcodes/caldera-forms.php:431 shortcodes/caldera-forms.php:447
+#: shortcodes/caldera-forms.php:511 shortcodes/caldera-forms.php:527
+#: shortcodes/caldera-forms.php:576 shortcodes/caldera-forms.php:592
+#: shortcodes/contact.php:75 shortcodes/contact.php:87
+#: shortcodes/contact.php:102 shortcodes/contact.php:118
+#: shortcodes/contact.php:135 shortcodes/contact.php:199
+#: shortcodes/contact.php:212 shortcodes/contact.php:226
+#: shortcodes/contact.php:242 shortcodes/contact.php:259
+#: shortcodes/contact.php:336 shortcodes/contact.php:348
+#: shortcodes/contact.php:362 shortcodes/contact.php:378
+#: shortcodes/contact.php:395 shortcodes/contact.php:459
+#: shortcodes/contact.php:471 shortcodes/contact.php:485
+#: shortcodes/contact.php:501 shortcodes/contact.php:518
+#: shortcodes/contact.php:582 shortcodes/contact.php:598
+#: shortcodes/contact.php:615 shortcodes/contact.php:664
+#: shortcodes/contact.php:680 shortcodes/contact.php:697
+#: shortcodes/divider.php:56 shortcodes/icon-box.php:279
+#: shortcodes/icon-box.php:308 shortcodes/icon-box.php:324
+#: shortcodes/icon-box.php:343 shortcodes/icon-box.php:362
+#: shortcodes/icon-box.php:381 shortcodes/icon-box.php:446
+#: shortcodes/icon-box.php:454 shortcodes/icon-box.php:462
+#: shortcodes/icon-box.php:471 shortcodes/icon-box.php:516
+#: shortcodes/icon-box.php:545 shortcodes/icon-box.php:562
+#: shortcodes/icon-box.php:581 shortcodes/icon-box.php:600
+#: shortcodes/icon-box.php:619 shortcodes/image-carousel.php:265
+#: shortcodes/image-carousel.php:276 shortcodes/image-carousel.php:338
+#: shortcodes/image-carousel.php:349 shortcodes/mailchimp.php:90
+#: shortcodes/mailchimp.php:112 shortcodes/mailchimp.php:137
+#: shortcodes/mailchimp.php:176 shortcodes/mailchimp.php:198
+#: shortcodes/mailchimp.php:223 shortcodes/mailchimp.php:278
+#: shortcodes/mailchimp.php:296 shortcodes/menu.php:232 shortcodes/menu.php:250
+#: shortcodes/menu.php:265 shortcodes/menu.php:375 shortcodes/menu.php:393
+#: shortcodes/menu.php:407 shortcodes/menu.php:446 shortcodes/menu.php:464
+#: shortcodes/menu.php:519 shortcodes/menu.php:535 shortcodes/menu.php:549
+#: shortcodes/menu.php:655 shortcodes/menu.php:671 shortcodes/menu.php:685
+#: shortcodes/menu.php:724 shortcodes/menu.php:740 shortcodes/menu.php:792
+#: shortcodes/menu.php:808 shortcodes/menu.php:818 shortcodes/menu.php:875
+#: shortcodes/menu.php:891 shortcodes/menu.php:902 shortcodes/menu.php:924
+#: shortcodes/menu.php:940 shortcodes/menu.php:962 shortcodes/menu.php:978
+#: shortcodes/menu.php:988 shortcodes/menu.php:1045 shortcodes/menu.php:1061
+#: shortcodes/menu.php:1072 shortcodes/menu.php:1094 shortcodes/menu.php:1110
+#: shortcodes/multititle.php:169 shortcodes/multititle.php:201
+#: shortcodes/multititle.php:227 shortcodes/multititle.php:253
+#: shortcodes/multititle.php:279 shortcodes/multititle.php:305
+#: shortcodes/multititle.php:335 shortcodes/multititle.php:367
+#: shortcodes/multititle.php:393 shortcodes/multititle.php:419
+#: shortcodes/multititle.php:445 shortcodes/multititle.php:471
+#: shortcodes/page-title.php:49 shortcodes/page-title.php:88
+#: shortcodes/page-title.php:134 shortcodes/page-title.php:153
+#: shortcodes/post-grid.php:378 shortcodes/post-grid.php:399
+#: shortcodes/post-grid.php:421 shortcodes/post-grid.php:442
+#: shortcodes/post-grid.php:463 shortcodes/post-grid.php:484
+#: shortcodes/post-grid.php:505 shortcodes/post-grid.php:526
+#: shortcodes/post-grid.php:633 shortcodes/post-grid.php:654
+#: shortcodes/post-grid.php:676 shortcodes/post-grid.php:697
+#: shortcodes/post-grid.php:718 shortcodes/post-grid.php:739
+#: shortcodes/post-grid.php:760 shortcodes/post-grid.php:781
+#: shortcodes/post-grid.php:901 shortcodes/post-grid.php:922
+#: shortcodes/post-grid.php:944 shortcodes/post-grid.php:965
+#: shortcodes/post-grid.php:986 shortcodes/post-grid.php:1007
+#: shortcodes/post-grid.php:1028 shortcodes/post-grid.php:1049
+#: shortcodes/post-grid.php:1157 shortcodes/post-grid.php:1178
+#: shortcodes/post-grid.php:1200 shortcodes/post-grid.php:1221
+#: shortcodes/post-grid.php:1242 shortcodes/post-grid.php:1263
+#: shortcodes/post-grid.php:1284 shortcodes/post-grid.php:1305
+#: shortcodes/search.php:86 shortcodes/search.php:109 shortcodes/search.php:132
+#: shortcodes/search.php:155 shortcodes/search.php:178
+#: shortcodes/search.php:202 shortcodes/search.php:224
+#: shortcodes/search.php:247 shortcodes/search.php:269
+#: shortcodes/search.php:291 shortcodes/search.php:330
+#: shortcodes/search.php:352 shortcodes/search.php:375
+#: shortcodes/search.php:397 shortcodes/search.php:419
+#: shortcodes/search.php:443 shortcodes/search.php:465
+#: shortcodes/search.php:488 shortcodes/search.php:510
+#: shortcodes/search.php:532 shortcodes/tables.php:69 shortcodes/tables.php:85
+#: shortcodes/tables.php:98 shortcodes/tables.php:105 shortcodes/tables.php:122
+#: shortcodes/tables.php:141 shortcodes/tables.php:157
+#: shortcodes/tables.php:170 shortcodes/tables.php:177
+#: shortcodes/tables.php:193
+msgid "Color"
+msgstr "Цвет"
+
+#: shortcodes/benefits.php:190 shortcodes/benefits.php:208
+#: shortcodes/benefits.php:225 shortcodes/benefits.php:293
+#: shortcodes/benefits.php:311 shortcodes/benefits.php:328
+#: shortcodes/benefits.php:410 shortcodes/benefits.php:428
+#: shortcodes/benefits.php:445 shortcodes/bgr-label.php:80
+#: shortcodes/bgr-label.php:104 shortcodes/breadcrumb.php:50
+#: shortcodes/breadcrumb.php:65 shortcodes/breadcrumb.php:103
+#: shortcodes/breadcrumb.php:149 shortcodes/breadcrumb.php:163
+#: shortcodes/caldera-forms.php:75 shortcodes/caldera-forms.php:87
+#: shortcodes/caldera-forms.php:102 shortcodes/caldera-forms.php:118
+#: shortcodes/caldera-forms.php:135 shortcodes/caldera-forms.php:151
+#: shortcodes/caldera-forms.php:182 shortcodes/caldera-forms.php:195
+#: shortcodes/caldera-forms.php:209 shortcodes/caldera-forms.php:225
+#: shortcodes/caldera-forms.php:242 shortcodes/caldera-forms.php:258
+#: shortcodes/caldera-forms.php:302 shortcodes/caldera-forms.php:314
+#: shortcodes/caldera-forms.php:328 shortcodes/caldera-forms.php:344
+#: shortcodes/caldera-forms.php:361 shortcodes/caldera-forms.php:376
+#: shortcodes/caldera-forms.php:408 shortcodes/caldera-forms.php:420
+#: shortcodes/caldera-forms.php:434 shortcodes/caldera-forms.php:450
+#: shortcodes/caldera-forms.php:467 shortcodes/caldera-forms.php:482
+#: shortcodes/caldera-forms.php:514 shortcodes/caldera-forms.php:530
+#: shortcodes/caldera-forms.php:547 shortcodes/caldera-forms.php:561
+#: shortcodes/caldera-forms.php:579 shortcodes/caldera-forms.php:595
+#: shortcodes/caldera-forms.php:612 shortcodes/caldera-forms.php:626
+#: shortcodes/contact.php:78 shortcodes/contact.php:90
+#: shortcodes/contact.php:105 shortcodes/contact.php:121
+#: shortcodes/contact.php:138 shortcodes/contact.php:155
+#: shortcodes/contact.php:171 shortcodes/contact.php:202
+#: shortcodes/contact.php:215 shortcodes/contact.php:229
+#: shortcodes/contact.php:245 shortcodes/contact.php:262
+#: shortcodes/contact.php:279 shortcodes/contact.php:295
+#: shortcodes/contact.php:339 shortcodes/contact.php:351
+#: shortcodes/contact.php:365 shortcodes/contact.php:381
+#: shortcodes/contact.php:398 shortcodes/contact.php:415
+#: shortcodes/contact.php:430 shortcodes/contact.php:462
+#: shortcodes/contact.php:474 shortcodes/contact.php:488
+#: shortcodes/contact.php:504 shortcodes/contact.php:521
+#: shortcodes/contact.php:538 shortcodes/contact.php:553
+#: shortcodes/contact.php:585 shortcodes/contact.php:601
+#: shortcodes/contact.php:618 shortcodes/contact.php:635
+#: shortcodes/contact.php:649 shortcodes/contact.php:667
+#: shortcodes/contact.php:683 shortcodes/contact.php:700
+#: shortcodes/contact.php:717 shortcodes/contact.php:731
+#: shortcodes/icon-box.php:280 shortcodes/icon-box.php:309
+#: shortcodes/icon-box.php:325 shortcodes/icon-box.php:344
+#: shortcodes/icon-box.php:363 shortcodes/icon-box.php:382
+#: shortcodes/icon-box.php:447 shortcodes/icon-box.php:455
+#: shortcodes/icon-box.php:463 shortcodes/icon-box.php:472
+#: shortcodes/icon-box.php:517 shortcodes/icon-box.php:546
+#: shortcodes/icon-box.php:563 shortcodes/icon-box.php:582
+#: shortcodes/icon-box.php:601 shortcodes/icon-box.php:620
+#: shortcodes/image-carousel.php:278 shortcodes/image-carousel.php:351
+#: shortcodes/mailchimp.php:91 shortcodes/mailchimp.php:113
+#: shortcodes/mailchimp.php:138 shortcodes/mailchimp.php:177
+#: shortcodes/mailchimp.php:199 shortcodes/mailchimp.php:224
+#: shortcodes/mailchimp.php:279 shortcodes/mailchimp.php:297
+#: shortcodes/menu.php:230 shortcodes/menu.php:247 shortcodes/menu.php:264
+#: shortcodes/menu.php:373 shortcodes/menu.php:390 shortcodes/menu.php:406
+#: shortcodes/menu.php:444 shortcodes/menu.php:461 shortcodes/menu.php:517
+#: shortcodes/menu.php:532 shortcodes/menu.php:548 shortcodes/menu.php:653
+#: shortcodes/menu.php:668 shortcodes/menu.php:684 shortcodes/menu.php:722
+#: shortcodes/menu.php:737 shortcodes/menu.php:805 shortcodes/menu.php:817
+#: shortcodes/menu.php:888 shortcodes/menu.php:901 shortcodes/menu.php:937
+#: shortcodes/menu.php:975 shortcodes/menu.php:987 shortcodes/menu.php:1058
+#: shortcodes/menu.php:1071 shortcodes/menu.php:1107
+#: shortcodes/multititle.php:170 shortcodes/multititle.php:202
+#: shortcodes/multititle.php:228 shortcodes/multititle.php:254
+#: shortcodes/multititle.php:280 shortcodes/multititle.php:306
+#: shortcodes/multititle.php:336 shortcodes/multititle.php:368
+#: shortcodes/multititle.php:394 shortcodes/multititle.php:420
+#: shortcodes/multititle.php:446 shortcodes/multititle.php:472
+#: shortcodes/page-title.php:50 shortcodes/page-title.php:89
+#: shortcodes/page-title.php:135 shortcodes/page-title.php:154
+#: shortcodes/post-grid.php:379 shortcodes/post-grid.php:400
+#: shortcodes/post-grid.php:422 shortcodes/post-grid.php:443
+#: shortcodes/post-grid.php:464 shortcodes/post-grid.php:485
+#: shortcodes/post-grid.php:506 shortcodes/post-grid.php:527
+#: shortcodes/post-grid.php:634 shortcodes/post-grid.php:655
+#: shortcodes/post-grid.php:677 shortcodes/post-grid.php:698
+#: shortcodes/post-grid.php:719 shortcodes/post-grid.php:740
+#: shortcodes/post-grid.php:761 shortcodes/post-grid.php:782
+#: shortcodes/post-grid.php:902 shortcodes/post-grid.php:923
+#: shortcodes/post-grid.php:945 shortcodes/post-grid.php:966
+#: shortcodes/post-grid.php:987 shortcodes/post-grid.php:1008
+#: shortcodes/post-grid.php:1029 shortcodes/post-grid.php:1050
+#: shortcodes/post-grid.php:1158 shortcodes/post-grid.php:1179
+#: shortcodes/post-grid.php:1201 shortcodes/post-grid.php:1222
+#: shortcodes/post-grid.php:1243 shortcodes/post-grid.php:1264
+#: shortcodes/post-grid.php:1285 shortcodes/post-grid.php:1306
+#: shortcodes/search.php:87 shortcodes/search.php:110 shortcodes/search.php:133
+#: shortcodes/search.php:156 shortcodes/search.php:179
+#: shortcodes/search.php:203 shortcodes/search.php:225
+#: shortcodes/search.php:248 shortcodes/search.php:270
+#: shortcodes/search.php:292 shortcodes/search.php:331
+#: shortcodes/search.php:353 shortcodes/search.php:376
+#: shortcodes/search.php:398 shortcodes/search.php:420
+#: shortcodes/search.php:444 shortcodes/search.php:466
+#: shortcodes/search.php:489 shortcodes/search.php:511
+#: shortcodes/search.php:533 shortcodes/tables.php:71 shortcodes/tables.php:88
+#: shortcodes/tables.php:125 shortcodes/tables.php:143
+#: shortcodes/tables.php:160 shortcodes/tables.php:196
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: shortcodes/benefits.php:191 shortcodes/benefits.php:209
+#: shortcodes/benefits.php:226 shortcodes/benefits.php:294
+#: shortcodes/benefits.php:312 shortcodes/benefits.php:329
+#: shortcodes/benefits.php:411 shortcodes/benefits.php:429
+#: shortcodes/benefits.php:446 shortcodes/bgr-label.php:81
+#: shortcodes/bgr-label.php:105 shortcodes/breadcrumb.php:58
+#: shortcodes/breadcrumb.php:73 shortcodes/breadcrumb.php:111
+#: shortcodes/caldera-forms.php:76 shortcodes/caldera-forms.php:88
+#: shortcodes/caldera-forms.php:103 shortcodes/caldera-forms.php:119
+#: shortcodes/caldera-forms.php:136 shortcodes/caldera-forms.php:152
+#: shortcodes/caldera-forms.php:183 shortcodes/caldera-forms.php:196
+#: shortcodes/caldera-forms.php:210 shortcodes/caldera-forms.php:226
+#: shortcodes/caldera-forms.php:243 shortcodes/caldera-forms.php:259
+#: shortcodes/caldera-forms.php:303 shortcodes/caldera-forms.php:315
+#: shortcodes/caldera-forms.php:329 shortcodes/caldera-forms.php:345
+#: shortcodes/caldera-forms.php:362 shortcodes/caldera-forms.php:377
+#: shortcodes/caldera-forms.php:409 shortcodes/caldera-forms.php:421
+#: shortcodes/caldera-forms.php:435 shortcodes/caldera-forms.php:451
+#: shortcodes/caldera-forms.php:468 shortcodes/caldera-forms.php:483
+#: shortcodes/caldera-forms.php:515 shortcodes/caldera-forms.php:531
+#: shortcodes/caldera-forms.php:548 shortcodes/caldera-forms.php:562
+#: shortcodes/caldera-forms.php:580 shortcodes/caldera-forms.php:596
+#: shortcodes/caldera-forms.php:613 shortcodes/caldera-forms.php:627
+#: shortcodes/contact.php:79 shortcodes/contact.php:91
+#: shortcodes/contact.php:106 shortcodes/contact.php:122
+#: shortcodes/contact.php:139 shortcodes/contact.php:156
+#: shortcodes/contact.php:172 shortcodes/contact.php:203
+#: shortcodes/contact.php:216 shortcodes/contact.php:230
+#: shortcodes/contact.php:246 shortcodes/contact.php:263
+#: shortcodes/contact.php:280 shortcodes/contact.php:296
+#: shortcodes/contact.php:340 shortcodes/contact.php:352
+#: shortcodes/contact.php:366 shortcodes/contact.php:382
+#: shortcodes/contact.php:399 shortcodes/contact.php:416
+#: shortcodes/contact.php:431 shortcodes/contact.php:463
+#: shortcodes/contact.php:475 shortcodes/contact.php:489
+#: shortcodes/contact.php:505 shortcodes/contact.php:522
+#: shortcodes/contact.php:539 shortcodes/contact.php:554
+#: shortcodes/contact.php:586 shortcodes/contact.php:602
+#: shortcodes/contact.php:619 shortcodes/contact.php:636
+#: shortcodes/contact.php:650 shortcodes/contact.php:668
+#: shortcodes/contact.php:684 shortcodes/contact.php:701
+#: shortcodes/contact.php:718 shortcodes/contact.php:732
+#: shortcodes/icon-box.php:281 shortcodes/icon-box.php:310
+#: shortcodes/icon-box.php:326 shortcodes/icon-box.php:345
+#: shortcodes/icon-box.php:364 shortcodes/icon-box.php:383
+#: shortcodes/icon-box.php:402 shortcodes/icon-box.php:448
+#: shortcodes/icon-box.php:456 shortcodes/icon-box.php:464
+#: shortcodes/icon-box.php:473 shortcodes/icon-box.php:518
+#: shortcodes/icon-box.php:547 shortcodes/icon-box.php:564
+#: shortcodes/icon-box.php:583 shortcodes/icon-box.php:602
+#: shortcodes/icon-box.php:621 shortcodes/icon-box.php:640
+#: shortcodes/image-carousel.php:264 shortcodes/image-carousel.php:279
+#: shortcodes/image-carousel.php:337 shortcodes/image-carousel.php:352
+#: shortcodes/mailchimp.php:92 shortcodes/mailchimp.php:114
+#: shortcodes/mailchimp.php:139 shortcodes/mailchimp.php:178
+#: shortcodes/mailchimp.php:200 shortcodes/mailchimp.php:225
+#: shortcodes/mailchimp.php:280 shortcodes/mailchimp.php:298
+#: shortcodes/menu.php:218 shortcodes/menu.php:231 shortcodes/menu.php:255
+#: shortcodes/menu.php:269 shortcodes/menu.php:361 shortcodes/menu.php:374
+#: shortcodes/menu.php:397 shortcodes/menu.php:411 shortcodes/menu.php:433
+#: shortcodes/menu.php:445 shortcodes/menu.php:468 shortcodes/menu.php:505
+#: shortcodes/menu.php:518 shortcodes/menu.php:539 shortcodes/menu.php:553
+#: shortcodes/menu.php:640 shortcodes/menu.php:654 shortcodes/menu.php:675
+#: shortcodes/menu.php:689 shortcodes/menu.php:711 shortcodes/menu.php:723
+#: shortcodes/menu.php:744 shortcodes/multititle.php:178
+#: shortcodes/multititle.php:210 shortcodes/multititle.php:236
+#: shortcodes/multititle.php:262 shortcodes/multititle.php:288
+#: shortcodes/multititle.php:314 shortcodes/multititle.php:344
+#: shortcodes/multititle.php:376 shortcodes/multititle.php:402
+#: shortcodes/multititle.php:428 shortcodes/multititle.php:454
+#: shortcodes/multititle.php:480 shortcodes/page-title.php:58
+#: shortcodes/page-title.php:97 shortcodes/page-title.php:143
+#: shortcodes/page-title.php:162 shortcodes/post-grid.php:380
+#: shortcodes/post-grid.php:401 shortcodes/post-grid.php:423
+#: shortcodes/post-grid.php:444 shortcodes/post-grid.php:465
+#: shortcodes/post-grid.php:486 shortcodes/post-grid.php:507
+#: shortcodes/post-grid.php:528 shortcodes/post-grid.php:635
+#: shortcodes/post-grid.php:656 shortcodes/post-grid.php:678
+#: shortcodes/post-grid.php:699 shortcodes/post-grid.php:720
+#: shortcodes/post-grid.php:741 shortcodes/post-grid.php:762
+#: shortcodes/post-grid.php:783 shortcodes/post-grid.php:903
+#: shortcodes/post-grid.php:924 shortcodes/post-grid.php:946
+#: shortcodes/post-grid.php:967 shortcodes/post-grid.php:988
+#: shortcodes/post-grid.php:1009 shortcodes/post-grid.php:1030
+#: shortcodes/post-grid.php:1051 shortcodes/post-grid.php:1159
+#: shortcodes/post-grid.php:1180 shortcodes/post-grid.php:1202
+#: shortcodes/post-grid.php:1223 shortcodes/post-grid.php:1244
+#: shortcodes/post-grid.php:1265 shortcodes/post-grid.php:1286
+#: shortcodes/post-grid.php:1307 shortcodes/search.php:88
+#: shortcodes/search.php:111 shortcodes/search.php:134
+#: shortcodes/search.php:157 shortcodes/search.php:180
+#: shortcodes/search.php:204 shortcodes/search.php:226
+#: shortcodes/search.php:249 shortcodes/search.php:271
+#: shortcodes/search.php:293 shortcodes/search.php:332
+#: shortcodes/search.php:354 shortcodes/search.php:377
+#: shortcodes/search.php:399 shortcodes/search.php:421
+#: shortcodes/search.php:445 shortcodes/search.php:467
+#: shortcodes/search.php:490 shortcodes/search.php:512
+#: shortcodes/search.php:534 shortcodes/tables.php:72 shortcodes/tables.php:89
+#: shortcodes/tables.php:126 shortcodes/tables.php:144
+#: shortcodes/tables.php:161 shortcodes/tables.php:197
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: shortcodes/benefits.php:192 shortcodes/benefits.php:210
+#: shortcodes/benefits.php:227 shortcodes/benefits.php:295
+#: shortcodes/benefits.php:313 shortcodes/benefits.php:330
+#: shortcodes/benefits.php:412 shortcodes/benefits.php:430
+#: shortcodes/benefits.php:447 shortcodes/bgr-label.php:82
+#: shortcodes/bgr-label.php:106 shortcodes/breadcrumb.php:51
+#: shortcodes/breadcrumb.php:66 shortcodes/breadcrumb.php:104
+#: shortcodes/breadcrumb.php:150 shortcodes/breadcrumb.php:164
+#: shortcodes/caldera-forms.php:77 shortcodes/caldera-forms.php:89
+#: shortcodes/caldera-forms.php:104 shortcodes/caldera-forms.php:120
+#: shortcodes/caldera-forms.php:137 shortcodes/caldera-forms.php:153
+#: shortcodes/caldera-forms.php:184 shortcodes/caldera-forms.php:197
+#: shortcodes/caldera-forms.php:211 shortcodes/caldera-forms.php:227
+#: shortcodes/caldera-forms.php:244 shortcodes/caldera-forms.php:260
+#: shortcodes/caldera-forms.php:304 shortcodes/caldera-forms.php:316
+#: shortcodes/caldera-forms.php:330 shortcodes/caldera-forms.php:346
+#: shortcodes/caldera-forms.php:363 shortcodes/caldera-forms.php:378
+#: shortcodes/caldera-forms.php:410 shortcodes/caldera-forms.php:422
+#: shortcodes/caldera-forms.php:436 shortcodes/caldera-forms.php:452
+#: shortcodes/caldera-forms.php:469 shortcodes/caldera-forms.php:484
+#: shortcodes/caldera-forms.php:516 shortcodes/caldera-forms.php:532
+#: shortcodes/caldera-forms.php:549 shortcodes/caldera-forms.php:563
+#: shortcodes/caldera-forms.php:581 shortcodes/caldera-forms.php:597
+#: shortcodes/caldera-forms.php:614 shortcodes/caldera-forms.php:628
+#: shortcodes/contact.php:80 shortcodes/contact.php:92
+#: shortcodes/contact.php:107 shortcodes/contact.php:123
+#: shortcodes/contact.php:140 shortcodes/contact.php:157
+#: shortcodes/contact.php:173 shortcodes/contact.php:204
+#: shortcodes/contact.php:217 shortcodes/contact.php:231
+#: shortcodes/contact.php:247 shortcodes/contact.php:264
+#: shortcodes/contact.php:281 shortcodes/contact.php:297
+#: shortcodes/contact.php:341 shortcodes/contact.php:353
+#: shortcodes/contact.php:367 shortcodes/contact.php:383
+#: shortcodes/contact.php:400 shortcodes/contact.php:417
+#: shortcodes/contact.php:432 shortcodes/contact.php:464
+#: shortcodes/contact.php:476 shortcodes/contact.php:490
+#: shortcodes/contact.php:506 shortcodes/contact.php:523
+#: shortcodes/contact.php:540 shortcodes/contact.php:555
+#: shortcodes/contact.php:587 shortcodes/contact.php:603
+#: shortcodes/contact.php:620 shortcodes/contact.php:637
+#: shortcodes/contact.php:651 shortcodes/contact.php:669
+#: shortcodes/contact.php:685 shortcodes/contact.php:702
+#: shortcodes/contact.php:719 shortcodes/contact.php:733
+#: shortcodes/icon-box.php:327 shortcodes/icon-box.php:346
+#: shortcodes/icon-box.php:365 shortcodes/icon-box.php:384
+#: shortcodes/icon-box.php:565 shortcodes/icon-box.php:584
+#: shortcodes/icon-box.php:603 shortcodes/icon-box.php:622
+#: shortcodes/image-carousel.php:283 shortcodes/image-carousel.php:356
+#: shortcodes/mailchimp.php:93 shortcodes/mailchimp.php:115
+#: shortcodes/mailchimp.php:140 shortcodes/mailchimp.php:179
+#: shortcodes/mailchimp.php:201 shortcodes/mailchimp.php:226
+#: shortcodes/mailchimp.php:281 shortcodes/mailchimp.php:299
+#: shortcodes/menu.php:235 shortcodes/menu.php:378 shortcodes/menu.php:449
+#: shortcodes/menu.php:521 shortcodes/menu.php:657 shortcodes/menu.php:726
+#: shortcodes/menu.php:794 shortcodes/menu.php:877 shortcodes/menu.php:926
+#: shortcodes/menu.php:964 shortcodes/menu.php:1047 shortcodes/menu.php:1096
+#: shortcodes/menu.php:2812 shortcodes/menu.php:2887
+#: shortcodes/multititle.php:171 shortcodes/multititle.php:203
+#: shortcodes/multititle.php:229 shortcodes/multititle.php:255
+#: shortcodes/multititle.php:281 shortcodes/multititle.php:307
+#: shortcodes/multititle.php:337 shortcodes/multititle.php:369
+#: shortcodes/multititle.php:395 shortcodes/multititle.php:421
+#: shortcodes/multititle.php:447 shortcodes/multititle.php:473
+#: shortcodes/page-title.php:51 shortcodes/page-title.php:90
+#: shortcodes/page-title.php:136 shortcodes/page-title.php:155
+#: shortcodes/post-grid.php:381 shortcodes/post-grid.php:402
+#: shortcodes/post-grid.php:424 shortcodes/post-grid.php:445
+#: shortcodes/post-grid.php:466 shortcodes/post-grid.php:487
+#: shortcodes/post-grid.php:508 shortcodes/post-grid.php:529
+#: shortcodes/post-grid.php:636 shortcodes/post-grid.php:657
+#: shortcodes/post-grid.php:679 shortcodes/post-grid.php:700
+#: shortcodes/post-grid.php:721 shortcodes/post-grid.php:742
+#: shortcodes/post-grid.php:763 shortcodes/post-grid.php:784
+#: shortcodes/post-grid.php:904 shortcodes/post-grid.php:925
+#: shortcodes/post-grid.php:947 shortcodes/post-grid.php:968
+#: shortcodes/post-grid.php:989 shortcodes/post-grid.php:1010
+#: shortcodes/post-grid.php:1031 shortcodes/post-grid.php:1052
+#: shortcodes/post-grid.php:1160 shortcodes/post-grid.php:1181
+#: shortcodes/post-grid.php:1203 shortcodes/post-grid.php:1224
+#: shortcodes/post-grid.php:1245 shortcodes/post-grid.php:1266
+#: shortcodes/post-grid.php:1287 shortcodes/post-grid.php:1308
+#: shortcodes/search.php:89 shortcodes/search.php:112 shortcodes/search.php:135
+#: shortcodes/search.php:158 shortcodes/search.php:181
+#: shortcodes/search.php:205 shortcodes/search.php:227
+#: shortcodes/search.php:250 shortcodes/search.php:272
+#: shortcodes/search.php:294 shortcodes/search.php:333
+#: shortcodes/search.php:355 shortcodes/search.php:378
+#: shortcodes/search.php:400 shortcodes/search.php:422
+#: shortcodes/search.php:446 shortcodes/search.php:468
+#: shortcodes/search.php:491 shortcodes/search.php:513
+#: shortcodes/search.php:535 shortcodes/tables.php:73 shortcodes/tables.php:90
+#: shortcodes/tables.php:127 shortcodes/tables.php:145
+#: shortcodes/tables.php:162 shortcodes/tables.php:198
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: shortcodes/benefits.php:193 shortcodes/benefits.php:211
+#: shortcodes/benefits.php:228 shortcodes/benefits.php:296
+#: shortcodes/benefits.php:314 shortcodes/benefits.php:331
+#: shortcodes/benefits.php:413 shortcodes/benefits.php:431
+#: shortcodes/benefits.php:448 shortcodes/bgr-label.php:83
+#: shortcodes/bgr-label.php:107 shortcodes/breadcrumb.php:52
+#: shortcodes/breadcrumb.php:67 shortcodes/breadcrumb.php:105
+#: shortcodes/breadcrumb.php:151 shortcodes/breadcrumb.php:165
+#: shortcodes/icon-box.php:328 shortcodes/icon-box.php:347
+#: shortcodes/icon-box.php:366 shortcodes/icon-box.php:385
+#: shortcodes/icon-box.php:566 shortcodes/icon-box.php:585
+#: shortcodes/icon-box.php:604 shortcodes/icon-box.php:623
+#: shortcodes/mailchimp.php:94 shortcodes/mailchimp.php:116
+#: shortcodes/mailchimp.php:141 shortcodes/mailchimp.php:180
+#: shortcodes/mailchimp.php:202 shortcodes/mailchimp.php:227
+#: shortcodes/mailchimp.php:282 shortcodes/mailchimp.php:300
+#: shortcodes/menu.php:236 shortcodes/menu.php:379 shortcodes/menu.php:450
+#: shortcodes/menu.php:795 shortcodes/menu.php:878 shortcodes/menu.php:927
+#: shortcodes/menu.php:965 shortcodes/menu.php:1048 shortcodes/menu.php:1097
+#: shortcodes/multititle.php:172 shortcodes/multititle.php:204
+#: shortcodes/multititle.php:230 shortcodes/multititle.php:256
+#: shortcodes/multititle.php:282 shortcodes/multititle.php:308
+#: shortcodes/multititle.php:338 shortcodes/multititle.php:370
+#: shortcodes/multititle.php:396 shortcodes/multititle.php:422
+#: shortcodes/multititle.php:448 shortcodes/multititle.php:474
+#: shortcodes/page-title.php:52 shortcodes/page-title.php:91
+#: shortcodes/page-title.php:137 shortcodes/page-title.php:156
+#: shortcodes/post-grid.php:382 shortcodes/post-grid.php:403
+#: shortcodes/post-grid.php:425 shortcodes/post-grid.php:446
+#: shortcodes/post-grid.php:467 shortcodes/post-grid.php:488
+#: shortcodes/post-grid.php:509 shortcodes/post-grid.php:530
+#: shortcodes/post-grid.php:637 shortcodes/post-grid.php:658
+#: shortcodes/post-grid.php:680 shortcodes/post-grid.php:701
+#: shortcodes/post-grid.php:722 shortcodes/post-grid.php:743
+#: shortcodes/post-grid.php:764 shortcodes/post-grid.php:785
+#: shortcodes/post-grid.php:905 shortcodes/post-grid.php:926
+#: shortcodes/post-grid.php:948 shortcodes/post-grid.php:969
+#: shortcodes/post-grid.php:990 shortcodes/post-grid.php:1011
+#: shortcodes/post-grid.php:1032 shortcodes/post-grid.php:1053
+#: shortcodes/post-grid.php:1161 shortcodes/post-grid.php:1182
+#: shortcodes/post-grid.php:1204 shortcodes/post-grid.php:1225
+#: shortcodes/post-grid.php:1246 shortcodes/post-grid.php:1267
+#: shortcodes/post-grid.php:1288 shortcodes/post-grid.php:1309
+#: shortcodes/search.php:90 shortcodes/search.php:113 shortcodes/search.php:136
+#: shortcodes/search.php:159 shortcodes/search.php:182
+#: shortcodes/search.php:206 shortcodes/search.php:228
+#: shortcodes/search.php:251 shortcodes/search.php:273
+#: shortcodes/search.php:295 shortcodes/search.php:334
+#: shortcodes/search.php:356 shortcodes/search.php:379
+#: shortcodes/search.php:401 shortcodes/search.php:423
+#: shortcodes/search.php:447 shortcodes/search.php:469
+#: shortcodes/search.php:492 shortcodes/search.php:514
+#: shortcodes/search.php:536
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: shortcodes/benefits.php:194 shortcodes/benefits.php:212
+#: shortcodes/benefits.php:229 shortcodes/benefits.php:297
+#: shortcodes/benefits.php:315 shortcodes/benefits.php:332
+#: shortcodes/benefits.php:414 shortcodes/benefits.php:432
+#: shortcodes/benefits.php:449 shortcodes/bgr-label.php:84
+#: shortcodes/bgr-label.php:108 shortcodes/breadcrumb.php:53
+#: shortcodes/breadcrumb.php:68 shortcodes/breadcrumb.php:106
+#: shortcodes/caldera-forms.php:74 shortcodes/caldera-forms.php:86
+#: shortcodes/caldera-forms.php:101 shortcodes/caldera-forms.php:117
+#: shortcodes/caldera-forms.php:134 shortcodes/caldera-forms.php:150
+#: shortcodes/caldera-forms.php:181 shortcodes/caldera-forms.php:194
+#: shortcodes/caldera-forms.php:208 shortcodes/caldera-forms.php:224
+#: shortcodes/caldera-forms.php:241 shortcodes/caldera-forms.php:257
+#: shortcodes/caldera-forms.php:301 shortcodes/caldera-forms.php:313
+#: shortcodes/caldera-forms.php:327 shortcodes/caldera-forms.php:343
+#: shortcodes/caldera-forms.php:360 shortcodes/caldera-forms.php:375
+#: shortcodes/caldera-forms.php:407 shortcodes/caldera-forms.php:419
+#: shortcodes/caldera-forms.php:433 shortcodes/caldera-forms.php:449
+#: shortcodes/caldera-forms.php:466 shortcodes/caldera-forms.php:481
+#: shortcodes/caldera-forms.php:513 shortcodes/caldera-forms.php:529
+#: shortcodes/caldera-forms.php:546 shortcodes/caldera-forms.php:560
+#: shortcodes/caldera-forms.php:578 shortcodes/caldera-forms.php:594
+#: shortcodes/caldera-forms.php:611 shortcodes/caldera-forms.php:625
+#: shortcodes/contact.php:77 shortcodes/contact.php:89
+#: shortcodes/contact.php:104 shortcodes/contact.php:120
+#: shortcodes/contact.php:137 shortcodes/contact.php:154
+#: shortcodes/contact.php:170 shortcodes/contact.php:201
+#: shortcodes/contact.php:214 shortcodes/contact.php:228
+#: shortcodes/contact.php:244 shortcodes/contact.php:261
+#: shortcodes/contact.php:278 shortcodes/contact.php:294
+#: shortcodes/contact.php:338 shortcodes/contact.php:350
+#: shortcodes/contact.php:364 shortcodes/contact.php:380
+#: shortcodes/contact.php:397 shortcodes/contact.php:414
+#: shortcodes/contact.php:429 shortcodes/contact.php:461
+#: shortcodes/contact.php:473 shortcodes/contact.php:487
+#: shortcodes/contact.php:503 shortcodes/contact.php:520
+#: shortcodes/contact.php:537 shortcodes/contact.php:552
+#: shortcodes/contact.php:584 shortcodes/contact.php:600
+#: shortcodes/contact.php:617 shortcodes/contact.php:634
+#: shortcodes/contact.php:648 shortcodes/contact.php:666
+#: shortcodes/contact.php:682 shortcodes/contact.php:699
+#: shortcodes/contact.php:716 shortcodes/contact.php:730
+#: shortcodes/icon-box.php:329 shortcodes/icon-box.php:348
+#: shortcodes/icon-box.php:367 shortcodes/icon-box.php:386
+#: shortcodes/icon-box.php:567 shortcodes/icon-box.php:586
+#: shortcodes/icon-box.php:605 shortcodes/icon-box.php:624
+#: shortcodes/mailchimp.php:95 shortcodes/mailchimp.php:117
+#: shortcodes/mailchimp.php:142 shortcodes/mailchimp.php:181
+#: shortcodes/mailchimp.php:203 shortcodes/mailchimp.php:228
+#: shortcodes/menu.php:234 shortcodes/menu.php:377 shortcodes/menu.php:448
+#: shortcodes/multititle.php:173 shortcodes/multititle.php:205
+#: shortcodes/multititle.php:231 shortcodes/multititle.php:257
+#: shortcodes/multititle.php:283 shortcodes/multititle.php:309
+#: shortcodes/multititle.php:339 shortcodes/multititle.php:371
+#: shortcodes/multititle.php:397 shortcodes/multititle.php:423
+#: shortcodes/multititle.php:449 shortcodes/multititle.php:475
+#: shortcodes/page-title.php:53 shortcodes/page-title.php:92
+#: shortcodes/page-title.php:138 shortcodes/page-title.php:157
+#: shortcodes/post-grid.php:383 shortcodes/post-grid.php:404
+#: shortcodes/post-grid.php:426 shortcodes/post-grid.php:447
+#: shortcodes/post-grid.php:468 shortcodes/post-grid.php:489
+#: shortcodes/post-grid.php:510 shortcodes/post-grid.php:531
+#: shortcodes/post-grid.php:638 shortcodes/post-grid.php:659
+#: shortcodes/post-grid.php:681 shortcodes/post-grid.php:702
+#: shortcodes/post-grid.php:723 shortcodes/post-grid.php:744
+#: shortcodes/post-grid.php:765 shortcodes/post-grid.php:786
+#: shortcodes/post-grid.php:906 shortcodes/post-grid.php:927
+#: shortcodes/post-grid.php:949 shortcodes/post-grid.php:970
+#: shortcodes/post-grid.php:991 shortcodes/post-grid.php:1012
+#: shortcodes/post-grid.php:1033 shortcodes/post-grid.php:1054
+#: shortcodes/post-grid.php:1162 shortcodes/post-grid.php:1183
+#: shortcodes/post-grid.php:1205 shortcodes/post-grid.php:1226
+#: shortcodes/post-grid.php:1247 shortcodes/post-grid.php:1268
+#: shortcodes/post-grid.php:1289 shortcodes/post-grid.php:1310
+#: shortcodes/powerful-image.php:143 shortcodes/search.php:91
+#: shortcodes/search.php:114 shortcodes/search.php:137
+#: shortcodes/search.php:160 shortcodes/search.php:183
+#: shortcodes/search.php:207 shortcodes/search.php:229
+#: shortcodes/search.php:252 shortcodes/search.php:274
+#: shortcodes/search.php:296 shortcodes/search.php:335
+#: shortcodes/search.php:357 shortcodes/search.php:380
+#: shortcodes/search.php:402 shortcodes/search.php:424
+#: shortcodes/search.php:448 shortcodes/search.php:470
+#: shortcodes/search.php:493 shortcodes/search.php:515
+#: shortcodes/search.php:537 shortcodes/tables.php:70 shortcodes/tables.php:87
+#: shortcodes/tables.php:124 shortcodes/tables.php:142
+#: shortcodes/tables.php:159 shortcodes/tables.php:195
+msgid "Font Family"
+msgstr "Семейство шрифта"
+
+#: shortcodes/benefits.php:195 shortcodes/benefits.php:213
+#: shortcodes/benefits.php:230 shortcodes/benefits.php:298
+#: shortcodes/benefits.php:316 shortcodes/benefits.php:333
+#: shortcodes/benefits.php:415 shortcodes/benefits.php:433
+#: shortcodes/benefits.php:450 shortcodes/bgr-label.php:85
+#: shortcodes/bgr-label.php:109 shortcodes/breadcrumb.php:54
+#: shortcodes/breadcrumb.php:69 shortcodes/breadcrumb.php:107
+#: shortcodes/caldera-forms.php:58 shortcodes/caldera-forms.php:166
+#: shortcodes/caldera-forms.php:285 shortcodes/caldera-forms.php:391
+#: shortcodes/contact.php:61 shortcodes/contact.php:186
+#: shortcodes/contact.php:322 shortcodes/contact.php:445
+#: shortcodes/divider.php:86 shortcodes/icon-box.php:264
+#: shortcodes/icon-box.php:282 shortcodes/icon-box.php:311
+#: shortcodes/icon-box.php:330 shortcodes/icon-box.php:349
+#: shortcodes/icon-box.php:368 shortcodes/icon-box.php:387
+#: shortcodes/icon-box.php:401 shortcodes/icon-box.php:418
+#: shortcodes/icon-box.php:465 shortcodes/icon-box.php:479
+#: shortcodes/icon-box.php:503 shortcodes/icon-box.php:519
+#: shortcodes/icon-box.php:548 shortcodes/icon-box.php:568
+#: shortcodes/icon-box.php:587 shortcodes/icon-box.php:606
+#: shortcodes/icon-box.php:625 shortcodes/icon-box.php:639
+#: shortcodes/mailchimp.php:76 shortcodes/mailchimp.php:96
+#: shortcodes/mailchimp.php:118 shortcodes/mailchimp.php:143
+#: shortcodes/mailchimp.php:162 shortcodes/mailchimp.php:182
+#: shortcodes/mailchimp.php:204 shortcodes/mailchimp.php:229
+#: shortcodes/mailchimp.php:264 shortcodes/mailchimp.php:283
+#: shortcodes/mailchimp.php:301 shortcodes/menu.php:206 shortcodes/menu.php:219
+#: shortcodes/menu.php:252 shortcodes/menu.php:349 shortcodes/menu.php:362
+#: shortcodes/menu.php:422 shortcodes/menu.php:434 shortcodes/menu.php:492
+#: shortcodes/menu.php:506 shortcodes/menu.php:629 shortcodes/menu.php:642
+#: shortcodes/menu.php:700 shortcodes/menu.php:712 shortcodes/menu.php:784
+#: shortcodes/menu.php:954 shortcodes/multititle.php:174
+#: shortcodes/multititle.php:206 shortcodes/multititle.php:232
+#: shortcodes/multititle.php:258 shortcodes/multititle.php:284
+#: shortcodes/multititle.php:310 shortcodes/multititle.php:340
+#: shortcodes/multititle.php:372 shortcodes/multititle.php:398
+#: shortcodes/multititle.php:424 shortcodes/multititle.php:450
+#: shortcodes/multititle.php:476 shortcodes/page-title.php:54
+#: shortcodes/page-title.php:93 shortcodes/page-title.php:139
+#: shortcodes/page-title.php:158 shortcodes/post-grid.php:384
+#: shortcodes/post-grid.php:405 shortcodes/post-grid.php:427
+#: shortcodes/post-grid.php:448 shortcodes/post-grid.php:469
+#: shortcodes/post-grid.php:490 shortcodes/post-grid.php:511
+#: shortcodes/post-grid.php:532 shortcodes/post-grid.php:639
+#: shortcodes/post-grid.php:660 shortcodes/post-grid.php:682
+#: shortcodes/post-grid.php:703 shortcodes/post-grid.php:724
+#: shortcodes/post-grid.php:745 shortcodes/post-grid.php:766
+#: shortcodes/post-grid.php:787 shortcodes/post-grid.php:907
+#: shortcodes/post-grid.php:928 shortcodes/post-grid.php:950
+#: shortcodes/post-grid.php:971 shortcodes/post-grid.php:992
+#: shortcodes/post-grid.php:1013 shortcodes/post-grid.php:1034
+#: shortcodes/post-grid.php:1055 shortcodes/post-grid.php:1163
+#: shortcodes/post-grid.php:1184 shortcodes/post-grid.php:1206
+#: shortcodes/post-grid.php:1227 shortcodes/post-grid.php:1248
+#: shortcodes/post-grid.php:1269 shortcodes/post-grid.php:1290
+#: shortcodes/post-grid.php:1311 shortcodes/search.php:92
+#: shortcodes/search.php:115 shortcodes/search.php:138
+#: shortcodes/search.php:161 shortcodes/search.php:184
+#: shortcodes/search.php:208 shortcodes/search.php:230
+#: shortcodes/search.php:253 shortcodes/search.php:275
+#: shortcodes/search.php:297 shortcodes/search.php:336
+#: shortcodes/search.php:358 shortcodes/search.php:381
+#: shortcodes/search.php:403 shortcodes/search.php:425
+#: shortcodes/search.php:449 shortcodes/search.php:471
+#: shortcodes/search.php:494 shortcodes/search.php:516
+#: shortcodes/search.php:538 shortcodes/template.php:80
+#: shortcodes/template.php:114
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: shortcodes/benefits.php:196 shortcodes/benefits.php:214
+#: shortcodes/benefits.php:231 shortcodes/benefits.php:299
+#: shortcodes/benefits.php:317 shortcodes/benefits.php:334
+#: shortcodes/benefits.php:416 shortcodes/benefits.php:434
+#: shortcodes/benefits.php:451 shortcodes/bgr-label.php:86
+#: shortcodes/bgr-label.php:110 shortcodes/breadcrumb.php:56
+#: shortcodes/breadcrumb.php:71 shortcodes/breadcrumb.php:109
+#: shortcodes/breadcrumb.php:153 shortcodes/breadcrumb.php:167
+#: shortcodes/caldera-forms.php:79 shortcodes/caldera-forms.php:91
+#: shortcodes/caldera-forms.php:106 shortcodes/caldera-forms.php:122
+#: shortcodes/caldera-forms.php:139 shortcodes/caldera-forms.php:155
+#: shortcodes/caldera-forms.php:186 shortcodes/caldera-forms.php:199
+#: shortcodes/caldera-forms.php:213 shortcodes/caldera-forms.php:229
+#: shortcodes/caldera-forms.php:246 shortcodes/caldera-forms.php:262
+#: shortcodes/caldera-forms.php:306 shortcodes/caldera-forms.php:318
+#: shortcodes/caldera-forms.php:332 shortcodes/caldera-forms.php:348
+#: shortcodes/caldera-forms.php:365 shortcodes/caldera-forms.php:380
+#: shortcodes/caldera-forms.php:412 shortcodes/caldera-forms.php:424
+#: shortcodes/caldera-forms.php:438 shortcodes/caldera-forms.php:454
+#: shortcodes/caldera-forms.php:471 shortcodes/caldera-forms.php:486
+#: shortcodes/caldera-forms.php:518 shortcodes/caldera-forms.php:534
+#: shortcodes/caldera-forms.php:551 shortcodes/caldera-forms.php:565
+#: shortcodes/caldera-forms.php:583 shortcodes/caldera-forms.php:599
+#: shortcodes/caldera-forms.php:616 shortcodes/caldera-forms.php:630
+#: shortcodes/contact.php:82 shortcodes/contact.php:94
+#: shortcodes/contact.php:109 shortcodes/contact.php:125
+#: shortcodes/contact.php:142 shortcodes/contact.php:159
+#: shortcodes/contact.php:175 shortcodes/contact.php:206
+#: shortcodes/contact.php:219 shortcodes/contact.php:233
+#: shortcodes/contact.php:249 shortcodes/contact.php:266
+#: shortcodes/contact.php:283 shortcodes/contact.php:299
+#: shortcodes/contact.php:343 shortcodes/contact.php:355
+#: shortcodes/contact.php:369 shortcodes/contact.php:385
+#: shortcodes/contact.php:402 shortcodes/contact.php:419
+#: shortcodes/contact.php:434 shortcodes/contact.php:466
+#: shortcodes/contact.php:478 shortcodes/contact.php:492
+#: shortcodes/contact.php:508 shortcodes/contact.php:525
+#: shortcodes/contact.php:542 shortcodes/contact.php:557
+#: shortcodes/contact.php:589 shortcodes/contact.php:605
+#: shortcodes/contact.php:622 shortcodes/contact.php:639
+#: shortcodes/contact.php:653 shortcodes/contact.php:671
+#: shortcodes/contact.php:687 shortcodes/contact.php:704
+#: shortcodes/contact.php:721 shortcodes/contact.php:735
+#: shortcodes/icon-box.php:331 shortcodes/icon-box.php:350
+#: shortcodes/icon-box.php:369 shortcodes/icon-box.php:388
+#: shortcodes/icon-box.php:569 shortcodes/icon-box.php:588
+#: shortcodes/icon-box.php:607 shortcodes/icon-box.php:626
+#: shortcodes/mailchimp.php:97 shortcodes/mailchimp.php:119
+#: shortcodes/mailchimp.php:144 shortcodes/mailchimp.php:183
+#: shortcodes/mailchimp.php:205 shortcodes/mailchimp.php:230
+#: shortcodes/mailchimp.php:284 shortcodes/mailchimp.php:302
+#: shortcodes/menu.php:237 shortcodes/menu.php:380 shortcodes/menu.php:451
+#: shortcodes/menu.php:522 shortcodes/menu.php:658 shortcodes/menu.php:727
+#: shortcodes/menu.php:796 shortcodes/menu.php:879 shortcodes/menu.php:928
+#: shortcodes/menu.php:966 shortcodes/menu.php:1049 shortcodes/menu.php:1098
+#: shortcodes/multititle.php:176 shortcodes/multititle.php:208
+#: shortcodes/multititle.php:234 shortcodes/multititle.php:260
+#: shortcodes/multititle.php:286 shortcodes/multititle.php:312
+#: shortcodes/multititle.php:342 shortcodes/multititle.php:374
+#: shortcodes/multititle.php:400 shortcodes/multititle.php:426
+#: shortcodes/multititle.php:452 shortcodes/multititle.php:478
+#: shortcodes/page-title.php:56 shortcodes/page-title.php:95
+#: shortcodes/page-title.php:141 shortcodes/page-title.php:160
+#: shortcodes/post-grid.php:386 shortcodes/post-grid.php:407
+#: shortcodes/post-grid.php:429 shortcodes/post-grid.php:450
+#: shortcodes/post-grid.php:471 shortcodes/post-grid.php:492
+#: shortcodes/post-grid.php:513 shortcodes/post-grid.php:534
+#: shortcodes/post-grid.php:641 shortcodes/post-grid.php:662
+#: shortcodes/post-grid.php:684 shortcodes/post-grid.php:705
+#: shortcodes/post-grid.php:726 shortcodes/post-grid.php:747
+#: shortcodes/post-grid.php:768 shortcodes/post-grid.php:789
+#: shortcodes/post-grid.php:909 shortcodes/post-grid.php:930
+#: shortcodes/post-grid.php:952 shortcodes/post-grid.php:973
+#: shortcodes/post-grid.php:994 shortcodes/post-grid.php:1015
+#: shortcodes/post-grid.php:1036 shortcodes/post-grid.php:1057
+#: shortcodes/post-grid.php:1165 shortcodes/post-grid.php:1186
+#: shortcodes/post-grid.php:1208 shortcodes/post-grid.php:1229
+#: shortcodes/post-grid.php:1250 shortcodes/post-grid.php:1271
+#: shortcodes/post-grid.php:1292 shortcodes/post-grid.php:1313
+#: shortcodes/powerful-image.php:148 shortcodes/search.php:93
+#: shortcodes/search.php:116 shortcodes/search.php:139
+#: shortcodes/search.php:162 shortcodes/search.php:185
+#: shortcodes/search.php:209 shortcodes/search.php:231
+#: shortcodes/search.php:254 shortcodes/search.php:276
+#: shortcodes/search.php:298 shortcodes/search.php:337
+#: shortcodes/search.php:359 shortcodes/search.php:382
+#: shortcodes/search.php:404 shortcodes/search.php:426
+#: shortcodes/search.php:450 shortcodes/search.php:472
+#: shortcodes/search.php:495 shortcodes/search.php:517
+#: shortcodes/search.php:539 shortcodes/tables.php:92 shortcodes/tables.php:129
+#: shortcodes/tables.php:164 shortcodes/tables.php:200
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: shortcodes/benefits.php:197 shortcodes/benefits.php:215
+#: shortcodes/benefits.php:232 shortcodes/benefits.php:300
+#: shortcodes/benefits.php:318 shortcodes/benefits.php:335
+#: shortcodes/benefits.php:417 shortcodes/benefits.php:435
+#: shortcodes/benefits.php:452 shortcodes/bgr-label.php:87
+#: shortcodes/bgr-label.php:111 shortcodes/breadcrumb.php:57
+#: shortcodes/breadcrumb.php:72 shortcodes/breadcrumb.php:110
+#: shortcodes/breadcrumb.php:154 shortcodes/breadcrumb.php:168
+#: shortcodes/button.php:135 shortcodes/button.php:157
+#: shortcodes/button.php:213 shortcodes/button.php:235
+#: shortcodes/icon-box.php:283 shortcodes/icon-box.php:332
+#: shortcodes/icon-box.php:351 shortcodes/icon-box.php:370
+#: shortcodes/icon-box.php:389 shortcodes/icon-box.php:520
+#: shortcodes/icon-box.php:570 shortcodes/icon-box.php:589
+#: shortcodes/icon-box.php:608 shortcodes/icon-box.php:627
+#: shortcodes/mailchimp.php:98 shortcodes/mailchimp.php:120
+#: shortcodes/mailchimp.php:145 shortcodes/mailchimp.php:184
+#: shortcodes/mailchimp.php:206 shortcodes/mailchimp.php:231
+#: shortcodes/mailchimp.php:303 shortcodes/menu.php:238 shortcodes/menu.php:381
+#: shortcodes/menu.php:452 shortcodes/menu.php:523 shortcodes/menu.php:659
+#: shortcodes/menu.php:728 shortcodes/menu.php:797 shortcodes/menu.php:880
+#: shortcodes/menu.php:929 shortcodes/menu.php:967 shortcodes/menu.php:1050
+#: shortcodes/menu.php:1099 shortcodes/multititle.php:177
+#: shortcodes/multititle.php:209 shortcodes/multititle.php:235
+#: shortcodes/multititle.php:261 shortcodes/multititle.php:287
+#: shortcodes/multititle.php:313 shortcodes/multititle.php:343
+#: shortcodes/multititle.php:375 shortcodes/multititle.php:401
+#: shortcodes/multititle.php:427 shortcodes/multititle.php:453
+#: shortcodes/multititle.php:479 shortcodes/page-title.php:57
+#: shortcodes/page-title.php:96 shortcodes/page-title.php:142
+#: shortcodes/page-title.php:161 shortcodes/post-grid.php:387
+#: shortcodes/post-grid.php:408 shortcodes/post-grid.php:430
+#: shortcodes/post-grid.php:451 shortcodes/post-grid.php:472
+#: shortcodes/post-grid.php:493 shortcodes/post-grid.php:514
+#: shortcodes/post-grid.php:535 shortcodes/post-grid.php:642
+#: shortcodes/post-grid.php:663 shortcodes/post-grid.php:685
+#: shortcodes/post-grid.php:706 shortcodes/post-grid.php:727
+#: shortcodes/post-grid.php:748 shortcodes/post-grid.php:769
+#: shortcodes/post-grid.php:790 shortcodes/post-grid.php:910
+#: shortcodes/post-grid.php:931 shortcodes/post-grid.php:953
+#: shortcodes/post-grid.php:974 shortcodes/post-grid.php:995
+#: shortcodes/post-grid.php:1016 shortcodes/post-grid.php:1037
+#: shortcodes/post-grid.php:1058 shortcodes/post-grid.php:1166
+#: shortcodes/post-grid.php:1187 shortcodes/post-grid.php:1209
+#: shortcodes/post-grid.php:1230 shortcodes/post-grid.php:1251
+#: shortcodes/post-grid.php:1272 shortcodes/post-grid.php:1293
+#: shortcodes/post-grid.php:1314 shortcodes/search.php:94
+#: shortcodes/search.php:117 shortcodes/search.php:140
+#: shortcodes/search.php:163 shortcodes/search.php:186
+#: shortcodes/search.php:210 shortcodes/search.php:232
+#: shortcodes/search.php:255 shortcodes/search.php:277
+#: shortcodes/search.php:299 shortcodes/search.php:338
+#: shortcodes/search.php:360 shortcodes/search.php:383
+#: shortcodes/search.php:405 shortcodes/search.php:427
+#: shortcodes/search.php:451 shortcodes/search.php:473
+#: shortcodes/search.php:496 shortcodes/search.php:518
+#: shortcodes/search.php:540
+msgid "Text Decoration"
+msgstr "Оформление текста"
+
+#: shortcodes/benefits.php:244 shortcodes/benefits.php:347
+#: shortcodes/benefits.php:464 shortcodes/menu.php:281 shortcodes/menu.php:309
+#: shortcodes/menu.php:565 shortcodes/menu.php:592 shortcodes/menu.php:829
+#: shortcodes/menu.php:846 shortcodes/menu.php:999 shortcodes/menu.php:1016
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: shortcodes/benefits.php:245 shortcodes/benefits.php:348
+#: shortcodes/benefits.php:465 shortcodes/menu.php:279 shortcodes/menu.php:307
+#: shortcodes/menu.php:563 shortcodes/menu.php:590 shortcodes/menu.php:828
+#: shortcodes/menu.php:845 shortcodes/menu.php:998 shortcodes/menu.php:1015
+msgid "Icon Font Size"
+msgstr "Размер иконки"
+
+#: shortcodes/benefits.php:246 shortcodes/benefits.php:349
+#: shortcodes/benefits.php:466 shortcodes/menu.php:280 shortcodes/menu.php:308
+#: shortcodes/menu.php:564 shortcodes/menu.php:591
+msgid "Icon Line Height"
+msgstr "Высота строки с иконкой"
+
+#: shortcodes/benefits.php:381 shortcodes/breadcrumb.php:136
+#: shortcodes/caldera-forms.php:273 shortcodes/contact.php:310
+#: shortcodes/icon-box.php:490 shortcodes/mailchimp.php:252
+#: shortcodes/menu.php:767 shortcodes/page-title.php:122
+#: shortcodes/post-grid.php:803 shortcodes/search.php:317
+#: shortcodes/template.php:101
+msgid "hover"
+msgstr "При наведении"
+
+#: shortcodes/benefits.php:384 shortcodes/breadcrumb.php:139
+#: shortcodes/caldera-forms.php:276 shortcodes/contact.php:313
+#: shortcodes/icon-box.php:493 shortcodes/mailchimp.php:255
+#: shortcodes/menu.php:770 shortcodes/page-title.php:125
+#: shortcodes/post-grid.php:806 shortcodes/search.php:320
+#: shortcodes/template.php:104
+msgid "Hover"
+msgstr "При наведении"
+
+#: shortcodes/benefits.php:388
+msgid "Styles for hover effect"
+msgstr "Стили при наведении"
+
+#: shortcodes/bgr-label.php:21
+msgid "Background Label"
+msgstr "Надпись на фоне"
+
+#: shortcodes/bgr-label.php:22
+msgid "It displays label on background of the column or row"
+msgstr "Отображает метку на фоне столбца или строки"
+
+#: shortcodes/bgr-label.php:31
+msgid "Insert Text"
+msgstr "Вставить текст"
+
+#: shortcodes/bgr-label.php:34 shortcodes/icon-box.php:83
+#: shortcodes/icon-box.php:162 shortcodes/icon-box.php:189
+msgid "Title Goes Here"
+msgstr "Название здесь"
+
+#: shortcodes/bgr-label.php:38
+msgid "Position Top, in px. Example: 0, 25"
+msgstr "Позиция сверху, в px. Например: 0, 25"
+
+#: shortcodes/bgr-label.php:45
+msgid "Position Left, in px. Example: 0, 25"
+msgstr "Позиция слева, в px. Например: 0, 25"
+
+#: shortcodes/bgr-label.php:52
+msgid "Position Bottom, in px. Example: 0, 25"
+msgstr "Позиция cнизу, в px. Например: 0, 25"
+
+#: shortcodes/bgr-label.php:59
+msgid "Position Right, in px. Example: 0, 25"
+msgstr "Позиция справа, в px. Например: 0, 25"
+
+#: shortcodes/breadcrumb.php:18
+msgid "Breadcrumbs by Yoast SEO"
+msgstr "Хлебные крошки от Yoast SEO"
+
+#: shortcodes/breadcrumb.php:19
+msgid "It displays breadcrumbs if Yoast SEO plugin is active"
+msgstr "Отображает 'Хлебные крошки', только если установлен Yoast SEO плагин"
+
+#: shortcodes/breadcrumb.php:55 shortcodes/breadcrumb.php:70
+#: shortcodes/breadcrumb.php:108 shortcodes/breadcrumb.php:152
+#: shortcodes/breadcrumb.php:166 shortcodes/multititle.php:175
+#: shortcodes/multititle.php:207 shortcodes/multititle.php:233
+#: shortcodes/multititle.php:259 shortcodes/multititle.php:285
+#: shortcodes/multititle.php:311 shortcodes/multititle.php:341
+#: shortcodes/multititle.php:373 shortcodes/multititle.php:399
+#: shortcodes/multititle.php:425 shortcodes/multititle.php:451
+#: shortcodes/multititle.php:477 shortcodes/page-title.php:55
+#: shortcodes/page-title.php:94 shortcodes/page-title.php:140
+#: shortcodes/page-title.php:159 shortcodes/post-grid.php:385
+#: shortcodes/post-grid.php:406 shortcodes/post-grid.php:428
+#: shortcodes/post-grid.php:449 shortcodes/post-grid.php:470
+#: shortcodes/post-grid.php:491 shortcodes/post-grid.php:512
+#: shortcodes/post-grid.php:533 shortcodes/post-grid.php:640
+#: shortcodes/post-grid.php:661 shortcodes/post-grid.php:683
+#: shortcodes/post-grid.php:704 shortcodes/post-grid.php:725
+#: shortcodes/post-grid.php:746 shortcodes/post-grid.php:767
+#: shortcodes/post-grid.php:788 shortcodes/post-grid.php:908
+#: shortcodes/post-grid.php:929 shortcodes/post-grid.php:951
+#: shortcodes/post-grid.php:972 shortcodes/post-grid.php:993
+#: shortcodes/post-grid.php:1014 shortcodes/post-grid.php:1035
+#: shortcodes/post-grid.php:1056 shortcodes/post-grid.php:1164
+#: shortcodes/post-grid.php:1185 shortcodes/post-grid.php:1207
+#: shortcodes/post-grid.php:1228 shortcodes/post-grid.php:1249
+#: shortcodes/post-grid.php:1270 shortcodes/post-grid.php:1291
+#: shortcodes/post-grid.php:1312
+msgid "Text Shadow"
+msgstr "Тень текста"
+
+#: shortcodes/breadcrumb.php:59 shortcodes/breadcrumb.php:74
+#: shortcodes/breadcrumb.php:112 shortcodes/breadcrumb.php:155
+#: shortcodes/breadcrumb.php:169 shortcodes/multititle.php:179
+#: shortcodes/multititle.php:211 shortcodes/multititle.php:237
+#: shortcodes/multititle.php:263 shortcodes/multititle.php:289
+#: shortcodes/multititle.php:315 shortcodes/multititle.php:345
+#: shortcodes/multititle.php:377 shortcodes/multititle.php:403
+#: shortcodes/multititle.php:429 shortcodes/multititle.php:455
+#: shortcodes/multititle.php:481 shortcodes/page-title.php:59
+#: shortcodes/page-title.php:98 shortcodes/page-title.php:144
+#: shortcodes/page-title.php:163 shortcodes/post-grid.php:388
+#: shortcodes/post-grid.php:410 shortcodes/post-grid.php:431
+#: shortcodes/post-grid.php:452 shortcodes/post-grid.php:473
+#: shortcodes/post-grid.php:494 shortcodes/post-grid.php:515
+#: shortcodes/post-grid.php:536 shortcodes/post-grid.php:643
+#: shortcodes/post-grid.php:665 shortcodes/post-grid.php:686
+#: shortcodes/post-grid.php:707 shortcodes/post-grid.php:728
+#: shortcodes/post-grid.php:749 shortcodes/post-grid.php:770
+#: shortcodes/post-grid.php:791 shortcodes/post-grid.php:911
+#: shortcodes/post-grid.php:933 shortcodes/post-grid.php:954
+#: shortcodes/post-grid.php:975 shortcodes/post-grid.php:996
+#: shortcodes/post-grid.php:1017 shortcodes/post-grid.php:1038
+#: shortcodes/post-grid.php:1059 shortcodes/post-grid.php:1167
+#: shortcodes/post-grid.php:1189 shortcodes/post-grid.php:1210
+#: shortcodes/post-grid.php:1231 shortcodes/post-grid.php:1252
+#: shortcodes/post-grid.php:1273 shortcodes/post-grid.php:1294
+#: shortcodes/post-grid.php:1315
+msgid "Letter Spacing"
+msgstr "Расстояние между буквами"
+
+#: shortcodes/breadcrumb.php:60 shortcodes/breadcrumb.php:75
+#: shortcodes/breadcrumb.php:113 shortcodes/multititle.php:180
+#: shortcodes/multititle.php:212 shortcodes/multititle.php:238
+#: shortcodes/multititle.php:264 shortcodes/multititle.php:290
+#: shortcodes/multititle.php:316 shortcodes/multititle.php:346
+#: shortcodes/multititle.php:378 shortcodes/multititle.php:404
+#: shortcodes/multititle.php:430 shortcodes/multititle.php:456
+#: shortcodes/multititle.php:482 shortcodes/page-title.php:60
+#: shortcodes/page-title.php:99 shortcodes/page-title.php:145
+#: shortcodes/page-title.php:164 shortcodes/post-grid.php:389
+#: shortcodes/post-grid.php:411 shortcodes/post-grid.php:432
+#: shortcodes/post-grid.php:453 shortcodes/post-grid.php:474
+#: shortcodes/post-grid.php:495 shortcodes/post-grid.php:516
+#: shortcodes/post-grid.php:537 shortcodes/post-grid.php:644
+#: shortcodes/post-grid.php:666 shortcodes/post-grid.php:687
+#: shortcodes/post-grid.php:708 shortcodes/post-grid.php:729
+#: shortcodes/post-grid.php:750 shortcodes/post-grid.php:771
+#: shortcodes/post-grid.php:792 shortcodes/post-grid.php:912
+#: shortcodes/post-grid.php:934 shortcodes/post-grid.php:955
+#: shortcodes/post-grid.php:976 shortcodes/post-grid.php:997
+#: shortcodes/post-grid.php:1018 shortcodes/post-grid.php:1039
+#: shortcodes/post-grid.php:1060 shortcodes/post-grid.php:1168
+#: shortcodes/post-grid.php:1190 shortcodes/post-grid.php:1211
+#: shortcodes/post-grid.php:1232 shortcodes/post-grid.php:1253
+#: shortcodes/post-grid.php:1274 shortcodes/post-grid.php:1295
+#: shortcodes/post-grid.php:1316
+msgid "Overflow"
+msgstr "Переполнение"
+
+#: shortcodes/breadcrumb.php:61 shortcodes/breadcrumb.php:76
+#: shortcodes/breadcrumb.php:114 shortcodes/multititle.php:181
+#: shortcodes/multititle.php:213 shortcodes/multititle.php:239
+#: shortcodes/multititle.php:265 shortcodes/multititle.php:291
+#: shortcodes/multititle.php:317 shortcodes/multititle.php:347
+#: shortcodes/multititle.php:379 shortcodes/multititle.php:405
+#: shortcodes/multititle.php:431 shortcodes/multititle.php:457
+#: shortcodes/multititle.php:483 shortcodes/page-title.php:61
+#: shortcodes/page-title.php:100 shortcodes/page-title.php:146
+#: shortcodes/page-title.php:165 shortcodes/post-grid.php:390
+#: shortcodes/post-grid.php:412 shortcodes/post-grid.php:433
+#: shortcodes/post-grid.php:454 shortcodes/post-grid.php:475
+#: shortcodes/post-grid.php:496 shortcodes/post-grid.php:517
+#: shortcodes/post-grid.php:538 shortcodes/post-grid.php:645
+#: shortcodes/post-grid.php:667 shortcodes/post-grid.php:688
+#: shortcodes/post-grid.php:709 shortcodes/post-grid.php:730
+#: shortcodes/post-grid.php:751 shortcodes/post-grid.php:772
+#: shortcodes/post-grid.php:793 shortcodes/post-grid.php:913
+#: shortcodes/post-grid.php:935 shortcodes/post-grid.php:956
+#: shortcodes/post-grid.php:977 shortcodes/post-grid.php:998
+#: shortcodes/post-grid.php:1019 shortcodes/post-grid.php:1040
+#: shortcodes/post-grid.php:1061 shortcodes/post-grid.php:1169
+#: shortcodes/post-grid.php:1191 shortcodes/post-grid.php:1212
+#: shortcodes/post-grid.php:1233 shortcodes/post-grid.php:1254
+#: shortcodes/post-grid.php:1275 shortcodes/post-grid.php:1296
+#: shortcodes/post-grid.php:1317
+msgid "Word Break"
+msgstr "Перенос слов"
+
+#: shortcodes/breadcrumb.php:91 shortcodes/breadcrumb.php:128
+#: shortcodes/caldera-forms.php:61 shortcodes/caldera-forms.php:93
+#: shortcodes/caldera-forms.php:169 shortcodes/caldera-forms.php:201
+#: shortcodes/caldera-forms.php:288 shortcodes/caldera-forms.php:320
+#: shortcodes/caldera-forms.php:394 shortcodes/caldera-forms.php:426
+#: shortcodes/contact.php:64 shortcodes/contact.php:96
+#: shortcodes/contact.php:189 shortcodes/contact.php:221
+#: shortcodes/contact.php:325 shortcodes/contact.php:357
+#: shortcodes/contact.php:448 shortcodes/contact.php:480
+#: shortcodes/icon-box.php:267 shortcodes/icon-box.php:334
+#: shortcodes/icon-box.php:353 shortcodes/icon-box.php:372
+#: shortcodes/icon-box.php:392 shortcodes/icon-box.php:423
+#: shortcodes/icon-box.php:437 shortcodes/icon-box.php:572
+#: shortcodes/icon-box.php:591 shortcodes/icon-box.php:610
+#: shortcodes/icon-box.php:630 shortcodes/image-carousel.php:225
+#: shortcodes/image-carousel.php:298 shortcodes/mailchimp.php:124
+#: shortcodes/mailchimp.php:149 shortcodes/mailchimp.php:210
+#: shortcodes/mailchimp.php:235 shortcodes/menu.php:217 shortcodes/menu.php:254
+#: shortcodes/menu.php:268 shortcodes/menu.php:396 shortcodes/menu.php:410
+#: shortcodes/menu.php:432 shortcodes/menu.php:467 shortcodes/menu.php:504
+#: shortcodes/menu.php:538 shortcodes/menu.php:552 shortcodes/menu.php:674
+#: shortcodes/menu.php:688 shortcodes/menu.php:710 shortcodes/menu.php:743
+#: shortcodes/multititle.php:195 shortcodes/multititle.php:221
+#: shortcodes/multititle.php:247 shortcodes/multititle.php:273
+#: shortcodes/multititle.php:299 shortcodes/multititle.php:325
+#: shortcodes/multititle.php:361 shortcodes/multititle.php:387
+#: shortcodes/multititle.php:413 shortcodes/multititle.php:439
+#: shortcodes/multititle.php:465 shortcodes/multititle.php:491
+#: shortcodes/page-title.php:77 shortcodes/page-title.php:114
+#: shortcodes/post-grid.php:301 shortcodes/post-grid.php:314
+#: shortcodes/post-grid.php:328 shortcodes/post-grid.php:342
+#: shortcodes/post-grid.php:356 shortcodes/post-grid.php:370
+#: shortcodes/post-grid.php:556 shortcodes/post-grid.php:569
+#: shortcodes/post-grid.php:583 shortcodes/post-grid.php:597
+#: shortcodes/post-grid.php:611 shortcodes/post-grid.php:625
+#: shortcodes/post-grid.php:823 shortcodes/post-grid.php:837
+#: shortcodes/post-grid.php:851 shortcodes/post-grid.php:865
+#: shortcodes/post-grid.php:879 shortcodes/post-grid.php:893
+#: shortcodes/post-grid.php:1079 shortcodes/post-grid.php:1093
+#: shortcodes/post-grid.php:1107 shortcodes/post-grid.php:1121
+#: shortcodes/post-grid.php:1135 shortcodes/post-grid.php:1149
+#: shortcodes/tables.php:120 shortcodes/tables.php:192
+#: shortcodes/wpml_selector.php:57 shortcodes/wpml_selector.php:79
+msgid "Float"
+msgstr "Размещение"
+
+#: shortcodes/breadcrumb.php:92 shortcodes/breadcrumb.php:129
+#: shortcodes/caldera-forms.php:60 shortcodes/caldera-forms.php:92
+#: shortcodes/caldera-forms.php:168 shortcodes/caldera-forms.php:200
+#: shortcodes/caldera-forms.php:287 shortcodes/caldera-forms.php:319
+#: shortcodes/caldera-forms.php:393 shortcodes/caldera-forms.php:425
+#: shortcodes/contact.php:63 shortcodes/contact.php:95
+#: shortcodes/contact.php:188 shortcodes/contact.php:220
+#: shortcodes/contact.php:324 shortcodes/contact.php:356
+#: shortcodes/contact.php:447 shortcodes/contact.php:479
+#: shortcodes/icon-box.php:266 shortcodes/icon-box.php:335
+#: shortcodes/icon-box.php:354 shortcodes/icon-box.php:373
+#: shortcodes/icon-box.php:393 shortcodes/icon-box.php:420
+#: shortcodes/icon-box.php:438 shortcodes/icon-box.php:573
+#: shortcodes/icon-box.php:592 shortcodes/icon-box.php:611
+#: shortcodes/icon-box.php:631 shortcodes/image-carousel.php:224
+#: shortcodes/image-carousel.php:297 shortcodes/mailchimp.php:77
+#: shortcodes/mailchimp.php:125 shortcodes/mailchimp.php:150
+#: shortcodes/mailchimp.php:163 shortcodes/mailchimp.php:211
+#: shortcodes/mailchimp.php:236 shortcodes/mailchimp.php:265
+#: shortcodes/menu.php:205 shortcodes/menu.php:216 shortcodes/menu.php:253
+#: shortcodes/menu.php:267 shortcodes/menu.php:359 shortcodes/menu.php:395
+#: shortcodes/menu.php:409 shortcodes/menu.php:431 shortcodes/menu.php:466
+#: shortcodes/menu.php:503 shortcodes/menu.php:537 shortcodes/menu.php:551
+#: shortcodes/menu.php:639 shortcodes/menu.php:673 shortcodes/menu.php:687
+#: shortcodes/menu.php:709 shortcodes/menu.php:742
+#: shortcodes/multititle.php:196 shortcodes/multititle.php:222
+#: shortcodes/multititle.php:248 shortcodes/multititle.php:274
+#: shortcodes/multititle.php:300 shortcodes/multititle.php:326
+#: shortcodes/multititle.php:362 shortcodes/multititle.php:388
+#: shortcodes/multititle.php:414 shortcodes/multititle.php:440
+#: shortcodes/multititle.php:466 shortcodes/multititle.php:492
+#: shortcodes/page-title.php:78 shortcodes/page-title.php:115
+#: shortcodes/post-grid.php:302 shortcodes/post-grid.php:315
+#: shortcodes/post-grid.php:329 shortcodes/post-grid.php:343
+#: shortcodes/post-grid.php:357 shortcodes/post-grid.php:371
+#: shortcodes/post-grid.php:557 shortcodes/post-grid.php:570
+#: shortcodes/post-grid.php:584 shortcodes/post-grid.php:598
+#: shortcodes/post-grid.php:612 shortcodes/post-grid.php:626
+#: shortcodes/post-grid.php:824 shortcodes/post-grid.php:838
+#: shortcodes/post-grid.php:852 shortcodes/post-grid.php:866
+#: shortcodes/post-grid.php:880 shortcodes/post-grid.php:894
+#: shortcodes/post-grid.php:1080 shortcodes/post-grid.php:1094
+#: shortcodes/post-grid.php:1108 shortcodes/post-grid.php:1122
+#: shortcodes/post-grid.php:1136 shortcodes/post-grid.php:1150
+#: shortcodes/search.php:95 shortcodes/search.php:118 shortcodes/search.php:141
+#: shortcodes/search.php:164 shortcodes/search.php:187
+#: shortcodes/search.php:211 shortcodes/search.php:233
+#: shortcodes/search.php:256 shortcodes/search.php:278
+#: shortcodes/search.php:300 shortcodes/search.php:339
+#: shortcodes/search.php:361 shortcodes/search.php:384
+#: shortcodes/search.php:406 shortcodes/search.php:428
+#: shortcodes/search.php:452 shortcodes/search.php:474
+#: shortcodes/search.php:497 shortcodes/search.php:519
+#: shortcodes/search.php:541 shortcodes/wpml_selector.php:58
+#: shortcodes/wpml_selector.php:80
+msgid "Display"
+msgstr "Отображение"
+
+#: shortcodes/breadcrumb.php:143 shortcodes/caldera-forms.php:280
+#: shortcodes/contact.php:317 shortcodes/icon-box.php:497
+#: shortcodes/menu.php:773 shortcodes/page-title.php:129
+msgid "Styles for Hover Condition"
+msgstr "Стили при наведении"
+
+#: shortcodes/button.php:19
+msgid "Button Extended"
+msgstr "Расширенная кнопка"
+
+#: shortcodes/button.php:20 shortcodes/image-carousel.php:19
+#: shortcodes/powerful-image.php:20
+msgid " "
+msgstr ""
+
+#: shortcodes/button.php:28 shortcodes/caldera-forms.php:25
+#: shortcodes/contact.php:28 shortcodes/powerful-image.php:73
+msgid "Title"
+msgstr "Заголовок"
+
+#: shortcodes/button.php:30 shortcodes/powerful-image.php:75
+msgid "Add the text that appears on the button."
+msgstr "Добавьте текст отображаемый на кнопке"
+
+#: shortcodes/button.php:36
+msgid "Link"
+msgstr "Cсылка"
+
+#: shortcodes/button.php:38
+msgid ""
+"Add your relative URL. Each URL contains link, anchor text and target "
+"attributes."
+msgstr ""
+"Добавьте свой относительный URL. Каждый URL содержит ссылку, якорный текст и "
+"атрибуты."
+
+#: shortcodes/button.php:43 shortcodes/search.php:56
+msgid "Show Icon?"
+msgstr "Показывать иконку?"
+
+#: shortcodes/button.php:49 shortcodes/icon-box.php:50
+#: shortcodes/icon-box.php:129 shortcodes/menu.php:2659
+#: shortcodes/menu.php:2684 shortcodes/search.php:62 shortcodes/template.php:48
+msgid "Icon"
+msgstr "Иконка"
+
+#: shortcodes/button.php:52 shortcodes/search.php:65
+msgid "Select icon for button"
+msgstr "Выбрать значок для кнопки"
+
+#: shortcodes/button.php:61
+#, fuzzy
+#| msgid "Icon Position"
+msgid "Icon position"
+msgstr "Расположение иконки"
+
+#: shortcodes/button.php:65
+msgid " Left"
+msgstr " Слева"
+
+#: shortcodes/button.php:66
+msgid " Right"
+msgstr " Справа"
+
+#: shortcodes/button.php:76
+msgid "Popup Window"
+msgstr "Всплывающее окно"
+
+#: shortcodes/button.php:80
+#, fuzzy
+#| msgid "None"
+msgid " None"
+msgstr "Нет"
+
+#: shortcodes/button.php:81
+msgid " YouTube Video"
+msgstr "Видео с YouTube"
+
+#: shortcodes/button.php:82
+msgid " Vimeo Video"
+msgstr "видео Vimeo"
+
+#: shortcodes/button.php:83
+msgid " Google Map"
+msgstr "Карта Google"
+
+#: shortcodes/button.php:84
+#, fuzzy
+#| msgid "Image"
+msgid " Image"
+msgstr "Изображение"
+
+#: shortcodes/button.php:89 shortcodes/icon-box.php:51
+#: shortcodes/icon-box.php:130 shortcodes/powerful-image.php:28
+#: shortcodes/template.php:49
+msgid "Image"
+msgstr "Изображение"
+
+#: shortcodes/button.php:91 shortcodes/powerful-image.php:30
+msgid "Image for showing in block."
+msgstr ""
+
+#: shortcodes/button.php:99
+msgid "On Click"
+msgstr "По клику"
+
+#: shortcodes/button.php:101
+msgid "Content of on click attribute for element."
+msgstr "Контент атрибута on.click"
+
+#: shortcodes/button.php:106 shortcodes/search.php:49
+msgid " Button extra class"
+msgstr "Дополнительный класс кнопки"
+
+#: shortcodes/button.php:108 shortcodes/search.php:51
+msgid " Add class name for a tag."
+msgstr "Добавьте имя класса для тега."
+
+#: shortcodes/button.php:112 shortcodes/image-carousel.php:207
+#, fuzzy
+#| msgid "Extra Class Name"
+msgid "Wrapper class name"
+msgstr "Имя дополнительного класса"
+
+#: shortcodes/button.php:114 shortcodes/image-carousel.php:209
+msgid "Custom class for wrapper of the shortcode widget."
+msgstr "Пользовательский класс для оболочки виджетов."
+
+#: shortcodes/button.php:120 shortcodes/powerful-image.php:83
+msgid "css"
+msgstr ""
+
+#: shortcodes/button.php:198 shortcodes/powerful-image.php:162
+msgid "Hover CSS"
+msgstr "При наведении"
+
+#: shortcodes/caldera-forms.php:15
+msgid "Caldera Form"
+msgstr "Caldera Form"
+
+#: shortcodes/caldera-forms.php:16 shortcodes/contact.php:19
+msgid ""
+"It displays contact forms with unlimited design templates and colors from "
+"Contact Form 7 plugin"
+msgstr ""
+"Отображает формы обратной связи с неограниченными шаблонами дизайна и "
+"цветами из плагина Contact Form 7"
+
+#: shortcodes/caldera-forms.php:31 shortcodes/contact.php:34
+msgid "Select Contact Form"
+msgstr "Выберите форму обратной связи"
+
+#: shortcodes/caldera-forms.php:34 shortcodes/contact.php:37
+msgid "Choose previously created contact form from the drop down list."
+msgstr "Выберите ранее созданную форму обратной связи из выпадающего списка."
+
+#: shortcodes/caldera-forms.php:38 shortcodes/contact.php:41
+#: shortcodes/tables.php:51
+msgid "Extra Class"
+msgstr "Дополнительный класс"
+
+#: shortcodes/caldera-forms.php:73 shortcodes/caldera-forms.php:85
+#: shortcodes/caldera-forms.php:100 shortcodes/caldera-forms.php:116
+#: shortcodes/caldera-forms.php:180 shortcodes/caldera-forms.php:193
+#: shortcodes/caldera-forms.php:207 shortcodes/caldera-forms.php:223
+#: shortcodes/caldera-forms.php:300 shortcodes/caldera-forms.php:312
+#: shortcodes/caldera-forms.php:326 shortcodes/caldera-forms.php:342
+#: shortcodes/caldera-forms.php:406 shortcodes/caldera-forms.php:418
+#: shortcodes/caldera-forms.php:432 shortcodes/caldera-forms.php:448
+#: shortcodes/caldera-forms.php:512 shortcodes/caldera-forms.php:528
+#: shortcodes/caldera-forms.php:577 shortcodes/caldera-forms.php:593
+#: shortcodes/contact.php:76 shortcodes/contact.php:88
+#: shortcodes/contact.php:103 shortcodes/contact.php:119
+#: shortcodes/contact.php:136 shortcodes/contact.php:200
+#: shortcodes/contact.php:213 shortcodes/contact.php:227
+#: shortcodes/contact.php:243 shortcodes/contact.php:260
+#: shortcodes/contact.php:337 shortcodes/contact.php:349
+#: shortcodes/contact.php:363 shortcodes/contact.php:379
+#: shortcodes/contact.php:396 shortcodes/contact.php:460
+#: shortcodes/contact.php:472 shortcodes/contact.php:486
+#: shortcodes/contact.php:502 shortcodes/contact.php:519
+#: shortcodes/contact.php:583 shortcodes/contact.php:599
+#: shortcodes/contact.php:616 shortcodes/contact.php:665
+#: shortcodes/contact.php:681 shortcodes/contact.php:698
+#: shortcodes/image-carousel.php:236 shortcodes/image-carousel.php:247
+#: shortcodes/image-carousel.php:262 shortcodes/image-carousel.php:280
+#: shortcodes/image-carousel.php:309 shortcodes/image-carousel.php:320
+#: shortcodes/image-carousel.php:335 shortcodes/image-carousel.php:353
+#: shortcodes/menu.php:2431 shortcodes/menu.php:2839 shortcodes/menu.php:2914
+#: shortcodes/tables.php:74 shortcodes/tables.php:86 shortcodes/tables.php:99
+#: shortcodes/tables.php:106 shortcodes/tables.php:112
+#: shortcodes/tables.php:123 shortcodes/tables.php:146
+#: shortcodes/tables.php:158 shortcodes/tables.php:171
+#: shortcodes/tables.php:178 shortcodes/tables.php:184
+#: shortcodes/tables.php:194
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: shortcodes/caldera-forms.php:499 shortcodes/caldera-forms.php:502
+#: shortcodes/contact.php:570 shortcodes/contact.php:573
+msgid "focus"
+msgstr "фокус"
+
+#: shortcodes/caldera-forms.php:506 shortcodes/contact.php:577
+msgid "Styles for focus Condition"
+msgstr "Стили при фокусе"
+
+#: shortcodes/caldera-forms.php:668
+#, fuzzy
+#| msgid "Please select one of contact form 7 for display."
+msgid "Please select one of Caldera form for display."
+msgstr "Выберите одну форму обратной связи для отображения"
+
+#: shortcodes/caldera-forms.php:680
+#, fuzzy
+#| msgid "Select Contact Form"
+msgid "Select Caldera Form"
+msgstr "Выберите форму обратной связи"
+
+#: shortcodes/caldera-forms.php:686
+msgid "No contact forms found"
+msgstr "Контактных форм не найдено"
+
+#: shortcodes/contact.php:18
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: shortcodes/contact.php:782
+msgid "Please select one of contact form 7 for display."
+msgstr "Выберите одну форму обратной связи для отображения"
+
+#: shortcodes/divider.php:18
+msgid "Divider Icon"
+msgstr "Разделитель иконкой"
+
+#: shortcodes/divider.php:19
+msgid "It displays divider with SVG icon"
+msgstr "Он отображает разделитель с SVG иконкой"
+
+#: shortcodes/divider.php:28
+msgid "Pick Icon for the divider"
+msgstr "Иконка для разделителя"
+
+#: shortcodes/divider.php:58 shortcodes/divider.php:81
+msgid "Field Description"
+msgstr "Описание поля"
+
+#: shortcodes/icon-box.php:17 shortcodes/template.php:17
+msgid "Icon Box"
+msgstr "Иконочный блок"
+
+#: shortcodes/icon-box.php:18 shortcodes/template.php:18
+msgid "It displays icon box with unlimited design templates and colors"
+msgstr "Отображает иконку с неограниченными шаблонами дизайна и цветами"
+
+#: shortcodes/icon-box.php:47 shortcodes/template.php:45
+msgid "Icon Type"
+msgstr "Тип иконки"
+
+#: shortcodes/icon-box.php:52 shortcodes/template.php:50
+msgid "Text"
+msgstr "Текст"
+
+#: shortcodes/icon-box.php:55 shortcodes/template.php:53
+msgid "Pick what to display: icon, image or text"
+msgstr "Выберите, что отображать: значок, изображение или текст."
+
+#: shortcodes/icon-box.php:70 shortcodes/icon-box.php:149
+msgid "Select Image Icon"
+msgstr "Выберите изображение"
+
+#: shortcodes/icon-box.php:80 shortcodes/icon-box.php:159
+msgid "Text Instead Of Icon"
+msgstr "Текст вместо иконки"
+
+#: shortcodes/icon-box.php:91 shortcodes/icon-box.php:170
+msgid "Size in px"
+msgstr "Размер в пикселях"
+
+#: shortcodes/icon-box.php:105
+msgid "Is Icon Link?"
+msgstr "Cсылка Иконкой?"
+
+#: shortcodes/icon-box.php:108 shortcodes/icon-box.php:196
+#: shortcodes/menu.php:88 shortcodes/post-grid.php:119
+msgid "Yes"
+msgstr "Да"
+
+#: shortcodes/icon-box.php:109 shortcodes/icon-box.php:197
+#: shortcodes/menu.php:89
+msgid "No"
+msgstr "Нет"
+
+#: shortcodes/icon-box.php:115
+msgid "Icon Link"
+msgstr "Cсылка Иконкой?"
+
+#: shortcodes/icon-box.php:126
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: shortcodes/icon-box.php:131
+msgid "Nothing"
+msgstr "Ничего"
+
+#: shortcodes/icon-box.php:134
+msgid "Pick what to display under icon: icon, image or nothing"
+msgstr "Выберите, что отображать под иконкой: значок, изображение или ничего"
+
+#: shortcodes/icon-box.php:185
+msgid "Icon Box Title"
+msgstr "Заголовок блока с иконкой"
+
+#: shortcodes/icon-box.php:187 shortcodes/icon-box.php:223
+msgid "Title of the progress bar. Leave blank if no title is needed."
+msgstr ""
+"Заголовок индикатора выполнения. Оставьте поле пустым, если заголовок не "
+"нужен."
+
+#: shortcodes/icon-box.php:193
+msgid "Is The Title a Link?"
+msgstr "Является ли Заголовок ссылкой?"
+
+#: shortcodes/icon-box.php:203
+msgid "Title Link"
+msgstr "Ссылка заголовка"
+
+#: shortcodes/icon-box.php:213
+msgid "Icon Box Subtitle"
+msgstr "Подзаголовок блока с иконкой"
+
+#: shortcodes/icon-box.php:215
+msgid "Subtitle of the progress bar. Leave blank if no title is needed."
+msgstr ""
+"Подзаголовок индикатора выполнения. Оставьте поле пустым, если заголовок не "
+"нужен."
+
+#: shortcodes/icon-box.php:217
+msgid "Subtitle Goes Here"
+msgstr "Подзаголовок будет здесь"
+
+#: shortcodes/icon-box.php:221
+msgid "Icon Box Description"
+msgstr "Описание блока с иконкой"
+
+#: shortcodes/icon-box.php:224
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy "
+"nibh euismod tincidunt ut laoreet"
+msgstr ""
+"Косметическая промышленность Таиланда активно использует растительное "
+"богатство страны и одним из самых полезных и недорогих компонентов является "
+"кокосовое масло."
+
+#: shortcodes/icon-box.php:228
+msgid "Read More Text"
+msgstr "Читать далее - текст"
+
+#: shortcodes/icon-box.php:235
+msgid "Read More URL"
+msgstr "Ссылка Читать далее"
+
+#: shortcodes/image-carousel.php:18
+msgid "SecretLab Image Carousel"
+msgstr "Карусель изображений"
+
+#: shortcodes/image-carousel.php:28
+msgid "Images"
+msgstr "Изображения"
+
+#: shortcodes/image-carousel.php:30
+msgid "Select images from media library."
+msgstr "Выберите изображения из медиатеки."
+
+#: shortcodes/image-carousel.php:35 shortcodes/powerful-image.php:34
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: shortcodes/image-carousel.php:37 shortcodes/powerful-image.php:36
+msgid "Set the image size."
+msgstr "Установить размер изображения"
+
+#: shortcodes/image-carousel.php:43 shortcodes/powerful-image.php:42
+msgid "Onclick event"
+msgstr "Событие по клику"
+
+#: shortcodes/image-carousel.php:46 shortcodes/menu.php:2601
+msgid "None"
+msgstr "Нет"
+
+#: shortcodes/image-carousel.php:47
+msgid "Open on lightbox"
+msgstr "Открыть во всплывающем окне"
+
+#: shortcodes/image-carousel.php:48
+msgid "Open custom links"
+msgstr "Открыть заданные ссылки"
+
+#: shortcodes/image-carousel.php:50 shortcodes/powerful-image.php:49
+msgid "Select the click event when users click on an image."
+msgstr "Выберите событие, когда пользователи нажимают на изображение."
+
+#: shortcodes/image-carousel.php:54
+msgid "Items per slide"
+msgstr "Элементы в слайде"
+
+#: shortcodes/image-carousel.php:56
+msgid ""
+"The number of items displayed per slide (not apply for autoheight). Default "
+"is 3 items and 1 item on mobile."
+msgstr ""
+"Количество элементов, отображаемых для слайда (не применяется для "
+"автоматического сохранения). Значение по умолчанию - 3 элемента и 1 элемент "
+"на мобильном устройстве."
+
+#: shortcodes/image-carousel.php:67
+msgid "Items On Tablet?"
+msgstr "Элементов на планшете"
+
+#: shortcodes/image-carousel.php:75
+msgid "Display number of items per each slide (Tablet Screen)"
+msgstr "Количество элементов для каждого слайда (планшет)"
+
+#: shortcodes/image-carousel.php:80
+msgid "Items On Smartphone?"
+msgstr "Элементов на телефоне"
+
+#: shortcodes/image-carousel.php:88
+msgid "Display number of items per each slide (Mobile Screen)"
+msgstr "Количество элементов для каждого слайда (телефон)"
+
+#: shortcodes/image-carousel.php:93
+msgid "Speed"
+msgstr "Скорость"
+
+#: shortcodes/image-carousel.php:95
+msgid ""
+"Set the speed at which auto playing sliders will transition (in second)."
+msgstr "Установите скорость, изменения слайдов."
+
+#: shortcodes/image-carousel.php:106
+msgid "Custom links"
+msgstr "Пользовательские ссылки"
+
+#: shortcodes/image-carousel.php:108
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+"Введите ссылки для каждого слайда (Примечание: разделите ссылки на строки "
+"(Enter))."
+
+#: shortcodes/image-carousel.php:116
+msgid "Custom link target"
+msgstr "Открыть ссылку в"
+
+#: shortcodes/image-carousel.php:118
+msgid "Select how to open custom links."
+msgstr "Способ открытия пользовательских ссылок."
+
+#: shortcodes/image-carousel.php:120
+msgid "Same window"
+msgstr "То же окно или вкладка"
+
+#: shortcodes/image-carousel.php:121
+msgid "New window"
+msgstr "Новое окно или вкладка"
+
+#: shortcodes/image-carousel.php:130
+msgid "Navigation"
+msgstr "Навигации"
+
+#: shortcodes/image-carousel.php:132
+msgid "Display the \"Next\" and \"Prev\" buttons."
+msgstr "Отобразите кнопки навигации."
+
+#: shortcodes/image-carousel.php:136
+msgid "Pagination"
+msgstr "Пагинация"
+
+#: shortcodes/image-carousel.php:138
+#, fuzzy
+#| msgid "Show Pagination"
+msgid "Show the pagination."
+msgstr "Отображать пагинацию"
+
+#: shortcodes/image-carousel.php:143
+msgid "Auto height"
+msgstr "Авто высота"
+
+#: shortcodes/image-carousel.php:145
+msgid ""
+"Add height to div \"owl-wrapper-outer\" so you can use diffrent heights on "
+"slides. Use it only for one item per page setting."
+msgstr ""
+"Добавьте высоту, чтобы вы могли использовать разные высоты слайдов. "
+"Используйте его только для одного элемента на странице."
+
+#: shortcodes/image-carousel.php:149
+msgid "Auto Play"
+msgstr "Автовоспроизведение"
+
+#: shortcodes/image-carousel.php:151
+msgid "The carousel automatically plays when site loaded."
+msgstr "Автоматическое переключение слайдов после загрузки сайта."
+
+#: shortcodes/image-carousel.php:156
+msgid "Time delay"
+msgstr "Время задержки"
+
+#: shortcodes/image-carousel.php:158
+msgid "The delay time before moving on to a new slide"
+msgstr "Время задержки перед переключением на новый слайд"
+
+#: shortcodes/image-carousel.php:172
+msgid "Progress Bar"
+msgstr "Панель прогресса"
+
+#: shortcodes/image-carousel.php:174
+msgid "Visualize the progression of displaying photos."
+msgstr "Визуализация прогресса отображения фотографий."
+
+#: shortcodes/image-carousel.php:178
+msgid "Show thumbnail"
+msgstr "Отображать миниатюру"
+
+#: shortcodes/image-carousel.php:180
+msgid "Show the thumbnails in carousel."
+msgstr "Отображать уменьшенные изображения "
+
+#: shortcodes/image-carousel.php:184
+msgid "Number Thumbnail View"
+msgstr "Количество миниатюр"
+
+#: shortcodes/image-carousel.php:186
+msgid "The number of images show in thumbnail view"
+msgstr "Количество отображаемых миниатюр"
+
+#: shortcodes/image-carousel.php:200
+msgid "Images Alt Text"
+msgstr "Alt текст изображений"
+
+#: shortcodes/image-carousel.php:202
+msgid "Display the text into image tag."
+msgstr "Отображение текста из тега изображения."
+
+#: shortcodes/image-carousel.php:254 shortcodes/image-carousel.php:327
+msgid "Opacity (Active)"
+msgstr "Прозрачность (Активного)"
+
+#: shortcodes/image-carousel.php:257 shortcodes/image-carousel.php:330
+msgid "Border (Active)"
+msgstr "Рамка (Активного)"
+
+#: shortcodes/image-carousel.php:258 shortcodes/image-carousel.php:331
+msgid "Border Radius (Active)"
+msgstr "Радиус углов (Активного)"
+
+#: shortcodes/image-carousel.php:259 shortcodes/image-carousel.php:332
+#, fuzzy
+#| msgid "Display thumbnails of post in post items."
+msgid "Display Thumbnails Pagination"
+msgstr "Отображать миниатюры публикации."
+
+#: shortcodes/image-carousel.php:266 shortcodes/image-carousel.php:339
+msgid "Color (Active)"
+msgstr "Цвет (Активного)"
+
+#: shortcodes/image-carousel.php:277 shortcodes/image-carousel.php:350
+msgid "Color on hover"
+msgstr "Цвет (при наведении)"
+
+#: shortcodes/image-carousel.php:281 shortcodes/image-carousel.php:354
+msgid "Background Color on hover"
+msgstr "Цвет фона (при наведении)"
+
+#: shortcodes/image-carousel.php:284 shortcodes/image-carousel.php:357
+msgid "Top"
+msgstr "Сверху"
+
+#: shortcodes/image-carousel.php:285 shortcodes/image-carousel.php:358
+msgid "Left Button Position"
+msgstr "Расположение левой кнопки"
+
+#: shortcodes/image-carousel.php:286 shortcodes/image-carousel.php:359
+msgid "Right Button Position"
+msgstr "Расположение правой кнопки"
+
+#: shortcodes/image-carousel.php:410
+msgid "No images upload"
+msgstr "Нет изображений"
+
+#: shortcodes/layer-slider.php:20
+msgid ""
+"The Theme Support Layer Slider, but couldn't find it. Install the plugin to "
+"choose the slider to display."
+msgstr ""
+"Тема поддерживает Layer Slider, но не смогла найти его. Установите плагин, "
+"чтобы выбрать слайдер для отображения."
+
+#: shortcodes/layer-slider.php:35
+msgid "Layer Slider"
+msgstr "Layer Slider"
+
+#: shortcodes/layer-slider.php:36
+msgid "It displays slider from Layer Slider plugin"
+msgstr "Отображает слайдер из плагина Layer Slider"
+
+#: shortcodes/layer-slider.php:45 shortcodes/rev-slider.php:48
+msgid "Slider"
+msgstr "Слайдер"
+
+#: shortcodes/layer-slider.php:49 shortcodes/rev-slider.php:52
+msgid "Pick slider to display"
+msgstr "Выберите слайдер для отображения"
+
+#: shortcodes/mailchimp.php:27
+msgid ""
+"The Theme support Easy Forms for MailChimp plugin, but couldn't find forms. "
+"Install the plugin to choose the form to display."
+msgstr ""
+"Тема поддерживает Easy Forms для плагина MailChimp, но не может найти формы. "
+"Установите плагин, чтобы выбрать форму для отображения."
+
+#: shortcodes/mailchimp.php:46
+msgid "MailChimp Forms"
+msgstr "Формы MailChimp"
+
+#: shortcodes/mailchimp.php:47
+msgid "It displays forms from Easy Forms for MailChimp plugin"
+msgstr "Отображает формы из Easy Forms для плагина MailChimp"
+
+#: shortcodes/mailchimp.php:56
+msgid "Select a subscription form"
+msgstr "Выберите форму подписки"
+
+#: shortcodes/mailchimp.php:60
+msgid "Pick form to display"
+msgstr "Выберите форму для отображения"
+
+#: shortcodes/mailchimp.php:78 shortcodes/mailchimp.php:164
+#: shortcodes/mailchimp.php:266 shortcodes/menu.php:207 shortcodes/menu.php:350
+#: shortcodes/menu.php:360 shortcodes/menu.php:493 shortcodes/menu.php:630
+#: shortcodes/search.php:96 shortcodes/search.php:119 shortcodes/search.php:142
+#: shortcodes/search.php:165 shortcodes/search.php:234
+#: shortcodes/search.php:362 shortcodes/search.php:475
+msgid "Position left/right"
+msgstr "Расположение слева/справа"
+
+#: shortcodes/menu.php:21 shortcodes/menu.php:30
+msgid "Menu"
+msgstr "Меню"
+
+#: shortcodes/menu.php:22
+msgid "It display menu"
+msgstr "Отображает меню"
+
+#: shortcodes/menu.php:34
+msgid "Menu to display"
+msgstr "Отображать меню"
+
+#: shortcodes/menu.php:38
+msgid "Menu Depth"
+msgstr "Уровни Меню"
+
+#: shortcodes/menu.php:46
+msgid "Choose depth of submenu"
+msgstr "Выберите глубину меню"
+
+#: shortcodes/menu.php:50
+msgid "Animation Type"
+msgstr "Тип анимации"
+
+#: shortcodes/menu.php:53
+msgid "Fade"
+msgstr "Выпадение"
+
+#: shortcodes/menu.php:54
+msgid "Flip"
+msgstr "Поворот"
+
+#: shortcodes/menu.php:55
+msgid "Scale"
+msgstr "Масштабир."
+
+#: shortcodes/menu.php:56
+msgid "Slide"
+msgstr "Выезжание"
+
+#: shortcodes/menu.php:59
+msgid "Choose animation of submenu"
+msgstr "Выберите анимацию подменю"
+
+#: shortcodes/menu.php:63
+msgid "Select Icon for First lvl"
+msgstr "Выберите значок первого вып. ур. меню"
+
+#: shortcodes/menu.php:74
+msgid "Select Icon for Second lvl"
+msgstr "Выберите значок второго вып. ур. меню"
+
+#: shortcodes/menu.php:85
+msgid "Use mobile menu"
+msgstr "Использовать мобильное меню"
+
+#: shortcodes/menu.php:92
+msgid "Hide menu on mobile"
+msgstr "Скрыть меню на мобильных устройствах"
+
+#: shortcodes/menu.php:96
+#, fuzzy
+#| msgid "Text Color of mobile menu button"
+msgid "Text for mobile button"
+msgstr "Цвет текста кнопки мобильного меню"
+
+#: shortcodes/menu.php:107
+msgid "Select Icon for Mobile Menu (open)"
+msgstr "Выберите значок для мобильн. меню (открыть)"
+
+#: shortcodes/menu.php:118
+msgid "Select Icon for Mobile Menu (close)"
+msgstr "Выберите значок для мобильн. меню (закрыть)"
+
+#: shortcodes/menu.php:129
+msgid "Menu Box ID"
+msgstr "ID для Меню"
+
+#: shortcodes/menu.php:135
+msgid "\"Cart Totals\" text"
+msgstr "\"Всего в корзине\" текст"
+
+#: shortcodes/menu.php:138
+msgid "Cart Totals"
+msgstr "Товаров в корзине"
+
+#: shortcodes/menu.php:142
+msgid "\"Go to cart\" text"
+msgstr "Текст «Перейти в корзину»"
+
+#: shortcodes/menu.php:145
+msgid "Go to cart"
+msgstr "Перейти в корзину"
+
+#: shortcodes/menu.php:149
+msgid "\"Total\" text"
+msgstr "«Всего» текст"
+
+#: shortcodes/menu.php:152
+msgid "Total"
+msgstr "Всего"
+
+#: shortcodes/menu.php:156
+msgid "\"Empty cart\" text"
+msgstr "\"Пустая корзина\" текст"
+
+#: shortcodes/menu.php:159
+msgid "Empty cart"
+msgstr "\"Пустая корзина"
+
+#: shortcodes/menu.php:163
+msgid "\"Item\" text"
+msgstr "\"Товар\" текст"
+
+#: shortcodes/menu.php:166
+msgid "Item"
+msgstr "Товар"
+
+#: shortcodes/menu.php:170
+msgid "\"Items\" text"
+msgstr "\"Товары\" текст "
+
+#: shortcodes/menu.php:173
+msgid "Items"
+msgstr "Товары"
+
+#: shortcodes/menu.php:189
+msgid "Position of mobile menu button (left/right)"
+msgstr "Расположение кнопки мобильного меню (слева/справа)"
+
+#: shortcodes/menu.php:191
+msgid "Font Size of text for mobile menu button"
+msgstr "Размер шрифта кнопки мобильного меню"
+
+#: shortcodes/menu.php:192
+msgid "Line Height of text for mobile menu button"
+msgstr "Высота отступа строчек текста кнопки мобильного меню"
+
+#: shortcodes/menu.php:193
+#, fuzzy
+#| msgid "Text Color of mobile menu button"
+msgid "Color of text for mobile menu button"
+msgstr "Цвет текста кнопки мобильного меню"
+
+#: shortcodes/menu.php:194
+msgid "Font Family of text for mobile menu button"
+msgstr "Шрифт текста кнопки мобильного меню"
+
+#: shortcodes/menu.php:195
+msgid "Font Weight of text for mobile menu button"
+msgstr "Толщина шрифта кнопки мобильного меню"
+
+#: shortcodes/menu.php:196
+msgid "Font Style of text for mobile menu button"
+msgstr "Стиль шрифта кнопки мобильного меню"
+
+#: shortcodes/menu.php:197
+msgid "Text Transform of text for mobile menu button"
+msgstr "Регистр текста кнопки мобильного меню"
+
+#: shortcodes/menu.php:198
+msgid "Text Decoration of text for mobile menu button"
+msgstr "Стиль текста кнопки мобильного меню"
+
+#: shortcodes/menu.php:199
+msgid "Margin of text for mobile menu button"
+msgstr "Отступ текста кнопки мобильного меню"
+
+#: shortcodes/menu.php:200 shortcodes/menu.php:779
+msgid "Text Color of mobile menu button"
+msgstr "Цвет текста кнопки мобильного меню"
+
+#: shortcodes/menu.php:201 shortcodes/menu.php:780
+msgid "Border of mobile menu button"
+msgstr "Рамка кнопки мобильного меню"
+
+#: shortcodes/menu.php:202 shortcodes/menu.php:781
+msgid "Border Radius of mobile menu button"
+msgstr "Радиус гран. кнопки мобильного меню"
+
+#: shortcodes/menu.php:221 shortcodes/menu.php:364 shortcodes/menu.php:436
+#: shortcodes/menu.php:508 shortcodes/menu.php:644 shortcodes/menu.php:714
+#: shortcodes/menu.php:786 shortcodes/menu.php:869 shortcodes/menu.php:918
+#: shortcodes/menu.php:956 shortcodes/menu.php:1039 shortcodes/menu.php:1088
+msgid "Background for active item"
+msgstr "Фон для активного элемента."
+
+#: shortcodes/menu.php:233 shortcodes/menu.php:251 shortcodes/menu.php:266
+#: shortcodes/menu.php:376 shortcodes/menu.php:394 shortcodes/menu.php:408
+#: shortcodes/menu.php:447 shortcodes/menu.php:465 shortcodes/menu.php:520
+#: shortcodes/menu.php:536 shortcodes/menu.php:550 shortcodes/menu.php:656
+#: shortcodes/menu.php:672 shortcodes/menu.php:686 shortcodes/menu.php:725
+#: shortcodes/menu.php:741 shortcodes/menu.php:793 shortcodes/menu.php:809
+#: shortcodes/menu.php:819 shortcodes/menu.php:876 shortcodes/menu.php:892
+#: shortcodes/menu.php:903 shortcodes/menu.php:925 shortcodes/menu.php:941
+#: shortcodes/menu.php:963 shortcodes/menu.php:979 shortcodes/menu.php:989
+#: shortcodes/menu.php:1046 shortcodes/menu.php:1062 shortcodes/menu.php:1073
+#: shortcodes/menu.php:1095 shortcodes/menu.php:1111
+msgid "Color on Active"
+msgstr "Цвет текста при наведении"
+
+#: shortcodes/menu.php:239 shortcodes/menu.php:256 shortcodes/menu.php:270
+#: shortcodes/menu.php:382 shortcodes/menu.php:398 shortcodes/menu.php:412
+#: shortcodes/menu.php:453 shortcodes/menu.php:469 shortcodes/menu.php:524
+#: shortcodes/menu.php:540 shortcodes/menu.php:554 shortcodes/menu.php:660
+#: shortcodes/menu.php:676 shortcodes/menu.php:690 shortcodes/menu.php:729
+#: shortcodes/menu.php:745 shortcodes/menu.php:798 shortcodes/menu.php:810
+#: shortcodes/menu.php:820 shortcodes/menu.php:881 shortcodes/menu.php:893
+#: shortcodes/menu.php:904 shortcodes/menu.php:930 shortcodes/menu.php:942
+#: shortcodes/menu.php:968 shortcodes/menu.php:980 shortcodes/menu.php:990
+#: shortcodes/menu.php:1051 shortcodes/menu.php:1063 shortcodes/menu.php:1074
+#: shortcodes/menu.php:1100 shortcodes/menu.php:1112
+msgid "Background"
+msgstr "Фон"
+
+#: shortcodes/menu.php:240 shortcodes/menu.php:257 shortcodes/menu.php:271
+#: shortcodes/menu.php:383 shortcodes/menu.php:399 shortcodes/menu.php:413
+#: shortcodes/menu.php:454 shortcodes/menu.php:470 shortcodes/menu.php:525
+#: shortcodes/menu.php:541 shortcodes/menu.php:555 shortcodes/menu.php:661
+#: shortcodes/menu.php:677 shortcodes/menu.php:691 shortcodes/menu.php:730
+#: shortcodes/menu.php:746 shortcodes/menu.php:799 shortcodes/menu.php:811
+#: shortcodes/menu.php:821 shortcodes/menu.php:882 shortcodes/menu.php:894
+#: shortcodes/menu.php:905 shortcodes/menu.php:931 shortcodes/menu.php:943
+#: shortcodes/menu.php:969 shortcodes/menu.php:981 shortcodes/menu.php:991
+#: shortcodes/menu.php:1052 shortcodes/menu.php:1064 shortcodes/menu.php:1075
+#: shortcodes/menu.php:1101 shortcodes/menu.php:1113
+msgid "Background on Active"
+msgstr "Фон активного пункта"
+
+#: shortcodes/menu.php:248 shortcodes/menu.php:391 shortcodes/menu.php:462
+#: shortcodes/menu.php:533 shortcodes/menu.php:669 shortcodes/menu.php:738
+#: shortcodes/menu.php:806 shortcodes/menu.php:889 shortcodes/menu.php:938
+#: shortcodes/menu.php:976 shortcodes/menu.php:1059 shortcodes/menu.php:1108
+msgid "Image Height"
+msgstr "Высота изображения"
+
+#: shortcodes/menu.php:249 shortcodes/menu.php:392 shortcodes/menu.php:463
+#: shortcodes/menu.php:534 shortcodes/menu.php:670 shortcodes/menu.php:739
+#: shortcodes/menu.php:807 shortcodes/menu.php:890 shortcodes/menu.php:939
+#: shortcodes/menu.php:977 shortcodes/menu.php:1060 shortcodes/menu.php:1109
+msgid "Image Width"
+msgstr "Ширина изображения"
+
+#: shortcodes/menu.php:282 shortcodes/menu.php:310
+msgid "Icon Display"
+msgstr "Отображать иконку"
+
+#: shortcodes/menu.php:283 shortcodes/menu.php:311
+msgid "Icon Float"
+msgstr "Размещение иконки"
+
+#: shortcodes/menu.php:284 shortcodes/menu.php:312 shortcodes/menu.php:567
+#: shortcodes/menu.php:594 shortcodes/menu.php:830 shortcodes/menu.php:847
+#: shortcodes/menu.php:1000 shortcodes/menu.php:1017
+msgid "Icon Background"
+msgstr "Фон иконки"
+
+#: shortcodes/menu.php:285 shortcodes/menu.php:313 shortcodes/menu.php:568
+#: shortcodes/menu.php:595 shortcodes/menu.php:831 shortcodes/menu.php:848
+#: shortcodes/menu.php:1001 shortcodes/menu.php:1018
+msgid "Icon Border"
+msgstr "Рамка иконки"
+
+#: shortcodes/menu.php:286 shortcodes/menu.php:314 shortcodes/menu.php:569
+#: shortcodes/menu.php:596 shortcodes/menu.php:832 shortcodes/menu.php:849
+#: shortcodes/menu.php:1002 shortcodes/menu.php:1019
+msgid "Icon Border Radius"
+msgstr "Радиус углов рамки иконки"
+
+#: shortcodes/menu.php:287 shortcodes/menu.php:315 shortcodes/menu.php:570
+#: shortcodes/menu.php:597 shortcodes/menu.php:833 shortcodes/menu.php:850
+#: shortcodes/menu.php:1003 shortcodes/menu.php:1020
+msgid "Icon Padding"
+msgstr "Внутренний отступ иконки"
+
+#: shortcodes/menu.php:288 shortcodes/menu.php:316 shortcodes/menu.php:571
+#: shortcodes/menu.php:598
+msgid "Icon Margin"
+msgstr "Внешний отступ иконки"
+
+#: shortcodes/menu.php:290 shortcodes/menu.php:573 shortcodes/menu.php:835
+#: shortcodes/menu.php:1005
+msgid "Input Font Size"
+msgstr "Размер шрифта поля ввода"
+
+#: shortcodes/menu.php:291 shortcodes/menu.php:574
+msgid "Input Line Height"
+msgstr "Высота строки поля ввода"
+
+#: shortcodes/menu.php:292 shortcodes/menu.php:575
+msgid "Input Width"
+msgstr "Ширина поля ввода"
+
+#: shortcodes/menu.php:293 shortcodes/menu.php:576 shortcodes/menu.php:836
+#: shortcodes/menu.php:1006
+msgid "Input Text Color"
+msgstr "Цвет текста поля ввода"
+
+#: shortcodes/menu.php:294 shortcodes/menu.php:577
+msgid "Input Display"
+msgstr "Отображение поля ввода"
+
+#: shortcodes/menu.php:295 shortcodes/menu.php:578
+msgid "Input Float"
+msgstr "Размещение поля ввода"
+
+#: shortcodes/menu.php:296 shortcodes/menu.php:579 shortcodes/menu.php:837
+#: shortcodes/menu.php:1007
+msgid "Input Background"
+msgstr "Фон поля ввода"
+
+#: shortcodes/menu.php:297 shortcodes/menu.php:580 shortcodes/menu.php:838
+#: shortcodes/menu.php:1008
+msgid "Input Border"
+msgstr "Рамка поля ввода"
+
+#: shortcodes/menu.php:298 shortcodes/menu.php:581 shortcodes/menu.php:839
+#: shortcodes/menu.php:1009
+msgid "Input Border Radius"
+msgstr "Радиус углов поля ввода"
+
+#: shortcodes/menu.php:299 shortcodes/menu.php:582
+msgid "Input Padding"
+msgstr "Внутренний отступ поля ввода"
+
+#: shortcodes/menu.php:300 shortcodes/menu.php:583
+msgid "Input Margin"
+msgstr "Внешний отступ поля ввода"
+
+#: shortcodes/menu.php:302 shortcodes/menu.php:585 shortcodes/menu.php:841
+#: shortcodes/menu.php:1011
+msgid "Color of Close Icon"
+msgstr "Цвет иконки закрытия"
+
+#: shortcodes/menu.php:303 shortcodes/menu.php:586
+msgid "Layout Background"
+msgstr "Фон макета"
+
+#: shortcodes/menu.php:318
+msgid "Money Total Text Color"
+msgstr "\"На сумму\" цвет текста"
+
+#: shortcodes/menu.php:320
+msgid "Cart Font Size"
+msgstr "Размер шрифта корзины"
+
+#: shortcodes/menu.php:321
+msgid "Cart Line Height"
+msgstr "Высота строки корзины"
+
+#: shortcodes/menu.php:322
+msgid "Cart Block Width"
+msgstr "Ширина блока корзины"
+
+#: shortcodes/menu.php:323
+msgid "Cart Text Color"
+msgstr "Цвет текста корзины"
+
+#: shortcodes/menu.php:324
+msgid "Cart Header Text Color"
+msgstr "Цвет текста Заголовка корзины"
+
+#: shortcodes/menu.php:325
+msgid "Cart Block Background"
+msgstr "Фон блока корзины"
+
+#: shortcodes/menu.php:327
+msgid "Cart Block Border"
+msgstr "Рамка блока корзины"
+
+#: shortcodes/menu.php:328
+msgid "Cart Block Border Radius"
+msgstr "Радиус углов блока корзины"
+
+#: shortcodes/menu.php:329
+msgid "Cart Block Padding"
+msgstr "Внутренний отступ блока корзины"
+
+#: shortcodes/menu.php:330
+msgid "Cart Block Margin"
+msgstr "Внешний отступ блока корзины"
+
+#: shortcodes/menu.php:332 shortcodes/menu.php:612
+msgid "Cart Link Font Size"
+msgstr "Размер шрифта ссылки корзины"
+
+#: shortcodes/menu.php:333 shortcodes/menu.php:613
+msgid "Cart Link Line Height"
+msgstr "Высота строки ссылки корзины"
+
+#: shortcodes/menu.php:334 shortcodes/menu.php:614 shortcodes/menu.php:852
+#: shortcodes/menu.php:1022
+msgid "Cart Link Text Color"
+msgstr "Цвет текста ссылки корзины"
+
+#: shortcodes/menu.php:335 shortcodes/menu.php:615
+msgid "Cart Link Font Family"
+msgstr "Семейство шрифта ссылки корзины"
+
+#: shortcodes/menu.php:336 shortcodes/menu.php:616 shortcodes/menu.php:853
+#: shortcodes/menu.php:1023
+msgid "Cart Link Font Weight"
+msgstr "Толщина шрифта ссылки корзины"
+
+#: shortcodes/menu.php:337 shortcodes/menu.php:617
+msgid "Cart Link Font Style"
+msgstr "Стиль шрифта ссылки корзины"
+
+#: shortcodes/menu.php:338 shortcodes/menu.php:618 shortcodes/menu.php:854
+#: shortcodes/menu.php:1024
+msgid "Cart Link Text Transform"
+msgstr "Преобразование текста ссылки корзины"
+
+#: shortcodes/menu.php:339 shortcodes/menu.php:619 shortcodes/menu.php:855
+#: shortcodes/menu.php:1025
+msgid "Cart Link Text Decoration"
+msgstr "Оформление текста ссылки корзины"
+
+#: shortcodes/menu.php:340 shortcodes/menu.php:620 shortcodes/menu.php:856
+#: shortcodes/menu.php:1026
+msgid "Cart Link Background"
+msgstr "Фон ссылки корзины"
+
+#: shortcodes/menu.php:341 shortcodes/menu.php:621 shortcodes/menu.php:857
+#: shortcodes/menu.php:1027
+msgid "Cart Link Border"
+msgstr "Рамка ссылки корзины"
+
+#: shortcodes/menu.php:342 shortcodes/menu.php:622 shortcodes/menu.php:858
+#: shortcodes/menu.php:1028
+msgid "Cart Link Border Radius"
+msgstr "Радиус углов рамки ссылки корзины"
+
+#: shortcodes/menu.php:343 shortcodes/menu.php:623 shortcodes/menu.php:859
+#: shortcodes/menu.php:1029
+msgid "Cart Link Padding"
+msgstr "Внутренний отступ ссылки корзины"
+
+#: shortcodes/menu.php:344 shortcodes/menu.php:624
+msgid "Cart Link Margin"
+msgstr "Внешний отступ ссылки корзины"
+
+#: shortcodes/menu.php:566 shortcodes/menu.php:593
+msgid "Block Float"
+msgstr "Размещение блока"
+
+#: shortcodes/menu.php:600
+msgid "Data Font Size"
+msgstr "Размер шрифта данных"
+
+#: shortcodes/menu.php:601
+msgid "Data Line Height"
+msgstr "Высота строки данных"
+
+#: shortcodes/menu.php:602
+msgid "Data Block Width"
+msgstr "Ширина блока данных"
+
+#: shortcodes/menu.php:603 shortcodes/menu.php:2780 shortcodes/menu.php:2855
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: shortcodes/menu.php:604
+msgid "Header Text Color"
+msgstr "Цвет текста Заголовка"
+
+#: shortcodes/menu.php:605
+msgid "Data Block Background"
+msgstr "Фон блока данных"
+
+#: shortcodes/menu.php:607
+msgid "Data Block Border"
+msgstr "Рамка блока данных"
+
+#: shortcodes/menu.php:608
+msgid "Data Block Border Radius"
+msgstr "Радиус углов блока данных"
+
+#: shortcodes/menu.php:609
+msgid "Data Block Padding"
+msgstr "Внутренний отступ блока данных"
+
+#: shortcodes/menu.php:610
+msgid "Data Block Margin"
+msgstr "Внешний отступ блока данных"
+
+#: shortcodes/menu.php:1446 shortcodes/search.php:45
+msgid "Search"
+msgstr "Поиск"
+
+#: shortcodes/menu.php:1481
+#, php-format
+msgid "<span>%d</span> "
+msgid_plural "<span>%d</span> "
+msgstr[0] "<span>%d</span> "
+msgstr[1] "<span>%d</span> "
+msgstr[2] "<span>%d</span> "
+
+#: shortcodes/menu.php:2125
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (В процессе)"
+
+#: shortcodes/menu.php:2155 shortcodes/menu.php:2157
+msgid "Edit Menu Item"
+msgstr "Редактировать Пункт меню"
+
+#: shortcodes/menu.php:2166
+msgid "URL"
+msgstr "Ссылка"
+
+#: shortcodes/menu.php:2173
+msgid "Navigation Label"
+msgstr "Ярлык навигации"
+
+#: shortcodes/menu.php:2179
+msgid "Title Attribute"
+msgstr "Атрибут названия"
+
+#: shortcodes/menu.php:2185
+msgid "link Target"
+msgstr "Открыть ссылку в"
+
+#: shortcodes/menu.php:2187
+msgid "Same window or tab"
+msgstr "То же окно или вкладка"
+
+#: shortcodes/menu.php:2188
+msgid "New window or tab"
+msgstr "Новое окно или вкладка"
+
+#: shortcodes/menu.php:2194
+msgid "CSS Classes (optional)"
+msgstr "CSS-классы (по желанию)"
+
+#: shortcodes/menu.php:2200
+msgid "link Relationship (XFN)"
+msgstr "Связанные ссылки (XFN)"
+
+#: shortcodes/menu.php:2206
+msgid "Description"
+msgstr "Описание"
+
+#: shortcodes/menu.php:2220
+msgid "Choose the menu type"
+msgstr "Выберите тип меню"
+
+#: shortcodes/menu.php:2236
+msgid "Use as DropDown"
+msgstr "Использовать как выпадающее меню"
+
+#: shortcodes/menu.php:2240
+msgid "Use as Mega Menu"
+msgstr "Использовать как мега-меню"
+
+#: shortcodes/menu.php:2244
+msgid "Use as Search Form"
+msgstr "Использовать как форму поиска"
+
+#: shortcodes/menu.php:2248
+msgid "Use as Woocommerce Cart"
+msgstr "Использовать как корзину Woocommerce"
+
+#: shortcodes/menu.php:2265
+msgid "Submenu Width"
+msgstr "Ширина подменю"
+
+#: shortcodes/menu.php:2280
+msgid "Open Submenu To"
+msgstr "Открывать подменю в"
+
+#: shortcodes/menu.php:2292 shortcodes/menu.php:2403
+msgid "right"
+msgstr "право"
+
+#: shortcodes/menu.php:2293 shortcodes/menu.php:2405
+msgid "left"
+msgstr "лево"
+
+#: shortcodes/menu.php:2304
+msgid "Search Text"
+msgstr "Поиск - текст"
+
+#: shortcodes/menu.php:2328
+msgid "FullWidth"
+msgstr "Во всю ширину"
+
+#: shortcodes/menu.php:2362
+msgid "off"
+msgstr "Выкл."
+
+#: shortcodes/menu.php:2363
+msgid "on"
+msgstr "Вкл."
+
+#: shortcodes/menu.php:2371
+msgid "Container Width"
+msgstr "Ширина контейнера"
+
+#: shortcodes/menu.php:2390
+msgid "Align"
+msgstr "Выравнивание"
+
+#: shortcodes/menu.php:2404
+msgid "center"
+msgstr "По центру"
+
+#: shortcodes/menu.php:2413
+msgid "Column Width"
+msgstr "Ширина колонки"
+
+#: shortcodes/menu.php:2469
+msgid "Background Repeat"
+msgstr "Повторение изображения"
+
+#: shortcodes/menu.php:2482
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: shortcodes/menu.php:2483
+msgid "Repeat All"
+msgstr "Повторить все"
+
+#: shortcodes/menu.php:2484
+msgid "Repeat Horizontally"
+msgstr "Повторять по горизонтали"
+
+#: shortcodes/menu.php:2485
+msgid "Repeat Vertically"
+msgstr "Повторять по вертикали"
+
+#: shortcodes/menu.php:2486
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: shortcodes/menu.php:2494
+msgid "Background Size"
+msgstr "Размер фонового изображения"
+
+#: shortcodes/menu.php:2507
+msgid "Auto"
+msgstr "Авто"
+
+#: shortcodes/menu.php:2508
+msgid "Cover"
+msgstr "Охватить"
+
+#: shortcodes/menu.php:2509
+msgid "Contain"
+msgstr "Вместить"
+
+#: shortcodes/menu.php:2517
+msgid "Background Position"
+msgstr "Расположение фона"
+
+#: shortcodes/menu.php:2530
+msgid "Left Top"
+msgstr "Слева Сверху"
+
+#: shortcodes/menu.php:2531
+msgid "Left Center"
+msgstr "Слева По Центру"
+
+#: shortcodes/menu.php:2532
+msgid "Left Bottom"
+msgstr "Слева Снизу"
+
+#: shortcodes/menu.php:2533
+msgid "Center Top"
+msgstr "По Центру Сверху"
+
+#: shortcodes/menu.php:2534
+msgid "Center Center"
+msgstr "По Центру"
+
+#: shortcodes/menu.php:2535
+msgid "Center Bottom"
+msgstr "По Центру Снизу"
+
+#: shortcodes/menu.php:2536
+msgid "Right Top"
+msgstr "Справа Сверху"
+
+#: shortcodes/menu.php:2537
+msgid "Right Center"
+msgstr "Справа По Центру"
+
+#: shortcodes/menu.php:2538
+msgid "Right Bottom"
+msgstr "Справа Снизу"
+
+#: shortcodes/menu.php:2552
+msgid "Link & Icon Settings"
+msgstr "Настройки ссылки и иконки"
+
+#: shortcodes/menu.php:2564
+msgid "Show link when user"
+msgstr "Отображать пользователям"
+
+#: shortcodes/menu.php:2576
+msgid "Both Logged in/out"
+msgstr "Всем"
+
+#: shortcodes/menu.php:2577
+msgid "Logged in"
+msgstr "Авторизованным"
+
+#: shortcodes/menu.php:2578
+msgid "Logged out"
+msgstr "Не Авторизованным"
+
+#: shortcodes/menu.php:2586
+msgid "Show link as"
+msgstr "Отображать ссылку как"
+
+#: shortcodes/menu.php:2599
+msgid "Text with Icon"
+msgstr "Текст и иконка"
+
+#: shortcodes/menu.php:2600
+msgid "Only Icon"
+msgstr "Только иконка"
+
+#: shortcodes/menu.php:2610
+msgid "Icon Position"
+msgstr "Расположение иконки"
+
+#: shortcodes/menu.php:2622
+msgid "Before Text"
+msgstr "Перед текстом"
+
+#: shortcodes/menu.php:2623
+msgid "After Text"
+msgstr "После текста"
+
+#: shortcodes/menu.php:2631
+msgid "Choose Icon"
+msgstr "Выберите иконку"
+
+#: shortcodes/menu.php:2646
+msgid "Icon font"
+msgstr "Иконочный шрифт"
+
+#: shortcodes/menu.php:2647
+msgid "Upload new icon"
+msgstr "Загрузить новую иконку"
+
+#: shortcodes/menu.php:2696
+msgid "Select"
+msgstr "Выбрать"
+
+#: shortcodes/menu.php:2697
+msgid "Delete"
+msgstr "Удалить"
+
+#: shortcodes/menu.php:2733
+msgid "Search by icon name"
+msgstr "Искать иконку по имени"
+
+#: shortcodes/menu.php:2746
+msgid "No font icons uploaded. Upload some font icons to display here."
+msgstr ""
+"Иконочные шрифы не загружены. Загрузите иконочные шрифты, чтобы отобразить "
+"их здесь."
+
+#: shortcodes/menu.php:2763
+msgid "Design"
+msgstr "Дизайн"
+
+#: shortcodes/menu.php:2773
+msgid "Desktop"
+msgstr "Настольный"
+
+#: shortcodes/menu.php:2774
+msgid "Responsive"
+msgstr "Мобильный"
+
+#: shortcodes/menu.php:2796 shortcodes/menu.php:2871
+msgid "Text Color on Hover"
+msgstr "Цвет текста (при наведении)"
+
+#: shortcodes/menu.php:2824 shortcodes/menu.php:2899
+msgid "Non Set"
+msgstr "Не установлено"
+
+#: shortcodes/menu.php:2935
+#, php-format
+msgid "Original: %s"
+msgstr "Оригинал: %s"
+
+#: shortcodes/menu.php:2948
+msgid "Remove"
+msgstr "Удалить"
+
+#: shortcodes/multititle.php:18
+msgid "Multiple Title"
+msgstr "Составной заголовок"
+
+#: shortcodes/multititle.php:19
+msgid ""
+"It displays a title with multiple sections with different tags and designs"
+msgstr ""
+"Отображает заголовок с несколькими разделами с разными тегами и рисунками"
+
+#: shortcodes/multititle.php:28
+msgid "Text Line 1"
+msgstr "Текстовая строка 1"
+
+#: shortcodes/multititle.php:31
+msgid "First line of the title"
+msgstr "Первая строка заголовка"
+
+#: shortcodes/multititle.php:35
+msgid "Type of the line 1"
+msgstr "Тип строки 1"
+
+#: shortcodes/multititle.php:52
+msgid "Text Line 2"
+msgstr "Текстовая строка 2"
+
+#: shortcodes/multititle.php:55
+msgid "Second line of the title"
+msgstr "Вторая строка заголовка"
+
+#: shortcodes/multititle.php:59
+msgid "Type of the line 2"
+msgstr "Тип строки 2"
+
+#: shortcodes/multititle.php:76
+msgid "Text Line 3"
+msgstr "Текстовая строка 3"
+
+#: shortcodes/multititle.php:79
+msgid "Third line of the title"
+msgstr "Третья строка заголовка"
+
+#: shortcodes/multititle.php:83
+msgid "Type of the line 3"
+msgstr "Тип строки 3"
+
+#: shortcodes/multititle.php:100
+msgid "Text Line 4"
+msgstr "Текстовая строка 4"
+
+#: shortcodes/multititle.php:103
+msgid "Fourth line of the title"
+msgstr "Четвертая строка заголовка"
+
+#: shortcodes/multititle.php:107
+msgid "Type of the line 4"
+msgstr "Тип строки 4"
+
+#: shortcodes/multititle.php:124
+msgid "Text Line 5"
+msgstr "Текстовая строка 5"
+
+#: shortcodes/multititle.php:127
+msgid "Fifth line of the title"
+msgstr "Пятая строка заголовка"
+
+#: shortcodes/multititle.php:131
+msgid "Type of the line 5"
+msgstr "Тип строки 5"
+
+#: shortcodes/page-title.php:18
+msgid "Dynamic Page Title"
+msgstr "Динамический заголовок страницы"
+
+#: shortcodes/page-title.php:19
+msgid "It displays a dynamic page title. Use it for headers"
+msgstr ""
+"Отображает динамический заголовок страницы. Используйте его для заголовков"
+
+#: shortcodes/post-grid.php:17
+msgid "Blog Post Grid"
+msgstr "Сетка записей блога"
+
+#: shortcodes/post-grid.php:18
+msgid ""
+"It displays posts by post type with unlimited design templates and colors"
+msgstr ""
+"Отображает статьи разных типов с неограниченными шаблонами дизайна и цветами"
+
+#: shortcodes/post-grid.php:27
+msgid "Grid Type"
+msgstr "Тип сетки"
+
+#: shortcodes/post-grid.php:30
+msgid "Grid"
+msgstr "Сетка"
+
+#: shortcodes/post-grid.php:31
+msgid "Masonry"
+msgstr "Масонри"
+
+#: shortcodes/post-grid.php:52
+msgid "Post Type"
+msgstr "Тип публикаций"
+
+#: shortcodes/post-grid.php:54
+msgid "Choose post type to display"
+msgstr "Выберите тип публ. для отображения"
+
+#: shortcodes/post-grid.php:58
+msgid "Ignore Sticky posts"
+msgstr "Игнорировать прикрепленные записи"
+
+#: shortcodes/post-grid.php:60 shortcodes/post-grid.php:178
+#: shortcodes/post-grid.php:185 shortcodes/post-grid.php:196
+#: shortcodes/post-grid.php:203 shortcodes/post-grid.php:210
+#: shortcodes/post-grid.php:217 shortcodes/post-grid.php:225
+#: shortcodes/post-grid.php:242
+msgid "yes"
+msgstr "да"
+
+#: shortcodes/post-grid.php:64
+msgid "Contain Tags"
+msgstr "Содержит теги"
+
+#: shortcodes/post-grid.php:66
+msgid "If you want so show only posts with specific tag or tags."
+msgstr "Если вы хотите показать публ. только с определенным тегом или тегами."
+
+#: shortcodes/post-grid.php:74
+msgid "Order Of Posts"
+msgstr "Порядок публикаций"
+
+#: shortcodes/post-grid.php:77
+msgid "Descending"
+msgstr "По убавынию"
+
+#: shortcodes/post-grid.php:78
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: shortcodes/post-grid.php:84
+msgid "Order By"
+msgstr "Порядок по"
+
+#: shortcodes/post-grid.php:87
+msgid "Date"
+msgstr "Дата"
+
+#: shortcodes/post-grid.php:88
+msgid "Comment Count"
+msgstr "Счетчик комментариев"
+
+#: shortcodes/post-grid.php:95
+msgid "Posts Per Page"
+msgstr "Публикаций на странице"
+
+#: shortcodes/post-grid.php:98
+msgid "Set -1 if want to show all posts on the page"
+msgstr "Установите -1, если хотите показать все публ. на странице"
+
+#: shortcodes/post-grid.php:102
+msgid "Posts On Row"
+msgstr "Публикаций в ряду"
+
+#: shortcodes/post-grid.php:105
+msgid "1 Item"
+msgstr "1 шт."
+
+#: shortcodes/post-grid.php:106
+msgid "2 Items"
+msgstr "2 шт."
+
+#: shortcodes/post-grid.php:107
+msgid "3 Items"
+msgstr "3 шт."
+
+#: shortcodes/post-grid.php:108
+msgid "4 Items"
+msgstr "4 шт."
+
+#: shortcodes/post-grid.php:109
+msgid "5 Items"
+msgstr "5 шт."
+
+#: shortcodes/post-grid.php:110
+msgid "6 Items"
+msgstr "6 шт."
+
+#: shortcodes/post-grid.php:111
+msgid "7 Items"
+msgstr "7 шт."
+
+#: shortcodes/post-grid.php:117
+msgid "Show Pagination"
+msgstr "Отображать пагинацию"
+
+#: shortcodes/post-grid.php:123
+msgid "Navigation Type"
+msgstr "Тип навигации"
+
+#: shortcodes/post-grid.php:126
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: shortcodes/post-grid.php:127
+msgid "Numbers"
+msgstr "Номера"
+
+#: shortcodes/post-grid.php:137
+msgid "Text For Prev Button"
+msgstr "Текст для кнопки \"Предыдущие\""
+
+#: shortcodes/post-grid.php:139
+msgid "Older Posts"
+msgstr "Предыдущие публикации"
+
+#: shortcodes/post-grid.php:147
+msgid "Text For Next Button"
+msgstr "Текст для кнопки \"Следующие\""
+
+#: shortcodes/post-grid.php:149
+msgid "Never Posts"
+msgstr "Новые публикации"
+
+#: shortcodes/post-grid.php:158
+msgid "Limit Words For Description"
+msgstr "Количество слов блока описания"
+
+#: shortcodes/post-grid.php:161
+msgid "Set 0 if you dont want to display description"
+msgstr "Установите 0, если вы не хотите выводить описание"
+
+#: shortcodes/post-grid.php:165
+msgid "Excerpt Type"
+msgstr "Тип описания"
+
+#: shortcodes/post-grid.php:168
+msgid "Page Content"
+msgstr "Содержимое страницы"
+
+#: shortcodes/post-grid.php:169
+msgid "Page Excerpt"
+msgstr "Выдержка страницы"
+
+#: shortcodes/post-grid.php:172
+msgid "Pick description type: from excerpt field of from editor field"
+msgstr "Выберите тип описания: из выдержки или из содержимого стр."
+
+#: shortcodes/post-grid.php:176
+msgid "Show Thumbnails"
+msgstr "Отображать изображение публикации"
+
+#: shortcodes/post-grid.php:179
+msgid "Display thumbnails of post in post items."
+msgstr "Отображать миниатюры публикации."
+
+#: shortcodes/post-grid.php:183
+msgid "Show Thumbnails Zoom"
+msgstr "Отображать увеличенные изображения публикаций"
+
+#: shortcodes/post-grid.php:186
+msgid "Display thumbnails zoom of post in post items."
+msgstr "Выводить уменьшенные изображения публ."
+
+#: shortcodes/post-grid.php:194
+msgid "Show Date"
+msgstr "Показать дату"
+
+#: shortcodes/post-grid.php:197
+msgid "Display date of post in post items."
+msgstr "Отображать дату публикации."
+
+#: shortcodes/post-grid.php:201
+msgid "Show Author"
+msgstr "Показать автора"
+
+#: shortcodes/post-grid.php:204
+msgid "Display author of post in post items."
+msgstr "Отображать автора публикации."
+
+#: shortcodes/post-grid.php:208
+msgid "Show Category"
+msgstr "Показать рубрики"
+
+#: shortcodes/post-grid.php:211
+msgid "Display category of post in post items."
+msgstr "Отображать рубрику публикации."
+
+#: shortcodes/post-grid.php:215
+msgid "Show Comment Count"
+msgstr "Показать счетчик комментариев"
+
+#: shortcodes/post-grid.php:218
+msgid "Display comments count of post in post items."
+msgstr "Отображать счетчик комментариев публ."
+
+#: shortcodes/post-grid.php:223
+msgid "Read More Link"
+msgstr "Ссылка \"Читать далее\""
+
+#: shortcodes/post-grid.php:226
+msgid "Display read more link in post items."
+msgstr "Отображать ссылку \"Подробнее\" публикации."
+
+#: shortcodes/post-grid.php:230
+msgid "Read More Link Text"
+msgstr "\"Подробнее\" - текст"
+
+#: shortcodes/post-grid.php:232
+msgid "Read More"
+msgstr "Подробнее"
+
+#: shortcodes/post-grid.php:240
+msgid "Show Filters"
+msgstr "Показывать фильтры"
+
+#: shortcodes/post-grid.php:243
+msgid "Display filters by tags or categories."
+msgstr "Отображать фильтры по тегам или рубрикам."
+
+#: shortcodes/post-grid.php:247
+msgid "Filter By"
+msgstr "Фильтровать по"
+
+#: shortcodes/post-grid.php:250
+msgid "Categories"
+msgstr "Рубрики"
+
+#: shortcodes/post-grid.php:251
+msgid "Tags"
+msgstr "Теги"
+
+#: shortcodes/post-grid.php:261
+msgid "Word For All Items link"
+msgstr "Текст для ссылки \"Все публикации\""
+
+#: shortcodes/post-grid.php:263
+msgid "All"
+msgstr "Все"
+
+#: shortcodes/powerful-image.php:19
+msgid "Powerful Image"
+msgstr "Мощное изображение"
+
+#: shortcodes/powerful-image.php:45
+#, fuzzy
+#| msgid "Open on lightbox"
+msgid "Open image on lightbox"
+msgstr "Открыть во всплывающем окне"
+
+#: shortcodes/powerful-image.php:46
+msgid "Open gallery"
+msgstr "Открыть галерею"
+
+#: shortcodes/powerful-image.php:47
+msgid "Open video"
+msgstr "Открыть видео"
+
+#: shortcodes/powerful-image.php:53
+msgid "Images for gallery"
+msgstr "Картинки для галереи"
+
+#: shortcodes/powerful-image.php:55
+msgid "Choose images for gallery."
+msgstr "Выберите картинки для галереи"
+
+#: shortcodes/powerful-image.php:63
+msgid "Video link"
+msgstr "Ссылка на видео"
+
+#: shortcodes/powerful-image.php:65
+msgid "Enter link for the video."
+msgstr "Введите ссылку для видео"
+
+#: shortcodes/powerful-image.php:269
+msgid "No image upload"
+msgstr "Изображения не загружены"
+
+#: shortcodes/rev-slider.php:23
+msgid ""
+"The Theme Support Slider Revolution, but couldn't find it. Install the "
+"plugin to choose the slider to display."
+msgstr ""
+"Тема поддерживает Slider Revolution, но не смогла найти его. Установите "
+"плагин, чтобы выбрать слайдер для отображения."
+
+#: shortcodes/rev-slider.php:38
+msgid "Slider Revolution"
+msgstr "Slider Revolution"
+
+#: shortcodes/rev-slider.php:39
+msgid "It displays slider from Revolution Slider plugin"
+msgstr "Отображает слайдер из плагина Revolution Slider"
+
+#: shortcodes/search.php:17 shortcodes/search.php:31
+msgid "Search Form"
+msgstr "Форма поиска"
+
+#: shortcodes/search.php:18
+msgid "It displays search form in any place"
+msgstr "Отображает форму поиска в любом месте"
+
+#: shortcodes/search.php:28
+msgid "Label Text"
+msgstr "Текст подписи"
+
+#: shortcodes/search.php:35
+msgid "Placeholder Text"
+msgstr "Текст для заполнения"
+
+#: shortcodes/search.php:38
+msgid "Enter Query"
+msgstr "Введите запрос"
+
+#: shortcodes/search.php:42
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: shortcodes/sidebar.php:19
+msgid "You can create sidebars in Appearance -> Widgets"
+msgstr "Вы можете создавать сайдбары в Appearance -> Widgets"
+
+#: shortcodes/sidebar.php:33 shortcodes/sidebar.php:43
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: shortcodes/sidebar.php:34 shortcodes/tables.php:10
+msgid "It displays sidebar with widgets in any place"
+msgstr "Отображает сайдбар с виджетами в любом месте"
+
+#: shortcodes/sidebar.php:47
+msgid "Pick sidebar to display"
+msgstr "Выберите сайдбар для отображения"
+
+#: shortcodes/tables.php:9 shortcodes/tables.php:23 shortcodes/tables.php:26
+msgid "Table"
+msgstr "Таблица"
+
+#: shortcodes/tables.php:33
+msgid "Show search"
+msgstr "Показать поиск"
+
+#: shortcodes/tables.php:36
+msgid "Use search above the table"
+msgstr "Использовать поиск над таблицей"
+
+#: shortcodes/tables.php:42
+msgid "Search in table"
+msgstr "Искать в таблице"
+
+#: shortcodes/tables.php:43
+msgid "Search in table default text"
+msgstr "Искать в тексте таблицы по умолчанию"
+
+#: shortcodes/wpml_selector.php:18
+msgid "WPML Language Selector"
+msgstr "Выбор языка WPML"
+
+#: shortcodes/wpml_selector.php:19
+msgid "It displays Language Selector for WPML plugin"
+msgstr "Отображает выбор языка для WPML-плагина"
+
+#~ msgid "Set the image size : thumbnail, medium, large or full."
+#~ msgstr "Задайте размер изображения: thumbnail, medium, large or full."
+
+#~ msgid "Main Background"
+#~ msgstr "Осн. Фон"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Description Box"
+#~ msgstr "Описание"
+
+#~ msgid "Benefits Title"
+#~ msgstr "Заголовок прем-ва"
+
+#~ msgid "Benefits Box"
+#~ msgstr "Блок прем-ва"
+
+#~ msgid "Benefits 1 Bgr"
+#~ msgstr "Фон 1 Прем-ва"
+
+#~ msgid "Benefits 2 Bgr"
+#~ msgstr "Фон 2 Прем-ва"
+
+#~ msgid "Benefits 3 Bgr"
+#~ msgstr "Фон 3 Прем-ва"
+
+#~ msgid "Benefits 4 Bgr"
+#~ msgstr "Фон 4 Прем-ва"
+
+#~ msgid "Benefits 5 Bgr"
+#~ msgstr "Фон 5 Прем-ва"
+
+#~ msgid "Box"
+#~ msgstr "Блок"
+
+#~ msgid ""
+#~ "The Theme Support Slider Revolution, but couldn't find it. Install one of "
+#~ "the plug-ins to choose the slider to display in the header."
+#~ msgstr ""
+#~ "Тема поддерживает Slider Revolution, но не смогла найти их. Установите "
+#~ "один из плагинов, чтобы выбрать слайдер для отображения в шапке."
+
+#~ msgid "0"
+#~ msgstr "0"

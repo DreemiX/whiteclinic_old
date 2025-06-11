@@ -1,0 +1,111 @@
+.single .slayout2 .meta div div a  {
+    padding-bottom: 0;display:block;
+}
+.slayout2 .widget_recent_comments ul li {background-color: transparent}
+body .slayout2 .rblock .thumb > div, .slayout2 article .entry-thumbnail .over {top:0; position: absolute;width: 100%;height: 100%;transform: scale(1); background-color: transparent; display: flex;align-items: center;justify-content: center; }
+.slayout2 .scat {margin: 0 0 0 0;padding: 0 0 10px 0;}
+.slayout2 .rblock .thumb:hover > div { background-color: rgba(0,0,0,0.3)}
+.slayout2 article .entry-thumbnail .over div, .slayout2 .rblock > .thumb .over div {width: 68px; height: 68px; display: inline-block;  border:4px solid #fff; border-radius: 50px; padding: 20px; box-shadow: 0 0 15px 0px rgba(0,0,0,0.5); transition: all 400ms ease-out}
+.slayout2 .rblock > .thumb:hover .over div {background-color: #d3d3d3}
+.slayout2 article .entry-thumbnail .over img, .slayout2 .rblock > .thumb .over img {position: relative;width: 20px;height: 20px;border: 0;line-height: 20px;padding: 0;display: inline-block;top: auto;left: auto;border-radius: 0}
+.slayout2 .rblock > .thumb a {display: block; position: absolute; z-index: 3; width: 100%; height: 100%}
+.single .slayout2  .blogsidebarspage .nav-links .nav-next {padding-top: 0;}
+.slayout2 .meta {display: table; width: 100%; margin: 0 0 25px 0; padding: 0 15%; }
+.slayout2 .meta div {display: table-cell;width: 33.3%;padding-bottom: 10px; text-align: left}
+.slayout2 .meta div ul {margin: 0; padding: 0; display: inline}
+.slayout2 .meta div label {font-weight: bold;text-transform: uppercase;font-size: 14px;}
+.slayout2 .blogsidebarspage .meta div label {display: none;}
+.slayout2 .meta div label:after {content: ': '}
+.slayout2 .meta div span,.single .slayout2 .meta div span a, .single .slayout2 .meta div div a {padding: 0;font-size: 14px;text-decoration: none; text-transform: none;}
+.single .slayout2 .meta div span a {color:inherit}
+
+.slayout2 .meta div span a{text-decoration: none}
+.slayout2 .meta div:before {    content: '';display: inline-block;width: 24px;height: 24px;margin: 0 10px -6px 0;background-size: cover;background-repeat: no-repeat;}
+.slayout2 .meta div.date:before {}
+.slayout2 .meta div.author:before {}
+.slayout2 .meta div.cat:before {}
+.single .slayout2 .entry-content > p:first-child:first-letter {font-size:80px; color: #232323; float:left;line-height:0.8;margin-right:25px;margin-top:5px}
+.single .slayout2 .entry-content > p:first-child:after {content: '';display: block;width: 100%;clear: both;}
+.single .slayout2 .entry-content > p:after {content: '';display: block;width: 100%;}
+.slayout2 blockquote {margin: 2em 0;padding: 0 50px 0 100px;font-size: 24px;line-height: 1.5em;border-left: 2px solid #333;color: #000;font-weight: 500;}
+.slayout2 blockquote p {font-style: normal}
+.slayout2 blockquote cite {
+
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.slayout2 blockquote:before {
+
+    height: 40px;
+    min-height: 40px;
+    margin-left: -50px;
+}
+.single .slayout2 .tags-links {width: 60%; float: right; clear: none; text-align: right; margin-bottom: 25px}
+.single .slayout2 .tags-links b {display: none}
+.single .slayout2 .tags-links a:before, .slayout2 .tagcloud a:before {content: none}
+.single .slayout2 .tags-links a {margin: 0 0 15px 10px;text-transform: capitalize;}
+.slayout2 .author_info {padding: 40px 0;border-width: 1px 0 0 0; margin: 0 15% 0 15%;}
+.slayout2 .author_info .author_title{font-size: 20px}
+.slayout2 .author_info .author_bio{font-size: 16px; }
+.slayout2 .author_info .author_avatar img {width: 80px;border-radius: 80px;}
+.slayout2 .author_info .author_link  {display: none}
+.slayout2 .author_info .author_description {width: calc(100% - 110px);}
+.slayout2 #comments {margin: 0 15%; padding-bottom: 40px; border-bottom: 0;}
+.slayout2 .comment-metadata > span.fn {font-size: 15px;line-height: 19px;}
+.slayout2 .comment-metadata a {font-size: 12px;text-transform: uppercase;letter-spacing: 0.8px;text-decoration: none}
+.slayout2 .comment-list li > div {border: 0; padding: 25px 0;}
+.slayout2 .comment-list li .reply {}
+.slayout2 .comment-list li .reply a {text-transform: capitalize;font-size: 12px;padding: 5px 12px;border: 1px solid #ddd;}
+.slayout2 .comment-list li .reply a:hover {color:#fff; text-decoration: none}
+.slayout2 .comment-metadata > span {margin-bottom: 2px}
+.slayout2 .comment-author img, .slayout2 .post-author img {border-radius: 150px}
+.slayout2 .comment-list > li > ol, .slayout2 .comment-list li ol {padding: 0 0 10px 100px;}
+.slayout2 #respond {}
+.slayout2 p.form-submit, .slayout2 #commentform p.logged-in-as, .slayout2 #reply-title {text-align: left;}
+.slayout2 #respond input.submit {margin: 0;}
+.slayout2 .blogsidebarpage .author_info,
+.single .slayout2 .blogsidebarpage .nav-links,
+.blogsidebarpage .related.layout2 ,
+.slayout2 .blogsidebarpage #comments,
+.slayout2 .blogsidebarpage #respond,
+.slayout2 .blogsidebarpage .meta,
+.slayout2 .blogsidebarspage .author_info,
+.single .slayout2 .blogsidebarspage .nav-links,
+.blogsidebarspage .related.layout2 ,
+.slayout2 .blogsidebarspage #comments,
+.slayout2 .blogsidebarspage #respond,
+.slayout2 .blogsidebarspage .meta{width: 100%; margin-right: 0; margin-left: 0}
+.slayout2 .blogsidebarpage .meta, .slayout2 .blogsidebarspage .meta {padding: 0}
+.blogsidebarspage span.sharing, .single .slayout2 .blogsidebarspage .tags-links {width: 100%; float: none; text-align: left; }
+.single .slayout2 .blogsidebarspage .tags-links a {margin: 0 10px 15px 0;}
+.blogsidebarspage .nav-previous, .blogsidebarspage .nav-next {display: block;width: 100%;}
+.slayout2 .blogsidebarspage .comment-list > li > ol, .slayout2 .blogsidebarspage .comment-list li ol {padding: 0 0 10px 0;}
+.slayout2 .post-categories {padding: 0;margin: 0;}
+.slayout2 .blogsidebarspage .related .rblock:last-child {display: block}
+
+@media screen and (max-width: 999px) {
+    .slayout2 .author_info, .single .slayout2 .nav-links, .related.layout2, .slayout2 #comments, .slayout2 #respond, .slayout2 .meta {
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+    .slayout2 .meta {padding: 0}
+}
+@media screen and (max-width: 768px) {
+    .single .slayout2 .nav-links .nav-next {padding-top: 0;}
+}
+@media screen and (max-width: 600px) {
+    .slayout2 .author_info .author_description {padding-top: 0}
+    .single .slayout2 .tags-links {width: 100%; float: none; text-align: left;
+        display: block;}
+    .single .slayout2 .tags-links a {margin: 0 10px 15px 0;}
+    .slayout2 .comment-list > li > ol, .slayout2 .comment-list li ol {
+        padding: 0 0 10px 0;
+    }
+    .slayout2 .meta div {
+        display: block;
+        width: 100%;}
+    .slayout2 blockquote {padding: 0 0 0 64px;}
+
+}

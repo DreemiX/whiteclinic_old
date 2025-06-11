@@ -1,0 +1,101 @@
+/* Blog archive 5 */
+body [class*="layout5"] article {display: block; margin-bottom: 30px}
+body [class*="layout5"] article .postc > div, body [class*="layout5"] article .postc {display: block}
+body [class*="layout5"] article div.thumb {width: 100%;max-width: 100%;float: none;max-height:unset; border-radius: 10px 10px 0 0; margin-bottom: 0 !important}
+body [class*="layout5"] article div.thumb .thhov {transform: scale(1);background-color: transparent;}
+body [class*="layout5"] article.has-post-thumbnail .c_block {
+    border-radius: 0 0 10px 10px;border: 0;padding: 40px 0;}
+body [class*="layout5"] .post-categories {margin: 0; padding: 0;display: inline-block;}
+body [class*="layout5"] .post-categories li a {}
+body [class*="layout5"] .post-categories li a:after {content: ','}
+body [class*="layout5"] .post-categories li:nth-child(2) a:after, body [class*="layout5"] .post-categories li:last-child a:after {content: ''}
+body [class*="layout5"] .thhov a {width: 100%;height: 100%;display: block;}
+body [class*="layout5"] .thhov span {display: inline-block;
+    font-size: 20px;font-weight: bold;
+    cursor: pointer;
+    opacity: 0;
+    margin: -1.65em 0 0 -1.65em;
+    position: absolute;
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    width: 3.3em;
+    height: 3.3em;
+    line-height: 3.3em;
+    text-align: center;
+    transform: scale(0.5,0.5);
+    transition: all 0.3s ease,transform 0.3s ease-out;
+    border-radius: 50%;
+    background-color: #ffffff;
+}
+body [class*="layout5"] .thhov:hover span {opacity: 1;transform: scale(1,1);}
+body [class*="layout5"] .thumb img {transition: all 0.3s ease,transform 0.3s ease-out;}
+body [class*="layout5"] .thumb:hover img {transform: scale(1.1);}
+body [class*="layout5"] article .entry-meta {margin-bottom: 10px}
+body [class*="layout5"] article .entry-meta > span, body [class*="layout5"] article .entry-meta > div {border-right: 0;padding-right: 0}
+[class*="layout5"] article .entry-meta > span:after, [class*="layout5"] article .more:after, .slayout5 .related .rmore:after {
+    content: '';
+    display: inline-block;
+    width: 30px;
+    height: 5px;
+    margin: 6px 0 0 17px;
+    float: right;transition: all 200ms ease-in;}
+[class*="layout5"] article .entry-meta > span:hover:after, [class*="layout5"] article .more:hover:after, .slayout5 .related .rmore:hover:after {width: 50px}
+[class*="layout5"] article .entry-meta > span:last-child:after, [class*="layout5"] article .entry-meta > span:last-child:after{content: none;}
+[class*="layout5"] article .entry-meta .author i {background-image: none}
+[class*="layout5"] article .entry-meta .date i {background-image: none}
+[class*="layout5"] article .entry-meta .cat i {background-image: none}
+[class*="layout5"] article .entry-meta .comments-link i {background-image: none}
+[class*="layout5"] article .entry-meta i {display: none}
+[class*="layout5"] article .entry-meta a {text-decoration: none;display: inline-block;}
+
+[class*="layout5"] article .more, .slayout5 .related .rmore {border: 0;line-height: 17px;padding: 0;}
+[class*="layout5"] article .more:hover, .slayout5 .related .rmore:hover {background-color: transparent;}
+[class*="layout5"] .thumb span.data, [class*="layout5"] .entry-thumbnail span.data {position: absolute; left:0;padding: 10px 20px;color: #fff;z-index: 2;font-size: 30px; line-height: 1;text-align: center; }
+body [class*="layout5"] .thumb span.data span, body [class*="layout5"] .entry-thumbnail span.data span {display:block;font-size: 15px;text-transform: uppercase}
+/* format quote */
+body [class*="layout5"] article.format-quote {margin-bottom: 80px}
+body [class*="layout5"] article.format-quote .c_block {    padding: 40px;}
+body .alayout5 article.format-quote .entry-meta, body .alayout5 article.format-quote .entry-meta a, .alayout5 .format-quote h3.entry-title a, body .alayout5 article.format-quote .more, .alayout5 article.format-quote blockquote p, .alayout5 article.format-quote blockquote cite {color:#fff !important; }
+[class*="layout5"] .format-quote blockquote {padding: 0;border: 0;}
+[class*="layout5"] .format-quote blockquote:before { background-size: contain;background-repeat: no-repeat; margin-bottom: 20px;}
+[class*="layout5"] .format-quote .entry-content a {text-decoration: none}
+body .alayout5 article.format-quote .entry-meta > span:after, body .alayout5 article.format-quote .more:after {background-color: #fff}
+body [class*="layout5"] .format-quote .c_block .entry-content p:first-child {margin-bottom: 0}
+/* format audio */
+[class*="layout5"] .format-audio .mask, [class*="layout5"] .format-audio .post_audio {transform: scale(1)}
+[class*="layout5"] .format-audio audio {width: 100%; outline: none;}
+/*Columns */
+[class*="layout5"].column2 .post.format-quote, [class*="layout5"].column3 .post.format-quote {margin-bottom: 80px}
+[class*="layout5"].column2 article {margin: 0 60px 10px 0;}
+[class*="layout5"].column2 article:nth-of-type(2n) {margin-right: 0;}
+[class*="layout5"].column3 article {margin: 0 40px 10px 0;width: calc(33.3% - 27px);}
+[class*="layout5"].column3 article:nth-of-type(3n) {margin-right: 0;}
+body [class*="layout5"] article .c_block {padding: 40px}
+body [class*="layout5"] article:not(.has-post-thumbnail) .c_block {padding-top:0;}
+
+body [class*="layout5"] article .sharing label {display: none}
+body [class*="layout5"] article .sharing a {    width: 36px;height: 36px;}
+body [class*="layout5"] article .sharing svg {width: 25px;height: 25px; margin: 5px 0 -7px 5px;padding: 5px;}
+body [class*="layout5"] article .thumb {overflow: visible}
+body [class*="layout5"] article .author img {display: none}
+.alayout5 article .sharing a:hover {background-color: #fff;}
+.alayout5 article .sharing a:hover svg {margin-bottom: -3px;}
+.alayout5 article span.sharing {margin:  0; position: absolute; right: 0; bottom: -3px;    width: auto; padding: 10px 0 0 0;}
+body [class*="layout5"] article .entry-content {position: relative}
+
+@media screen and (max-width: 1024px) {
+    body [class*="layout5"].column2 article span.sharing, body [class*="layout5"].column3 article span.sharing {position: relative;display: block;margin-left: -7px;width: 100%;}
+}
+@media screen and (max-width: 999px) {
+    body [class*="layout5"].column3 article, body [class*="layout5"].column2 article {margin: 0 0 10px 0;width: 100%;}
+}
+@media screen and (max-width: 768px) {
+    [class*="layout5"] article:not(.has-post-thumbnail) .c_block {border-radius:10px;}
+}
+@media screen and (max-width: 600px) {
+    [class*="layout5"] .more {width: auto}
+}
+@media screen and (max-width: 400px) {
+    body [class*="layout5"] article span.sharing {position: relative;display: block;margin-left: -7px;}
+}

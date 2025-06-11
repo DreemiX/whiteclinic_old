@@ -1,0 +1,32 @@
+.single .slayout6 .entry-content > p:first-child:first-letter {font-size:72px;  float:left;line-height:0.8;margin:10px 25px 0 0; padding: 0 }
+.single .slayout6 .entry-content > p:first-child:after {content: '';display: block;width: 100%;clear: both;}
+.single .slayout6 .entry-thumbnail .scat, .single .slayout6 .rblock .scat {position: absolute; top:0; left: 0}
+.single .slayout6 .entry-thumbnail .data,  .single .slayout6 .rblock .thumb .data {position: absolute; top:0; right: 0}
+.single .slayout6 .entry-thumbnail .scat, .single .slayout6 .entry-thumbnail .data, .single .slayout6 .rblock .thumb .data { padding: 3px 6px; color:#fff;}
+.single .slayout6 .entry-thumbnail .scat a {color:#fff; text-decoration: none}
+.single .slayout6 .entry-content  {padding-left: 0; padding-right: 0}
+.single .slayout6 .nav-links {margin-left: 0; margin-right: 0;    display: table;width: 100%;}
+.single .slayout6 a.author_link i {}
+.single .slayout6 .tags-links {margin: 35px 0 15px}
+.single .slayout6 .author_info {margin: 0 0 50px 0}
+.slayout6 .nav-previous > span > a, .slayout6 .nav-next > span > a {position: absolute;top: calc(50% - 32px);margin: 0;}
+.slayout6 .nav-previous > span > a{left: 0}
+.slayout6 .nav-next > span > a {right: 0}
+.single .slayout6 .nav-links .nav-previous {padding-left: 100px}
+.single .slayout6 .nav-links .nav-next {padding-right: 100px}
+.single .slayout6 .entry-thumbnail {margin-bottom: 45px;}
+.single .slayout6 .author_info .entry-meta svg {height: 18px}
+.single .slayout6 .author_info .author_link {padding-top: 15px}
+.single .slayout6 .author_info .author_links a::after {width: 0}
+.slayout6 .related .rblock {width: calc(50% - 30px);margin-right: 60px;}
+.slayout6 .related .rblock:last-child {margin-right: 0;}
+.slayout6 .related .rblock .entry-meta {margin: 0 0 0 0;}
+.slayout6 .related .rblock .wr {border:0}
+.slayout6 .related .rblock .entry-meta .date {width: auto}
+.slayout6 .related .rblock h5 {margin: 10px 0 15px 0;}
+body .slayout6 article.post .rblock .thumb {margin-bottom: 30px}
+.slayout6 .rblock .wr .descr {padding: 0}
+body .slayout6 .wp-block-image {margin: 0;}
+
+
+
